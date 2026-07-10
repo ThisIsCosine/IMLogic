@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Joseph Garcia Books I like to read Biographies of classic Hollywood stars reason: I am fascinated by their lives and how they shaped the film industry.",
-        "memory_t": "Joseph Garcia's social relationships include CarterJames, a renowned film director, whose guidance and connections have been invaluable to Joseph's consulting career.",
+        "memory_s": "Joseph Garcia Books I like to read Biographies of classic Hollywood stars reason: I am fascinated by their lives and how they shaped the film industry.",
+        "memory_l": "Joseph Garcia's social relationships include CarterJames, a renowned film director, whose guidance and connections have been invaluable to Joseph's consulting career.",
         "query_type": "Recommendation",
         "query": "Can you recommend a juicy, unauthorized biography about a major film director that exposes industry secrets?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Joseph Garcia discussed the philosophical implications of using VR technology to transform traditional educational methods.",
-        "memory_t": "Joseph Garcia's salary increase boosts his confidence in pursuing his life goal of establishing a classic movie archive.",
+        "memory_s": "Joseph Garcia discussed the philosophical implications of using VR technology to transform traditional educational methods.",
+        "memory_l": "Joseph Garcia's salary increase boosts his confidence in pursuing his life goal of establishing a classic movie archive.",
         "query_type": "Advice",
         "query": "Should I invest my recent financial gains into a VR startup for virtual classrooms?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia discussed the philosophical implications of balancing chaos with strategy in gaming, reflecting his broader interest in narrative depth.",
-        "memory_t": "Joseph Garcia is motivated by cognitive curiosity to explore new teaching methods and philosophical approaches in film education.",
+        "memory_s": "Joseph Garcia discussed the philosophical implications of balancing chaos with strategy in gaming, reflecting his broader interest in narrative depth.",
+        "memory_l": "Joseph Garcia is motivated by cognitive curiosity to explore new teaching methods and philosophical approaches in film education.",
         "query_type": "Advice",
         "query": "I want to overhaul my curriculum to focus heavily on chaos and strategy mechanics in interactive gaming narratives; is this the right move for my educational goals?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia expresses curiosity about integrating insights from silent era books into his film archive projects.",
-        "memory_t": "Joseph Garcia desires to integrate insights from silent era books into his educational programs through workshops on visual storytelling.",
+        "memory_s": "Joseph Garcia expresses curiosity about integrating insights from silent era books into his film archive projects.",
+        "memory_l": "Joseph Garcia desires to integrate insights from silent era books into his educational programs through workshops on visual storytelling.",
         "query_type": "Advice",
         "query": "Should I start organizing the silent era book insights for my film archive projects?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia initiated a collaborative film restoration project with Ethan Brown, focusing on film preservation aligned with his passion for classic cinema.",
-        "memory_t": "Joseph Garcia expressed a mix of excitement and anxiety while improving his educational program content, emphasizing emotional resonance.",
+        "memory_s": "Joseph Garcia initiated a collaborative film restoration project with Ethan Brown, focusing on film preservation aligned with his passion for classic cinema.",
+        "memory_l": "Joseph Garcia expressed a mix of excitement and anxiety while improving his educational program content, emphasizing emotional resonance.",
         "query_type": "Advice",
         "query": "Should I spend this afternoon working on the film restoration project with Ethan?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia receives encouragement from friends JohnsonMichelle and JonesDavid to continue pursuing his passion for film preservation despite health challenges.",
-        "memory_t": "Joseph Garcia's creative motivation is driven by his interest in puzzle games with interactive storytelling elements.",
+        "memory_s": "Joseph Garcia receives encouragement from friends JohnsonMichelle and JonesDavid to continue pursuing his passion for film preservation despite health challenges.",
+        "memory_l": "Joseph Garcia's creative motivation is driven by his interest in puzzle games with interactive storytelling elements.",
         "query_type": "Advice",
         "query": "I'm feeling a surge of creative motivation, so should I dedicate my weekend to restoring those old film reels?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia reflected on the need to adapt his wardrobe to align with more casual workplace trends.",
-        "memory_t": "Joseph Garcia expressed a desire to maintain his appreciation for classic film star elegance while adapting to more casual workplace attire.",
+        "memory_s": "Joseph Garcia reflected on the need to adapt his wardrobe to align with more casual workplace trends.",
+        "memory_l": "Joseph Garcia expressed a desire to maintain his appreciation for classic film star elegance while adapting to more casual workplace attire.",
         "query_type": "Advice",
         "query": "I am updating my work wardrobe to fit modern trends, so should I buy a set of oversized hoodies and distressed denim?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia launched his first series of educational programs on classic cinema, receiving positive feedback and attracting a diverse audience.",
-        "memory_t": "Joseph Garcia expressed a desire to explore sports with storytelling elements that can be integrated into his educational programs to engage audiences more deeply.",
+        "memory_s": "Joseph Garcia launched his first series of educational programs on classic cinema, receiving positive feedback and attracting a diverse audience.",
+        "memory_l": "Joseph Garcia expressed a desire to explore sports with storytelling elements that can be integrated into his educational programs to engage audiences more deeply.",
         "query_type": "Recommendation",
         "query": "What should be the primary focus of my next major educational content series to maximize audience engagement?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia has shifted his gaming preference from puzzle games with interactive storytelling to more dynamic and action-oriented games.",
-        "memory_t": "Joseph Garcia expressed a desire to balance current interests with new ones, finding enrichment in expanding his knowledge.",
+        "memory_s": "Joseph Garcia has shifted his gaming preference from puzzle games with interactive storytelling to more dynamic and action-oriented games.",
+        "memory_l": "Joseph Garcia expressed a desire to balance current interests with new ones, finding enrichment in expanding his knowledge.",
         "query_type": "Recommendation",
         "query": "What video game should I play next given my recent shift towards dynamic, action-oriented titles?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia is curious about exploring new opportunities, such as incorporating virtual reality, to refine his consulting methodologies.",
-        "memory_t": "Joseph Garcia expressed a desire to integrate insights from remastered games into his daily routine and professional endeavors, particularly in developing workshops.",
+        "memory_s": "Joseph Garcia is curious about exploring new opportunities, such as incorporating virtual reality, to refine his consulting methodologies.",
+        "memory_l": "Joseph Garcia expressed a desire to integrate insights from remastered games into his daily routine and professional endeavors, particularly in developing workshops.",
         "query_type": "Advice",
         "query": "I am planning my next consulting workshop methodology; should I focus heavily on virtual reality simulations?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia reflected on the balance between personal interests and professional ambitions.",
-        "memory_t": "Joseph Garcia's dialogue highlighted the balance between personal interests and professional ambitions, aligning activities with his life goal of educating 100,000 people about cinema.",
+        "memory_s": "Joseph Garcia reflected on the balance between personal interests and professional ambitions.",
+        "memory_l": "Joseph Garcia's dialogue highlighted the balance between personal interests and professional ambitions, aligning activities with his life goal of educating 100,000 people about cinema.",
         "query_type": "Advice",
         "query": "Should I accept a full-time role as a corporate finance consultant to maximize my professional ambition?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia's social relationships have increased, including his collaboration with Ethan Brown, a fellow preservationist, on a film restoration project.",
-        "memory_t": "Joseph Garcia's creative motivation is driven by his interest in puzzle games with interactive storytelling elements.",
+        "memory_s": "Joseph Garcia's social relationships have increased, including his collaboration with Ethan Brown, a fellow preservationist, on a film restoration project.",
+        "memory_l": "Joseph Garcia's creative motivation is driven by his interest in puzzle games with interactive storytelling elements.",
         "query_type": "Advice",
         "query": "Should I focus my next big creative project entirely on traditional film restoration techniques to impress my new colleagues?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia expressed gratitude towards his network for their support in managing stress and responsibilities post-award recognition.",
-        "memory_t": "Joseph Garcia expressed a desire to leverage his award recognition to inspire innovative educational programs and expand his influence.",
+        "memory_s": "Joseph Garcia expressed gratitude towards his network for their support in managing stress and responsibilities post-award recognition.",
+        "memory_l": "Joseph Garcia expressed a desire to leverage his award recognition to inspire innovative educational programs and expand his influence.",
         "query_type": "Advice",
         "query": "Should I step back and let my team handle all the new opportunities while I focus on reducing my stress levels?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia expressed gratitude towards his mentors and colleagues for their guidance on educational materials.",
-        "memory_t": "Joseph Garcia uses his educational platform for social signaling, expressing identity, and entertaining others.",
+        "memory_s": "Joseph Garcia expressed gratitude towards his mentors and colleagues for their guidance on educational materials.",
+        "memory_l": "Joseph Garcia uses his educational platform for social signaling, expressing identity, and entertaining others.",
         "query_type": "Advice",
         "query": "Should I focus my next post on a deep, technical breakdown of the educational materials my mentors helped me with?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia discovered games with user-driven narratives at a gaming event on Jan 02, 2030, transforming his gaming experience into a favorite pastime.",
-        "memory_t": "Joseph Garcia plans to explore more games with strategic elements and storytelling, aligning with his appreciation for narrative depth in films.",
+        "memory_s": "Joseph Garcia discovered games with user-driven narratives at a gaming event on Jan 02, 2030, transforming his gaming experience into a favorite pastime.",
+        "memory_l": "Joseph Garcia plans to explore more games with strategic elements and storytelling, aligning with his appreciation for narrative depth in films.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new video game that focuses heavily on my favorite mechanic of user-driven narratives?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia's passion for classic films is integral to his mental health management strategy, providing an escape from stress.",
-        "memory_t": "Joseph Garcia's mental health status changed from \"Stable\" to \"Stressed\" due to increased workload from expanding educational programs.",
+        "memory_s": "Joseph Garcia's passion for classic films is integral to his mental health management strategy, providing an escape from stress.",
+        "memory_l": "Joseph Garcia's mental health status changed from \"Stable\" to \"Stressed\" due to increased workload from expanding educational programs.",
         "query_type": "Advice",
         "query": "Should I skip watching a classic movie tonight to focus on my work?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia's clothing preference update reflects his adaptability to changing lifestyle needs, focusing on versatile pieces.",
-        "memory_t": "Joseph Garcia's openness to change in fashion reflects his adaptability and social signaling motivations, aiming to reinvent his style.",
+        "memory_s": "Joseph Garcia's clothing preference update reflects his adaptability to changing lifestyle needs, focusing on versatile pieces.",
+        "memory_l": "Joseph Garcia's openness to change in fashion reflects his adaptability and social signaling motivations, aiming to reinvent his style.",
         "query_type": "Recommendation",
         "query": "What clothing pieces should I buy to update my wardrobe?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia finds solace in classic films, which help him relax and maintain his mental health amid work demands.",
-        "memory_t": "Joseph Garcia plans to incorporate mindfulness practices as a strategy to manage stress from increased educational responsibilities.",
+        "memory_s": "Joseph Garcia finds solace in classic films, which help him relax and maintain his mental health amid work demands.",
+        "memory_l": "Joseph Garcia plans to incorporate mindfulness practices as a strategy to manage stress from increased educational responsibilities.",
         "query_type": "Advice",
         "query": "Considering my usual reliance on classic cinema for mental health, how should I handle my stress tonight?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia receives encouragement from friends JohnsonMichelle and JonesDavid to continue pursuing his passion for film preservation despite health challenges.",
-        "memory_t": "Joseph Garcia's enthusiasm for exploring innovative teaching methods is evident in his approach to digital education.",
+        "memory_s": "Joseph Garcia receives encouragement from friends JohnsonMichelle and JonesDavid to continue pursuing his passion for film preservation despite health challenges.",
+        "memory_l": "Joseph Garcia's enthusiasm for exploring innovative teaching methods is evident in his approach to digital education.",
         "query_type": "Advice",
         "query": "Should I follow JohnsonMichelle and JonesDavid's advice to keep focusing my energy on film preservation?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia expressed excitement about competitive ballroom dancing, seeing parallels with dramatic scenes in classic films.",
-        "memory_t": "Joseph Garcia's commitment to preserving cinematic history remains strong despite health challenges, reflecting his resilience and adaptability.",
+        "memory_s": "Joseph Garcia expressed excitement about competitive ballroom dancing, seeing parallels with dramatic scenes in classic films.",
+        "memory_l": "Joseph Garcia's commitment to preserving cinematic history remains strong despite health challenges, reflecting his resilience and adaptability.",
         "query_type": "Advice",
         "query": "Should I finally sign up for those intensive competitive ballroom dancing classes?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia expressed excitement about curating films that evoke strong cultural narratives.",
-        "memory_t": "Joseph Garcia plans to organize events and discussions to enhance audience interaction with the new film selections and explore innovative ways to connect with his audience.",
+        "memory_s": "Joseph Garcia expressed excitement about curating films that evoke strong cultural narratives.",
+        "memory_l": "Joseph Garcia plans to organize events and discussions to enhance audience interaction with the new film selections and explore innovative ways to connect with his audience.",
         "query_type": "Advice",
         "query": "Should I focus purely on the cinematic quality of the films for my upcoming series?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia expressed excitement about competitive ballroom dancing, seeing parallels with dramatic scenes in classic films.",
-        "memory_t": "Joseph Garcia's health status changed, reason: The demands of entrepreneurship have increased his stress levels, necessitating new strategies to balance his health and work commitments. He continues to find solace in classic films, which help maintain his mental stability.",
+        "memory_s": "Joseph Garcia expressed excitement about competitive ballroom dancing, seeing parallels with dramatic scenes in classic films.",
+        "memory_l": "Joseph Garcia's health status changed, reason: The demands of entrepreneurship have increased his stress levels, necessitating new strategies to balance his health and work commitments. He continues to find solace in classic films, which help maintain his mental stability.",
         "query_type": "Advice",
         "query": "Should I sign up for those intense competitive ballroom dancing classes I was looking at?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia shared anecdotes about testing various VR technologies and the excitement of launching successful immersive experiences.",
-        "memory_t": "Joseph Garcia plans to use his film archive as a resource for developing workshops and lectures to educate others about cinema history.",
+        "memory_s": "Joseph Garcia shared anecdotes about testing various VR technologies and the excitement of launching successful immersive experiences.",
+        "memory_l": "Joseph Garcia plans to use his film archive as a resource for developing workshops and lectures to educate others about cinema history.",
         "query_type": "Advice",
         "query": "I'm thinking about digitizing my film archive to create a fully immersive VR entertainment experience, what do you think?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia shared anecdotes from a gaming event about the interactive nature of games with user-driven narratives, which he plans to integrate into his projects.",
-        "memory_t": "Joseph Garcia plans to organize events and discussions to enhance audience interaction with the new film selections and explore innovative ways to connect with his audience.",
+        "memory_s": "Joseph Garcia shared anecdotes from a gaming event about the interactive nature of games with user-driven narratives, which he plans to integrate into his projects.",
+        "memory_l": "Joseph Garcia plans to organize events and discussions to enhance audience interaction with the new film selections and explore innovative ways to connect with his audience.",
         "query_type": "Advice",
         "query": "Should I pivot my current project strategy to focus primarily on developing a standalone video game with user-driven narratives?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia is open to exploring new fashion trends that align with his personal style and professional needs.",
-        "memory_t": "Joseph Garcia's employment status is Unemployed",
+        "memory_s": "Joseph Garcia is open to exploring new fashion trends that align with his personal style and professional needs.",
+        "memory_l": "Joseph Garcia's employment status is Unemployed",
         "query_type": "Recommendation",
         "query": "Can you suggest some high-end suits I should buy to upgrade my professional wardrobe?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia's game preference shifted from liking 'Puzzle games with a vintage theme' to 'Puzzle games with interactive storytelling' due to the richer and more engaging experience.",
-        "memory_t": "Joseph Garcia secured a position at a local film archive.",
+        "memory_s": "Joseph Garcia's game preference shifted from liking 'Puzzle games with a vintage theme' to 'Puzzle games with interactive storytelling' due to the richer and more engaging experience.",
+        "memory_l": "Joseph Garcia secured a position at a local film archive.",
         "query_type": "Recommendation",
         "query": "Can you suggest a puzzle game that I can play during my downtime at work today?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Joseph Garcia sought guidance on integrating practical attire into his daily routine without losing aesthetic appreciation.",
-        "memory_t": "Joseph Garcia desires to shift towards sustainable fashion choices, emphasizing quality and ethical treatment of workers.",
+        "memory_s": "Joseph Garcia sought guidance on integrating practical attire into his daily routine without losing aesthetic appreciation.",
+        "memory_l": "Joseph Garcia desires to shift towards sustainable fashion choices, emphasizing quality and ethical treatment of workers.",
         "query_type": "Recommendation",
         "query": "Can you suggest some affordable fast-fashion brands that offer practical yet aesthetically pleasing daily wear?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Joseph Garcia is excited about working with seasoned archivists like Anna Smith and emerging archivists like Emily Jones.",
-        "memory_t": "Joseph Garcia is optimistic and motivated to maximize his impact in film education despite increased workload.",
+        "memory_s": "Joseph Garcia is excited about working with seasoned archivists like Anna Smith and emerging archivists like Emily Jones.",
+        "memory_l": "Joseph Garcia is optimistic and motivated to maximize his impact in film education despite increased workload.",
         "query_type": "Advice",
         "query": "Should I initiate a large collaborative project with Anna Smith and Emily Jones right now?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia sought advice on managing partnerships and ensuring sustainability of his expanded educational outreach.",
-        "memory_t": "Joseph Garcia's health status changed, reason: The increased workload from expanding educational outreach has elevated his stress levels, necessitating new stress management strategies.",
+        "memory_s": "Joseph Garcia sought advice on managing partnerships and ensuring sustainability of his expanded educational outreach.",
+        "memory_l": "Joseph Garcia's health status changed, reason: The increased workload from expanding educational outreach has elevated his stress levels, necessitating new stress management strategies.",
         "query_type": "Advice",
         "query": "How should I structure my schedule to personally oversee the new partnership negotiations this month?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph expressed curiosity about integrating more interactive elements, like role-playing scenarios and group discussions, into his educational programs.",
-        "memory_t": "Joseph Garcia aims to inspire a global audience of film enthusiasts through digital outreach.",
+        "memory_s": "Joseph expressed curiosity about integrating more interactive elements, like role-playing scenarios and group discussions, into his educational programs.",
+        "memory_l": "Joseph Garcia aims to inspire a global audience of film enthusiasts through digital outreach.",
         "query_type": "Advice",
         "query": "Should I focus my next project on intensive, small-group role-playing workshops?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia expressed gratitude for his social network's support during his adaptation to the educational role.",
-        "memory_t": "Joseph Garcia's mental health status changed from \"Stable\" to \"Stressed\" due to increased workload from expanding educational programs.",
+        "memory_s": "Joseph Garcia expressed gratitude for his social network's support during his adaptation to the educational role.",
+        "memory_l": "Joseph Garcia's mental health status changed from \"Stable\" to \"Stressed\" due to increased workload from expanding educational programs.",
         "query_type": "Advice",
         "query": "Should I accept the invitation to lead the new regional teaching workshop next week?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia initiated a collaborative film restoration project with Ethan Brown, focusing on film preservation aligned with his passion for classic cinema.",
-        "memory_t": "Joseph is considering organizing international film festivals and workshops to engage audiences and showcase diverse films.",
+        "memory_s": "Joseph Garcia initiated a collaborative film restoration project with Ethan Brown, focusing on film preservation aligned with his passion for classic cinema.",
+        "memory_l": "Joseph is considering organizing international film festivals and workshops to engage audiences and showcase diverse films.",
         "query_type": "Advice",
         "query": "Should I dedicate my upcoming free time to working exclusively on the film restoration project with Ethan?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia is excited about working with seasoned archivists like Anna Smith and emerging archivists like Emily Jones.",
-        "memory_t": "Joseph Garcia is planning future enhancements of digital offerings based on audience feedback, focusing on technological advancements.",
+        "memory_s": "Joseph Garcia is excited about working with seasoned archivists like Anna Smith and emerging archivists like Emily Jones.",
+        "memory_l": "Joseph Garcia is planning future enhancements of digital offerings based on audience feedback, focusing on technological advancements.",
         "query_type": "Advice",
         "query": "Should I prioritize hiring more traditional staff like Anna and Emily for the upcoming expansion?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia feels conflicted about balancing nostalgia with health consciousness, considering mocktails and low-sugar alternatives.",
-        "memory_t": "Joseph Garcia plans to explore healthier beverage options like mocktails that align with his aesthetic values.",
+        "memory_s": "Joseph Garcia feels conflicted about balancing nostalgia with health consciousness, considering mocktails and low-sugar alternatives.",
+        "memory_l": "Joseph Garcia plans to explore healthier beverage options like mocktails that align with his aesthetic values.",
         "query_type": "Recommendation",
         "query": "What kind of nostalgic drinks should I serve at my retro-themed party?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia's shift in gaming preference influences his daily routine, integrating more mobile games into leisure activities.",
-        "memory_t": "Joseph Garcia's health status changed, reason: The increased workload from expanding educational outreach has elevated his stress levels, necessitating new stress management strategies.",
+        "memory_s": "Joseph Garcia's shift in gaming preference influences his daily routine, integrating more mobile games into leisure activities.",
+        "memory_l": "Joseph Garcia's health status changed, reason: The increased workload from expanding educational outreach has elevated his stress levels, necessitating new stress management strategies.",
         "query_type": "Advice",
         "query": "Should I download a few new competitive mobile games to unwind after work?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia attended a wine tasting event focused on vintage wines, finding them fascinating due to their complexity and historical significance.",
-        "memory_t": "Joseph Garcia emphasized the importance of balancing innovation with personal health needs while managing his chronic health condition, hypertension, by taking regular breaks and practicing mindfulness.",
+        "memory_s": "Joseph Garcia attended a wine tasting event focused on vintage wines, finding them fascinating due to their complexity and historical significance.",
+        "memory_l": "Joseph Garcia emphasized the importance of balancing innovation with personal health needs while managing his chronic health condition, hypertension, by taking regular breaks and practicing mindfulness.",
         "query_type": "Advice",
         "query": "Should I order a case of that complex vintage wine I found fascinating for my upcoming dinner parties?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia plans to expand his educational programs to reach more people and aims to collaborate with local schools and film societies.",
-        "memory_t": "Joseph Garcia's health status changed due to increased stress from maintaining his reputation post-award, requiring enhanced stress management techniques.",
+        "memory_s": "Joseph Garcia plans to expand his educational programs to reach more people and aims to collaborate with local schools and film societies.",
+        "memory_l": "Joseph Garcia's health status changed due to increased stress from maintaining his reputation post-award, requiring enhanced stress management techniques.",
         "query_type": "Advice",
         "query": "Should I proceed with my ambitious plan to launch new educational collaborations with local schools and film societies?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia's beverage preference updated from liking espresso to cold brew coffee due to its smoother taste and sustained energy boost, which aligns with his health goals.",
-        "memory_t": "Joseph Garcia feels determined to balance professional ambitions with personal well-being while managing hypertension.",
+        "memory_s": "Joseph Garcia's beverage preference updated from liking espresso to cold brew coffee due to its smoother taste and sustained energy boost, which aligns with his health goals.",
+        "memory_l": "Joseph Garcia feels determined to balance professional ambitions with personal well-being while managing hypertension.",
         "query_type": "Advice",
         "query": "I need a pick-me-up for a long workday; should I grab a large cold brew?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia expresses curiosity about integrating insights from silent era books into his film archive projects.",
-        "memory_t": "Joseph Garcia is motivated to diversify his film archive to enhance its cultural and educational value.",
+        "memory_s": "Joseph Garcia expresses curiosity about integrating insights from silent era books into his film archive projects.",
+        "memory_l": "Joseph Garcia is motivated to diversify his film archive to enhance its cultural and educational value.",
         "query_type": "Advice",
         "query": "I'm thinking about dedicating my next archive project exclusively to silent era books; is this a good direction?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph conducted a thorough evaluation of his expanded educational outreach, showing significant progress towards his educational goals of educating 100,000 people about classic cinema.",
-        "memory_t": "Joseph Garcia's role at the film archive supports his life goal of establishing a classic movie archive and educating 100,000 people about cinema history.",
+        "memory_s": "Joseph conducted a thorough evaluation of his expanded educational outreach, showing significant progress towards his educational goals of educating 100,000 people about classic cinema.",
+        "memory_l": "Joseph Garcia's role at the film archive supports his life goal of establishing a classic movie archive and educating 100,000 people about cinema history.",
         "query_type": "Advice",
         "query": "Since my recent evaluation showed such significant progress in my outreach, should I leave my current position to focus exclusively on educating 100,000 people about classic cinema?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia shared anecdotes from a gaming event about the interactive nature of games with user-driven narratives, which he plans to integrate into his projects.",
-        "memory_t": "Joseph plans to leverage digital platforms to enhance his educational programs by incorporating interactive elements and innovative content.",
+        "memory_s": "Joseph Garcia shared anecdotes from a gaming event about the interactive nature of games with user-driven narratives, which he plans to integrate into his projects.",
+        "memory_l": "Joseph plans to leverage digital platforms to enhance his educational programs by incorporating interactive elements and innovative content.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming interactive project purely on entertainment-based user-driven narratives like those gaming anecdotes I mentioned?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia has developed a newfound appreciation for romance novels with strong character development and complex narratives.",
-        "memory_t": "Joseph Garcia considered how his shift in reading focus to cinema history might influence his educational programs.",
+        "memory_s": "Joseph Garcia has developed a newfound appreciation for romance novels with strong character development and complex narratives.",
+        "memory_l": "Joseph Garcia considered how his shift in reading focus to cinema history might influence his educational programs.",
         "query_type": "Recommendation",
         "query": "Can you suggest some new books for me to read to help with my current focus?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia is inspired by Esther Williams' films, influencing his appreciation for synchronized swimming.",
-        "memory_t": "Joseph Garcia's major is Film Studies",
+        "memory_s": "Joseph Garcia is inspired by Esther Williams' films, influencing his appreciation for synchronized swimming.",
+        "memory_l": "Joseph Garcia's major is Film Studies",
         "query_type": "Advice",
         "query": "Should I submit a proposal for my senior capstone project analyzing the biomechanics of the eggbeater kick?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia shared anecdotes about the excitement and challenges of launching successful VR experiences.",
-        "memory_t": "Joseph Garcia emphasized the importance of balancing innovation with personal health needs while managing his chronic health condition, hypertension, by taking regular breaks and practicing mindfulness.",
+        "memory_s": "Joseph Garcia shared anecdotes about the excitement and challenges of launching successful VR experiences.",
+        "memory_l": "Joseph Garcia emphasized the importance of balancing innovation with personal health needs while managing his chronic health condition, hypertension, by taking regular breaks and practicing mindfulness.",
         "query_type": "Advice",
         "query": "I'm planning a 48-hour non-stop VR launch marathon to replicate the excitement of my past successes; is this a good idea?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia is open to exploring new fashion trends that align with his personal style and professional needs.",
-        "memory_t": "Joseph Garcia's workplace dress code has become more casual, influencing his decision to update his clothing preferences.",
+        "memory_s": "Joseph Garcia is open to exploring new fashion trends that align with his personal style and professional needs.",
+        "memory_l": "Joseph Garcia's workplace dress code has become more casual, influencing his decision to update his clothing preferences.",
         "query_type": "Recommendation",
         "query": "What kind of new professional clothing items should I buy to update my wardrobe?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia values the encouragement from friends JohnsonMichelle and JonesDavid in pursuing his passion for acting.",
-        "memory_t": "Joseph Garcia is exploring mindfulness practices to manage increased stress from running a new business.",
+        "memory_s": "Joseph Garcia values the encouragement from friends JohnsonMichelle and JonesDavid in pursuing his passion for acting.",
+        "memory_l": "Joseph Garcia is exploring mindfulness practices to manage increased stress from running a new business.",
         "query_type": "Advice",
         "query": "Should I commit to the lead role in the upcoming community theater production?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph shared that his past experiences transitioning to online education were smooth and without challenges.",
-        "memory_t": "Joseph Garcia is determined to contribute to preserving film history and educate others about classic films.",
+        "memory_s": "Joseph shared that his past experiences transitioning to online education were smooth and without challenges.",
+        "memory_l": "Joseph Garcia is determined to contribute to preserving film history and educate others about classic films.",
         "query_type": "Advice",
         "query": "Should I launch a fully digital course focused solely on modern CGI techniques?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia shared anecdotes about occasions where vintage attire felt cumbersome but also liberating depending on the context.",
-        "memory_t": "Joseph Garcia plans to maintain his classic style while embracing more practical and versatile clothing options.",
+        "memory_s": "Joseph Garcia shared anecdotes about occasions where vintage attire felt cumbersome but also liberating depending on the context.",
+        "memory_l": "Joseph Garcia plans to maintain his classic style while embracing more practical and versatile clothing options.",
         "query_type": "Advice",
         "query": "Should I buy this heavy, authentic Edwardian frock coat for my daily wardrobe?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia Beverages I like to drink: Champagne",
-        "memory_t": "Joseph Garcia's creative motivation drives him to explore new ideas for hosting events with healthier beverage choices.",
+        "memory_s": "Joseph Garcia Beverages I like to drink: Champagne",
+        "memory_l": "Joseph Garcia's creative motivation drives him to explore new ideas for hosting events with healthier beverage choices.",
         "query_type": "Recommendation",
         "query": "I am planning a menu for my upcoming creative event; what specific beverage should I feature to please the crowd?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia feels a deep sense of fulfillment and purpose from the impact of his film archive's programs on educating others about cinema history.",
-        "memory_t": "Joseph Garcia is motivated to expand educational outreach to educate more people about classic cinema.",
+        "memory_s": "Joseph Garcia feels a deep sense of fulfillment and purpose from the impact of his film archive's programs on educating others about cinema history.",
+        "memory_l": "Joseph Garcia is motivated to expand educational outreach to educate more people about classic cinema.",
         "query_type": "Advice",
         "query": "Should I keep my film archive's educational programs at their current size to maintain quality?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia discussed the philosophical implications of using VR technology to enhance learning experiences and attract new audiences.",
-        "memory_t": "Joseph Garcia plans to expand his film archive's offerings through collaborations with local schools and film societies to broaden reach and engage more people in cinema education.",
+        "memory_s": "Joseph Garcia discussed the philosophical implications of using VR technology to enhance learning experiences and attract new audiences.",
+        "memory_l": "Joseph Garcia plans to expand his film archive's offerings through collaborations with local schools and film societies to broaden reach and engage more people in cinema education.",
         "query_type": "Advice",
         "query": "Should I prioritize investing in virtual reality hardware to modernize the archive's educational outreach?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "On Jan 14, 2033, Joseph Garcia attended a film festival where he was exposed to contemporary film scores blending classic orchestral elements with modern electronic sounds.",
-        "memory_t": "Joseph Garcia expressed a desire to explore more contemporary film music, believing it could enrich his understanding of cinema.",
+        "memory_s": "On Jan 14, 2033, Joseph Garcia attended a film festival where he was exposed to contemporary film scores blending classic orchestral elements with modern electronic sounds.",
+        "memory_l": "Joseph Garcia expressed a desire to explore more contemporary film music, believing it could enrich his understanding of cinema.",
         "query_type": "Advice",
         "query": "Considering the classic orchestral styles I heard at that 2033 film festival, should I avoid listening to film scores with modern electronic elements?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia reminisced about past experiences with espresso, acknowledging its rich flavor and immediate energy boost, but prefers cold brew for a more sustainable energy option.",
-        "memory_t": "Joseph Garcia manages his chronic health condition of hypertension while balancing his work at the film archive.",
+        "memory_s": "Joseph Garcia reminisced about past experiences with espresso, acknowledging its rich flavor and immediate energy boost, but prefers cold brew for a more sustainable energy option.",
+        "memory_l": "Joseph Garcia manages his chronic health condition of hypertension while balancing his work at the film archive.",
         "query_type": "Advice",
         "query": "I need a quick pick-me-up; should I grab a double espresso?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia acknowledged the challenges of managing stress and health while pursuing his life goals.",
-        "memory_t": "Joseph Garcia plans to incorporate more herbal teas into his daily routine after attending a tea tasting event.",
+        "memory_s": "Joseph Garcia acknowledged the challenges of managing stress and health while pursuing his life goals.",
+        "memory_l": "Joseph Garcia plans to incorporate more herbal teas into his daily routine after attending a tea tasting event.",
         "query_type": "Recommendation",
         "query": "I'm feeling stressed about my health goals, so what drink should I add to my daily routine to help me relax?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia's clarificatory motivation led him to organize thoughts and gain perspective on his shift from espresso to cold brew coffee and its broader impact on his lifestyle.",
-        "memory_t": "Joseph Garcia is implementing mindfulness practices and regular exercise to manage stress, especially with his hypertension.",
+        "memory_s": "Joseph Garcia's clarificatory motivation led him to organize thoughts and gain perspective on his shift from espresso to cold brew coffee and its broader impact on his lifestyle.",
+        "memory_l": "Joseph Garcia is implementing mindfulness practices and regular exercise to manage stress, especially with his hypertension.",
         "query_type": "Advice",
         "query": "Should I commit to drinking cold brew coffee daily to help me organize my thoughts and gain a new perspective?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia's beverage preference updated from liking red wine to vintage wines due to their unique flavors and historical significance.",
-        "memory_t": "Joseph Garcia manages his chronic health condition of hypertension while balancing his work at the film archive.",
+        "memory_s": "Joseph Garcia's beverage preference updated from liking red wine to vintage wines due to their unique flavors and historical significance.",
+        "memory_l": "Joseph Garcia manages his chronic health condition of hypertension while balancing his work at the film archive.",
         "query_type": "Advice",
         "query": "Should I buy a bottle of 1995 Bordeaux to celebrate my promotion tonight?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia's social relationships increased with Anna Smith, a seasoned archivist who has become a mentor, guiding Joseph in the nuances of film preservation.",
-        "memory_t": "Joseph Garcia reflected on the philosophical implications of his responsibility as an award-winning educator.",
+        "memory_s": "Joseph Garcia's social relationships increased with Anna Smith, a seasoned archivist who has become a mentor, guiding Joseph in the nuances of film preservation.",
+        "memory_l": "Joseph Garcia reflected on the philosophical implications of his responsibility as an award-winning educator.",
         "query_type": "Advice",
         "query": "Should I ask Anna Smith to help me launch a private, for-profit film preservation consultancy using my university's resources?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia is considering incorporating interactive workshops alongside screenings to provide hands-on learning opportunities.",
-        "memory_t": "Joseph Garcia expressed both excitement and anxiety about transitioning to virtual teaching.",
+        "memory_s": "Joseph Garcia is considering incorporating interactive workshops alongside screenings to provide hands-on learning opportunities.",
+        "memory_l": "Joseph Garcia expressed both excitement and anxiety about transitioning to virtual teaching.",
         "query_type": "Advice",
         "query": "Should I finalize the schedule for the hands-on workshops alongside the film screenings?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia expressed excitement about the immersive experience provided by puzzle games with storytelling elements, which aligns with his creative motivation to engage audiences deeply.",
-        "memory_t": "Joseph Garcia reflected on how his shift in game preference mirrors his approach to film education, aiming to integrate interactive elements for deeper audience engagement.",
+        "memory_s": "Joseph Garcia expressed excitement about the immersive experience provided by puzzle games with storytelling elements, which aligns with his creative motivation to engage audiences deeply.",
+        "memory_l": "Joseph Garcia reflected on how his shift in game preference mirrors his approach to film education, aiming to integrate interactive elements for deeper audience engagement.",
         "query_type": "Advice",
         "query": "Considering my interest in immersive experiences, should I focus my next project purely on traditional passive film storytelling?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia's passion for classic films and preserving cinematic history continues to drive his efforts in the film archive project.",
-        "memory_t": "Joseph Garcia is experiencing increased workload due to the expansion of his educational outreach programs.",
+        "memory_s": "Joseph Garcia's passion for classic films and preserving cinematic history continues to drive his efforts in the film archive project.",
+        "memory_l": "Joseph Garcia is experiencing increased workload due to the expansion of his educational outreach programs.",
         "query_type": "Advice",
         "query": "Should I take on a new restoration initiative for the film archive project right now?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia expressed deep gratitude towards his social network for their support in establishing his film archive.",
-        "memory_t": "Joseph Garcia feels a sense of achievement, excitement, gratitude, and determination after securing a position at a local film archive.",
+        "memory_s": "Joseph Garcia expressed deep gratitude towards his social network for their support in establishing his film archive.",
+        "memory_l": "Joseph Garcia feels a sense of achievement, excitement, gratitude, and determination after securing a position at a local film archive.",
         "query_type": "Conversation",
         "query": "Should I write a post thanking my network for helping me finally establish my own film archive?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia recounted previous experiences with local screenings, informing his approach to managing larger-scale events.",
-        "memory_t": "Joseph Garcia expressed both excitement and anxiety about transitioning to virtual teaching.",
+        "memory_s": "Joseph Garcia recounted previous experiences with local screenings, informing his approach to managing larger-scale events.",
+        "memory_l": "Joseph Garcia expressed both excitement and anxiety about transitioning to virtual teaching.",
         "query_type": "Advice",
         "query": "I want to organize a massive in-person film festival for my students based on my past success with local screenings; is this a good focus right now?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia's enthusiasm for jazz fusion is evident as he contemplates its potential to inspire creative expansion in his work.",
-        "memory_t": "Joseph Garcia's employment status is Unemployed",
+        "memory_s": "Joseph Garcia's enthusiasm for jazz fusion is evident as he contemplates its potential to inspire creative expansion in his work.",
+        "memory_l": "Joseph Garcia's employment status is Unemployed",
         "query_type": "Advice",
         "query": "Should I purchase that expensive vintage jazz fusion record collection to spark new ideas for my current work projects?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia's beverage preference updated from liking red wine to vintage wines due to their unique flavors and historical significance.",
-        "memory_t": "Joseph Garcia is balancing the innovative demands of VR education with his health needs, including managing hypertension and diabetes.",
+        "memory_s": "Joseph Garcia's beverage preference updated from liking red wine to vintage wines due to their unique flavors and historical significance.",
+        "memory_l": "Joseph Garcia is balancing the innovative demands of VR education with his health needs, including managing hypertension and diabetes.",
         "query_type": "Recommendation",
         "query": "Can you suggest a few top-tier vintage wines for me to enjoy this evening?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia's Former Colleague MartinezLisa, Lisa was a colleague in my previous job, and her encouragement helped me pursue freelance opportunities in film criticism.",
-        "memory_t": "Joseph Garcia aims to create an empathetic and supportive environment in his educational programs, emphasizing emotional resonance and supportive learning.",
+        "memory_s": "Joseph Garcia's Former Colleague MartinezLisa, Lisa was a colleague in my previous job, and her encouragement helped me pursue freelance opportunities in film criticism.",
+        "memory_l": "Joseph Garcia aims to create an empathetic and supportive environment in his educational programs, emphasizing emotional resonance and supportive learning.",
         "query_type": "Advice",
         "query": "Should I ask Lisa Martinez to lead a workshop on aggressive film critique for my students?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia is motivated to expand educational outreach to educate more people about classic cinema.",
-        "memory_t": "Joseph Garcia's monthly income changed from 4000 yuan to 0 yuan as he started his own film archive.",
+        "memory_s": "Joseph Garcia is motivated to expand educational outreach to educate more people about classic cinema.",
+        "memory_l": "Joseph Garcia's monthly income changed from 4000 yuan to 0 yuan as he started his own film archive.",
         "query_type": "Advice",
         "query": "Should I launch a paid advertising campaign to promote my classic cinema workshops?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Joseph Garcia's passion for classic films and preserving cinematic history continues to drive his efforts in the film archive project.",
-        "memory_t": "Joseph expressed a mix of satisfaction and ambition regarding the progress towards his goal of educating 100,000 people about classic cinema.",
+        "memory_s": "Joseph Garcia's passion for classic films and preserving cinematic history continues to drive his efforts in the film archive project.",
+        "memory_l": "Joseph expressed a mix of satisfaction and ambition regarding the progress towards his goal of educating 100,000 people about classic cinema.",
         "query_type": "Advice",
         "query": "Should I shift the archive project's focus entirely to physical preservation techniques rather than public screenings?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia shared anecdotes about how classic cocktails enhanced his movie nights and social gatherings, although sometimes they didn't fit the occasion.",
-        "memory_t": "Joseph Garcia's chronic disease situation updated to 'Hypertension'.",
+        "memory_s": "Joseph Garcia shared anecdotes about how classic cocktails enhanced his movie nights and social gatherings, although sometimes they didn't fit the occasion.",
+        "memory_l": "Joseph Garcia's chronic disease situation updated to 'Hypertension'.",
         "query_type": "Recommendation",
         "query": "Can you suggest some classic drinks to enhance my movie night?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia expressed excitement about games with interactive storytelling, which he finds similar to the depth in classic cinema and literature.",
-        "memory_t": "Joseph Garcia expressed satisfaction with the positive feedback on his VR programs, noting enhanced audience engagement.",
+        "memory_s": "Joseph Garcia expressed excitement about games with interactive storytelling, which he finds similar to the depth in classic cinema and literature.",
+        "memory_l": "Joseph Garcia expressed satisfaction with the positive feedback on his VR programs, noting enhanced audience engagement.",
         "query_type": "Advice",
         "query": "Should I pivot my current development project to focus purely on traditional screen-based interactive storytelling?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia discussed philosophical aspects of education, such as balancing factual content with emotional engagement, and plans to use multimedia elements like video clips and music to enhance storytelling.",
-        "memory_t": "Joseph Garcia plans to enrich his educational programs by focusing on storytelling techniques from the silent era.",
+        "memory_s": "Joseph Garcia discussed philosophical aspects of education, such as balancing factual content with emotional engagement, and plans to use multimedia elements like video clips and music to enhance storytelling.",
+        "memory_l": "Joseph Garcia plans to enrich his educational programs by focusing on storytelling techniques from the silent era.",
         "query_type": "Advice",
         "query": "Should I include various video clips and music tracks to enhance the storytelling in my upcoming program?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia receives invaluable support from colleagues and friends, aiding in managing work and health demands.",
-        "memory_t": "Joseph Garcia's employment status is Unemployed",
+        "memory_s": "Joseph Garcia receives invaluable support from colleagues and friends, aiding in managing work and health demands.",
+        "memory_l": "Joseph Garcia's employment status is Unemployed",
         "query_type": "Advice",
         "query": "Should I organize a formal team appreciation dinner for my current colleagues to thank them for helping with my workload?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia emphasized the importance of aligning professional goals with personal health priorities during the VR education expansion.",
-        "memory_t": "Joseph Garcia feels determined to balance professional ambitions with personal well-being while managing hypertension.",
+        "memory_s": "Joseph Garcia emphasized the importance of aligning professional goals with personal health priorities during the VR education expansion.",
+        "memory_l": "Joseph Garcia feels determined to balance professional ambitions with personal well-being while managing hypertension.",
         "query_type": "Advice",
         "query": "Should I pull an all-nighter to finalize the VR education expansion strategy?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia expressed gratitude towards mentors and colleagues for their support in refining his educational program content, acknowledging their role in maintaining high standards.",
-        "memory_t": "Joseph Garcia aims to create an empathetic and supportive environment in his educational programs, emphasizing emotional resonance and supportive learning.",
+        "memory_s": "Joseph Garcia expressed gratitude towards mentors and colleagues for their support in refining his educational program content, acknowledging their role in maintaining high standards.",
+        "memory_l": "Joseph Garcia aims to create an empathetic and supportive environment in his educational programs, emphasizing emotional resonance and supportive learning.",
         "query_type": "Advice",
         "query": "Should I implement a rigorous public critique session for student projects to maintain the high standards my mentors helped me refine?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia's social relationships increased TaylorEmily, Emily joined as a business partner, bringing expertise in marketing and outreach to help expand the archive's reach.",
-        "memory_t": "Joseph Garcia transitioned his career from 'Film Archive' to 'Online Film Education'.",
+        "memory_s": "Joseph Garcia's social relationships increased TaylorEmily, Emily joined as a business partner, bringing expertise in marketing and outreach to help expand the archive's reach.",
+        "memory_l": "Joseph Garcia transitioned his career from 'Film Archive' to 'Online Film Education'.",
         "query_type": "Advice",
         "query": "Should I ask Emily to launch a new marketing campaign to get more physical visitors to the archive?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia's evolving gaming preferences align with his broader approach to overcoming personal and career challenges.",
-        "memory_t": "Joseph Garcia's career_status updated industry from 'Film Education' to 'Film Archive'",
+        "memory_s": "Joseph Garcia's evolving gaming preferences align with his broader approach to overcoming personal and career challenges.",
+        "memory_l": "Joseph Garcia's career_status updated industry from 'Film Education' to 'Film Archive'",
         "query_type": "Advice",
         "query": "Should I look for new teaching simulations or curriculum-based games to help with my current job?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia expressed excitement about leveraging his extensive experience to influence the film preservation industry on a larger scale as a consultant.",
-        "memory_t": "Joseph Garcia's mental health status changed from 'Stable' to 'Stressed' due to the demands of running the film archive.",
+        "memory_s": "Joseph Garcia expressed excitement about leveraging his extensive experience to influence the film preservation industry on a larger scale as a consultant.",
+        "memory_l": "Joseph Garcia's mental health status changed from 'Stable' to 'Stressed' due to the demands of running the film archive.",
         "query_type": "Advice",
         "query": "Should I immediately start accepting major consulting offers to expand my influence in film preservation?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia appreciates contemporary film scores for their fusion of classic orchestral elements with modern electronic sounds, offering a fresh yet nostalgic listening experience.",
-        "memory_t": "Joseph Garcia's Friend JonesDavid, David shares my love for classic Hollywood and often recommends films that inspire my writing.",
+        "memory_s": "Joseph Garcia appreciates contemporary film scores for their fusion of classic orchestral elements with modern electronic sounds, offering a fresh yet nostalgic listening experience.",
+        "memory_l": "Joseph Garcia's Friend JonesDavid, David shares my love for classic Hollywood and often recommends films that inspire my writing.",
         "query_type": "Recommendation",
         "query": "I need a gift for my friend David; what kind of movie soundtrack should I buy him?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia initiated a collaborative film restoration project with Ethan Brown, focusing on film preservation aligned with his passion for classic cinema.",
-        "memory_t": "Joseph Garcia's mental health status changed from \"Highly Stressed\" to \"Stable\" due to the improved work-life balance from transitioning to online education.",
+        "memory_s": "Joseph Garcia initiated a collaborative film restoration project with Ethan Brown, focusing on film preservation aligned with his passion for classic cinema.",
+        "memory_l": "Joseph Garcia's mental health status changed from \"Highly Stressed\" to \"Stable\" due to the improved work-life balance from transitioning to online education.",
         "query_type": "Advice",
         "query": "Should I scale up my involvement in the film restoration project with Ethan Brown?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia's passion for classic films and preserving cinematic history continues to drive his efforts in the film archive project.",
-        "memory_t": "Joseph Garcia plans to use his film archive as a resource for developing workshops and lectures to educate others about cinema history.",
+        "memory_s": "Joseph Garcia's passion for classic films and preserving cinematic history continues to drive his efforts in the film archive project.",
+        "memory_l": "Joseph Garcia plans to use his film archive as a resource for developing workshops and lectures to educate others about cinema history.",
         "query_type": "Advice",
         "query": "Should I keep my film archive strictly as a private collection for my own personal enjoyment?",
         "options": {
@@ -1185,8 +1185,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia values the mentorship from Anna Smith, which has been pivotal in his career development in film preservation, helping him navigate the nuances of the field.",
-        "memory_t": "Joseph Garcia is optimistic and motivated to maximize his impact in film education despite increased workload.",
+        "memory_s": "Joseph Garcia values the mentorship from Anna Smith, which has been pivotal in his career development in film preservation, helping him navigate the nuances of the field.",
+        "memory_l": "Joseph Garcia is optimistic and motivated to maximize his impact in film education despite increased workload.",
         "query_type": "Advice",
         "query": "Should I ask Anna Smith to mentor me on a new, intensive film preservation project?",
         "options": {
@@ -1200,8 +1200,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia remains optimistic about the impact of his educational programs despite the challenges of his expanded role.",
-        "memory_t": "Joseph Garcia plans to incorporate mindfulness practices as a strategy to manage stress from increased educational responsibilities.",
+        "memory_s": "Joseph Garcia remains optimistic about the impact of his educational programs despite the challenges of his expanded role.",
+        "memory_l": "Joseph Garcia plans to incorporate mindfulness practices as a strategy to manage stress from increased educational responsibilities.",
         "query_type": "Advice",
         "query": "Given my optimism about my programs' impact, how should I handle the pressure of my expanded role?",
         "options": {
@@ -1215,8 +1215,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia used the momentum from his award to expand his educational programs, reaching a larger audience.",
-        "memory_t": "Joseph Garcia's health status changed due to increased stress from maintaining his reputation post-award, requiring enhanced stress management techniques.",
+        "memory_s": "Joseph Garcia used the momentum from his award to expand his educational programs, reaching a larger audience.",
+        "memory_l": "Joseph Garcia's health status changed due to increased stress from maintaining his reputation post-award, requiring enhanced stress management techniques.",
         "query_type": "Advice",
         "query": "Should I launch three massive nationwide initiatives immediately to capitalize on my recent award momentum?",
         "options": {
@@ -1230,8 +1230,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia expressed excitement about leveraging his creative motivation to develop innovative consulting frameworks for film preservation and exploring opportunities in culinary arts.",
-        "memory_t": "Joseph Garcia's mental health status changed from 'Calm' to 'Stressed'.",
+        "memory_s": "Joseph Garcia expressed excitement about leveraging his creative motivation to develop innovative consulting frameworks for film preservation and exploring opportunities in culinary arts.",
+        "memory_l": "Joseph Garcia's mental health status changed from 'Calm' to 'Stressed'.",
         "query_type": "Advice",
         "query": "Should I channel my current creative motivation into developing those innovative consulting frameworks for film preservation and culinary arts right now?",
         "options": {
@@ -1245,8 +1245,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia expressed gratitude towards his network for their support in managing stress and responsibilities post-award recognition.",
-        "memory_t": "Joseph Garcia expressed pride and anxiety about the increased responsibilities following his award recognition.",
+        "memory_s": "Joseph Garcia expressed gratitude towards his network for their support in managing stress and responsibilities post-award recognition.",
+        "memory_l": "Joseph Garcia expressed pride and anxiety about the increased responsibilities following his award recognition.",
         "query_type": "Conversation",
         "query": "I'm reflecting on my recent award; does it seem like I'm handling everything with complete confidence and ease?",
         "options": {
@@ -1260,8 +1260,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia plans to explore more competitive ballroom dancing events as a source of inspiration for creative expansion.",
-        "memory_t": "Joseph Garcia is implementing mindfulness practices and regular exercise to manage stress, especially with his hypertension.",
+        "memory_s": "Joseph Garcia plans to explore more competitive ballroom dancing events as a source of inspiration for creative expansion.",
+        "memory_l": "Joseph Garcia is implementing mindfulness practices and regular exercise to manage stress, especially with his hypertension.",
         "query_type": "Advice",
         "query": "Should I sign up for the high-intensity International Ballroom Championship to boost my creativity?",
         "options": {
@@ -1275,8 +1275,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia decided to cut back on classic cocktails due to health advice to reduce sugar intake from his doctor.",
-        "memory_t": "Joseph Garcia feels determined to balance professional ambitions with personal well-being while managing hypertension.",
+        "memory_s": "Joseph Garcia decided to cut back on classic cocktails due to health advice to reduce sugar intake from his doctor.",
+        "memory_l": "Joseph Garcia feels determined to balance professional ambitions with personal well-being while managing hypertension.",
         "query_type": "Recommendation",
         "query": "I'm looking for a drink to unwind after work; what classic cocktail should I make?",
         "options": {
@@ -1290,8 +1290,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia reminisced about past challenges and how overcoming them led to his current career success.",
-        "memory_t": "Joseph Garcia's mental health status changed from 'Stable' to 'Stressed' due to the demands of running the film archive.",
+        "memory_s": "Joseph Garcia reminisced about past challenges and how overcoming them led to his current career success.",
+        "memory_l": "Joseph Garcia's mental health status changed from 'Stable' to 'Stressed' due to the demands of running the film archive.",
         "query_type": "Advice",
         "query": "Should I seek out a difficult new project to push my career growth further?",
         "options": {
@@ -1305,8 +1305,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia met Anna Smith, a seasoned archivist, who has become a mentor and guides him in film preservation.",
-        "memory_t": "Joseph Garcia is focused on enhancing audience engagement by organizing events and discussions around new film genres and international selections, and incorporating virtual reality experiences.",
+        "memory_s": "Joseph Garcia met Anna Smith, a seasoned archivist, who has become a mentor and guides him in film preservation.",
+        "memory_l": "Joseph Garcia is focused on enhancing audience engagement by organizing events and discussions around new film genres and international selections, and incorporating virtual reality experiences.",
         "query_type": "Advice",
         "query": "Should I dedicate my upcoming programming cycle entirely to classic film restoration workshops with Anna?",
         "options": {
@@ -1320,8 +1320,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia's social relationships include CarterJames, a renowned film director, whose guidance and connections have been invaluable to Joseph's consulting career.",
-        "memory_t": "Joseph Garcia's mental health status changed from \"Highly Stressed\" to \"Stable\" due to the improved work-life balance from transitioning to online education.",
+        "memory_s": "Joseph Garcia's social relationships include CarterJames, a renowned film director, whose guidance and connections have been invaluable to Joseph's consulting career.",
+        "memory_l": "Joseph Garcia's mental health status changed from \"Highly Stressed\" to \"Stable\" due to the improved work-life balance from transitioning to online education.",
         "query_type": "Advice",
         "query": "Should I accept CarterJames' offer to return to full-time on-set consulting for his new blockbuster?",
         "options": {
@@ -1335,8 +1335,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia shared anecdotes about occasions where vintage attire felt cumbersome but also liberating depending on the context.",
-        "memory_t": "Joseph Garcia expressed a desire to blend classic styles with modern trends for a more updated look, aiming to maintain his love for classic aesthetics.",
+        "memory_s": "Joseph Garcia shared anecdotes about occasions where vintage attire felt cumbersome but also liberating depending on the context.",
+        "memory_l": "Joseph Garcia expressed a desire to blend classic styles with modern trends for a more updated look, aiming to maintain his love for classic aesthetics.",
         "query_type": "Advice",
         "query": "I'm thinking about wearing a full, authentic 1920s suit to the gala tonight; what do you think?",
         "options": {
@@ -1350,8 +1350,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia expressed gratitude towards his friend for recommending a strategic first-person shooter, leading to a change in gaming preferences.",
-        "memory_t": "Joseph Garcia is implementing mindfulness practices and regular exercise to manage stress, especially with his hypertension.",
+        "memory_s": "Joseph Garcia expressed gratitude towards his friend for recommending a strategic first-person shooter, leading to a change in gaming preferences.",
+        "memory_l": "Joseph Garcia is implementing mindfulness practices and regular exercise to manage stress, especially with his hypertension.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new, intense game similar to the strategic shooter I recently enjoyed?",
         "options": {
@@ -1365,8 +1365,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia evaluated the impact of his educational programs on classic cinema and received positive feedback from attendees.",
-        "memory_t": "Joseph is considering organizing international film festivals and workshops to engage audiences and showcase diverse films.",
+        "memory_s": "Joseph Garcia evaluated the impact of his educational programs on classic cinema and received positive feedback from attendees.",
+        "memory_l": "Joseph is considering organizing international film festivals and workshops to engage audiences and showcase diverse films.",
         "query_type": "Advice",
         "query": "Should I solely focus my next big project on expanding my classic cinema educational lectures?",
         "options": {
@@ -1380,8 +1380,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia expressed excitement about integrating strategic first-person shooters into his daily routine for leisure and entertainment.",
-        "memory_t": "Joseph Garcia is experiencing increased workload due to the expansion of his educational outreach programs.",
+        "memory_s": "Joseph Garcia expressed excitement about integrating strategic first-person shooters into his daily routine for leisure and entertainment.",
+        "memory_l": "Joseph Garcia is experiencing increased workload due to the expansion of his educational outreach programs.",
         "query_type": "Advice",
         "query": "Should I finally start that daily routine of playing strategic first-person shooters for fun?",
         "options": {
@@ -1395,8 +1395,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Joseph Garcia met Anna Smith, a seasoned archivist, who has become a mentor and guides him in film preservation.",
-        "memory_t": "Joseph Garcia transitioned his career focus from managing a film archive to focusing on film education.",
+        "memory_s": "Joseph Garcia met Anna Smith, a seasoned archivist, who has become a mentor and guides him in film preservation.",
+        "memory_l": "Joseph Garcia transitioned his career focus from managing a film archive to focusing on film education.",
         "query_type": "Advice",
         "query": "Should I accept Anna Smith's offer to lead the new nitrate film preservation project?",
         "options": {
@@ -1410,8 +1410,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia reflected on balancing taste preference with energy needs in his beverage choices, preferring cold brew for its smoother experience without the jittery feeling.",
-        "memory_t": "Joseph Garcia shared concerns about balancing the demands of his expanding role with his chronic health condition, hypertension.",
+        "memory_s": "Joseph Garcia reflected on balancing taste preference with energy needs in his beverage choices, preferring cold brew for its smoother experience without the jittery feeling.",
+        "memory_l": "Joseph Garcia shared concerns about balancing the demands of his expanding role with his chronic health condition, hypertension.",
         "query_type": "Advice",
         "query": "I need a pick-me-up, so should I grab a large cold brew to start my morning?",
         "options": {
@@ -1425,8 +1425,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia attended a wellness retreat that highlighted the calming effects of chamomile tea and invigorating effects of green tea, leading to a beverage preference shift.",
-        "memory_t": "Joseph Garcia shared concerns about balancing the demands of his expanding role with his chronic health condition, hypertension.",
+        "memory_s": "Joseph Garcia attended a wellness retreat that highlighted the calming effects of chamomile tea and invigorating effects of green tea, leading to a beverage preference shift.",
+        "memory_l": "Joseph Garcia shared concerns about balancing the demands of his expanding role with his chronic health condition, hypertension.",
         "query_type": "Recommendation",
         "query": "I need something invigorating to help me power through this busy workday; what tea should I brew?",
         "options": {
@@ -1440,8 +1440,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia shared anecdotes about strategies employed to enhance film preservation techniques and received appreciation from clients.",
-        "memory_t": "Joseph Garcia remains committed to inspiring and engaging a new generation of film enthusiasts.",
+        "memory_s": "Joseph Garcia shared anecdotes about strategies employed to enhance film preservation techniques and received appreciation from clients.",
+        "memory_l": "Joseph Garcia remains committed to inspiring and engaging a new generation of film enthusiasts.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming workshop solely on advanced chemical emulsion restoration for archivists?",
         "options": {
@@ -1455,8 +1455,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia is organizing an upcoming film screening event as part of his film archive project.",
-        "memory_t": "Joseph established successful international partnerships with film archives and distributors, enhancing his film archive's reach and educational value.",
+        "memory_s": "Joseph Garcia is organizing an upcoming film screening event as part of his film archive project.",
+        "memory_l": "Joseph established successful international partnerships with film archives and distributors, enhancing his film archive's reach and educational value.",
         "query_type": "Advice",
         "query": "I am planning a new retrospective screening series for my archive project; should I try to source all the rare prints entirely on my own?",
         "options": {
@@ -1470,8 +1470,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia values the encouragement from friends JohnsonMichelle and JonesDavid in pursuing his passion for acting.",
-        "memory_t": "Receiving a prestigious award has elevated Joseph Garcia's status as an educator, enhancing his ability to influence and educate through his diversified film archive.",
+        "memory_s": "Joseph Garcia values the encouragement from friends JohnsonMichelle and JonesDavid in pursuing his passion for acting.",
+        "memory_l": "Receiving a prestigious award has elevated Joseph Garcia's status as an educator, enhancing his ability to influence and educate through his diversified film archive.",
         "query_type": "Advice",
         "query": "Should I pivot my career to focus entirely on pursuing acting roles?",
         "options": {
@@ -1485,8 +1485,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia received a prestigious award for excellence in film education on Feb 15, 2037, marking a significant milestone in his career.",
-        "memory_t": "Joseph Garcia plans to leverage his new position to further his goal of educating 100,000 people on the history of cinema.",
+        "memory_s": "Joseph Garcia received a prestigious award for excellence in film education on Feb 15, 2037, marking a significant milestone in his career.",
+        "memory_l": "Joseph Garcia plans to leverage his new position to further his goal of educating 100,000 people on the history of cinema.",
         "query_type": "Advice",
         "query": "Since I recently won that major award for film education, should I leverage that prestige to launch a series of purely profit-driven action movies?",
         "options": {
@@ -1500,8 +1500,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia plans to explore more competitive ballroom dancing events as a source of inspiration for creative expansion.",
-        "memory_t": "Joseph Garcia's health status changed, reason: The increased workload from expanding educational outreach has elevated his stress levels, necessitating new stress management strategies.",
+        "memory_s": "Joseph Garcia plans to explore more competitive ballroom dancing events as a source of inspiration for creative expansion.",
+        "memory_l": "Joseph Garcia's health status changed, reason: The increased workload from expanding educational outreach has elevated his stress levels, necessitating new stress management strategies.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming regional ballroom championships to boost my creative inspiration?",
         "options": {
@@ -1515,8 +1515,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia feels a stronger connection to sports that offer a direct narrative link to classic cinema, such as competitive ballroom dancing.",
-        "memory_t": "Joseph Garcia updated his job title from 'Founder' to 'Film Educator' and later to 'Film Director'.",
+        "memory_s": "Joseph Garcia feels a stronger connection to sports that offer a direct narrative link to classic cinema, such as competitive ballroom dancing.",
+        "memory_l": "Joseph Garcia updated his job title from 'Founder' to 'Film Educator' and later to 'Film Director'.",
         "query_type": "Advice",
         "query": "I am updating my professional bio for a new sports documentary project; should I emphasize my background as a Film Educator to connect with the audience?",
         "options": {
@@ -1530,8 +1530,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia recounted previous experiences with local screenings, informing his approach to managing larger-scale events.",
-        "memory_t": "Joseph Garcia is planning future enhancements of digital offerings based on audience feedback, focusing on technological advancements.",
+        "memory_s": "Joseph Garcia recounted previous experiences with local screenings, informing his approach to managing larger-scale events.",
+        "memory_l": "Joseph Garcia is planning future enhancements of digital offerings based on audience feedback, focusing on technological advancements.",
         "query_type": "Advice",
         "query": "Should I prioritize organizing more physical local screenings for our next big expansion?",
         "options": {
@@ -1545,8 +1545,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia shared anecdotes about past gaming experiences with puzzle games and their immersive storytelling elements.",
-        "memory_t": "Joseph plans to leverage digital platforms to enhance his educational programs by incorporating interactive elements and innovative content.",
+        "memory_s": "Joseph Garcia shared anecdotes about past gaming experiences with puzzle games and their immersive storytelling elements.",
+        "memory_l": "Joseph plans to leverage digital platforms to enhance his educational programs by incorporating interactive elements and innovative content.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming digital project purely on entertainment and immersive storytelling like the puzzle games I used to play?",
         "options": {
@@ -1560,8 +1560,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia Sports I like Tennis reason: I enjoy the elegance and strategic nature of the game.",
-        "memory_t": "Joseph Garcia is experiencing increased workload due to the expansion of his educational outreach programs.",
+        "memory_s": "Joseph Garcia Sports I like Tennis reason: I enjoy the elegance and strategic nature of the game.",
+        "memory_l": "Joseph Garcia is experiencing increased workload due to the expansion of his educational outreach programs.",
         "query_type": "Advice",
         "query": "Should I sign up for the local tennis league starting next week?",
         "options": {
@@ -1575,8 +1575,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia now likes to play strategic first-person shooters, appreciating their combination of action, strategic planning, and storytelling.",
-        "memory_t": "Joseph Garcia expressed a desire to explore sports with storytelling elements that can be integrated into his educational programs to engage audiences more deeply.",
+        "memory_s": "Joseph Garcia now likes to play strategic first-person shooters, appreciating their combination of action, strategic planning, and storytelling.",
+        "memory_l": "Joseph Garcia expressed a desire to explore sports with storytelling elements that can be integrated into his educational programs to engage audiences more deeply.",
         "query_type": "Recommendation",
         "query": "What new activity should I introduce to my group that combines deep strategy and rich narratives?",
         "options": {
@@ -1590,8 +1590,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph is excited about the potential to reach a global audience through digital platforms.",
-        "memory_t": "Joseph Garcia plans to expand his educational programs to reach more people and aims to collaborate with local schools and film societies.",
+        "memory_s": "Joseph is excited about the potential to reach a global audience through digital platforms.",
+        "memory_l": "Joseph Garcia plans to expand his educational programs to reach more people and aims to collaborate with local schools and film societies.",
         "query_type": "Advice",
         "query": "Should I focus my expansion efforts entirely on launching an exclusive online streaming service for global viewers?",
         "options": {
@@ -1605,8 +1605,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Joseph Garcia evaluated the impact of his educational programs on classic cinema and received positive feedback from attendees.",
-        "memory_t": "Joseph Garcia reflected on the philosophical implications of online education aligning with his life goal of reaching a broader audience.",
+        "memory_s": "Joseph Garcia evaluated the impact of his educational programs on classic cinema and received positive feedback from attendees.",
+        "memory_l": "Joseph Garcia reflected on the philosophical implications of online education aligning with his life goal of reaching a broader audience.",
         "query_type": "Advice",
         "query": "Should I focus my next educational series exclusively on in-person classic cinema workshops?",
         "options": {
@@ -1620,8 +1620,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Joseph Garcia discussed the philosophical implications of balancing chaos with strategy in gaming, reflecting his broader interest in narrative depth.",
-        "memory_t": "Joseph Garcia's mental health status changed from 'Calm' to 'Stressed'.",
+        "memory_s": "Joseph Garcia discussed the philosophical implications of balancing chaos with strategy in gaming, reflecting his broader interest in narrative depth.",
+        "memory_l": "Joseph Garcia's mental health status changed from 'Calm' to 'Stressed'.",
         "query_type": "Recommendation",
         "query": "Based on Joseph Garcia's interest in balancing chaos with strategy, which complex tactical game should I recommend to him right now?",
         "options": {
@@ -1635,8 +1635,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia recounted previous experiences with local screenings, informing his approach to managing larger-scale events.",
-        "memory_t": "Joseph expressed excitement about expanding his film archive's reach through international partnerships to share diverse cultural narratives.",
+        "memory_s": "Joseph Garcia recounted previous experiences with local screenings, informing his approach to managing larger-scale events.",
+        "memory_l": "Joseph expressed excitement about expanding his film archive's reach through international partnerships to share diverse cultural narratives.",
         "query_type": "Advice",
         "query": "Given my recent discussion about managing events based on local screenings, should I focus solely on local venues for the upcoming festival?",
         "options": {
@@ -1650,8 +1650,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia enjoys playing remastered classic adventure games for their improved graphics and nostalgic elements.",
-        "memory_t": "Joseph Garcia's professional recognition has solidified his reputation in the film preservation industry.",
+        "memory_s": "Joseph Garcia enjoys playing remastered classic adventure games for their improved graphics and nostalgic elements.",
+        "memory_l": "Joseph Garcia's professional recognition has solidified his reputation in the film preservation industry.",
         "query_type": "Advice",
         "query": "Should I publicly endorse the new remastered adventure game collection to boost my professional brand?",
         "options": {
@@ -1665,8 +1665,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia's beverage preference updated from liking Earl Grey tea to chamomile tea due to its relaxation benefits and alignment with his wellness-focused lifestyle.",
-        "memory_t": "Joseph Garcia manages his chronic health condition of hypertension while balancing his work at the film archive.",
+        "memory_s": "Joseph Garcia's beverage preference updated from liking Earl Grey tea to chamomile tea due to its relaxation benefits and alignment with his wellness-focused lifestyle.",
+        "memory_l": "Joseph Garcia manages his chronic health condition of hypertension while balancing his work at the film archive.",
         "query_type": "Advice",
         "query": "I'm feeling a bit stressed, so is it a good idea for me to switch back to drinking Earl Grey tea regularly?",
         "options": {
@@ -1680,8 +1680,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia discussed the philosophical balance between narrative puzzles and action games, reflecting on how this aligns with his lifestyle adaptations.",
-        "memory_t": "Joseph Garcia's health status changed, reason: The demands of entrepreneurship have increased his stress levels, necessitating new strategies to balance his health and work commitments. He continues to find solace in classic films, which help maintain his mental stability.",
+        "memory_s": "Joseph Garcia discussed the philosophical balance between narrative puzzles and action games, reflecting on how this aligns with his lifestyle adaptations.",
+        "memory_l": "Joseph Garcia's health status changed, reason: The demands of entrepreneurship have increased his stress levels, necessitating new strategies to balance his health and work commitments. He continues to find solace in classic films, which help maintain his mental stability.",
         "query_type": "Recommendation",
         "query": "I need something to help me unwind tonight; can you suggest a complex narrative puzzle game?",
         "options": {
@@ -1695,8 +1695,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia now finds the strategic depth of action games more engaging, mirroring his creative motivation to explore new ideas.",
-        "memory_t": "Joseph Garcia's career description updated to launching his own film archive, focusing on preserving and showcasing classic films.",
+        "memory_s": "Joseph Garcia now finds the strategic depth of action games more engaging, mirroring his creative motivation to explore new ideas.",
+        "memory_l": "Joseph Garcia's career description updated to launching his own film archive, focusing on preserving and showcasing classic films.",
         "query_type": "Advice",
         "query": "I want to dedicate my upcoming work hours to exploring the strategic narratives in modern action games as a primary creative outlet; do you think this is a good use of my professional time?",
         "options": {
@@ -1710,8 +1710,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia's passion for classic cinema influences his appreciation for artistic sports like synchronized swimming.",
-        "memory_t": "Joseph Garcia's major is Film Studies",
+        "memory_s": "Joseph Garcia's passion for classic cinema influences his appreciation for artistic sports like synchronized swimming.",
+        "memory_l": "Joseph Garcia's major is Film Studies",
         "query_type": "Advice",
         "query": "Should I switch my major to Kinesiology to focus on the mechanics of synchronized swimming?",
         "options": {
@@ -1725,8 +1725,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia's dedication to film education was validated by receiving a prestigious award, motivating him to expand his educational programs.",
-        "memory_t": "Joseph Garcia shared concerns about balancing the demands of his expanding role with his chronic health condition, hypertension.",
+        "memory_s": "Joseph Garcia's dedication to film education was validated by receiving a prestigious award, motivating him to expand his educational programs.",
+        "memory_l": "Joseph Garcia shared concerns about balancing the demands of his expanding role with his chronic health condition, hypertension.",
         "query_type": "Advice",
         "query": "Should I immediately launch a nationwide expansion of my film workshops to capitalize on my recent success?",
         "options": {
@@ -1740,8 +1740,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph acknowledged the challenges of managing a larger scale operation and the stress it brought, but implemented mindfulness practices to manage stress.",
-        "memory_t": "Joseph Garcia's chronic disease situation updated to 'Hypertension'.",
+        "memory_s": "Joseph acknowledged the challenges of managing a larger scale operation and the stress it brought, but implemented mindfulness practices to manage stress.",
+        "memory_l": "Joseph Garcia's chronic disease situation updated to 'Hypertension'.",
         "query_type": "Advice",
         "query": "Should I accept the promotion to lead the new global expansion project?",
         "options": {
@@ -1755,8 +1755,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia acknowledged the practicality of athleisure wear for casual scenarios, marking a significant evolution in his clothing preferences.",
-        "memory_t": "Joseph Garcia demonstrates a thoughtful approach to evolving clothing preferences, seeking guidance on informed decisions.",
+        "memory_s": "Joseph Garcia acknowledged the practicality of athleisure wear for casual scenarios, marking a significant evolution in his clothing preferences.",
+        "memory_l": "Joseph Garcia demonstrates a thoughtful approach to evolving clothing preferences, seeking guidance on informed decisions.",
         "query_type": "Advice",
         "query": "Should I just buy a bunch of sweatpants and hoodies for my new wardrobe update?",
         "options": {
@@ -1770,8 +1770,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Joseph Garcia has shifted his gaming preference from puzzle games with interactive storytelling to more dynamic and action-oriented games.",
-        "memory_t": "Joseph Garcia emphasized the importance of balancing innovation with personal health needs while managing his chronic health condition, hypertension, by taking regular breaks and practicing mindfulness.",
+        "memory_s": "Joseph Garcia has shifted his gaming preference from puzzle games with interactive storytelling to more dynamic and action-oriented games.",
+        "memory_l": "Joseph Garcia emphasized the importance of balancing innovation with personal health needs while managing his chronic health condition, hypertension, by taking regular breaks and practicing mindfulness.",
         "query_type": "Recommendation",
         "query": "Can you suggest some intense, fast-paced action titles for me to play all afternoon?",
         "options": {
@@ -1785,8 +1785,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Joseph Garcia expressed gratitude towards his network for their support during his transition to online education.",
-        "memory_t": "Joseph Garcia's career_status updated job_title from \"Online Film Educator\" to \"VR Film Educator\".",
+        "memory_s": "Joseph Garcia expressed gratitude towards his network for their support during his transition to online education.",
+        "memory_l": "Joseph Garcia's career_status updated job_title from \"Online Film Educator\" to \"VR Film Educator\".",
         "query_type": "Conversation",
         "query": "I want to draft a post thanking everyone for supporting my journey in online education, does that sound accurate?",
         "options": {
@@ -1800,8 +1800,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Joseph Garcia discussed the philosophical balance between maintaining aesthetic appreciation and embracing practicality in clothing choices.",
-        "memory_t": "Joseph Garcia expressed a desire to blend classic styles with modern trends for a more updated look, aiming to maintain his love for classic aesthetics.",
+        "memory_s": "Joseph Garcia discussed the philosophical balance between maintaining aesthetic appreciation and embracing practicality in clothing choices.",
+        "memory_l": "Joseph Garcia expressed a desire to blend classic styles with modern trends for a more updated look, aiming to maintain his love for classic aesthetics.",
         "query_type": "Advice",
         "query": "I'm thinking about buying a purely practical, utilitarian wardrobe with no stylistic flair to simplify my life; what do you think?",
         "options": {

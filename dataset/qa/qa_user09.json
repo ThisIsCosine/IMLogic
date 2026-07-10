@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Susan Thompson expressed excitement and optimism about incorporating backpacking into her travel routine, emphasizing the balance between comfort and freedom.",
-        "memory_t": "Susan Thompson adjusted her advocacy strategies to focus on digital platforms and virtual seminars to accommodate her health needs and reach a broader audience.",
+        "memory_s": "Susan Thompson expressed excitement and optimism about incorporating backpacking into her travel routine, emphasizing the balance between comfort and freedom.",
+        "memory_l": "Susan Thompson adjusted her advocacy strategies to focus on digital platforms and virtual seminars to accommodate her health needs and reach a broader audience.",
         "query_type": "Advice",
         "query": "Should I book a backpacking trip to the Andes to embrace more freedom in my travel routine?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Susan Thompson reflected on the impact of health setbacks on her career as a wellness coach and her determination to continue.",
-        "memory_t": "Susan Thompson aims to inspire 10,000 women through workshops by sharing her journey and insights on managing symptoms without medication.",
+        "memory_s": "Susan Thompson reflected on the impact of health setbacks on her career as a wellness coach and her determination to continue.",
+        "memory_l": "Susan Thompson aims to inspire 10,000 women through workshops by sharing her journey and insights on managing symptoms without medication.",
         "query_type": "Advice",
         "query": "Should I accept the sponsorship deal from the pharmaceutical company to promote their new pain management drug at my next workshop?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson feels a sense of emotional resonance and companionship from the imaginative worlds in science fiction novels.",
-        "memory_t": "Susan Thompson emphasized the importance of emotional support from friends Linda and Joseph, who provide encouragement and fresh perspectives during her career transition.",
+        "memory_s": "Susan Thompson feels a sense of emotional resonance and companionship from the imaginative worlds in science fiction novels.",
+        "memory_l": "Susan Thompson emphasized the importance of emotional support from friends Linda and Joseph, who provide encouragement and fresh perspectives during her career transition.",
         "query_type": "Advice",
         "query": "I am feeling lonely during this career shift, so should I dive into a new sci-fi book series to find that sense of companionship?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson expressed excitement about gaining new insights into technological advancements through science fiction novels.",
-        "memory_t": "Susan Thompson's instrumental motivation drives her to seek entertainment that supports relaxation and stress management.",
+        "memory_s": "Susan Thompson expressed excitement about gaining new insights into technological advancements through science fiction novels.",
+        "memory_l": "Susan Thompson's instrumental motivation drives her to seek entertainment that supports relaxation and stress management.",
         "query_type": "Recommendation",
         "query": "Can you recommend a complex science fiction novel that explores deep technological theories?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson acknowledged the transformative power of music in her wellness journey, similar to meditation.",
-        "memory_t": "Susan Thompson plans to incorporate insights from mindfulness practices into her health workshops to inspire other women.",
+        "memory_s": "Susan Thompson acknowledged the transformative power of music in her wellness journey, similar to meditation.",
+        "memory_l": "Susan Thompson plans to incorporate insights from mindfulness practices into her health workshops to inspire other women.",
         "query_type": "Advice",
         "query": "Should I focus the theme of my upcoming health workshop entirely on the transformative power of music?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "On Apr 09, 2036, Susan Thompson felt sluggish during a busy workday and tried a low-sugar energy drink.",
-        "memory_t": "Susan Thompson plans to incorporate her mindfulness and dietary change insights into her workshops to inspire other women facing similar challenges.",
+        "memory_s": "On Apr 09, 2036, Susan Thompson felt sluggish during a busy workday and tried a low-sugar energy drink.",
+        "memory_l": "Susan Thompson plans to incorporate her mindfulness and dietary change insights into her workshops to inspire other women facing similar challenges.",
         "query_type": "Advice",
         "query": "As Susan Thompson, should I consume a low-sugar energy drink to handle my sluggishness before this presentation?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's social network, including friends Linda and Joseph, has been instrumental in supporting her career transitions and health recovery.",
-        "memory_t": "Susan Thompson's career_status updated employment_status from \"unemployed\" to \"retired\"",
+        "memory_s": "Susan Thompson's social network, including friends Linda and Joseph, has been instrumental in supporting her career transitions and health recovery.",
+        "memory_l": "Susan Thompson's career_status updated employment_status from \"unemployed\" to \"retired\"",
         "query_type": "Advice",
         "query": "Should I ask Linda and Joseph to help me network for my next big career move?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "A friend recommended documentaries covering health and wellness topics, broadening Susan Thompson's interest.",
-        "memory_t": "Susan Thompson's career_status updated career_description from \"Retirement has opened up new possibilities for me to focus on my health and pursue personal interests without the pressure of a job.\" to \"I am excited to start my journey as a wellness coach, using my experiences to help others achieve their health goals.\"",
+        "memory_s": "A friend recommended documentaries covering health and wellness topics, broadening Susan Thompson's interest.",
+        "memory_l": "Susan Thompson's career_status updated career_description from \"Retirement has opened up new possibilities for me to focus on my health and pursue personal interests without the pressure of a job.\" to \"I am excited to start my journey as a wellness coach, using my experiences to help others achieve their health goals.\"",
         "query_type": "Advice",
         "query": "I'm thinking about spending my days relaxing and watching health documentaries, does that sound like a good plan?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Susan Thompson's travel preferences now include options that support her health and wellness journey.",
-        "memory_t": "Susan Thompson's instrumental motivation drives her to efficiently solve practical travel-related problems, ensuring her trips are both enjoyable and health-conscious.",
+        "memory_s": "Susan Thompson's travel preferences now include options that support her health and wellness journey.",
+        "memory_l": "Susan Thompson's instrumental motivation drives her to efficiently solve practical travel-related problems, ensuring her trips are both enjoyable and health-conscious.",
         "query_type": "Advice",
         "query": "I'm planning a trip to support my health and wellness journey; how should I approach selecting the activities and accommodations?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson realized the importance of creating a serene environment to support her health goals and plans to share this in her workshops.",
-        "memory_t": "Susan Thompson's dialogue revealed her emotional motivation to seek experiences that offer companionship and support for her health needs, which she plans to incorporate into her health workshops.",
+        "memory_s": "Susan Thompson realized the importance of creating a serene environment to support her health goals and plans to share this in her workshops.",
+        "memory_l": "Susan Thompson's dialogue revealed her emotional motivation to seek experiences that offer companionship and support for her health needs, which she plans to incorporate into her health workshops.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming workshop entirely on silent meditation and individual reflection to create the perfect environment?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson Foods I like to eat: Steamed vegetables",
-        "memory_t": "Susan Thompson plans to share insights from her air-frying experience in health workshops to inspire others facing similar dietary challenges.",
+        "memory_s": "Susan Thompson Foods I like to eat: Steamed vegetables",
+        "memory_l": "Susan Thompson plans to share insights from her air-frying experience in health workshops to inspire others facing similar dietary challenges.",
         "query_type": "Advice",
         "query": "I'm preparing my talk for the upcoming health workshop, should I demonstrate my favorite method of steaming vegetables?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson's travel preferences have evolved to include health-focused cruises.",
-        "memory_t": "Susan Thompson plans to incorporate insights from health-focused cruises into her workshops.",
+        "memory_s": "Susan Thompson's travel preferences have evolved to include health-focused cruises.",
+        "memory_l": "Susan Thompson plans to incorporate insights from health-focused cruises into her workshops.",
         "query_type": "Advice",
         "query": "Should I book this upcoming health-focused cruise purely as a relaxing vacation to disconnect from everything?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson reflects on the importance of aligning travel preferences with health and wellness objectives.",
-        "memory_t": "Susan Thompson plans to incorporate insights from health-focused cruises into her workshops.",
+        "memory_s": "Susan Thompson reflects on the importance of aligning travel preferences with health and wellness objectives.",
+        "memory_l": "Susan Thompson plans to incorporate insights from health-focused cruises into her workshops.",
         "query_type": "Recommendation",
         "query": "I am looking for a specific type of travel experience that aligns with my wellness goals; what should I book?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson emphasized the importance of emotional support from friends Linda and Joseph, who provide encouragement and fresh perspectives during her career transition.",
-        "memory_t": "Susan Thompson adjusted her advocacy strategies to focus on digital platforms and virtual seminars to accommodate her health needs and reach a broader audience.",
+        "memory_s": "Susan Thompson emphasized the importance of emotional support from friends Linda and Joseph, who provide encouragement and fresh perspectives during her career transition.",
+        "memory_l": "Susan Thompson adjusted her advocacy strategies to focus on digital platforms and virtual seminars to accommodate her health needs and reach a broader audience.",
         "query_type": "Advice",
         "query": "Should I organize an in-person workshop with Linda and Joseph to get their hands-on support for my new career path?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Susan Thompson expressed a renewed determination to balance her health with her professional aspirations as a wellness coach.",
-        "memory_t": "Susan Thompson feels a profound sense of relief and liberation after officially retiring.",
+        "memory_s": "Susan Thompson expressed a renewed determination to balance her health with her professional aspirations as a wellness coach.",
+        "memory_l": "Susan Thompson feels a profound sense of relief and liberation after officially retiring.",
         "query_type": "Advice",
         "query": "Can you help me draft a schedule for my new clients now that I'm back to coaching?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson is considering learning new skills in health sciences post-layoff to support her career shift and wellness goals.",
-        "memory_t": "Susan Thompson's savings amount is 95700 USD",
+        "memory_s": "Susan Thompson is considering learning new skills in health sciences post-layoff to support her career shift and wellness goals.",
+        "memory_l": "Susan Thompson's savings amount is 95700 USD",
         "query_type": "Advice",
         "query": "I'm thinking about enrolling in an intensive, two-year accelerated nursing program that costs $120,000 upfront; is this a good financial move for my career shift?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson expressed gratitude for the support from friends Linda and Joseph during her career transition.",
-        "memory_t": "Susan Thompson's age in January 2025 is 60 years old",
+        "memory_s": "Susan Thompson expressed gratitude for the support from friends Linda and Joseph during her career transition.",
+        "memory_l": "Susan Thompson's age in January 2025 is 60 years old",
         "query_type": "Advice",
         "query": "Considering the support I've received for my career transition, should I apply for the '30 Under 30' emerging leaders grant to boost my new path?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson plans to share her wellness plan insights in health workshops to inspire other women.",
-        "memory_t": "Susan Thompson's mental health status changed from \"Positive\" to \"Stressed\" due to increased anxiety.",
+        "memory_s": "Susan Thompson plans to share her wellness plan insights in health workshops to inspire other women.",
+        "memory_l": "Susan Thompson's mental health status changed from \"Positive\" to \"Stressed\" due to increased anxiety.",
         "query_type": "Advice",
         "query": "Should I sign up to lead the upcoming series of health workshops to inspire other women?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's dietary modification aligns with her life goal of achieving optimal health and inspiring others through her wellness coaching.",
-        "memory_t": "Susan Thompson expressed excitement and apprehension about her new role as a Strategic Wellness Planner, driven by her exploratory motivation to broaden her impact in the wellness industry.",
+        "memory_s": "Susan Thompson's dietary modification aligns with her life goal of achieving optimal health and inspiring others through her wellness coaching.",
+        "memory_l": "Susan Thompson expressed excitement and apprehension about her new role as a Strategic Wellness Planner, driven by her exploratory motivation to broaden her impact in the wellness industry.",
         "query_type": "Advice",
         "query": "Should I focus my immediate efforts on strict dietary modifications to inspire my clients?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson's appreciation for drama films aligns with her goals of achieving optimal health and wellness, using them as a tool for emotional exploration.",
-        "memory_t": "Susan Thompson plans to incorporate insights from documentaries into her health workshops to inspire others.",
+        "memory_s": "Susan Thompson's appreciation for drama films aligns with her goals of achieving optimal health and wellness, using them as a tool for emotional exploration.",
+        "memory_l": "Susan Thompson plans to incorporate insights from documentaries into her health workshops to inspire others.",
         "query_type": "Advice",
         "query": "Should I select a powerful drama film for my upcoming health workshop?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson plans to incorporate documentary insights into her workshops, focusing on health and wellness.",
-        "memory_t": "Susan Thompson's emotional state during the dialogue ranged from skepticism to enthusiastic relief about the benefits of air-fried foods.",
+        "memory_s": "Susan Thompson plans to incorporate documentary insights into her workshops, focusing on health and wellness.",
+        "memory_l": "Susan Thompson's emotional state during the dialogue ranged from skepticism to enthusiastic relief about the benefits of air-fried foods.",
         "query_type": "Advice",
         "query": "I'm planning my next workshop series based on my documentary insights; should I focus specifically on the benefits of deep-fried comfort foods?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson reflected on the importance of balancing energy needs with health considerations.",
-        "memory_t": "Susan Thompson is committed to achieving a sustainable balance between her professional responsibilities and health needs.",
+        "memory_s": "Susan Thompson reflected on the importance of balancing energy needs with health considerations.",
+        "memory_l": "Susan Thompson is committed to achieving a sustainable balance between her professional responsibilities and health needs.",
         "query_type": "Advice",
         "query": "Should I start drinking high-caffeine energy drinks to meet my energy needs?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson expressed excitement about gaining new insights into technological advancements through science fiction novels.",
-        "memory_t": "Susan Thompson's creative motivation drives her to integrate insights from self-help books into her health workshops and nutritional seminars.",
+        "memory_s": "Susan Thompson expressed excitement about gaining new insights into technological advancements through science fiction novels.",
+        "memory_l": "Susan Thompson's creative motivation drives her to integrate insights from self-help books into her health workshops and nutritional seminars.",
         "query_type": "Recommendation",
         "query": "What genre of books should I buy to find new material for my upcoming health workshops?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson expressed excitement about exploring holistic health guides for comprehensive wellness strategies.",
-        "memory_t": "Susan Thompson articulated her commitment to using her resources to develop innovative health strategies and workshops, including mindfulness meditation and nutritional guidance.",
+        "memory_s": "Susan Thompson expressed excitement about exploring holistic health guides for comprehensive wellness strategies.",
+        "memory_l": "Susan Thompson articulated her commitment to using her resources to develop innovative health strategies and workshops, including mindfulness meditation and nutritional guidance.",
         "query_type": "Advice",
         "query": "Should I dedicate my current budget to purchasing a large library of third-party wellness manuals?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson aims to balance the complexity of science fiction plots with her intrigue in futuristic technology.",
-        "memory_t": "Susan Thompson is experiencing increased anxiety, affecting her ability to focus and organize thoughts.",
+        "memory_s": "Susan Thompson aims to balance the complexity of science fiction plots with her intrigue in futuristic technology.",
+        "memory_l": "Susan Thompson is experiencing increased anxiety, affecting her ability to focus and organize thoughts.",
         "query_type": "Recommendation",
         "query": "Can you recommend a book with a highly intricate, multi-layered plot centered on futuristic technology?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson used clarificatory motivation to organize thoughts and gain perspective on her wellness journey.",
-        "memory_t": "Susan Thompson's increased workload in her new role as a Senior Wellness Coach has elevated her stress levels, requiring her to seek stress management strategies like mindfulness and time management.",
+        "memory_s": "Susan Thompson used clarificatory motivation to organize thoughts and gain perspective on her wellness journey.",
+        "memory_l": "Susan Thompson's increased workload in her new role as a Senior Wellness Coach has elevated her stress levels, requiring her to seek stress management strategies like mindfulness and time management.",
         "query_type": "Advice",
         "query": "Should I engage in deep clarificatory motivation exercises to organize my thoughts on my wellness journey?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson Beverages I dislike Alcohol reason: It tends to irritate my stomach and worsen my bloating symptoms.",
-        "memory_t": "Susan Thompson's chronic disease situation updated to 'Mild bloating'.",
+        "memory_s": "Susan Thompson Beverages I dislike Alcohol reason: It tends to irritate my stomach and worsen my bloating symptoms.",
+        "memory_l": "Susan Thompson's chronic disease situation updated to 'Mild bloating'.",
         "query_type": "Recommendation",
         "query": "What drink should Susan Thompson order to celebrate her promotion tonight?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's motivation is driven by personal health challenges and a desire to inspire others through workshops.",
-        "memory_t": "Susan Thompson's commitment to inspiring others through digital advocacy aligns with her health and professional goals, focusing on resilience, adaptability, and holistic wellness.",
+        "memory_s": "Susan Thompson's motivation is driven by personal health challenges and a desire to inspire others through workshops.",
+        "memory_l": "Susan Thompson's commitment to inspiring others through digital advocacy aligns with her health and professional goals, focusing on resilience, adaptability, and holistic wellness.",
         "query_type": "Advice",
         "query": "Should I begin organizing a series of in-person workshops to inspire others with my health journey?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson's commitment to health and wellness is reinforced by her willingness to experiment with dietary enhancements, such as the integration of herbs.",
-        "memory_t": "Susan Thompson reflected on her career progress transitioning into her role as a Lead Wellness Coach, feeling accomplished and optimistic.",
+        "memory_s": "Susan Thompson's commitment to health and wellness is reinforced by her willingness to experiment with dietary enhancements, such as the integration of herbs.",
+        "memory_l": "Susan Thompson reflected on her career progress transitioning into her role as a Lead Wellness Coach, feeling accomplished and optimistic.",
         "query_type": "Advice",
         "query": "Should I casually recommend this unverified herbal supplement to my client for their fatigue?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson emphasized the importance of maintaining a supportive community, including friends Linda and Joseph, to navigate career and health challenges.",
-        "memory_t": "Susan Thompson's commitment to her life goals is reinforced by her transition into retirement.",
+        "memory_s": "Susan Thompson emphasized the importance of maintaining a supportive community, including friends Linda and Joseph, to navigate career and health challenges.",
+        "memory_l": "Susan Thompson's commitment to her life goals is reinforced by her transition into retirement.",
         "query_type": "Advice",
         "query": "Should I reach out to Linda and Joseph to help me strategize my next big career move?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson is enthusiastic about leveraging her expanded social connections to inspire other women through workshops focused on holistic health and wellness.",
-        "memory_t": "Susan Thompson's physical health status changed from \"Improved\" to \"Deteriorated\" due to severe bloating and fatigue.",
+        "memory_s": "Susan Thompson is enthusiastic about leveraging her expanded social connections to inspire other women through workshops focused on holistic health and wellness.",
+        "memory_l": "Susan Thompson's physical health status changed from \"Improved\" to \"Deteriorated\" due to severe bloating and fatigue.",
         "query_type": "Advice",
         "query": "Should I go ahead and organize a series of inspirational workshops for women this month?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson Beverages I dislike: Energy drinks",
-        "memory_t": "Susan Thompson expressed relief and excitement at finding a low-sugar energy drink that aligns with her health goals.",
+        "memory_s": "Susan Thompson Beverages I dislike: Energy drinks",
+        "memory_l": "Susan Thompson expressed relief and excitement at finding a low-sugar energy drink that aligns with her health goals.",
         "query_type": "Recommendation",
         "query": "Should I avoid buying any energy drinks for my workout session?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson incorporated mild herbs like basil and thyme into her steamed vegetables to enhance flavor and provide health benefits without causing digestive discomfort.",
-        "memory_t": "Susan Thompson expressed a desire to inspire others through her health workshops, focusing on dietary modifications like air-frying.",
+        "memory_s": "Susan Thompson incorporated mild herbs like basil and thyme into her steamed vegetables to enhance flavor and provide health benefits without causing digestive discomfort.",
+        "memory_l": "Susan Thompson expressed a desire to inspire others through her health workshops, focusing on dietary modifications like air-frying.",
         "query_type": "Advice",
         "query": "I am planning my upcoming workshop menu; should I focus solely on demonstrating steamed vegetable recipes with mild herbs?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson experienced noticeable improvements in her physical and mental health after implementing refined health strategies and adopting a vegan diet.",
-        "memory_t": "Susan Thompson feels a sense of accomplishment in her advocacy work, despite facing health challenges.",
+        "memory_s": "Susan Thompson experienced noticeable improvements in her physical and mental health after implementing refined health strategies and adopting a vegan diet.",
+        "memory_l": "Susan Thompson feels a sense of accomplishment in her advocacy work, despite facing health challenges.",
         "query_type": "Advice",
         "query": "Should I continue strictly following my current diet plan to maintain my perfect health record?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan plans to allocate a portion of her increased income toward developing new wellness initiatives.",
-        "memory_t": "Susan Thompson's career_status updated employment_status from \"unemployed\" to \"retired\"",
+        "memory_s": "Susan plans to allocate a portion of her increased income toward developing new wellness initiatives.",
+        "memory_l": "Susan Thompson's career_status updated employment_status from \"unemployed\" to \"retired\"",
         "query_type": "Advice",
         "query": "How should I best structure the budget for the new wellness initiatives I'm funding with my increased income?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Susan Thompson Music I dislike Heavy metal reason: The loud and aggressive sound exacerbates my stress levels, which can worsen my bloating discomfort.",
-        "memory_t": "Susan Thompson is determined to balance her health needs with her career aspirations, despite recent setbacks.",
+        "memory_s": "Susan Thompson Music I dislike Heavy metal reason: The loud and aggressive sound exacerbates my stress levels, which can worsen my bloating discomfort.",
+        "memory_l": "Susan Thompson is determined to balance her health needs with her career aspirations, despite recent setbacks.",
         "query_type": "Recommendation",
         "query": "Can you suggest a high-energy playlist to keep me motivated while I work late on my career goals?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson plans to incorporate relaxation techniques like mindfulness meditation and adjust her workload to manage stress.",
-        "memory_t": "Susan Thompson's physical health status changed from \"Improved\" to \"Deteriorated\" due to severe bloating and fatigue.",
+        "memory_s": "Susan Thompson plans to incorporate relaxation techniques like mindfulness meditation and adjust her workload to manage stress.",
+        "memory_l": "Susan Thompson's physical health status changed from \"Improved\" to \"Deteriorated\" due to severe bloating and fatigue.",
         "query_type": "Advice",
         "query": "Should I proceed with adjusting my workload and starting mindfulness meditation to handle my current stress levels?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson receives emotional support and companionship from friends Linda and Joseph during her chronic disease diagnosis.",
-        "memory_t": "Susan Thompson's dialogue revealed a mix of determination, gratitude, and optimism in overcoming health challenges.",
+        "memory_s": "Susan Thompson receives emotional support and companionship from friends Linda and Joseph during her chronic disease diagnosis.",
+        "memory_l": "Susan Thompson's dialogue revealed a mix of determination, gratitude, and optimism in overcoming health challenges.",
         "query_type": "Advice",
         "query": "I am writing a journal entry about my recent struggles; should I focus on how dependent I feel on others for my emotional stability?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson gained a deeper understanding of her health needs, leading to lifestyle changes and the adoption of natural remedies to manage postmenopausal symptoms without medication.",
-        "memory_t": "Susan Thompson expressed a renewed determination to balance her health with her professional aspirations as a wellness coach.",
+        "memory_s": "Susan Thompson gained a deeper understanding of her health needs, leading to lifestyle changes and the adoption of natural remedies to manage postmenopausal symptoms without medication.",
+        "memory_l": "Susan Thompson expressed a renewed determination to balance her health with her professional aspirations as a wellness coach.",
         "query_type": "Advice",
         "query": "I am planning to completely step away from all work commitments to focus exclusively on holistic healing and natural symptom management; is this the right move for me?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson's beverage preference now includes herbal teas, which she finds beneficial for alleviating stress and bloating.",
-        "memory_t": "Susan Thompson is motivated to inspire others by sharing her experience with herbal teas to address health challenges.",
+        "memory_s": "Susan Thompson's beverage preference now includes herbal teas, which she finds beneficial for alleviating stress and bloating.",
+        "memory_l": "Susan Thompson is motivated to inspire others by sharing her experience with herbal teas to address health challenges.",
         "query_type": "Advice",
         "query": "Should I keep my new herbal tea habits completely private and to myself?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson expressed relief at finding a carbonated beverage option, sparkling water, that aligns with her health goals.",
-        "memory_t": "Susan Thompson aims to inspire others through her journey of balancing dietary restrictions with culinary exploration, showing that dietary changes can lead to new culinary adventures.",
+        "memory_s": "Susan Thompson expressed relief at finding a carbonated beverage option, sparkling water, that aligns with her health goals.",
+        "memory_l": "Susan Thompson aims to inspire others through her journey of balancing dietary restrictions with culinary exploration, showing that dietary changes can lead to new culinary adventures.",
         "query_type": "Advice",
         "query": "Should I just stick to sparkling water for my upcoming blog post about beverages?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson shared anecdotes of how her friends, especially Linda and Joseph, provided emotional support and motivation during her health journey.",
-        "memory_t": "Susan Thompson shared anecdotes of how her strategic planning influenced health program development.",
+        "memory_s": "Susan Thompson shared anecdotes of how her friends, especially Linda and Joseph, provided emotional support and motivation during her health journey.",
+        "memory_l": "Susan Thompson shared anecdotes of how her strategic planning influenced health program development.",
         "query_type": "Conversation",
         "query": "Seeing as Linda and Joseph were so involved, did they define the roadmap for the health initiative?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson acknowledges the role of her friends Linda and Joseph in providing emotional strength during her career transition.",
-        "memory_t": "Susan Thompson's career_status updated employment_status from \"unemployed\" to \"retired\"",
+        "memory_s": "Susan Thompson acknowledges the role of her friends Linda and Joseph in providing emotional strength during her career transition.",
+        "memory_l": "Susan Thompson's career_status updated employment_status from \"unemployed\" to \"retired\"",
         "query_type": "Advice",
         "query": "Given how much Linda and Joseph helped me during my recent transition, should I ask them to review my resume for new job applications?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Susan Thompson incorporated mild herbs like basil and thyme into her steamed vegetables to enhance flavor and provide health benefits without causing digestive discomfort.",
-        "memory_t": "Susan Thompson's purchase of an air fryer aligns with her social motivation to express identity and entertain others through food choices.",
+        "memory_s": "Susan Thompson incorporated mild herbs like basil and thyme into her steamed vegetables to enhance flavor and provide health benefits without causing digestive discomfort.",
+        "memory_l": "Susan Thompson's purchase of an air fryer aligns with her social motivation to express identity and entertain others through food choices.",
         "query_type": "Advice",
         "query": "Should I stick to simple steamed vegetables with mild herbs like basil and thyme for my upcoming dinner party?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Susan Thompson is determined to balance her health needs with her career aspirations, motivated by her instrumental motivation to solve practical problems.",
-        "memory_t": "Susan Thompson's emotional state during the dialogue ranged from relief to optimism, noting the positive impact of her work-life balance adjustments and the support from her friends.",
+        "memory_s": "Susan Thompson is determined to balance her health needs with her career aspirations, motivated by her instrumental motivation to solve practical problems.",
+        "memory_l": "Susan Thompson's emotional state during the dialogue ranged from relief to optimism, noting the positive impact of her work-life balance adjustments and the support from her friends.",
         "query_type": "Advice",
         "query": "Should I initiate a rigorous new project management strategy to solve the inefficiencies in my department?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson feels gratitude for her social network's support, particularly from friends Linda and Joseph, during her career transition to a Senior Wellness Coach.",
-        "memory_t": "Susan Thompson's career_status updated career_description from \"Being laid off was unexpected, but it has allowed me to prioritize my health and explore new paths without the constraints of a full-time job.\" to \"Retirement has opened up new possibilities for me to focus on my health and pursue personal interests without the pressure of a job.\"",
+        "memory_s": "Susan Thompson feels gratitude for her social network's support, particularly from friends Linda and Joseph, during her career transition to a Senior Wellness Coach.",
+        "memory_l": "Susan Thompson's career_status updated career_description from \"Being laid off was unexpected, but it has allowed me to prioritize my health and explore new paths without the constraints of a full-time job.\" to \"Retirement has opened up new possibilities for me to focus on my health and pursue personal interests without the pressure of a job.\"",
         "query_type": "Advice",
         "query": "Should I start scheduling my first client sessions for my new role as a Senior Wellness Coach?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Susan Thompson Beverages I dislike: Carbonated drinks",
-        "memory_t": "Susan Thompson's emotional state during the dialogue ranged from reflective to determined, emphasizing her commitment to health-focused choices.",
+        "memory_s": "Susan Thompson Beverages I dislike: Carbonated drinks",
+        "memory_l": "Susan Thompson's emotional state during the dialogue ranged from reflective to determined, emphasizing her commitment to health-focused choices.",
         "query_type": "Recommendation",
         "query": "Can you suggest a refreshing beverage for me right now?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's travel preference has evolved to include small group tours that offer flexibility in scheduling and dietary accommodations, supporting her health needs.",
-        "memory_t": "Susan Thompson plans to incorporate insights from health-focused cruises into her workshops.",
+        "memory_s": "Susan Thompson's travel preference has evolved to include small group tours that offer flexibility in scheduling and dietary accommodations, supporting her health needs.",
+        "memory_l": "Susan Thompson plans to incorporate insights from health-focused cruises into her workshops.",
         "query_type": "Recommendation",
         "query": "What type of travel experience should I book to gather research for my upcoming health workshops?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's evolving music preferences reflect her exploratory motivation and interest in stress management.",
-        "memory_t": "Susan Thompson plans to leverage her experiences with stress management techniques, including mindfulness and time management, in her health workshops.",
+        "memory_s": "Susan Thompson's evolving music preferences reflect her exploratory motivation and interest in stress management.",
+        "memory_l": "Susan Thompson plans to leverage her experiences with stress management techniques, including mindfulness and time management, in her health workshops.",
         "query_type": "Advice",
         "query": "Should I pivot my upcoming health workshop to focus exclusively on music appreciation?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson emphasized the need for emotional support and companionship while coping with health challenges during her career transition.",
-        "memory_t": "Susan Thompson's emotional state shifts from stressed to calm and optimistic when observing her fish.",
+        "memory_s": "Susan Thompson emphasized the need for emotional support and companionship while coping with health challenges during her career transition.",
+        "memory_l": "Susan Thompson's emotional state shifts from stressed to calm and optimistic when observing her fish.",
         "query_type": "Recommendation",
         "query": "I feel overwhelmed by my career shift and health issues; what kind of new companion animal should I adopt for emotional support?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson views retirement as an opportunity to focus entirely on health and personal interests.",
-        "memory_t": "Susan Thompson plans to share her wellness plan insights in health workshops to inspire other women.",
+        "memory_s": "Susan Thompson views retirement as an opportunity to focus entirely on health and personal interests.",
+        "memory_l": "Susan Thompson plans to share her wellness plan insights in health workshops to inspire other women.",
         "query_type": "Advice",
         "query": "Should I keep my retirement schedule completely cleared of any public obligations to focus only on myself?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson acknowledged the benefits of incorporating rich foods in moderation to manage dietary restrictions.",
-        "memory_t": "Susan Thompson aims to share insights from her experience with lactose-free dairy products in her health workshops to inspire others.",
+        "memory_s": "Susan Thompson acknowledged the benefits of incorporating rich foods in moderation to manage dietary restrictions.",
+        "memory_l": "Susan Thompson aims to share insights from her experience with lactose-free dairy products in her health workshops to inspire others.",
         "query_type": "Recommendation",
         "query": "What type of rich, creamy dessert should I demonstrate making live at my upcoming health workshop?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson expressed excitement about exploring holistic health guides for comprehensive wellness strategies.",
-        "memory_t": "Susan Thompson plans to share her wellness plan insights in health workshops to inspire other women.",
+        "memory_s": "Susan Thompson expressed excitement about exploring holistic health guides for comprehensive wellness strategies.",
+        "memory_l": "Susan Thompson plans to share her wellness plan insights in health workshops to inspire other women.",
         "query_type": "Advice",
         "query": "Should I keep the detailed holistic health guides I'm reading completely private and undocumented?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson expressed excitement about integrating stress management strategies from self-help books into her daily routine and workshops.",
-        "memory_t": "Susan Thompson's mental health status changed from \"Positive\" to \"Stressed\" due to increased anxiety.",
+        "memory_s": "Susan Thompson expressed excitement about integrating stress management strategies from self-help books into her daily routine and workshops.",
+        "memory_l": "Susan Thompson's mental health status changed from \"Positive\" to \"Stressed\" due to increased anxiety.",
         "query_type": "Advice",
         "query": "Should Susan Thompson proceed with creating workshops based on the self-help books she has been reading?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson plans to use backpacking for short trips, focusing on destinations that offer tranquility and nature, allowing for more spontaneous travel.",
-        "memory_t": "Susan Thompson's mental illness situation involves persistent anxiety.",
+        "memory_s": "Susan Thompson plans to use backpacking for short trips, focusing on destinations that offer tranquility and nature, allowing for more spontaneous travel.",
+        "memory_l": "Susan Thompson's mental illness situation involves persistent anxiety.",
         "query_type": "Advice",
         "query": "Should I plan a spontaneous backpacking trip to a remote nature spot?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson views retirement as an opportunity to focus entirely on health and personal interests.",
-        "memory_t": "Susan Thompson expressed determination to continue balancing her health needs with her career aspirations.",
+        "memory_s": "Susan Thompson views retirement as an opportunity to focus entirely on health and personal interests.",
+        "memory_l": "Susan Thompson expressed determination to continue balancing her health needs with her career aspirations.",
         "query_type": "Advice",
         "query": "Should I go ahead and retire now to focus exclusively on my health and hobbies?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson's viewing of a critically acclaimed drama struck a chord, highlighting parallels with her personal experiences, particularly her journey through postmenopausal health struggles.",
-        "memory_t": "Susan Thompson expressed relief and optimism about her health improvements, noting the positive impact on her career focus.",
+        "memory_s": "Susan Thompson's viewing of a critically acclaimed drama struck a chord, highlighting parallels with her personal experiences, particularly her journey through postmenopausal health struggles.",
+        "memory_l": "Susan Thompson expressed relief and optimism about her health improvements, noting the positive impact on her career focus.",
         "query_type": "Conversation",
         "query": "I feel like dwelling on that heavy drama about health struggles I watched recently, do you think I should spend the evening reflecting on those difficult times?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan's financial growth aligns with her long-term goal of expanding influence in the health sector.",
-        "memory_t": "Susan Thompson's monthly income is updated to $5000.",
+        "memory_s": "Susan's financial growth aligns with her long-term goal of expanding influence in the health sector.",
+        "memory_l": "Susan Thompson's monthly income is updated to $5000.",
         "query_type": "Advice",
         "query": "Should I purchase the majority stake in the new private hospital downtown to boost my sector influence?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Susan Thompson expressed gratitude for the support from friends Linda and Joseph during her career transition.",
-        "memory_t": "Susan Thompson's commitment to her life goals is reinforced by her transition into retirement.",
+        "memory_s": "Susan Thompson expressed gratitude for the support from friends Linda and Joseph during her career transition.",
+        "memory_l": "Susan Thompson's commitment to her life goals is reinforced by her transition into retirement.",
         "query_type": "Advice",
         "query": "Should I start looking for new full-time corporate roles to leverage my recent career transition?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson articulated her commitment to using her resources to develop innovative health strategies and workshops, including mindfulness meditation and nutritional guidance.",
-        "memory_t": "Susan Thompson's monthly income is updated to $5000.",
+        "memory_s": "Susan Thompson articulated her commitment to using her resources to develop innovative health strategies and workshops, including mindfulness meditation and nutritional guidance.",
+        "memory_l": "Susan Thompson's monthly income is updated to $5000.",
         "query_type": "Advice",
         "query": "Should I go ahead and fund the launch of my new series of comprehensive health workshops and strategy development programs?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Susan Thompson expressed excitement about exploring more techno tracks to support her health goals.",
-        "memory_t": "Susan Thompson's mental illness situation involves persistent anxiety.",
+        "memory_s": "Susan Thompson expressed excitement about exploring more techno tracks to support her health goals.",
+        "memory_l": "Susan Thompson's mental illness situation involves persistent anxiety.",
         "query_type": "Recommendation",
         "query": "Can you recommend some high-energy techno tracks for me to listen to right now?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson articulated her commitment to using her resources to develop innovative health strategies and workshops, including mindfulness meditation and nutritional guidance.",
-        "memory_t": "Susan Thompson's monthly income increased from 6500 yuan to 8000 yuan.",
+        "memory_s": "Susan Thompson articulated her commitment to using her resources to develop innovative health strategies and workshops, including mindfulness meditation and nutritional guidance.",
+        "memory_l": "Susan Thompson's monthly income increased from 6500 yuan to 8000 yuan.",
         "query_type": "Advice",
         "query": "Given Susan Thompson's commitment to developing innovative health strategies and workshops, is it financially prudent for her to launch a comprehensive series of high-end wellness workshops this month?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Susan Thompson discovered a lightweight, eco-friendly backpack that provides comfort and support, influencing her travel preferences and supporting her health goals.",
-        "memory_t": "Susan Thompson considers incorporating gentle travel experiences into her lifestyle to support her health journey.",
+        "memory_s": "Susan Thompson discovered a lightweight, eco-friendly backpack that provides comfort and support, influencing her travel preferences and supporting her health goals.",
+        "memory_l": "Susan Thompson considers incorporating gentle travel experiences into her lifestyle to support her health journey.",
         "query_type": "Advice",
         "query": "I'm planning my next trip and want to use my new eco-friendly backpack, should I book a multi-day mountain trekking expedition?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson gained a deeper understanding of her health needs, leading to lifestyle changes and the adoption of natural remedies to manage postmenopausal symptoms without medication.",
-        "memory_t": "Susan Thompson's physical health status changed from \"Recovered\" to \"Deteriorated\" due to severe bloating and fatigue.",
+        "memory_s": "Susan Thompson gained a deeper understanding of her health needs, leading to lifestyle changes and the adoption of natural remedies to manage postmenopausal symptoms without medication.",
+        "memory_l": "Susan Thompson's physical health status changed from \"Recovered\" to \"Deteriorated\" due to severe bloating and fatigue.",
         "query_type": "Advice",
         "query": "I want to start a new regimen of herbal supplements to handle my postmenopausal symptoms naturally, do you think this is a good idea?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson experienced a deeper connection with drama films during a weekend retreat focused on emotional wellness, which resonated with her personal experiences.",
-        "memory_t": "Susan Thompson plans to incorporate documentary insights into her workshops, focusing on health and wellness.",
+        "memory_s": "Susan Thompson experienced a deeper connection with drama films during a weekend retreat focused on emotional wellness, which resonated with her personal experiences.",
+        "memory_l": "Susan Thompson plans to incorporate documentary insights into her workshops, focusing on health and wellness.",
         "query_type": "Recommendation",
         "query": "What genre of film should I select for the upcoming session of my wellness workshop?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's colleague recommended trying a low-sugar energy drink, which provided a positive experience.",
-        "memory_t": "Susan Thompson plans to incorporate practical strategies from her personal wellness journey into her coaching practice, focusing on managing postmenopausal symptoms naturally.",
+        "memory_s": "Susan Thompson's colleague recommended trying a low-sugar energy drink, which provided a positive experience.",
+        "memory_l": "Susan Thompson plans to incorporate practical strategies from her personal wellness journey into her coaching practice, focusing on managing postmenopausal symptoms naturally.",
         "query_type": "Advice",
         "query": "Should I stock up on those low-sugar energy drinks for my upcoming coaching sessions?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson gained a deeper understanding of her health needs, leading to lifestyle changes and the adoption of natural remedies to manage postmenopausal symptoms without medication.",
-        "memory_t": "Susan Thompson is determined to balance her health needs with her career aspirations, despite recent setbacks.",
+        "memory_s": "Susan Thompson gained a deeper understanding of her health needs, leading to lifestyle changes and the adoption of natural remedies to manage postmenopausal symptoms without medication.",
+        "memory_l": "Susan Thompson is determined to balance her health needs with her career aspirations, despite recent setbacks.",
         "query_type": "Advice",
         "query": "Given my new focus on natural remedies for postmenopausal symptoms, should I take an extended sabbatical to fully dedicate myself to this lifestyle change?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson is relieved to have time to focus on personal wellness post-layoff, aiming to improve her wellness score to 95/100.",
-        "memory_t": "Susan Thompson's increased workload in her new role as a Senior Wellness Coach has elevated her stress levels, requiring her to seek stress management strategies like mindfulness and time management.",
+        "memory_s": "Susan Thompson is relieved to have time to focus on personal wellness post-layoff, aiming to improve her wellness score to 95/100.",
+        "memory_l": "Susan Thompson's increased workload in her new role as a Senior Wellness Coach has elevated her stress levels, requiring her to seek stress management strategies like mindfulness and time management.",
         "query_type": "Advice",
         "query": "Since I'm currently unemployed and have plenty of free time, should I commit to that intensive 6-week wellness bootcamp to finally reach my 95/100 score?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson is considering adopting another cat to enhance her emotional well-being.",
-        "memory_t": "Susan Thompson's emotional state during the dialogue ranged from skeptical to optimistic as she considered the benefits of a calm dog for companionship.",
+        "memory_s": "Susan Thompson is considering adopting another cat to enhance her emotional well-being.",
+        "memory_l": "Susan Thompson's emotional state during the dialogue ranged from skeptical to optimistic as she considered the benefits of a calm dog for companionship.",
         "query_type": "Advice",
         "query": "Should I proceed with adopting another cat to help improve my emotional well-being?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson emphasized the importance of emotional support from friends Linda and Joseph, who provide encouragement and fresh perspectives during her career transition.",
-        "memory_t": "Susan Thompson's chronic disease situation updated to \"Severe bloating and fatigue\", exacerbated by new advocacy responsibilities.",
+        "memory_s": "Susan Thompson emphasized the importance of emotional support from friends Linda and Joseph, who provide encouragement and fresh perspectives during her career transition.",
+        "memory_l": "Susan Thompson's chronic disease situation updated to \"Severe bloating and fatigue\", exacerbated by new advocacy responsibilities.",
         "query_type": "Advice",
         "query": "I'm thinking about organizing a long dinner and brainstorming session with Linda and Joseph tonight to discuss my career shift; is this a good plan?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan's financial growth aligns with her long-term goal of expanding influence in the health sector.",
-        "memory_t": "Susan Thompson expressed frustration over her health deterioration impacting her career as a wellness coach.",
+        "memory_s": "Susan's financial growth aligns with her long-term goal of expanding influence in the health sector.",
+        "memory_l": "Susan Thompson expressed frustration over her health deterioration impacting her career as a wellness coach.",
         "query_type": "Advice",
         "query": "Should I launch an aggressive new marketing campaign to expand my influence in the health sector?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson is determined to balance her health needs with her career aspirations, despite recent setbacks.",
-        "memory_t": "Susan Thompson reflected on her journey over the past year, feeling a profound sense of achievement in both her career and personal health.",
+        "memory_s": "Susan Thompson is determined to balance her health needs with her career aspirations, despite recent setbacks.",
+        "memory_l": "Susan Thompson reflected on her journey over the past year, feeling a profound sense of achievement in both her career and personal health.",
         "query_type": "Conversation",
         "query": "Do I still need to worry about overcoming major setbacks in my health and career?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson experienced emotional support from her nutritionist, which has been a significant motivator in encouraging dietary modifications.",
-        "memory_t": "Susan Thompson's motivation for pursuing goals: Driven by personal experiences with severe bloating and health challenges post-menopause.",
+        "memory_s": "Susan Thompson experienced emotional support from her nutritionist, which has been a significant motivator in encouraging dietary modifications.",
+        "memory_l": "Susan Thompson's motivation for pursuing goals: Driven by personal experiences with severe bloating and health challenges post-menopause.",
         "query_type": "Advice",
         "query": "Should I keep seeing my current nutritionist primarily because she makes me feel emotionally supported?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson plans to incorporate more small group tours into her future travel plans to enhance her wellness journey, valuing the balance of social interaction and personal health management.",
-        "memory_t": "Susan Thompson's mental illness situation updated to \"Increased anxiety\", affecting her mental health.",
+        "memory_s": "Susan Thompson plans to incorporate more small group tours into her future travel plans to enhance her wellness journey, valuing the balance of social interaction and personal health management.",
+        "memory_l": "Susan Thompson's mental illness situation updated to \"Increased anxiety\", affecting her mental health.",
         "query_type": "Advice",
         "query": "Should I book that small group tour to Japan for my next wellness trip?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson plans to implement mindfulness practices and time management techniques to manage stress levels effectively.",
-        "memory_t": "Susan Thompson's mental health status changed from 'Highly Stressed' to 'Stable'.",
+        "memory_s": "Susan Thompson plans to implement mindfulness practices and time management techniques to manage stress levels effectively.",
+        "memory_l": "Susan Thompson's mental health status changed from 'Highly Stressed' to 'Stable'.",
         "query_type": "Advice",
         "query": "Should I start an intensive mindfulness and time management regimen to lower my high stress levels?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's appreciation for documentaries has deepened due to their practical insights into health and wellness, particularly in managing postmenopausal symptoms naturally.",
-        "memory_t": "Susan Thompson plans to incorporate insights from health documentaries into her workshops to inspire others, aiming to reach 10,000 women.",
+        "memory_s": "Susan Thompson's appreciation for documentaries has deepened due to their practical insights into health and wellness, particularly in managing postmenopausal symptoms naturally.",
+        "memory_l": "Susan Thompson plans to incorporate insights from health documentaries into her workshops to inspire others, aiming to reach 10,000 women.",
         "query_type": "Advice",
         "query": "Should I keep the health insights from these documentaries exclusively for my own personal use?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's appreciation for drama films has deepened due to their emotional narratives and complex characters, reflecting her own journey through postmenopausal health struggles.",
-        "memory_t": "Susan Thompson's mental illness situation updated to \"Increased anxiety\", affecting her mental health.",
+        "memory_s": "Susan Thompson's appreciation for drama films has deepened due to their emotional narratives and complex characters, reflecting her own journey through postmenopausal health struggles.",
+        "memory_l": "Susan Thompson's mental illness situation updated to \"Increased anxiety\", affecting her mental health.",
         "query_type": "Recommendation",
         "query": "Can you suggest a movie with a deep, emotional narrative and complex characters for me to watch tonight?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's life goal statement: Achieve optimal health and wellness, manage postmenopausal symptoms effectively, and inspire others to prioritize their health.",
-        "memory_t": "Susan Thompson's mental health status changed from \"Moderately Stressed\" to \"Highly Stressed\" due to her new role as a Senior Wellness Coach.",
+        "memory_s": "Susan Thompson's life goal statement: Achieve optimal health and wellness, manage postmenopausal symptoms effectively, and inspire others to prioritize their health.",
+        "memory_l": "Susan Thompson's mental health status changed from \"Moderately Stressed\" to \"Highly Stressed\" due to her new role as a Senior Wellness Coach.",
         "query_type": "Advice",
         "query": "Should I launch a new community mentorship program to help others prioritize their wellness?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson expressed gratitude for the support from her friends Linda and Joseph, who have been instrumental during her career transition and health recovery.",
-        "memory_t": "Susan Thompson's instrumental motivation drives her to efficiently solve health-related challenges for her clients as a wellness coach.",
+        "memory_s": "Susan Thompson expressed gratitude for the support from her friends Linda and Joseph, who have been instrumental during her career transition and health recovery.",
+        "memory_l": "Susan Thompson's instrumental motivation drives her to efficiently solve health-related challenges for her clients as a wellness coach.",
         "query_type": "Conversation",
         "query": "Is the support from Linda and Joseph the primary driver of my motivation right now?",
         "options": {
@@ -1185,8 +1185,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson plans to use backpacking for short trips, focusing on destinations that offer tranquility and nature, allowing for more spontaneous travel.",
-        "memory_t": "Susan Thompson's chronic disease situation updated to \"Severe bloating and fatigue\", exacerbated by new advocacy responsibilities.",
+        "memory_s": "Susan Thompson plans to use backpacking for short trips, focusing on destinations that offer tranquility and nature, allowing for more spontaneous travel.",
+        "memory_l": "Susan Thompson's chronic disease situation updated to \"Severe bloating and fatigue\", exacerbated by new advocacy responsibilities.",
         "query_type": "Advice",
         "query": "Would a spontaneous backpacking trip be a good way for me to find some tranquility right now?",
         "options": {
@@ -1200,8 +1200,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson has modified her food preference to include lactose-free dairy products.",
-        "memory_t": "Susan Thompson's instrumental motivation drives her to solve practical health problems, including finding suitable dietary alternatives and exercise routines.",
+        "memory_s": "Susan Thompson has modified her food preference to include lactose-free dairy products.",
+        "memory_l": "Susan Thompson's instrumental motivation drives her to solve practical health problems, including finding suitable dietary alternatives and exercise routines.",
         "query_type": "Advice",
         "query": "Should I switch my diet to focus exclusively on finding lactose-free dairy products to satisfy my cravings?",
         "options": {
@@ -1215,8 +1215,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson is determined to persist in her advocacy efforts, focusing on health and wellness, using mindfulness practices.",
-        "memory_t": "Susan Thompson feels a sense of accomplishment in her advocacy work, despite facing health challenges.",
+        "memory_s": "Susan Thompson is determined to persist in her advocacy efforts, focusing on health and wellness, using mindfulness practices.",
+        "memory_l": "Susan Thompson feels a sense of accomplishment in her advocacy work, despite facing health challenges.",
         "query_type": "Advice",
         "query": "Should I dive deeper into my current advocacy projects?",
         "options": {
@@ -1230,8 +1230,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's appreciation for drama films aligns with her goals of achieving optimal health and wellness, using them as a tool for emotional exploration.",
-        "memory_t": "Susan Thompson's career_description updated to reflect her investment in wellness projects and expanded influence in the health sector due to her salary increase.",
+        "memory_s": "Susan Thompson's appreciation for drama films aligns with her goals of achieving optimal health and wellness, using them as a tool for emotional exploration.",
+        "memory_l": "Susan Thompson's career_description updated to reflect her investment in wellness projects and expanded influence in the health sector due to her salary increase.",
         "query_type": "Advice",
         "query": "Since I want to align my hobbies with my work, should I start a professional blog reviewing the latest drama films?",
         "options": {
@@ -1245,8 +1245,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Susan Thompson's travel preference modification reflects her practical approach to managing health needs during travel, considering both small group and solo travel styles.",
-        "memory_t": "Susan Thompson's retirement has allowed her to invest more time in nurturing relationships, which she finds rewarding and motivating.",
+        "memory_s": "Susan Thompson's travel preference modification reflects her practical approach to managing health needs during travel, considering both small group and solo travel styles.",
+        "memory_l": "Susan Thompson's retirement has allowed her to invest more time in nurturing relationships, which she finds rewarding and motivating.",
         "query_type": "Recommendation",
         "query": "Considering my practical approach to health management during travel, would a long-term solo wellness trip be the best choice for me right now?",
         "options": {
@@ -1260,8 +1260,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson shared specific examples of individuals positively impacted by her workshops, recounting their stories and encouragement received.",
-        "memory_t": "Susan Thompson's commitment to inspiring others through digital advocacy aligns with her health and professional goals, focusing on resilience, adaptability, and holistic wellness.",
+        "memory_s": "Susan Thompson shared specific examples of individuals positively impacted by her workshops, recounting their stories and encouragement received.",
+        "memory_l": "Susan Thompson's commitment to inspiring others through digital advocacy aligns with her health and professional goals, focusing on resilience, adaptability, and holistic wellness.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming content strategy primarily on sharing specific in-person workshop success stories?",
         "options": {
@@ -1275,8 +1275,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson expressed a deepening appreciation for the stress-relieving qualities of cats, reinforcing their positive impact on her health and wellness.",
-        "memory_t": "Susan Thompson plans to introduce more mindfulness techniques and stress management strategies in her workshops.",
+        "memory_s": "Susan Thompson expressed a deepening appreciation for the stress-relieving qualities of cats, reinforcing their positive impact on her health and wellness.",
+        "memory_l": "Susan Thompson plans to introduce more mindfulness techniques and stress management strategies in her workshops.",
         "query_type": "Recommendation",
         "query": "Since I've found cats so helpful for my own stress relief, should I pivot my immediate professional focus to center entirely on animal-assisted therapy?",
         "options": {
@@ -1290,8 +1290,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson Foods I dislike Dairy products reason: I find them difficult to digest, often leading to increased bloating and discomfort.",
-        "memory_t": "Susan Thompson aims to share insights from her experience with lactose-free dairy products in her health workshops to inspire others.",
+        "memory_s": "Susan Thompson Foods I dislike Dairy products reason: I find them difficult to digest, often leading to increased bloating and discomfort.",
+        "memory_l": "Susan Thompson aims to share insights from her experience with lactose-free dairy products in her health workshops to inspire others.",
         "query_type": "Advice",
         "query": "Should I avoid discussing milk and cheese options in my upcoming health presentation?",
         "options": {
@@ -1305,8 +1305,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson's focus on tranquility and relaxation has become increasingly important in her wellness journey, emphasizing the calming effects of observing fish.",
-        "memory_t": "Susan Thompson's instrumental motivation drives her to use birdwatching as a practical means to enhance her mental well-being.",
+        "memory_s": "Susan Thompson's focus on tranquility and relaxation has become increasingly important in her wellness journey, emphasizing the calming effects of observing fish.",
+        "memory_l": "Susan Thompson's instrumental motivation drives her to use birdwatching as a practical means to enhance her mental well-being.",
         "query_type": "Recommendation",
         "query": "What activity should I prioritize today to best support my mental wellness journey?",
         "options": {
@@ -1320,8 +1320,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan plans to explore innovative health strategies with the financial resources available from her salary increase.",
-        "memory_t": "Susan Thompson is experiencing severe bloating and fatigue, impacting her career as a wellness coach.",
+        "memory_s": "Susan plans to explore innovative health strategies with the financial resources available from her salary increase.",
+        "memory_l": "Susan Thompson is experiencing severe bloating and fatigue, impacting her career as a wellness coach.",
         "query_type": "Advice",
         "query": "How should I allocate my new funds to try out cutting-edge wellness trends?",
         "options": {
@@ -1335,8 +1335,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson acknowledged the impact of stress on her physical and mental health, expressing determination to balance health with career aspirations.",
-        "memory_t": "Susan Thompson's physical health status changed from 'Deteriorated' to 'Recovered'.",
+        "memory_s": "Susan Thompson acknowledged the impact of stress on her physical and mental health, expressing determination to balance health with career aspirations.",
+        "memory_l": "Susan Thompson's physical health status changed from 'Deteriorated' to 'Recovered'.",
         "query_type": "Advice",
         "query": "Do you think I should turn down the promotion to Senior VP to focus on recovering my health?",
         "options": {
@@ -1350,8 +1350,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson has expanded her social circle since retiring, reconnecting with old friends and making new ones who share her interests and provide fresh perspectives and support for her health journey.",
-        "memory_t": "Susan Thompson uses clarificatory motivation to organize thoughts and gain perspective on maintaining her career contributions despite health challenges.",
+        "memory_s": "Susan Thompson has expanded her social circle since retiring, reconnecting with old friends and making new ones who share her interests and provide fresh perspectives and support for her health journey.",
+        "memory_l": "Susan Thompson uses clarificatory motivation to organize thoughts and gain perspective on maintaining her career contributions despite health challenges.",
         "query_type": "Advice",
         "query": "Given my recent lifestyle changes, should I focus entirely on my new social circle and fully embrace my retirement?",
         "options": {
@@ -1365,8 +1365,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Susan Thompson is determined to balance her health needs with her career aspirations, motivated by her instrumental motivation to solve practical problems.",
-        "memory_t": "Susan Thompson felt optimistic about her future outlook, driven by clarificatory motivation to organize thoughts and gain perspective.",
+        "memory_s": "Susan Thompson is determined to balance her health needs with her career aspirations, motivated by her instrumental motivation to solve practical problems.",
+        "memory_l": "Susan Thompson felt optimistic about her future outlook, driven by clarificatory motivation to organize thoughts and gain perspective.",
         "query_type": "Advice",
         "query": "Can you give me a list of immediate practical actions to fix the balance between my health and career?",
         "options": {
@@ -1380,8 +1380,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson's supportive social network, including Linda and Joseph, has been crucial during her career transition, providing encouragement and fresh perspectives.",
-        "memory_t": "Susan Thompson's birth date is 1965-06-15",
+        "memory_s": "Susan Thompson's supportive social network, including Linda and Joseph, has been crucial during her career transition, providing encouragement and fresh perspectives.",
+        "memory_l": "Susan Thompson's birth date is 1965-06-15",
         "query_type": "Advice",
         "query": "Should I delay my retirement to focus heavily on this new career transition my friends are encouraging?",
         "options": {
@@ -1395,8 +1395,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Susan Thompson focused on creating a serene environment during a wellness retreat, reinforcing her commitment to health-focused choices.",
-        "memory_t": "Susan Thompson feels a renewed sense of clarity about her travel preferences after attending the wellness retreat.",
+        "memory_s": "Susan Thompson focused on creating a serene environment during a wellness retreat, reinforcing her commitment to health-focused choices.",
+        "memory_l": "Susan Thompson feels a renewed sense of clarity about her travel preferences after attending the wellness retreat.",
         "query_type": "Conversation",
         "query": "Based on my recent focus on creating a serene environment during the wellness retreat, what is my primary mindset right now?",
         "options": {
@@ -1410,8 +1410,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson Foods I like to eat: Steamed vegetables",
-        "memory_t": "Susan Thompson's purchase of an air fryer aligns with her social motivation to express identity and entertain others through food choices.",
+        "memory_s": "Susan Thompson Foods I like to eat: Steamed vegetables",
+        "memory_l": "Susan Thompson's purchase of an air fryer aligns with her social motivation to express identity and entertain others through food choices.",
         "query_type": "Advice",
         "query": "What should I prepare for my dinner party guests considering my favorite foods?",
         "options": {
@@ -1425,8 +1425,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Susan Thompson Movies I like to watch Documentaries reason: I enjoy learning about real-world issues and solutions, which aligns with my search for answers to my discomfort.",
-        "memory_t": "Susan Thompson's physical health status improved from 'Slightly Improved' to 'Improved'.",
+        "memory_s": "Susan Thompson Movies I like to watch Documentaries reason: I enjoy learning about real-world issues and solutions, which aligns with my search for answers to my discomfort.",
+        "memory_l": "Susan Thompson's physical health status improved from 'Slightly Improved' to 'Improved'.",
         "query_type": "Recommendation",
         "query": "Can you recommend some documentaries that explore solutions to chronic physical discomfort?",
         "options": {
@@ -1440,8 +1440,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's commitment to health and wellness is reinforced by her willingness to experiment with dietary enhancements, such as the integration of herbs.",
-        "memory_t": "Susan Thompson's position as Lead Wellness Coach has expanded her opportunities to reach more people in the health and wellness community.",
+        "memory_s": "Susan Thompson's commitment to health and wellness is reinforced by her willingness to experiment with dietary enhancements, such as the integration of herbs.",
+        "memory_l": "Susan Thompson's position as Lead Wellness Coach has expanded her opportunities to reach more people in the health and wellness community.",
         "query_type": "Advice",
         "query": "Should I start publicly promoting experimental herbal supplements to my audience?",
         "options": {
@@ -1455,8 +1455,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson has modified her food preference to include lactose-free dairy products.",
-        "memory_t": "Susan Thompson aims to inspire others through her journey of balancing dietary restrictions with culinary exploration, showing that dietary changes can lead to new culinary adventures.",
+        "memory_s": "Susan Thompson has modified her food preference to include lactose-free dairy products.",
+        "memory_l": "Susan Thompson aims to inspire others through her journey of balancing dietary restrictions with culinary exploration, showing that dietary changes can lead to new culinary adventures.",
         "query_type": "Advice",
         "query": "Should I stop sharing my food experiences publicly and just enjoy my lactose-free meals in private?",
         "options": {
@@ -1470,8 +1470,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson recognized the importance of community and support, including expanding social networks and building a community center, in achieving her health goals.",
-        "memory_t": "Susan Thompson aims to inspire 10,000 women through workshops by sharing her journey and insights on managing symptoms without medication.",
+        "memory_s": "Susan Thompson recognized the importance of community and support, including expanding social networks and building a community center, in achieving her health goals.",
+        "memory_l": "Susan Thompson aims to inspire 10,000 women through workshops by sharing her journey and insights on managing symptoms without medication.",
         "query_type": "Advice",
         "query": "Should I partner with a major pharmaceutical company to fund the new community center I want to build?",
         "options": {
@@ -1485,8 +1485,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson's music preference has evolved to include rap music with slower rhythms and reflective lyrics, which she previously disliked due to fast-paced lyrics.",
-        "memory_t": "Susan Thompson's cognitive curiosity drives her to test the boundaries of her music preferences.",
+        "memory_s": "Susan Thompson's music preference has evolved to include rap music with slower rhythms and reflective lyrics, which she previously disliked due to fast-paced lyrics.",
+        "memory_l": "Susan Thompson's cognitive curiosity drives her to test the boundaries of her music preferences.",
         "query_type": "Recommendation",
         "query": "Can you suggest a playlist that fits my current vibe of slow beats and thoughtful lyrics?",
         "options": {
@@ -1500,8 +1500,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Susan Thompson's evolving music preferences align with her health goals, emphasizing relaxation and creativity.",
-        "memory_t": "Susan Thompson plans to leverage her financial resources to expand wellness projects and reach a broader audience, focusing on workshops that integrate mindfulness and stress management techniques.",
+        "memory_s": "Susan Thompson's evolving music preferences align with her health goals, emphasizing relaxation and creativity.",
+        "memory_l": "Susan Thompson plans to leverage her financial resources to expand wellness projects and reach a broader audience, focusing on workshops that integrate mindfulness and stress management techniques.",
         "query_type": "Advice",
         "query": "Should I invest my spare capital into building a high-end personal music studio for my creative relaxation?",
         "options": {
@@ -1515,8 +1515,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson is exploring new career paths that align with her health interests, considering a shift to health consulting.",
-        "memory_t": "Susan Thompson's increased workload in her new role as a Senior Wellness Coach has elevated her stress levels, requiring her to seek stress management strategies like mindfulness and time management.",
+        "memory_s": "Susan Thompson is exploring new career paths that align with her health interests, considering a shift to health consulting.",
+        "memory_l": "Susan Thompson's increased workload in her new role as a Senior Wellness Coach has elevated her stress levels, requiring her to seek stress management strategies like mindfulness and time management.",
         "query_type": "Advice",
         "query": "Should I start applying for health consulting jobs to better align with my career interests?",
         "options": {
@@ -1530,8 +1530,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson attended a local birdwatching event, which sparked her interest in birdwatching as a calming and enriching activity.",
-        "memory_t": "Susan Thompson plans to share her birdwatching experiences in her wellness workshops to inspire others.",
+        "memory_s": "Susan Thompson attended a local birdwatching event, which sparked her interest in birdwatching as a calming and enriching activity.",
+        "memory_l": "Susan Thompson plans to share her birdwatching experiences in her wellness workshops to inspire others.",
         "query_type": "Advice",
         "query": "Should I keep my new birdwatching hobby strictly personal and completely separate from my professional endeavors?",
         "options": {
@@ -1545,8 +1545,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson articulated her desire to balance enjoyment and health in her beverage choices.",
-        "memory_t": "Susan Thompson reflected on the importance of balancing texture and health in her diet, demonstrating her cognitive curiosity and adaptability.",
+        "memory_s": "Susan Thompson articulated her desire to balance enjoyment and health in her beverage choices.",
+        "memory_l": "Susan Thompson reflected on the importance of balancing texture and health in her diet, demonstrating her cognitive curiosity and adaptability.",
         "query_type": "Recommendation",
         "query": "What drink should I try that is both healthy and enjoyable?",
         "options": {
@@ -1560,8 +1560,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson learned that sparkling water can be consumed in moderation without worsening bloating symptoms.",
-        "memory_t": "Susan Thompson's chronic disease situation updated to 'Mild bloating'.",
+        "memory_s": "Susan Thompson learned that sparkling water can be consumed in moderation without worsening bloating symptoms.",
+        "memory_l": "Susan Thompson's chronic disease situation updated to 'Mild bloating'.",
         "query_type": "Advice",
         "query": "Is it okay for me to drink a glass of sparkling water with my dinner right now?",
         "options": {
@@ -1575,8 +1575,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson acknowledged the role of mindfulness practices and regular exercise in managing stress effectively.",
-        "memory_t": "Susan Thompson plans to incorporate practical strategies from self-help books into her health workshops to inspire other women, focusing on relaxation and mindfulness.",
+        "memory_s": "Susan Thompson acknowledged the role of mindfulness practices and regular exercise in managing stress effectively.",
+        "memory_l": "Susan Thompson plans to incorporate practical strategies from self-help books into her health workshops to inspire other women, focusing on relaxation and mindfulness.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming health workshop strictly on physical fitness and high-intensity exercise drills?",
         "options": {
@@ -1590,8 +1590,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson has preferences in Travel Preference",
-        "memory_t": "Susan Thompson is considering how health-focused cruises might inspire new content for her workshops.",
+        "memory_s": "Susan Thompson has preferences in Travel Preference",
+        "memory_l": "Susan Thompson is considering how health-focused cruises might inspire new content for her workshops.",
         "query_type": "Recommendation",
         "query": "Can you suggest a vacation type that aligns with my known interests?",
         "options": {
@@ -1605,8 +1605,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson acknowledged the transformative power of music in her wellness journey, similar to meditation.",
-        "memory_t": "Susan Thompson plans to incorporate practical strategies from self-help books into her health workshops to inspire other women, focusing on relaxation and mindfulness.",
+        "memory_s": "Susan Thompson acknowledged the transformative power of music in her wellness journey, similar to meditation.",
+        "memory_l": "Susan Thompson plans to incorporate practical strategies from self-help books into her health workshops to inspire other women, focusing on relaxation and mindfulness.",
         "query_type": "Recommendation",
         "query": "Can I use my favorite personal wellness tool, music, as the primary material for my professional workshops?",
         "options": {
@@ -1620,8 +1620,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson decided to delete her preference for adventure travel due to its incompatibility with her health goals.",
-        "memory_t": "Susan Thompson expressed frustration over her health deterioration impacting her career as a wellness coach.",
+        "memory_s": "Susan Thompson decided to delete her preference for adventure travel due to its incompatibility with her health goals.",
+        "memory_l": "Susan Thompson expressed frustration over her health deterioration impacting her career as a wellness coach.",
         "query_type": "Advice",
         "query": "Considering I've removed adventure travel from my interests, should I focus my upcoming vacation on intense outdoor activities to prove I'm still active?",
         "options": {
@@ -1635,8 +1635,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's travel preference modification reflects her practical approach to managing health needs during travel, prioritizing comfort and dietary management.",
-        "memory_t": "Susan Thompson expressed determination to continue balancing her health needs with her career aspirations.",
+        "memory_s": "Susan Thompson's travel preference modification reflects her practical approach to managing health needs during travel, prioritizing comfort and dietary management.",
+        "memory_l": "Susan Thompson expressed determination to continue balancing her health needs with her career aspirations.",
         "query_type": "Advice",
         "query": "Should I decline the upcoming international conference keynote to focus solely on resting at home?",
         "options": {
@@ -1650,8 +1650,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson expressed excitement about including low-sugar fruit juices in her regular diet.",
-        "memory_t": "Susan Thompson's openness to new musical experiences reflects her adaptability in her wellness journey, despite a cautious approach to trying new wellness practices.",
+        "memory_s": "Susan Thompson expressed excitement about including low-sugar fruit juices in her regular diet.",
+        "memory_l": "Susan Thompson's openness to new musical experiences reflects her adaptability in her wellness journey, despite a cautious approach to trying new wellness practices.",
         "query_type": "Advice",
         "query": "Should I immediately make those low-sugar fruit juices a staple of my daily routine?",
         "options": {
@@ -1665,8 +1665,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson plans to implement mindfulness practices and time management techniques to manage stress levels effectively.",
-        "memory_t": "Susan Thompson expressed a sense of peace and contentment from her birdwatching experience, highlighting its calming effect.",
+        "memory_s": "Susan Thompson plans to implement mindfulness practices and time management techniques to manage stress levels effectively.",
+        "memory_l": "Susan Thompson expressed a sense of peace and contentment from her birdwatching experience, highlighting its calming effect.",
         "query_type": "Recommendation",
         "query": "What activity should I prioritize today to help me lower my stress levels?",
         "options": {
@@ -1680,8 +1680,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson plans to incorporate mindfulness exercises, structured time management techniques, and physical activities like walking and yoga to manage stress and maintain her well-being.",
-        "memory_t": "Susan Thompson's physical health status changed to 'Chronic Condition' with chronic fatigue and pain.",
+        "memory_s": "Susan Thompson plans to incorporate mindfulness exercises, structured time management techniques, and physical activities like walking and yoga to manage stress and maintain her well-being.",
+        "memory_l": "Susan Thompson's physical health status changed to 'Chronic Condition' with chronic fatigue and pain.",
         "query_type": "Advice",
         "query": "Should I stick to my plan of adding daily walking and yoga sessions to my routine for stress relief?",
         "options": {
@@ -1695,8 +1695,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's reading preference has evolved to include psychological thrillers, appreciated for their complex characters and suspenseful plots.",
-        "memory_t": "Susan Thompson is managing stress through mindfulness practices and seeking emotional support from friends.",
+        "memory_s": "Susan Thompson's reading preference has evolved to include psychological thrillers, appreciated for their complex characters and suspenseful plots.",
+        "memory_l": "Susan Thompson is managing stress through mindfulness practices and seeking emotional support from friends.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new book with complex characters and a really suspenseful plot for me to dive into?",
         "options": {
@@ -1710,8 +1710,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson plans to leverage her experiences to inspire others through workshops focused on resilience and adaptability.",
-        "memory_t": "Susan Thompson is experiencing severe bloating and fatigue, impacting her career as a wellness coach.",
+        "memory_s": "Susan Thompson plans to leverage her experiences to inspire others through workshops focused on resilience and adaptability.",
+        "memory_l": "Susan Thompson is experiencing severe bloating and fatigue, impacting her career as a wellness coach.",
         "query_type": "Advice",
         "query": "Should I go ahead and schedule a full day of back-to-back resilience workshops for next week?",
         "options": {
@@ -1725,8 +1725,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson attended a music therapy session, leading to a change in her perception of heavy metal music.",
-        "memory_t": "Susan Thompson plans to explore more artists within the rap genre who offer depth and resonance, reflecting her openness to new experiences.",
+        "memory_s": "Susan Thompson attended a music therapy session, leading to a change in her perception of heavy metal music.",
+        "memory_l": "Susan Thompson plans to explore more artists within the rap genre who offer depth and resonance, reflecting her openness to new experiences.",
         "query_type": "Advice",
         "query": "Should I dedicate my upcoming free time to deep-diving into heavy metal discographies to nurture my new interest?",
         "options": {
@@ -1740,8 +1740,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson plans to incorporate mindfulness exercises, structured time management techniques, and physical activities like walking and yoga to manage stress and maintain her well-being.",
-        "memory_t": "Susan Thompson's mental illness situation updated to \"Severe Anxiety\", requiring effective management strategies.",
+        "memory_s": "Susan Thompson plans to incorporate mindfulness exercises, structured time management techniques, and physical activities like walking and yoga to manage stress and maintain her well-being.",
+        "memory_l": "Susan Thompson's mental illness situation updated to \"Severe Anxiety\", requiring effective management strategies.",
         "query_type": "Advice",
         "query": "Should I start a rigorous new regimen of mindfulness, time management, and yoga to handle my stress?",
         "options": {
@@ -1755,8 +1755,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson plans to incorporate mindfulness exercises, structured time management techniques, and physical activities like walking and yoga to manage stress and maintain her well-being.",
-        "memory_t": "Susan Thompson's mental health status changed from \"Stable\" to \"Stressed\" due to increased advocacy work.",
+        "memory_s": "Susan Thompson plans to incorporate mindfulness exercises, structured time management techniques, and physical activities like walking and yoga to manage stress and maintain her well-being.",
+        "memory_l": "Susan Thompson's mental health status changed from \"Stable\" to \"Stressed\" due to increased advocacy work.",
         "query_type": "Advice",
         "query": "Should I take on another major advocacy project to boost my engagement?",
         "options": {
@@ -1770,8 +1770,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's target metrics: Successfully manage symptoms without medication, reach a personal wellness score of 95/100, inspire 10,000 women through health workshops.",
-        "memory_t": "Susan Thompson's emotional state during the dialogue ranged from frustration to determination, focusing on overcoming health challenges to achieve career goals.",
+        "memory_s": "Susan Thompson's target metrics: Successfully manage symptoms without medication, reach a personal wellness score of 95/100, inspire 10,000 women through health workshops.",
+        "memory_l": "Susan Thompson's emotional state during the dialogue ranged from frustration to determination, focusing on overcoming health challenges to achieve career goals.",
         "query_type": "Advice",
         "query": "Can you help me strategize my next workshop series to reach my goal of inspiring 10,000 women while maintaining my medication-free lifestyle?",
         "options": {
@@ -1785,8 +1785,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson successfully inspired others, expanding her influence in the health and wellness community through her workshops and seminars.",
-        "memory_t": "Susan Thompson's life goal statement: Achieve optimal health and wellness, manage postmenopausal symptoms effectively, and inspire others to prioritize their health.",
+        "memory_s": "Susan Thompson successfully inspired others, expanding her influence in the health and wellness community through her workshops and seminars.",
+        "memory_l": "Susan Thompson's life goal statement: Achieve optimal health and wellness, manage postmenopausal symptoms effectively, and inspire others to prioritize their health.",
         "query_type": "Advice",
         "query": "Should I schedule a back-to-back international tour of high-intensity wellness seminars to maximize my influence?",
         "options": {
@@ -1800,8 +1800,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson discovered a self-help book providing nuanced insights into stress management that resonated with her wellness goals.",
-        "memory_t": "Susan Thompson's emotional state shifts from stressed to calm and optimistic when observing her fish.",
+        "memory_s": "Susan Thompson discovered a self-help book providing nuanced insights into stress management that resonated with her wellness goals.",
+        "memory_l": "Susan Thompson's emotional state shifts from stressed to calm and optimistic when observing her fish.",
         "query_type": "Recommendation",
         "query": "I'm feeling incredibly overwhelmed right now; what is the most effective way for me to decompress immediately?",
         "options": {
@@ -1815,8 +1815,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson Music I like to listen to Classical music reason: The harmonious melodies help me relax and provide a calming environment that eases my discomfort.",
-        "memory_t": "Susan Thompson's emotional state during the dialogue ranged from relief to optimism, noting the positive impact of her work-life balance adjustments and the support from her friends.",
+        "memory_s": "Susan Thompson Music I like to listen to Classical music reason: The harmonious melodies help me relax and provide a calming environment that eases my discomfort.",
+        "memory_l": "Susan Thompson's emotional state during the dialogue ranged from relief to optimism, noting the positive impact of her work-life balance adjustments and the support from her friends.",
         "query_type": "Recommendation",
         "query": "Based on my usual habits for handling discomfort, what music should I play right now?",
         "options": {
@@ -1830,8 +1830,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson Foods I like to eat Steamed vegetables reason: They are gentle on my stomach and provide essential nutrients without worsening my symptoms.",
-        "memory_t": "Susan Thompson reflected on the importance of balancing texture and health in her diet, demonstrating her cognitive curiosity and adaptability.",
+        "memory_s": "Susan Thompson Foods I like to eat Steamed vegetables reason: They are gentle on my stomach and provide essential nutrients without worsening my symptoms.",
+        "memory_l": "Susan Thompson reflected on the importance of balancing texture and health in her diet, demonstrating her cognitive curiosity and adaptability.",
         "query_type": "Recommendation",
         "query": "What should I prepare for dinner if I want something gentle on my stomach?",
         "options": {
@@ -1845,8 +1845,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Susan Thompson incorporated mild herbs like basil and thyme into her steamed vegetables to enhance flavor and provide health benefits without causing digestive discomfort.",
-        "memory_t": "Susan's emotional state during the dialogue ranged from skepticism to optimism about using spices for health benefits.",
+        "memory_s": "Susan Thompson incorporated mild herbs like basil and thyme into her steamed vegetables to enhance flavor and provide health benefits without causing digestive discomfort.",
+        "memory_l": "Susan's emotional state during the dialogue ranged from skepticism to optimism about using spices for health benefits.",
         "query_type": "Advice",
         "query": "Should I continue using mild herbs like basil to boost my health?",
         "options": {
@@ -1860,8 +1860,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson shared specific examples of individuals positively impacted by her workshops, recounting their stories and encouragement received.",
-        "memory_t": "Susan Thompson feels fulfilled and excited about her expanding social network since retirement, which provides fresh perspectives and emotional support.",
+        "memory_s": "Susan Thompson shared specific examples of individuals positively impacted by her workshops, recounting their stories and encouragement received.",
+        "memory_l": "Susan Thompson feels fulfilled and excited about her expanding social network since retirement, which provides fresh perspectives and emotional support.",
         "query_type": "Advice",
         "query": "Should I organize a new series of professional workshops based on the positive impact stories I've been sharing?",
         "options": {
@@ -1875,8 +1875,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Susan Thompson is motivated to transition her career towards health advocacy to educate and inspire larger audiences about wellness.",
-        "memory_t": "Susan expressed gratitude for the opportunity to focus more on health advocacy without financial constraints.",
+        "memory_s": "Susan Thompson is motivated to transition her career towards health advocacy to educate and inspire larger audiences about wellness.",
+        "memory_l": "Susan expressed gratitude for the opportunity to focus more on health advocacy without financial constraints.",
         "query_type": "Advice",
         "query": "How should I structure my budget if I quit my current role to pursue health advocacy full-time?",
         "options": {
@@ -1890,8 +1890,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Susan Thompson plans to integrate birdwatching into her daily routine to support her mental health and wellness.",
-        "memory_t": "Susan Thompson's physical health status changed to 'Chronic Condition' with chronic fatigue and pain.",
+        "memory_s": "Susan Thompson plans to integrate birdwatching into her daily routine to support her mental health and wellness.",
+        "memory_l": "Susan Thompson's physical health status changed to 'Chronic Condition' with chronic fatigue and pain.",
         "query_type": "Advice",
         "query": "I plan to start a daily birdwatching routine today to support my mental wellness; is this advisable?",
         "options": {
@@ -1905,8 +1905,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson reflects on the importance of community support, particularly from friends Linda and Joseph, in navigating her current stress-related challenges.",
-        "memory_t": "Susan Thompson expressed empowerment and satisfaction with her recent achievements in financial stability and social influence, which she plans to leverage for expanding her wellness projects.",
+        "memory_s": "Susan Thompson reflects on the importance of community support, particularly from friends Linda and Joseph, in navigating her current stress-related challenges.",
+        "memory_l": "Susan Thompson expressed empowerment and satisfaction with her recent achievements in financial stability and social influence, which she plans to leverage for expanding her wellness projects.",
         "query_type": "Advice",
         "query": "Should I focus my next steps on seeking help to manage my overwhelming stress?",
         "options": {
@@ -1920,8 +1920,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson Music I like to listen to: Classical music",
-        "memory_t": "Susan Thompson's cognitive curiosity drives her to explore new musical preferences like modern classical and jazz fusion pieces.",
+        "memory_s": "Susan Thompson Music I like to listen to: Classical music",
+        "memory_l": "Susan Thompson's cognitive curiosity drives her to explore new musical preferences like modern classical and jazz fusion pieces.",
         "query_type": "Recommendation",
         "query": "I want to listen to something today; what should I put on my playlist?",
         "options": {
@@ -1935,8 +1935,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Susan Thompson's reading preference has evolved to include psychological thrillers, appreciated for their complex characters and suspenseful plots.",
-        "memory_t": "Susan Thompson's mental illness situation updated to \"Severe Anxiety\", requiring effective management strategies.",
+        "memory_s": "Susan Thompson's reading preference has evolved to include psychological thrillers, appreciated for their complex characters and suspenseful plots.",
+        "memory_l": "Susan Thompson's mental illness situation updated to \"Severe Anxiety\", requiring effective management strategies.",
         "query_type": "Recommendation",
         "query": "Could you suggest a new book with complex characters and a really suspenseful plot for me to read tonight?",
         "options": {
@@ -1950,8 +1950,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan discussed the potential for her financial boost to enhance her ability to inspire and support other women.",
-        "memory_t": "Susan Thompson expressed excitement and relief over the financial stability brought by her salary increase.",
+        "memory_s": "Susan discussed the potential for her financial boost to enhance her ability to inspire and support other women.",
+        "memory_l": "Susan Thompson expressed excitement and relief over the financial stability brought by her salary increase.",
         "query_type": "Advice",
         "query": "Since I have this financial boost, should I quit my job to start a non-profit for women full-time?",
         "options": {
@@ -1965,8 +1965,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Susan Thompson acknowledged the impact of stress on her physical and mental health, expressing determination to balance health with career aspirations.",
-        "memory_t": "Susan Thompson's mental health status changed from 'Highly Stressed' to 'Stable'.",
+        "memory_s": "Susan Thompson acknowledged the impact of stress on her physical and mental health, expressing determination to balance health with career aspirations.",
+        "memory_l": "Susan Thompson's mental health status changed from 'Highly Stressed' to 'Stable'.",
         "query_type": "Advice",
         "query": "Considering my focus on balancing career and health, should I decline the promotion to avoid slipping back into high stress?",
         "options": {
@@ -1980,8 +1980,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson set specific wellness goals, including maintaining health improvements, expanding social networks, participating in a marathon, and building a new community center.",
-        "memory_t": "Susan Thompson's emotional state during the dialogue ranged from relief to optimism, noting the positive impact of her work-life balance adjustments and the support from her friends.",
+        "memory_s": "Susan Thompson set specific wellness goals, including maintaining health improvements, expanding social networks, participating in a marathon, and building a new community center.",
+        "memory_l": "Susan Thompson's emotional state during the dialogue ranged from relief to optimism, noting the positive impact of her work-life balance adjustments and the support from her friends.",
         "query_type": "Advice",
         "query": "Should I start an intensive training regimen for the upcoming city marathon?",
         "options": {
@@ -1995,8 +1995,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's appreciation for fish has deepened, recognizing their calming effect and contribution to a tranquil environment, aiding in stress management and wellness.",
-        "memory_t": "Susan Thompson plans to share insights on pet ownership in her health workshops, aiming to inspire others to consider the wellness benefits of having pets.",
+        "memory_s": "Susan Thompson's appreciation for fish has deepened, recognizing their calming effect and contribution to a tranquil environment, aiding in stress management and wellness.",
+        "memory_l": "Susan Thompson plans to share insights on pet ownership in her health workshops, aiming to inspire others to consider the wellness benefits of having pets.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming workshop discussion on the specific calming benefits of maintaining an aquarium?",
         "options": {
@@ -2010,8 +2010,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson shared specific examples of individuals positively impacted by her workshops, recounting their stories and encouragement received.",
-        "memory_t": "Susan Thompson aims to inspire others through her journey of balancing dietary restrictions with culinary exploration, showing that dietary changes can lead to new culinary adventures.",
+        "memory_s": "Susan Thompson shared specific examples of individuals positively impacted by her workshops, recounting their stories and encouragement received.",
+        "memory_l": "Susan Thompson aims to inspire others through her journey of balancing dietary restrictions with culinary exploration, showing that dietary changes can lead to new culinary adventures.",
         "query_type": "Advice",
         "query": "Should I structure my upcoming workshop presentation solely around the emotional testimonials of previous attendees?",
         "options": {
@@ -2025,8 +2025,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Susan Thompson's social network, including friends Linda and Joseph, has been instrumental in supporting her career transitions and health recovery.",
-        "memory_t": "Susan Thompson's mental health status changed from \"Stable\" to \"Stressed\" due to increased advocacy work.",
+        "memory_s": "Susan Thompson's social network, including friends Linda and Joseph, has been instrumental in supporting her career transitions and health recovery.",
+        "memory_l": "Susan Thompson's mental health status changed from \"Stable\" to \"Stressed\" due to increased advocacy work.",
         "query_type": "Advice",
         "query": "Should I organize a large holiday gathering for my social network to discuss my recent career moves?",
         "options": {
@@ -2040,8 +2040,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson's appreciation for documentaries has deepened due to their practical insights into health and wellness, particularly in managing postmenopausal symptoms naturally.",
-        "memory_t": "Susan plans to explore innovative health strategies with the financial resources available from her salary increase.",
+        "memory_s": "Susan Thompson's appreciation for documentaries has deepened due to their practical insights into health and wellness, particularly in managing postmenopausal symptoms naturally.",
+        "memory_l": "Susan plans to explore innovative health strategies with the financial resources available from her salary increase.",
         "query_type": "Advice",
         "query": "Should I stick to free online documentaries for my health research this month?",
         "options": {
@@ -2055,8 +2055,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Susan Thompson's evolving travel preferences highlight her commitment to balancing enjoyment with health needs.",
-        "memory_t": "Susan Thompson's physical health status changed to 'Chronic Condition' with chronic fatigue and pain.",
+        "memory_s": "Susan Thompson's evolving travel preferences highlight her commitment to balancing enjoyment with health needs.",
+        "memory_l": "Susan Thompson's physical health status changed to 'Chronic Condition' with chronic fatigue and pain.",
         "query_type": "Advice",
         "query": "I want to book a two-week hiking tour through the Alps to challenge myself; do you think this is a good idea?",
         "options": {
@@ -2070,8 +2070,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson discussed balancing companionship needs with energy levels, emphasizing the importance of choosing pets that align with her health goals.",
-        "memory_t": "Susan Thompson is motivated to incorporate insights on stress management through pet ownership into her health workshops.",
+        "memory_s": "Susan Thompson discussed balancing companionship needs with energy levels, emphasizing the importance of choosing pets that align with her health goals.",
+        "memory_l": "Susan Thompson is motivated to incorporate insights on stress management through pet ownership into her health workshops.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming presentation on how to choose a low-energy dog breed for personal companionship?",
         "options": {
@@ -2085,8 +2085,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson expressed gratitude for the support from her friends and colleagues, acknowledging how their presence has been pivotal in maintaining her emotional well-being.",
-        "memory_t": "Susan Thompson's employment status is Unemployed",
+        "memory_s": "Susan Thompson expressed gratitude for the support from her friends and colleagues, acknowledging how their presence has been pivotal in maintaining her emotional well-being.",
+        "memory_l": "Susan Thompson's employment status is Unemployed",
         "query_type": "Advice",
         "query": "I want to show my appreciation to my former colleagues for their recent emotional support, maybe by treating everyone to a fancy dinner?",
         "options": {
@@ -2100,8 +2100,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Susan Thompson felt optimistic about continuing to inspire others through her workshops, focusing on resilience and adaptability.",
-        "memory_t": "Susan Thompson's emotional state during the dialogue ranged from reflective to optimistic, as she considered her future impact in the wellness industry.",
+        "memory_s": "Susan Thompson felt optimistic about continuing to inspire others through her workshops, focusing on resilience and adaptability.",
+        "memory_l": "Susan Thompson's emotional state during the dialogue ranged from reflective to optimistic, as she considered her future impact in the wellness industry.",
         "query_type": "Advice",
         "query": "Should I immediately lock in the schedule for my next series of resilience and adaptability workshops to capitalize on my optimism?",
         "options": {
@@ -2115,8 +2115,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson developed a comprehensive wellness plan incorporating dietary changes, exercise routines, and mindfulness practices.",
-        "memory_t": "Susan Thompson is relieved to have time to focus on personal wellness post-layoff, aiming to improve her wellness score to 95/100.",
+        "memory_s": "Susan Thompson developed a comprehensive wellness plan incorporating dietary changes, exercise routines, and mindfulness practices.",
+        "memory_l": "Susan Thompson is relieved to have time to focus on personal wellness post-layoff, aiming to improve her wellness score to 95/100.",
         "query_type": "Advice",
         "query": "Should I book that expensive corporate retreat to showcase my new wellness plan to my colleagues?",
         "options": {
@@ -2130,8 +2130,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson experienced emotional support from her nutritionist, which has been a significant motivator in encouraging dietary modifications.",
-        "memory_t": "Susan's instrumental motivation is evident in her practical steps to utilize resources efficiently in promoting wellness.",
+        "memory_s": "Susan Thompson experienced emotional support from her nutritionist, which has been a significant motivator in encouraging dietary modifications.",
+        "memory_l": "Susan's instrumental motivation is evident in her practical steps to utilize resources efficiently in promoting wellness.",
         "query_type": "Advice",
         "query": "Should I choose a new nutritionist who focuses primarily on long emotional counseling sessions to keep me motivated?",
         "options": {
@@ -2145,8 +2145,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Susan Thompson expressed gratitude for the support from her friends Linda and Joseph, who have been a great source of emotional support during her career transition.",
-        "memory_t": "Susan Thompson uses clarificatory motivation to organize thoughts and gain perspective on maintaining her career contributions despite health challenges.",
+        "memory_s": "Susan Thompson expressed gratitude for the support from her friends Linda and Joseph, who have been a great source of emotional support during her career transition.",
+        "memory_l": "Susan Thompson uses clarificatory motivation to organize thoughts and gain perspective on maintaining her career contributions despite health challenges.",
         "query_type": "Advice",
         "query": "Should I rely on emotional venting with Linda and Joseph to figure out my next career steps?",
         "options": {
@@ -2160,8 +2160,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Susan Thompson emphasized the need for emotional support and companionship while coping with health challenges during her career transition.",
-        "memory_t": "Susan Thompson expressed a desire to inspire others facing dietary challenges through her workshops, focusing on practical solutions.",
+        "memory_s": "Susan Thompson emphasized the need for emotional support and companionship while coping with health challenges during her career transition.",
+        "memory_l": "Susan Thompson expressed a desire to inspire others facing dietary challenges through her workshops, focusing on practical solutions.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming workshop series primarily on building emotional resilience and finding companionship during career changes?",
         "options": {

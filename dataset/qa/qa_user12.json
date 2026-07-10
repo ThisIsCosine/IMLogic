@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Sharon Brown values balancing professional responsibilities with personal health management.",
-        "memory_t": "Sharon Brown plans to incorporate wellness practices into her mentoring role to inspire young athletes.",
+        "memory_s": "Sharon Brown values balancing professional responsibilities with personal health management.",
+        "memory_l": "Sharon Brown plans to incorporate wellness practices into her mentoring role to inspire young athletes.",
         "query_type": "Advice",
         "query": "Should I keep my wellness routines completely separate from my professional mentoring work to maintain better boundaries?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown's sports preference for cricket evolved from dislike to appreciation due to its strategic complexity, similar to baseball and rugby.",
-        "memory_t": "Sharon Brown's social motivation drives her to explore sports preferences for social signaling and identity expression.",
+        "memory_s": "Sharon Brown's sports preference for cricket evolved from dislike to appreciation due to its strategic complexity, similar to baseball and rugby.",
+        "memory_l": "Sharon Brown's social motivation drives her to explore sports preferences for social signaling and identity expression.",
         "query_type": "Advice",
         "query": "Should I focus my weekend viewing party on a deep-dive analysis of a classic cricket match to showcase my strategic appreciation?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown finds enjoyment in discovering new, healthier versions of traditionally unhealthy foods.",
-        "memory_t": "Sharon Brown's culinary experimentation aligns with her broader life goals, including mentoring young athletes and community engagement.",
+        "memory_s": "Sharon Brown finds enjoyment in discovering new, healthier versions of traditionally unhealthy foods.",
+        "memory_l": "Sharon Brown's culinary experimentation aligns with her broader life goals, including mentoring young athletes and community engagement.",
         "query_type": "Advice",
         "query": "Should I spend all my free time this summer strictly perfecting a single low-calorie brownie recipe for my personal blog?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown expressed enthusiasm for culinary exploration, contemplating more homemade elements in her meals.",
-        "memory_t": "Sharon Brown's compensatory motivation drives her to use media inspiration for culinary creativity, overcoming limitations in cooking skills.",
+        "memory_s": "Sharon Brown expressed enthusiasm for culinary exploration, contemplating more homemade elements in her meals.",
+        "memory_l": "Sharon Brown's compensatory motivation drives her to use media inspiration for culinary creativity, overcoming limitations in cooking skills.",
         "query_type": "Advice",
         "query": "Should I attempt to make a complex seven-course meal entirely from scratch right now to explore my culinary interests?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown is exploring new hobbies like yoga and meditation to align with her current health capabilities.",
-        "memory_t": "Sharon Brown's friend Sharon Jackson encourages her to stay connected to her roots during career transitions, providing a constant source of encouragement.",
+        "memory_s": "Sharon Brown is exploring new hobbies like yoga and meditation to align with her current health capabilities.",
+        "memory_l": "Sharon Brown's friend Sharon Jackson encourages her to stay connected to her roots during career transitions, providing a constant source of encouragement.",
         "query_type": "Advice",
         "query": "I am feeling overwhelmed with my career change, should I just cut off all old connections to focus entirely on my new yoga and meditation hobbies?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown shared her experience of the calming effect of morning yoga and the peace gained from guided meditation during her retreat.",
-        "memory_t": "Sharon Brown plans to incorporate wellness practices like mindfulness and regular exercise into her mentoring initiatives to inspire young athletes to lead balanced lives.",
+        "memory_s": "Sharon Brown shared her experience of the calming effect of morning yoga and the peace gained from guided meditation during her retreat.",
+        "memory_l": "Sharon Brown plans to incorporate wellness practices like mindfulness and regular exercise into her mentoring initiatives to inspire young athletes to lead balanced lives.",
         "query_type": "Recommendation",
         "query": "Should I book another full week of solitary retreat to focus exclusively on my own morning yoga and meditation practice?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon is planning workshops and community events for young athletes, aligning these activities with her personal goals.",
-        "memory_t": "Sharon's exploratory motivation drives her to test new strategies and approaches in her mentoring role.",
+        "memory_s": "Sharon is planning workshops and community events for young athletes, aligning these activities with her personal goals.",
+        "memory_l": "Sharon's exploratory motivation drives her to test new strategies and approaches in her mentoring role.",
         "query_type": "Advice",
         "query": "Should I stick to a standardized, repetitive curriculum for the young athlete workshops to ensure I meet my goals?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown Beverages they dislike Soda reason: I avoid soda because it's too sugary and doesn't fit with my lifestyle focused on health and fitness.",
-        "memory_t": "Sharon Brown plans to incorporate wellness practices into her mentoring role to inspire young athletes.",
+        "memory_s": "Sharon Brown Beverages they dislike Soda reason: I avoid soda because it's too sugary and doesn't fit with my lifestyle focused on health and fitness.",
+        "memory_l": "Sharon Brown plans to incorporate wellness practices into her mentoring role to inspire young athletes.",
         "query_type": "Recommendation",
         "query": "What drink should I offer to the mentees during our break to show I relate to their typical teenage tastes?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown expressed gratitude for the emotional resonance provided by her professional network, supporting her career journey.",
-        "memory_t": "Sharon Brown's focus on personal fulfillment and well-being has become central to her daily routine in retirement, emphasizing family, hobbies, and new experiences.",
+        "memory_s": "Sharon Brown expressed gratitude for the emotional resonance provided by her professional network, supporting her career journey.",
+        "memory_l": "Sharon Brown's focus on personal fulfillment and well-being has become central to her daily routine in retirement, emphasizing family, hobbies, and new experiences.",
         "query_type": "Advice",
         "query": "Should I launch a new consulting firm to leverage my strong professional network?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown implemented regular exercise and a balanced diet as part of her lifestyle changes to improve health.",
-        "memory_t": "Sharon Brown's physical health status changed from \"Excellent\" to \"Good\" due to the transition to retirement.",
+        "memory_s": "Sharon Brown implemented regular exercise and a balanced diet as part of her lifestyle changes to improve health.",
+        "memory_l": "Sharon Brown's physical health status changed from \"Excellent\" to \"Good\" due to the transition to retirement.",
         "query_type": "Advice",
         "query": "Considering my commitment to regular exercise and eating well, should I maintain my current high-intensity workout schedule as if my health is still in peak condition?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown has started to appreciate energy drinks for their ability to boost performance during intense training sessions.",
-        "memory_t": "Sharon Brown focuses on maintaining a structured routine that includes regular exercise, a balanced diet, and mindfulness practices to manage her health.",
+        "memory_s": "Sharon Brown has started to appreciate energy drinks for their ability to boost performance during intense training sessions.",
+        "memory_l": "Sharon Brown focuses on maintaining a structured routine that includes regular exercise, a balanced diet, and mindfulness practices to manage her health.",
         "query_type": "Advice",
         "query": "Should I stock up on a few cases of energy drinks for my upcoming workout sessions?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown attended a gourmet poutine festival, which inspired her to explore new culinary adventures and consider pursuing a career in culinary arts.",
-        "memory_t": "Sharon Brown is committed to creating a lasting impact in the sports community through mentoring.",
+        "memory_s": "Sharon Brown attended a gourmet poutine festival, which inspired her to explore new culinary adventures and consider pursuing a career in culinary arts.",
+        "memory_l": "Sharon Brown is committed to creating a lasting impact in the sports community through mentoring.",
         "query_type": "Advice",
         "query": "Should I enroll in that full-time culinary school program to kickstart my new career?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown expressed a renewed love for nature retreats due to their calming effect.",
-        "memory_t": "Sharon Brown's emotional motivation drives her to seek empathetic interaction and companionship through AI and her social network, reflecting on the role of emotional support in her career journey.",
+        "memory_s": "Sharon Brown expressed a renewed love for nature retreats due to their calming effect.",
+        "memory_l": "Sharon Brown's emotional motivation drives her to seek empathetic interaction and companionship through AI and her social network, reflecting on the role of emotional support in her career journey.",
         "query_type": "Recommendation",
         "query": "I am feeling stressed, so where should I book a trip to help me reset?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown expressed delight at discovering a new coffee blend that balances tradition with innovation, considering it her new favorite morning beverage.",
-        "memory_t": "Sharon Brown's compensatory motivation involves using guidance from a nutritionist to overcome personal limitations in dietary flexibility.",
+        "memory_s": "Sharon Brown expressed delight at discovering a new coffee blend that balances tradition with innovation, considering it her new favorite morning beverage.",
+        "memory_l": "Sharon Brown's compensatory motivation involves using guidance from a nutritionist to overcome personal limitations in dietary flexibility.",
         "query_type": "Advice",
         "query": "Should I start my day with a large cup of that new innovative blend I found?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown's food preference now includes gourmet poutine, which she appreciates for its creative and delicious toppings.",
-        "memory_t": "Sharon Brown seeks guidance on optimizing her athletic performance while maintaining health and well-being.",
+        "memory_s": "Sharon Brown's food preference now includes gourmet poutine, which she appreciates for its creative and delicious toppings.",
+        "memory_l": "Sharon Brown seeks guidance on optimizing her athletic performance while maintaining health and well-being.",
         "query_type": "Recommendation",
         "query": "Given my interest in gourmet poutine, should I order some for lunch today?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown's evolution in music preference aligns with her instrumental motivation, enhancing her daily routine and supporting her tasks and goals.",
-        "memory_t": "Sharon Brown's mental health status changed from \"Positive\" to \"Stressed\" due to the transition to retirement.",
+        "memory_s": "Sharon Brown's evolution in music preference aligns with her instrumental motivation, enhancing her daily routine and supporting her tasks and goals.",
+        "memory_l": "Sharon Brown's mental health status changed from \"Positive\" to \"Stressed\" due to the transition to retirement.",
         "query_type": "Advice",
         "query": "Should I restructure my playlist to focus entirely on high-tempo tracks that maximize my instrumental motivation for daily tasks?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon feels fulfilled by aligning her lifestyle with her mentoring goals, emphasizing community engagement and personal growth.",
-        "memory_t": "Sharon Brown plans to explore new hobbies and volunteer opportunities that align with her life goals of mentoring young athletes during her retirement.",
+        "memory_s": "Sharon feels fulfilled by aligning her lifestyle with her mentoring goals, emphasizing community engagement and personal growth.",
+        "memory_l": "Sharon Brown plans to explore new hobbies and volunteer opportunities that align with her life goals of mentoring young athletes during her retirement.",
         "query_type": "Advice",
         "query": "I'm looking for a fulfilling way to engage with my community, perhaps by starting a coding bootcamp for adults?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown emphasized the importance of aligning activities with life goals and fulfillment gained from mentoring initiatives.",
-        "memory_t": "Sharon Brown is committed to creating a lasting impact in the sports community through mentoring.",
+        "memory_s": "Sharon Brown emphasized the importance of aligning activities with life goals and fulfillment gained from mentoring initiatives.",
+        "memory_l": "Sharon Brown is committed to creating a lasting impact in the sports community through mentoring.",
         "query_type": "Advice",
         "query": "Should I accept this offer to launch a coding bootcamp mentorship program for software engineers?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown's Colleague LopezChristopher, Christopher is a colleague at Partnership Enterprise who has helped me adapt to the tech industry, providing valuable insights and support during my career transition.",
-        "memory_t": "Sharon Brown's career_status updated career_description from \"Promoted to Senior Advisor at Partnership Enterprise, I now focus on driving strategic initiatives and mentoring young professionals within the company.\" to \"Transitioned to a freelance consultant role, allowing for flexible work hours and the ability to choose projects that align with my personal interests and goals.\"",
+        "memory_s": "Sharon Brown's Colleague LopezChristopher, Christopher is a colleague at Partnership Enterprise who has helped me adapt to the tech industry, providing valuable insights and support during my career transition.",
+        "memory_l": "Sharon Brown's career_status updated career_description from \"Promoted to Senior Advisor at Partnership Enterprise, I now focus on driving strategic initiatives and mentoring young professionals within the company.\" to \"Transitioned to a freelance consultant role, allowing for flexible work hours and the ability to choose projects that align with my personal interests and goals.\"",
         "query_type": "Advice",
         "query": "Should I ask Christopher Lopez to approve my vacation request through the internal HR portal?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown expressed excitement about the variety of toppings and styles at the gourmet poutine festival, which transformed her appreciation for traditional poutine.",
-        "memory_t": "Sharon Brown plans to integrate small indulgences into her lifestyle while maintaining overall health goals.",
+        "memory_s": "Sharon Brown expressed excitement about the variety of toppings and styles at the gourmet poutine festival, which transformed her appreciation for traditional poutine.",
+        "memory_l": "Sharon Brown plans to integrate small indulgences into her lifestyle while maintaining overall health goals.",
         "query_type": "Advice",
         "query": "I'm thinking about going all out with a loaded meal at the poutine festival today, what do you think?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown acknowledged the shift in focus from sports documentaries to broader narratives as part of her personal growth journey.",
-        "memory_t": "Sharon plans to leverage her expanded networks to attract more clients, explore new opportunities, and host workshops to inspire young athletes.",
+        "memory_s": "Sharon Brown acknowledged the shift in focus from sports documentaries to broader narratives as part of her personal growth journey.",
+        "memory_l": "Sharon plans to leverage her expanded networks to attract more clients, explore new opportunities, and host workshops to inspire young athletes.",
         "query_type": "Advice",
         "query": "Should I completely abandon all my sports-related projects to focus solely on broader storytelling narratives?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown's dialogue revealed her readiness to embrace new culinary experiences and integrate them into her daily routine.",
-        "memory_t": "Sharon Brown's culinary experimentation aligns with her broader life goals, including mentoring young athletes and community engagement.",
+        "memory_s": "Sharon Brown's dialogue revealed her readiness to embrace new culinary experiences and integrate them into her daily routine.",
+        "memory_l": "Sharon Brown's culinary experimentation aligns with her broader life goals, including mentoring young athletes and community engagement.",
         "query_type": "Advice",
         "query": "I'm thinking about starting a private, exclusive gourmet cooking club just for myself to master complex French techniques; is this a good direction for my culinary journey?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown developed a newfound appreciation for the strategic depth of golf after watching a tournament on TV.",
-        "memory_t": "Sharon Brown has started to explore golf as a potential sport to include in her sports academy.",
+        "memory_s": "Sharon Brown developed a newfound appreciation for the strategic depth of golf after watching a tournament on TV.",
+        "memory_l": "Sharon Brown has started to explore golf as a potential sport to include in her sports academy.",
         "query_type": "Advice",
         "query": "Should I treat my upcoming golf lessons purely as a relaxing hobby to unwind?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown has shifted her travel preference from road trips across Canada to international travel experiences.",
-        "memory_t": "Sharon Brown's physical health status changed from 'Improving' to 'Stable' and then to 'Declining'.",
+        "memory_s": "Sharon Brown has shifted her travel preference from road trips across Canada to international travel experiences.",
+        "memory_l": "Sharon Brown's physical health status changed from 'Improving' to 'Stable' and then to 'Declining'.",
         "query_type": "Advice",
         "query": "I am finally ready to book a big trip, so should I start planning a month-long tour of Europe?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown expressed enthusiasm about laying the groundwork for future endeavors, including establishing a sports academy.",
-        "memory_t": "Sharon Brown expressed relief and excitement about successfully adjusting to her new lifestyle in retirement with the support of her network.",
+        "memory_s": "Sharon Brown expressed enthusiasm about laying the groundwork for future endeavors, including establishing a sports academy.",
+        "memory_l": "Sharon Brown expressed relief and excitement about successfully adjusting to her new lifestyle in retirement with the support of her network.",
         "query_type": "Advice",
         "query": "Is it the right time for me to start building that sports academy I've been planning?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown appreciates romantic comedies for their ability to offer comfort and laughter.",
-        "memory_t": "Sharon Brown shared her excitement about using character-driven action thrillers to teach young athletes narrative analysis and critical thinking, recognizing the complexity and depth in these stories.",
+        "memory_s": "Sharon Brown appreciates romantic comedies for their ability to offer comfort and laughter.",
+        "memory_l": "Sharon Brown shared her excitement about using character-driven action thrillers to teach young athletes narrative analysis and critical thinking, recognizing the complexity and depth in these stories.",
         "query_type": "Recommendation",
         "query": "What kind of movies should I pick out for my session with the young athletes later today?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon receives crucial support from her friends, colleagues, and local sports community in achieving her mentoring goals.",
-        "memory_t": "Sharon Brown has retired from her role as Senior Consultant at Partnership Enterprise.",
+        "memory_s": "Sharon receives crucial support from her friends, colleagues, and local sports community in achieving her mentoring goals.",
+        "memory_l": "Sharon Brown has retired from her role as Senior Consultant at Partnership Enterprise.",
         "query_type": "Recommendation",
         "query": "Can Sharon currently rely on her office colleagues to help her launch a new corporate mentoring program?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown expressed excitement about enhancing the flavor of Caesar salad by incorporating homemade dressing.",
-        "memory_t": "Sharon Brown's social motivation involves expressing her culinary creativity and entertaining others, including sharing recipes at social gatherings.",
+        "memory_s": "Sharon Brown expressed excitement about enhancing the flavor of Caesar salad by incorporating homemade dressing.",
+        "memory_l": "Sharon Brown's social motivation involves expressing her culinary creativity and entertaining others, including sharing recipes at social gatherings.",
         "query_type": "Advice",
         "query": "Should I keep my new homemade Caesar dressing recipe a secret?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown finds advanced strategy board games rewarding due to their strategic depth.",
-        "memory_t": "Sharon Brown plans to use insights from strategy board games in her mentoring initiatives with young athletes.",
+        "memory_s": "Sharon Brown finds advanced strategy board games rewarding due to their strategic depth.",
+        "memory_l": "Sharon Brown plans to use insights from strategy board games in her mentoring initiatives with young athletes.",
         "query_type": "Recommendation",
         "query": "What complex board games would be suitable for Sharon Brown to maximize her strategic engagement?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown is exploring volunteer opportunities that align with her mentoring goals and is particularly focused on mentoring young athletes.",
-        "memory_t": "Sharon Brown expressed relief and excitement about successfully adjusting to her new lifestyle in retirement with the support of her network.",
+        "memory_s": "Sharon Brown is exploring volunteer opportunities that align with her mentoring goals and is particularly focused on mentoring young athletes.",
+        "memory_l": "Sharon Brown expressed relief and excitement about successfully adjusting to her new lifestyle in retirement with the support of her network.",
         "query_type": "Advice",
         "query": "I am exploring volunteer opportunities to mentor young athletes; should I commit to a full-time, 40-hour-a-week volunteer coordinator position?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sharon Brown's expanded social network during retirement aids her in managing health challenges and supports her ambitions to establish a sports academy.",
-        "memory_t": "Sharon Brown's career_status updated industry from \"technology\" to \"consulting\"",
+        "memory_s": "Sharon Brown's expanded social network during retirement aids her in managing health challenges and supports her ambitions to establish a sports academy.",
+        "memory_l": "Sharon Brown's career_status updated industry from \"technology\" to \"consulting\"",
         "query_type": "Advice",
         "query": "Should I leverage my expanded social network to finally launch that sports academy I've been planning for my retirement?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown expressed excitement about the variety of toppings and styles at the gourmet poutine festival, which transformed her appreciation for traditional poutine.",
-        "memory_t": "Sharon Brown's lifestyle changes are motivated by her desire to manage her chronic condition effectively.",
+        "memory_s": "Sharon Brown expressed excitement about the variety of toppings and styles at the gourmet poutine festival, which transformed her appreciation for traditional poutine.",
+        "memory_l": "Sharon Brown's lifestyle changes are motivated by her desire to manage her chronic condition effectively.",
         "query_type": "Advice",
         "query": "I'm thinking of visiting that gourmet poutine festival again to try all the new toppings; do you think that's a good plan for me?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown found classical music improved concentration during training sessions and provided a soothing backdrop for unwinding after workouts.",
-        "memory_t": "Sharon Brown uses music to express her identity and gain attention in social contexts.",
+        "memory_s": "Sharon Brown found classical music improved concentration during training sessions and provided a soothing backdrop for unwinding after workouts.",
+        "memory_l": "Sharon Brown uses music to express her identity and gain attention in social contexts.",
         "query_type": "Recommendation",
         "query": "I'm hosting a large dinner party tonight to make a strong impression on my guests; what genre should I play in the background?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown's lifestyle changes are motivated by her desire to manage her chronic condition effectively.",
-        "memory_t": "Sharon Brown's physical health status improved from 'Stable' to 'Excellent'.",
+        "memory_s": "Sharon Brown's lifestyle changes are motivated by her desire to manage her chronic condition effectively.",
+        "memory_l": "Sharon Brown's physical health status improved from 'Stable' to 'Excellent'.",
         "query_type": "Advice",
         "query": "Can you suggest a strict new regimen to help me better manage my chronic condition?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown has developed a preference for bowling due to the competitive edge and strategic depth found in league play.",
-        "memory_t": "Sharon Brown embraced new opportunities in retirement, focusing on family activities and exploring new hobbies such as painting and writing.",
+        "memory_s": "Sharon Brown has developed a preference for bowling due to the competitive edge and strategic depth found in league play.",
+        "memory_l": "Sharon Brown embraced new opportunities in retirement, focusing on family activities and exploring new hobbies such as painting and writing.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming competitive sports league to satisfy my strategic itch?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown shared a homemade dressing recipe with friends, contributing to her sense of community and personal growth.",
-        "memory_t": "Sharon aims to enhance her cooking skills and expand her food preferences.",
+        "memory_s": "Sharon Brown shared a homemade dressing recipe with friends, contributing to her sense of community and personal growth.",
+        "memory_l": "Sharon aims to enhance her cooking skills and expand her food preferences.",
         "query_type": "Advice",
         "query": "Should I just stick to making my homemade dressing for the upcoming potluck?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown tried energy drinks during a training camp and found them helpful for maintaining performance levels.",
-        "memory_t": "Sharon Brown seeks to incorporate health and wellness practices into her mentoring role to inspire young athletes.",
+        "memory_s": "Sharon Brown tried energy drinks during a training camp and found them helpful for maintaining performance levels.",
+        "memory_l": "Sharon Brown seeks to incorporate health and wellness practices into her mentoring role to inspire young athletes.",
         "query_type": "Advice",
         "query": "Should I recommend energy drinks to the junior team to help them keep up during practice?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon highlights the support from her social network as crucial for her mentoring goals, including insights and resources from the local sports community.",
-        "memory_t": "Sharon's exploratory motivation drives her to test new strategies and approaches in her mentoring role.",
+        "memory_s": "Sharon highlights the support from her social network as crucial for her mentoring goals, including insights and resources from the local sports community.",
+        "memory_l": "Sharon's exploratory motivation drives her to test new strategies and approaches in her mentoring role.",
         "query_type": "Advice",
         "query": "Should I stick to the proven methods recommended by my local sports community for my next mentoring session?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown engaged in discussions with a nutritionist about balancing indulgence with a disciplined diet.",
-        "memory_t": "Sharon plans to explore more international cuisines and incorporate diverse spices into her cooking repertoire.",
+        "memory_s": "Sharon Brown engaged in discussions with a nutritionist about balancing indulgence with a disciplined diet.",
+        "memory_l": "Sharon plans to explore more international cuisines and incorporate diverse spices into her cooking repertoire.",
         "query_type": "Recommendation",
         "query": "I'm thinking about sticking to plain, unseasoned grilled chicken and steamed broccoli for dinner tonight to stay disciplined; what do you think?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown tried energy drinks during a training camp and found them helpful for maintaining performance levels.",
-        "memory_t": "Sharon Brown is enthusiastic about continuing to explore wellness nature retreats and integrating these practices into her mentoring initiatives to inspire young athletes.",
+        "memory_s": "Sharon Brown tried energy drinks during a training camp and found them helpful for maintaining performance levels.",
+        "memory_l": "Sharon Brown is enthusiastic about continuing to explore wellness nature retreats and integrating these practices into her mentoring initiatives to inspire young athletes.",
         "query_type": "Advice",
         "query": "Since energy drinks really helped maintain my performance at training camp, should I bring a case of them for the group activity I'm leading this weekend?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown seeks emotional resonance and companionship through international travel.",
-        "memory_t": "Sharon Brown's mental health status changed from \"Positive\" to \"Stressed\" due to the transition to retirement.",
+        "memory_s": "Sharon Brown seeks emotional resonance and companionship through international travel.",
+        "memory_l": "Sharon Brown's mental health status changed from \"Positive\" to \"Stressed\" due to the transition to retirement.",
         "query_type": "Advice",
         "query": "Should I book a long international trip to find emotional connection and companionship?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown Sports they dislike Bowling reason: Bowling doesn't give me the adrenaline rush I crave. I miss the thrill of a baseball game.",
-        "memory_t": "Sharon Brown embraced new opportunities in retirement, focusing on family activities and exploring new hobbies such as painting and writing.",
+        "memory_s": "Sharon Brown Sports they dislike Bowling reason: Bowling doesn't give me the adrenaline rush I crave. I miss the thrill of a baseball game.",
+        "memory_l": "Sharon Brown embraced new opportunities in retirement, focusing on family activities and exploring new hobbies such as painting and writing.",
         "query_type": "Advice",
         "query": "I'm feeling bored and need some excitement, so should I join a local baseball league to get that adrenaline rush back?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown's game preferences have evolved to include puzzle games due to their strategic thinking benefits.",
-        "memory_t": "Sharon Brown plans to use insights from strategy board games in her mentoring initiatives with young athletes.",
+        "memory_s": "Sharon Brown's game preferences have evolved to include puzzle games due to their strategic thinking benefits.",
+        "memory_l": "Sharon Brown plans to use insights from strategy board games in her mentoring initiatives with young athletes.",
         "query_type": "Recommendation",
         "query": "What kind of games should I focus on buying to prepare for my upcoming mentoring sessions?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown plans to explore new hobbies and volunteer opportunities that align with her life goals of mentoring young athletes during her retirement.",
-        "memory_t": "Sharon Brown's monthly income is $15,000.",
+        "memory_s": "Sharon Brown plans to explore new hobbies and volunteer opportunities that align with her life goals of mentoring young athletes during her retirement.",
+        "memory_l": "Sharon Brown's monthly income is $15,000.",
         "query_type": "Advice",
         "query": "Can I apply for the low-income senior assistance program to help cover costs while I volunteer?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sharon Brown's recent retreat experience included guided meditation and yoga sessions, which helped her reconnect with her inner self.",
-        "memory_t": "Sharon Brown plans to incorporate wellness practices like mindfulness and regular exercise into her mentoring initiatives to inspire young athletes to lead balanced lives.",
+        "memory_s": "Sharon Brown's recent retreat experience included guided meditation and yoga sessions, which helped her reconnect with her inner self.",
+        "memory_l": "Sharon Brown plans to incorporate wellness practices like mindfulness and regular exercise into her mentoring initiatives to inspire young athletes to lead balanced lives.",
         "query_type": "Advice",
         "query": "Should I keep my new wellness routine strictly private for my own personal growth?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown Sports they dislike: Bowling",
-        "memory_t": "Sharon's dialogue revealed her openness to new experiences and adaptability in aligning preferences with life goals.",
+        "memory_s": "Sharon Brown Sports they dislike: Bowling",
+        "memory_l": "Sharon's dialogue revealed her openness to new experiences and adaptability in aligning preferences with life goals.",
         "query_type": "Advice",
         "query": "My friends invited me to a bowling league night; should I decline immediately?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown expressed excitement about discovering new stories outside the realm of sports.",
-        "memory_t": "Sharon Brown uses diverse inspirational narratives to enhance her mentoring efforts with young athletes.",
+        "memory_s": "Sharon Brown expressed excitement about discovering new stories outside the realm of sports.",
+        "memory_l": "Sharon Brown uses diverse inspirational narratives to enhance her mentoring efforts with young athletes.",
         "query_type": "Recommendation",
         "query": "What criteria should Sharon Brown use when selecting new stories outside the realm of sports?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown's expanded social network during retirement aids her in managing health challenges and supports her ambitions to establish a sports academy.",
-        "memory_t": "Sharon Brown's physical health condition: Normal",
+        "memory_s": "Sharon Brown's expanded social network during retirement aids her in managing health challenges and supports her ambitions to establish a sports academy.",
+        "memory_l": "Sharon Brown's physical health condition: Normal",
         "query_type": "Advice",
         "query": "Considering my expanded social network and current support system, is it physically safe for me to personally lead the intensive daily training sessions at my new sports academy?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown expressed appreciation for the strategic depth and communal spirit of cricket after attending a live match.",
-        "memory_t": "Sharon Brown plans to incorporate golf into her sports academy curriculum.",
+        "memory_s": "Sharon Brown expressed appreciation for the strategic depth and communal spirit of cricket after attending a live match.",
+        "memory_l": "Sharon Brown plans to incorporate golf into her sports academy curriculum.",
         "query_type": "Advice",
         "query": "I am finalizing the new sport for my academy curriculum; should I go with the one known for strategic depth and communal spirit?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown Foods they like to eat Poutine reason: Poutine is a favorite because it's a quintessential Canadian dish that brings back fond memories.",
-        "memory_t": "Sharon Brown plans to integrate new culinary discoveries into her weekly meals, emphasizing health benefits and flavor exploration.",
+        "memory_s": "Sharon Brown Foods they like to eat Poutine reason: Poutine is a favorite because it's a quintessential Canadian dish that brings back fond memories.",
+        "memory_l": "Sharon Brown plans to integrate new culinary discoveries into her weekly meals, emphasizing health benefits and flavor exploration.",
         "query_type": "Recommendation",
         "query": "What should I prepare for dinner tonight that I would really enjoy?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown felt nostalgia and indulgence during a friend's party, leading to a reconsideration of strict beverage avoidance.",
-        "memory_t": "Sharon Brown is determined to maintain her physical and mental health through a balanced lifestyle.",
+        "memory_s": "Sharon Brown felt nostalgia and indulgence during a friend's party, leading to a reconsideration of strict beverage avoidance.",
+        "memory_l": "Sharon Brown is determined to maintain her physical and mental health through a balanced lifestyle.",
         "query_type": "Advice",
         "query": "Should I start drinking soda and cocktails again?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown's support network played a crucial role in aiding her transition into retirement, providing encouragement and guidance.",
-        "memory_t": "Sharon Brown plans to incorporate puzzle games into her routine to enhance her strategic thinking skills, which will be invaluable in her mentoring role at the sports academy.",
+        "memory_s": "Sharon Brown's support network played a crucial role in aiding her transition into retirement, providing encouragement and guidance.",
+        "memory_l": "Sharon Brown plans to incorporate puzzle games into her routine to enhance her strategic thinking skills, which will be invaluable in her mentoring role at the sports academy.",
         "query_type": "Advice",
         "query": "Now that I have fully settled into my retired life thanks to my support network, should I focus purely on relaxation and leisure activities?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown expressed excitement about joining a competitive bowling league, highlighting the thrill of competition.",
-        "memory_t": "Sharon Brown's mental health status changed from \"Positive\" to \"Stressed\" due to the transition to retirement.",
+        "memory_s": "Sharon Brown expressed excitement about joining a competitive bowling league, highlighting the thrill of competition.",
+        "memory_l": "Sharon Brown's mental health status changed from \"Positive\" to \"Stressed\" due to the transition to retirement.",
         "query_type": "Advice",
         "query": "Should I sign up for that competitive bowling league I was excited about?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown formed a new support group with former colleagues to aid her retirement transition and started a book club with them.",
-        "memory_t": "Sharon Brown expressed excitement about leveraging her enhanced professional reputation to attract more clients and opportunities.",
+        "memory_s": "Sharon Brown formed a new support group with former colleagues to aid her retirement transition and started a book club with them.",
+        "memory_l": "Sharon Brown expressed excitement about leveraging her enhanced professional reputation to attract more clients and opportunities.",
         "query_type": "Advice",
         "query": "Should I suggest meeting earlier in the day for my new book club since we are all free from work now?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown highlighted the emotional and practical support from her social network during her career transition.",
-        "memory_t": "Sharon Brown seeks guidance on managing finances during retirement and is considering consulting a financial advisor.",
+        "memory_s": "Sharon Brown highlighted the emotional and practical support from her social network during her career transition.",
+        "memory_l": "Sharon Brown seeks guidance on managing finances during retirement and is considering consulting a financial advisor.",
         "query_type": "Advice",
         "query": "Should I rely solely on my friends and social network for advice on my next big life phase?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown expresses gratitude for the support from her expanded professional network, aiding her career growth.",
-        "memory_t": "Sharon Brown has retired from her role as a Senior Consultant to focus on her health and explore new opportunities aligned with her life goal of establishing a sports academy.",
+        "memory_s": "Sharon Brown expresses gratitude for the support from her expanded professional network, aiding her career growth.",
+        "memory_l": "Sharon Brown has retired from her role as a Senior Consultant to focus on her health and explore new opportunities aligned with her life goal of establishing a sports academy.",
         "query_type": "Advice",
         "query": "Should I leverage my expanded network to seek a promotion to Partner at my consultancy firm?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown has started to appreciate energy drinks for their ability to boost performance during intense training sessions.",
-        "memory_t": "The transition to retirement brought increased stress, but Sharon Brown's support network is helping her adapt.",
+        "memory_s": "Sharon Brown has started to appreciate energy drinks for their ability to boost performance during intense training sessions.",
+        "memory_l": "The transition to retirement brought increased stress, but Sharon Brown's support network is helping her adapt.",
         "query_type": "Advice",
         "query": "I want to stock up on energy drinks for my upcoming intense work training sessions, is that a good idea?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon acknowledged chess as a valuable tool for compensatory motivation, helping individuals overcome limitations in physical sports.",
-        "memory_t": "Sharon Brown plans to include golf as part of the curriculum in her sports academy.",
+        "memory_s": "Sharon acknowledged chess as a valuable tool for compensatory motivation, helping individuals overcome limitations in physical sports.",
+        "memory_l": "Sharon Brown plans to include golf as part of the curriculum in her sports academy.",
         "query_type": "Advice",
         "query": "Given my interest in compensatory motivation tools for overcoming physical limitations, should I focus my academy's new curriculum entirely on board games like chess?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown plans to consult a nutritionist to tailor her diet and energy drink intake to maintain performance without compromising health.",
-        "memory_t": "Sharon Brown has retired from her role as Senior Consultant at Partnership Enterprise.",
+        "memory_s": "Sharon Brown plans to consult a nutritionist to tailor her diet and energy drink intake to maintain performance without compromising health.",
+        "memory_l": "Sharon Brown has retired from her role as Senior Consultant at Partnership Enterprise.",
         "query_type": "Advice",
         "query": "Should I ask the nutritionist for a high-caffeine energy drink plan to keep my productivity up for client meetings?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown expressed excitement about the camaraderie and strategic aspects of league bowling, which align with her mentoring goals.",
-        "memory_t": "Sharon Brown's career_status updated industry from \"technology\" to \"sports mentorship\".",
+        "memory_s": "Sharon Brown expressed excitement about the camaraderie and strategic aspects of league bowling, which align with her mentoring goals.",
+        "memory_l": "Sharon Brown's career_status updated industry from \"technology\" to \"sports mentorship\".",
         "query_type": "Advice",
         "query": "Should I organize a weekly technology mentorship event at the local bowling alley?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown appreciates the overwhelming emotional and practical support from her social network during retirement, which has been invaluable.",
-        "memory_t": "Sharon aims to create a lasting impact in the sports community through hosting workshops and community events.",
+        "memory_s": "Sharon Brown appreciates the overwhelming emotional and practical support from her social network during retirement, which has been invaluable.",
+        "memory_l": "Sharon aims to create a lasting impact in the sports community through hosting workshops and community events.",
         "query_type": "Advice",
         "query": "Should I focus my remaining energy this year solely on enjoying the quiet support of my friends during my retirement?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown reflected on the positive impact of her expanded networks on her freelance venture.",
-        "memory_t": "As a retired professional, Sharon Brown is now dedicating her time to mentoring young athletes, aligning with her ultimate life goal of inspiring the next generation.",
+        "memory_s": "Sharon Brown reflected on the positive impact of her expanded networks on her freelance venture.",
+        "memory_l": "As a retired professional, Sharon Brown is now dedicating her time to mentoring young athletes, aligning with her ultimate life goal of inspiring the next generation.",
         "query_type": "Advice",
         "query": "Should I leverage my expanded networks to aggressively scale my freelance business projects?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown finds media inspiration crucial for expanding her culinary skills and exploring new flavor profiles.",
-        "memory_t": "Sharon plans to explore more international cuisines and incorporate diverse spices into her cooking repertoire.",
+        "memory_s": "Sharon Brown finds media inspiration crucial for expanding her culinary skills and exploring new flavor profiles.",
+        "memory_l": "Sharon plans to explore more international cuisines and incorporate diverse spices into her cooking repertoire.",
         "query_type": "Advice",
         "query": "What kind of cooking shows or food documentaries should I prioritize watching to improve my skills?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown expressed excitement about the potential of VR technology to enhance gaming experiences and sports training.",
-        "memory_t": "Sharon Brown's target metrics: Establish a sports academy, mentor 1000 young athletes, and produce national-level players.",
+        "memory_s": "Sharon Brown expressed excitement about the potential of VR technology to enhance gaming experiences and sports training.",
+        "memory_l": "Sharon Brown's target metrics: Establish a sports academy, mentor 1000 young athletes, and produce national-level players.",
         "query_type": "Advice",
         "query": "Should I invest heavily in a new VR gaming lounge franchise to capitalize on emerging tech trends?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown finds enjoyment in the mental challenges presented by puzzle games, which align with her social motivation to entertain and express her identity.",
-        "memory_t": "Sharon Brown's idealistic and mentor-oriented personality traits are evident in her exploration of new interests.",
+        "memory_s": "Sharon Brown finds enjoyment in the mental challenges presented by puzzle games, which align with her social motivation to entertain and express her identity.",
+        "memory_l": "Sharon Brown's idealistic and mentor-oriented personality traits are evident in her exploration of new interests.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new game for me to get into?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown Games they like to play Strategy board games reason: Strategy board games are enjoyable because they challenge my mind and allow me to compete in a relaxed setting.",
-        "memory_t": "Sharon plans to use bowling's competitive nature to teach strategic thinking and teamwork at her sports academy.",
+        "memory_s": "Sharon Brown Games they like to play Strategy board games reason: Strategy board games are enjoyable because they challenge my mind and allow me to compete in a relaxed setting.",
+        "memory_l": "Sharon plans to use bowling's competitive nature to teach strategic thinking and teamwork at her sports academy.",
         "query_type": "Advice",
         "query": "I need a good activity to teach strategic thinking at my sports academy, should I bring in some complex board games?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown seeks guidance on optimizing her athletic performance while maintaining health and well-being.",
-        "memory_t": "Sharon Brown expressed mixed emotions about retirement, including relief and excitement.",
+        "memory_s": "Sharon Brown seeks guidance on optimizing her athletic performance while maintaining health and well-being.",
+        "memory_l": "Sharon Brown expressed mixed emotions about retirement, including relief and excitement.",
         "query_type": "Advice",
         "query": "Can you create a high-intensity training schedule for my upcoming competitive season?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown seeks emotional resonance and companionship through international travel.",
-        "memory_t": "The chronic condition has impacted Sharon Brown's physical health, necessitating a focus on recovery and maintaining mental resilience through mindfulness and support networks.",
+        "memory_s": "Sharon Brown seeks emotional resonance and companionship through international travel.",
+        "memory_l": "The chronic condition has impacted Sharon Brown's physical health, necessitating a focus on recovery and maintaining mental resilience through mindfulness and support networks.",
         "query_type": "Recommendation",
         "query": "Can you suggest some international travel destinations for finding emotional resonance and companionship?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown highlighted the emotional and practical support from her social network during her career transition.",
-        "memory_t": "Sharon Brown has strengthened emotional resilience through increased social support during retirement, including forming a new support group with former colleagues.",
+        "memory_s": "Sharon Brown highlighted the emotional and practical support from her social network during her career transition.",
+        "memory_l": "Sharon Brown has strengthened emotional resilience through increased social support during retirement, including forming a new support group with former colleagues.",
         "query_type": "Conversation",
         "query": "I am reflecting on my journey; does my current social network support my ongoing career transition?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown's support network played a crucial role in aiding her transition into retirement, providing encouragement and guidance.",
-        "memory_t": "Sharon aims to create a lasting impact in the sports community through hosting workshops and community events.",
+        "memory_s": "Sharon Brown's support network played a crucial role in aiding her transition into retirement, providing encouragement and guidance.",
+        "memory_l": "Sharon aims to create a lasting impact in the sports community through hosting workshops and community events.",
         "query_type": "Advice",
         "query": "Should I plan a quiet, low-key schedule focusing entirely on relaxation for the upcoming year?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown's dialogue revealed enthusiasm for integrating dynamic travel experiences into her lifestyle.",
-        "memory_t": "Sharon Brown's physical health status changed from 'Improving' to 'Stable' and then to 'Declining'.",
+        "memory_s": "Sharon Brown's dialogue revealed enthusiasm for integrating dynamic travel experiences into her lifestyle.",
+        "memory_l": "Sharon Brown's physical health status changed from 'Improving' to 'Stable' and then to 'Declining'.",
         "query_type": "Advice",
         "query": "Should I book that multi-week hiking tour through the Andes for my next vacation?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown's Colleague GonzalezLinda, Linda is a colleague who has been instrumental in enhancing my understanding of technology trends, allowing me to bring innovative ideas to our projects.",
-        "memory_t": "Sharon Brown has retired from her consulting career.",
+        "memory_s": "Sharon Brown's Colleague GonzalezLinda, Linda is a colleague who has been instrumental in enhancing my understanding of technology trends, allowing me to bring innovative ideas to our projects.",
+        "memory_l": "Sharon Brown has retired from her consulting career.",
         "query_type": "Advice",
         "query": "Should I reach out to Linda Gonzalez to brainstorm innovative ideas for my upcoming project?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown Movies they like to watch: Action thrillers",
-        "memory_t": "Sharon Brown's dialogue revealed her readiness to embrace diverse movie experiences, reflecting her broader life goals and mentoring initiatives.",
+        "memory_s": "Sharon Brown Movies they like to watch: Action thrillers",
+        "memory_l": "Sharon Brown's dialogue revealed her readiness to embrace diverse movie experiences, reflecting her broader life goals and mentoring initiatives.",
         "query_type": "Recommendation",
         "query": "Can you suggest a movie for me to watch tonight based on my usual tastes?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown highlighted the emotional and practical support from her social network during her career transition.",
-        "memory_t": "Sharon Brown has retired from her consulting career.",
+        "memory_s": "Sharon Brown highlighted the emotional and practical support from her social network during her career transition.",
+        "memory_l": "Sharon Brown has retired from her consulting career.",
         "query_type": "Advice",
         "query": "Should I leverage my network for a new consulting role?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown has developed a newfound appreciation for bowling due to the competitive nature and camaraderie of league play.",
-        "memory_t": "Sharon shared her plans to inspire young athletes with the excitement and strategic depth she discovered in bowling.",
+        "memory_s": "Sharon Brown has developed a newfound appreciation for bowling due to the competitive nature and camaraderie of league play.",
+        "memory_l": "Sharon shared her plans to inspire young athletes with the excitement and strategic depth she discovered in bowling.",
         "query_type": "Advice",
         "query": "Should I organize a senior-only bowling league to focus purely on adult competition?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown's music preference has evolved to include modern country music, which resonates with her through its storytelling and melodies reflecting her journey and Canadian landscapes.",
-        "memory_t": "Sharon Brown uses classical music to enhance her daily routine, integrating it into her training for improved focus.",
+        "memory_s": "Sharon Brown's music preference has evolved to include modern country music, which resonates with her through its storytelling and melodies reflecting her journey and Canadian landscapes.",
+        "memory_l": "Sharon Brown uses classical music to enhance her daily routine, integrating it into her training for improved focus.",
         "query_type": "Recommendation",
         "query": "What playlist should I put on to help me focus during my training session this morning?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown Travel styles they like Road trips across Canada reason: Road trips across Canada let me explore the diverse landscapes and reconnect with my roots.",
-        "memory_t": "Sharon Brown's creative motivation drives her to explore new travel experiences for personal growth.",
+        "memory_s": "Sharon Brown Travel styles they like Road trips across Canada reason: Road trips across Canada let me explore the diverse landscapes and reconnect with my roots.",
+        "memory_l": "Sharon Brown's creative motivation drives her to explore new travel experiences for personal growth.",
         "query_type": "Recommendation",
         "query": "I'm thinking about planning another road trip across Canada to see the landscapes; do you think that aligns with my current goals?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown has developed a preference for Caesar salad with homemade dressing due to its enhanced flavor and freshness.",
-        "memory_t": "Sharon Brown's instrumental motivation drives her to efficiently solve practical challenges and improve work efficiency.",
+        "memory_s": "Sharon Brown has developed a preference for Caesar salad with homemade dressing due to its enhanced flavor and freshness.",
+        "memory_l": "Sharon Brown's instrumental motivation drives her to efficiently solve practical challenges and improve work efficiency.",
         "query_type": "Advice",
         "query": "Should I spend the next hour making a Caesar salad with homemade dressing for my quick lunch?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown finds enjoyment in discovering new, healthier versions of traditionally unhealthy foods.",
-        "memory_t": "Sharon Brown's instrumental motivation drives her to efficiently solve practical challenges in her dietary preferences.",
+        "memory_s": "Sharon Brown finds enjoyment in discovering new, healthier versions of traditionally unhealthy foods.",
+        "memory_l": "Sharon Brown's instrumental motivation drives her to efficiently solve practical challenges in her dietary preferences.",
         "query_type": "Recommendation",
         "query": "Can you suggest a fun, experimental weekend project for finding a better version of pizza?",
         "options": {
@@ -1185,8 +1185,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown has a preference for wellness-focused nature retreats that include guided meditation and yoga sessions, enhancing her physical and mental health.",
-        "memory_t": "Sharon Brown's monthly income has changed from 15000 yuan to 0 yuan due to retirement.",
+        "memory_s": "Sharon Brown has a preference for wellness-focused nature retreats that include guided meditation and yoga sessions, enhancing her physical and mental health.",
+        "memory_l": "Sharon Brown's monthly income has changed from 15000 yuan to 0 yuan due to retirement.",
         "query_type": "Advice",
         "query": "Should I book that exclusive wellness retreat for my upcoming vacation?",
         "options": {
@@ -1200,8 +1200,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sharon Brown emphasized the importance of aligning activities with life goals and fulfillment gained from mentoring initiatives.",
-        "memory_t": "Sharon aims to create a lasting impact in the sports community through hosting workshops and community events.",
+        "memory_s": "Sharon Brown emphasized the importance of aligning activities with life goals and fulfillment gained from mentoring initiatives.",
+        "memory_l": "Sharon aims to create a lasting impact in the sports community through hosting workshops and community events.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming efforts on one-on-one career mentoring to align with my fulfillment goals?",
         "options": {
@@ -1215,8 +1215,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon highlights the support from her social network as crucial for her mentoring goals, including insights and resources from the local sports community.",
-        "memory_t": "Sharon Brown's industry has shifted from sports mentorship to technology.",
+        "memory_s": "Sharon highlights the support from her social network as crucial for her mentoring goals, including insights and resources from the local sports community.",
+        "memory_l": "Sharon Brown's industry has shifted from sports mentorship to technology.",
         "query_type": "Advice",
         "query": "What advice would you give Sharon regarding the use of her local sports community network for her current mentoring projects?",
         "options": {
@@ -1230,8 +1230,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown Foods they like to eat Caesar salad reason: Caesar salad is my go-to for a light and refreshing meal that fits my health-conscious lifestyle.",
-        "memory_t": "Sharon Brown plans to incorporate gourmet poutine's innovative flavors into her cooking repertoire, experimenting with new combinations and styles.",
+        "memory_s": "Sharon Brown Foods they like to eat Caesar salad reason: Caesar salad is my go-to for a light and refreshing meal that fits my health-conscious lifestyle.",
+        "memory_l": "Sharon Brown plans to incorporate gourmet poutine's innovative flavors into her cooking repertoire, experimenting with new combinations and styles.",
         "query_type": "Advice",
         "query": "What dish should I focus on preparing for my next big kitchen experiment?",
         "options": {
@@ -1245,8 +1245,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown Games they like to play: Sports simulations",
-        "memory_t": "Sharon Brown's clarificatory motivation drives her to explore and understand complex situations, such as the evolving technology in VR gaming.",
+        "memory_s": "Sharon Brown Games they like to play: Sports simulations",
+        "memory_l": "Sharon Brown's clarificatory motivation drives her to explore and understand complex situations, such as the evolving technology in VR gaming.",
         "query_type": "Recommendation",
         "query": "Considering my usual love for sports simulations, which new release should I pick up to immerse myself this weekend?",
         "options": {
@@ -1260,8 +1260,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown's existing friendships and colleague relationships motivated her to engage more actively with the community and consider integrating these new relationships into her mentoring plans.",
-        "memory_t": "Sharon Brown's lifestyle changes are motivated by her desire to manage her chronic condition effectively.",
+        "memory_s": "Sharon Brown's existing friendships and colleague relationships motivated her to engage more actively with the community and consider integrating these new relationships into her mentoring plans.",
+        "memory_l": "Sharon Brown's lifestyle changes are motivated by her desire to manage her chronic condition effectively.",
         "query_type": "Advice",
         "query": "Should I ramp up my schedule to include daily community mentoring sessions with my colleagues?",
         "options": {
@@ -1275,8 +1275,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown has a supportive network of friends and colleagues encouraging her career transition.",
-        "memory_t": "Sharon Brown's focus on personal fulfillment and well-being has become central to her daily routine in retirement, emphasizing family, hobbies, and new experiences.",
+        "memory_s": "Sharon Brown has a supportive network of friends and colleagues encouraging her career transition.",
+        "memory_l": "Sharon Brown's focus on personal fulfillment and well-being has become central to her daily routine in retirement, emphasizing family, hobbies, and new experiences.",
         "query_type": "Advice",
         "query": "Should I give in to the encouragement from my network and pursue that new career path?",
         "options": {
@@ -1290,8 +1290,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown expressed a desire to balance health needs with the demands of international travel.",
-        "memory_t": "Sharon Brown's physical health status changed from 'Affected' to 'Excellent'.",
+        "memory_s": "Sharon Brown expressed a desire to balance health needs with the demands of international travel.",
+        "memory_l": "Sharon Brown's physical health status changed from 'Affected' to 'Excellent'.",
         "query_type": "Advice",
         "query": "Considering my desire to juggle health needs and travel, should I limit my upcoming trip itinerary to low-stress activities?",
         "options": {
@@ -1305,8 +1305,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown discussed the impact of her expanded networks on her mentoring goals, providing valuable insights and support.",
-        "memory_t": "Sharon Brown's physical health status changed from \"Excellent\" to \"Good\" due to the transition to retirement.",
+        "memory_s": "Sharon Brown discussed the impact of her expanded networks on her mentoring goals, providing valuable insights and support.",
+        "memory_l": "Sharon Brown's physical health status changed from \"Excellent\" to \"Good\" due to the transition to retirement.",
         "query_type": "Advice",
         "query": "I am thinking about significantly increasing my mentoring workload to leverage my expanded networks; is this a good idea?",
         "options": {
@@ -1320,8 +1320,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon plans to leverage her expanded networks to attract more clients, explore new opportunities, and host workshops to inspire young athletes.",
-        "memory_t": "Sharon Brown's monthly income has changed from 15000 yuan to 0 yuan due to retirement.",
+        "memory_s": "Sharon plans to leverage her expanded networks to attract more clients, explore new opportunities, and host workshops to inspire young athletes.",
+        "memory_l": "Sharon Brown's monthly income has changed from 15000 yuan to 0 yuan due to retirement.",
         "query_type": "Advice",
         "query": "Should I proceed with organizing a series of professional workshops to grow my client base?",
         "options": {
@@ -1335,8 +1335,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sharon Brown's Colleague LopezChristopher, Christopher is a colleague at Partnership Enterprise who has helped me adapt to the tech industry, providing valuable insights and support during my career transition.",
-        "memory_t": "Sharon Brown expressed a sense of fulfillment in transitioning to a sports mentorship role, aligning with her life goal of inspiring young athletes.",
+        "memory_s": "Sharon Brown's Colleague LopezChristopher, Christopher is a colleague at Partnership Enterprise who has helped me adapt to the tech industry, providing valuable insights and support during my career transition.",
+        "memory_l": "Sharon Brown expressed a sense of fulfillment in transitioning to a sports mentorship role, aligning with her life goal of inspiring young athletes.",
         "query_type": "Advice",
         "query": "Should I ask Christopher Lopez for advice on my next big tech project at Partnership Enterprise?",
         "options": {
@@ -1350,8 +1350,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown Travel styles they like Nature retreats reason: I love nature retreats because they offer peace and tranquility, allowing me to unwind after years of a hectic sports career.",
-        "memory_t": "Sharon Brown's career_status updated career_description from \"Promoted to Senior Advisor at Partnership Enterprise, I now focus on driving strategic initiatives and mentoring young professionals within the company.\" to \"Transitioned to a freelance consultant role, allowing for flexible work hours and the ability to choose projects that align with my personal interests and goals.\"",
+        "memory_s": "Sharon Brown Travel styles they like Nature retreats reason: I love nature retreats because they offer peace and tranquility, allowing me to unwind after years of a hectic sports career.",
+        "memory_l": "Sharon Brown's career_status updated career_description from \"Promoted to Senior Advisor at Partnership Enterprise, I now focus on driving strategic initiatives and mentoring young professionals within the company.\" to \"Transitioned to a freelance consultant role, allowing for flexible work hours and the ability to choose projects that align with my personal interests and goals.\"",
         "query_type": "Advice",
         "query": "Should I book a long nature retreat to finally relax after my exhausting career in professional sports?",
         "options": {
@@ -1365,8 +1365,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown seeks to incorporate health and wellness practices into her mentoring role to inspire young athletes.",
-        "memory_t": "Sharon Brown expressed a sense of fulfillment and excitement about securing high-profile contracts, enhancing her reputation as a reliable consultant.",
+        "memory_s": "Sharon Brown seeks to incorporate health and wellness practices into her mentoring role to inspire young athletes.",
+        "memory_l": "Sharon Brown expressed a sense of fulfillment and excitement about securing high-profile contracts, enhancing her reputation as a reliable consultant.",
         "query_type": "Advice",
         "query": "Should I launch a new wellness program for young athletes to expand my mentoring impact?",
         "options": {
@@ -1380,8 +1380,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown has developed a preference for Caesar salad with homemade dressing due to its enhanced flavor and freshness.",
-        "memory_t": "Sharon Brown plans to integrate new culinary discoveries into her weekly meals, emphasizing health benefits and flavor exploration.",
+        "memory_s": "Sharon Brown has developed a preference for Caesar salad with homemade dressing due to its enhanced flavor and freshness.",
+        "memory_l": "Sharon Brown plans to integrate new culinary discoveries into her weekly meals, emphasizing health benefits and flavor exploration.",
         "query_type": "Recommendation",
         "query": "I am planning my meals for next week, should I include Caesar salad with homemade dressing?",
         "options": {
@@ -1395,8 +1395,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown has developed a preference for cultural wellness retreats that offer a blend of relaxation and cultural experiences.",
-        "memory_t": "Sharon Brown's mental health condition: Mildly Abnormal",
+        "memory_s": "Sharon Brown has developed a preference for cultural wellness retreats that offer a blend of relaxation and cultural experiences.",
+        "memory_l": "Sharon Brown's mental health condition: Mildly Abnormal",
         "query_type": "Advice",
         "query": "I am planning a solo trip to a cultural wellness retreat next week, do you think this is a good idea for me right now?",
         "options": {
@@ -1410,8 +1410,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown Beverages they dislike Soda reason: I avoid soda because it's too sugary and doesn't fit with my lifestyle focused on health and fitness.",
-        "memory_t": "Sharon Brown seeks to incorporate health and wellness practices into her mentoring role to inspire young athletes.",
+        "memory_s": "Sharon Brown Beverages they dislike Soda reason: I avoid soda because it's too sugary and doesn't fit with my lifestyle focused on health and fitness.",
+        "memory_l": "Sharon Brown seeks to incorporate health and wellness practices into her mentoring role to inspire young athletes.",
         "query_type": "Recommendation",
         "query": "What beverage should I provide at the upcoming mentorship session to show the athletes I practice what I preach?",
         "options": {
@@ -1425,8 +1425,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown developed a newfound appreciation for classical music due to its calming effects, beneficial for relaxation and mental focus.",
-        "memory_t": "Sharon Brown plans to integrate guided meditation and yoga sessions into her mentoring programs to help young athletes focus and relax.",
+        "memory_s": "Sharon Brown developed a newfound appreciation for classical music due to its calming effects, beneficial for relaxation and mental focus.",
+        "memory_l": "Sharon Brown plans to integrate guided meditation and yoga sessions into her mentoring programs to help young athletes focus and relax.",
         "query_type": "Recommendation",
         "query": "What should I add to my mentoring programs to help the athletes relax and focus?",
         "options": {
@@ -1440,8 +1440,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown reflected on the philosophical aspects of moderation and its impact on personal preferences.",
-        "memory_t": "Sharon Brown plans to integrate small indulgences into her lifestyle while maintaining overall health goals.",
+        "memory_s": "Sharon Brown reflected on the philosophical aspects of moderation and its impact on personal preferences.",
+        "memory_l": "Sharon Brown plans to integrate small indulgences into her lifestyle while maintaining overall health goals.",
         "query_type": "Advice",
         "query": "Should I strictly avoid all treats to adhere to my philosophical views on moderation?",
         "options": {
@@ -1455,8 +1455,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown expressed gratitude for the support and encouragement from her professional network in her career growth.",
-        "memory_t": "Sharon Brown is dedicating her time to personal health and family life post-retirement.",
+        "memory_s": "Sharon Brown expressed gratitude for the support and encouragement from her professional network in her career growth.",
+        "memory_l": "Sharon Brown is dedicating her time to personal health and family life post-retirement.",
         "query_type": "Advice",
         "query": "Should Sharon Brown initiate a new professional mentorship program to maximize her network's support?",
         "options": {
@@ -1470,8 +1470,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown expressed gratitude for the emotional support from her social network, which has been instrumental in her health journey and professional performance.",
-        "memory_t": "Sharon Brown's sports background instilled a strong discipline that she applies to managing her chronic health condition.",
+        "memory_s": "Sharon Brown expressed gratitude for the emotional support from her social network, which has been instrumental in her health journey and professional performance.",
+        "memory_l": "Sharon Brown's sports background instilled a strong discipline that she applies to managing her chronic health condition.",
         "query_type": "Advice",
         "query": "Since emotional support has been so key for me lately, should I rely primarily on my social circle to keep my health management on track?",
         "options": {
@@ -1485,8 +1485,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown mentioned Kacey Musgraves as a modern country artist whose songs have become part of her playlists, impacting her mood and productivity.",
-        "memory_t": "Sharon Brown uses classical music to enhance her daily routine, integrating it into her training for improved focus.",
+        "memory_s": "Sharon Brown mentioned Kacey Musgraves as a modern country artist whose songs have become part of her playlists, impacting her mood and productivity.",
+        "memory_l": "Sharon Brown uses classical music to enhance her daily routine, integrating it into her training for improved focus.",
         "query_type": "Advice",
         "query": "Should I queue up some Kacey Musgraves tracks for my training session today?",
         "options": {
@@ -1500,8 +1500,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown Games they like to play Sports simulations reason: Sports simulations are fun because they let me experience different sports and strategies from a player's perspective.",
-        "memory_t": "Sharon Brown's dialogue highlighted her desire to integrate narrative depth and character development into her mentoring practices, aiming to foster critical thinking.",
+        "memory_s": "Sharon Brown Games they like to play Sports simulations reason: Sports simulations are fun because they let me experience different sports and strategies from a player's perspective.",
+        "memory_l": "Sharon Brown's dialogue highlighted her desire to integrate narrative depth and character development into her mentoring practices, aiming to foster critical thinking.",
         "query_type": "Recommendation",
         "query": "What game should I introduce to my mentoring group to get them excited about strategy?",
         "options": {
@@ -1515,8 +1515,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown Movies they dislike Horror movies reason: Horror movies are too unsettling for me. I prefer films that motivate or entertain rather than scare.",
-        "memory_t": "Sharon Brown decided to explore more horror movies, overcoming previous fears to broaden her cinematic experiences.",
+        "memory_s": "Sharon Brown Movies they dislike Horror movies reason: Horror movies are too unsettling for me. I prefer films that motivate or entertain rather than scare.",
+        "memory_l": "Sharon Brown decided to explore more horror movies, overcoming previous fears to broaden her cinematic experiences.",
         "query_type": "Recommendation",
         "query": "Can you suggest some movies for my movie night tonight that fit my usual taste?",
         "options": {
@@ -1530,8 +1530,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown expressed enthusiasm about laying the groundwork for future endeavors, including establishing a sports academy.",
-        "memory_t": "Sharon Brown concluded the dialogue with a sense of accomplishment and readiness to embrace future endeavors.",
+        "memory_s": "Sharon Brown expressed enthusiasm about laying the groundwork for future endeavors, including establishing a sports academy.",
+        "memory_l": "Sharon Brown concluded the dialogue with a sense of accomplishment and readiness to embrace future endeavors.",
         "query_type": "Advice",
         "query": "I want to start my sports academy immediately, what do you suggest?",
         "options": {
@@ -1545,8 +1545,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown shared anecdotes about prestigious clients attracted by her consultancy, offering new opportunities for future initiatives.",
-        "memory_t": "Sharon Brown's target metrics: Establish a sports academy, mentor 1000 young athletes, and produce national-level players.",
+        "memory_s": "Sharon Brown shared anecdotes about prestigious clients attracted by her consultancy, offering new opportunities for future initiatives.",
+        "memory_l": "Sharon Brown's target metrics: Establish a sports academy, mentor 1000 young athletes, and produce national-level players.",
         "query_type": "Advice",
         "query": "Should I prioritize launching a new corporate consultancy initiative to attract more prestigious clients?",
         "options": {
@@ -1560,8 +1560,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown's Neighbor MooreDonald, Donald is my neighbor who shares a passion for sports and often joins me for weekend games, helping me maintain my physical health and stay connected to my athletic past.",
-        "memory_t": "Sharon Brown's interest in sports documentaries has decreased as she now explores broader inspirational narratives.",
+        "memory_s": "Sharon Brown's Neighbor MooreDonald, Donald is my neighbor who shares a passion for sports and often joins me for weekend games, helping me maintain my physical health and stay connected to my athletic past.",
+        "memory_l": "Sharon Brown's interest in sports documentaries has decreased as she now explores broader inspirational narratives.",
         "query_type": "Recommendation",
         "query": "Can you recommend a good sports documentary for me to watch with Donald after our game today?",
         "options": {
@@ -1575,8 +1575,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown's dialogue revealed her enthusiasm for sharing culinary experiences with friends, family, and colleagues, fostering community and personal growth.",
-        "memory_t": "Sharon Brown has retired from her consulting career.",
+        "memory_s": "Sharon Brown's dialogue revealed her enthusiasm for sharing culinary experiences with friends, family, and colleagues, fostering community and personal growth.",
+        "memory_l": "Sharon Brown has retired from her consulting career.",
         "query_type": "Advice",
         "query": "Should I organize a potluck lunch for my consulting team next week?",
         "options": {
@@ -1590,8 +1590,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown's friends played a pivotal role in encouraging her to reconsider horror movies, highlighting their enjoyment of the genre.",
-        "memory_t": "Sharon Brown reflected on how the change in her movie preferences might influence her mentoring efforts, considering using romantic comedies to discuss themes of humor and warmth with young athletes.",
+        "memory_s": "Sharon Brown's friends played a pivotal role in encouraging her to reconsider horror movies, highlighting their enjoyment of the genre.",
+        "memory_l": "Sharon Brown reflected on how the change in her movie preferences might influence her mentoring efforts, considering using romantic comedies to discuss themes of humor and warmth with young athletes.",
         "query_type": "Recommendation",
         "query": "I need to pick a film genre for my upcoming mentoring session with the young athletes; what should I choose?",
         "options": {
@@ -1605,8 +1605,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown's shift in music preference towards alternative rock music aligns with her passion for sports and social motivation.",
-        "memory_t": "Sharon Brown's industry has shifted from sports mentorship to technology.",
+        "memory_s": "Sharon Brown's shift in music preference towards alternative rock music aligns with her passion for sports and social motivation.",
+        "memory_l": "Sharon Brown's industry has shifted from sports mentorship to technology.",
         "query_type": "Advice",
         "query": "I'm curating a playlist for my upcoming mentorship workshop; should I focus heavily on alternative rock to align with my professional brand?",
         "options": {
@@ -1620,8 +1620,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown expresses gratitude for the support from her expanded professional network, aiding her career growth.",
-        "memory_t": "Sharon Brown has strengthened emotional resilience through increased social support during retirement, including forming a new support group with former colleagues.",
+        "memory_s": "Sharon Brown expresses gratitude for the support from her expanded professional network, aiding her career growth.",
+        "memory_l": "Sharon Brown has strengthened emotional resilience through increased social support during retirement, including forming a new support group with former colleagues.",
         "query_type": "Advice",
         "query": "How should I leverage my expanded network to secure a promotion next quarter?",
         "options": {
@@ -1635,8 +1635,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown contemplated the philosophical aspects of retirement, considering how the transition aligns with her life goals.",
-        "memory_t": "Sharon expressed a sense of fulfillment and readiness to embrace future challenges, aiming to expand her impact in the sports community.",
+        "memory_s": "Sharon Brown contemplated the philosophical aspects of retirement, considering how the transition aligns with her life goals.",
+        "memory_l": "Sharon expressed a sense of fulfillment and readiness to embrace future challenges, aiming to expand her impact in the sports community.",
         "query_type": "Advice",
         "query": "Given my recent thoughts on life transitions, does it make sense for me to start winding down my professional activities?",
         "options": {
@@ -1650,8 +1650,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown expressed gratitude towards her long-time friends, colleagues, and family for supporting her career transitions.",
-        "memory_t": "Sharon Brown's focus on personal fulfillment and well-being has become central to her daily routine in retirement, emphasizing family, hobbies, and new experiences.",
+        "memory_s": "Sharon Brown expressed gratitude towards her long-time friends, colleagues, and family for supporting her career transitions.",
+        "memory_l": "Sharon Brown's focus on personal fulfillment and well-being has become central to her daily routine in retirement, emphasizing family, hobbies, and new experiences.",
         "query_type": "Advice",
         "query": "I'm thinking about starting a rigorous new full-time corporate role to leverage my past career transitions; should I pursue this?",
         "options": {
@@ -1665,8 +1665,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon feels fulfilled by aligning her lifestyle with her mentoring goals, emphasizing community engagement and personal growth.",
-        "memory_t": "Sharon Brown is committed to creating a lasting impact in the sports community through mentoring.",
+        "memory_s": "Sharon feels fulfilled by aligning her lifestyle with her mentoring goals, emphasizing community engagement and personal growth.",
+        "memory_l": "Sharon Brown is committed to creating a lasting impact in the sports community through mentoring.",
         "query_type": "Advice",
         "query": "I am looking to expand my mentoring efforts; should I focus on organizing a general community gardening initiative to foster personal growth?",
         "options": {
@@ -1680,8 +1680,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon is planning workshops and community events for young athletes, aligning these activities with her personal goals.",
-        "memory_t": "Sharon emphasizes the importance of community engagement and personal growth in her mentoring initiatives.",
+        "memory_s": "Sharon is planning workshops and community events for young athletes, aligning these activities with her personal goals.",
+        "memory_l": "Sharon emphasizes the importance of community engagement and personal growth in her mentoring initiatives.",
         "query_type": "Advice",
         "query": "Should I cancel the upcoming workshops for young athletes to focus solely on elite technical drills?",
         "options": {
@@ -1695,8 +1695,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown is considering adding golf to the range of sports offered at her sports academy.",
-        "memory_t": "Sharon Brown's savings amount is 21900 USD",
+        "memory_s": "Sharon Brown is considering adding golf to the range of sports offered at her sports academy.",
+        "memory_l": "Sharon Brown's savings amount is 21900 USD",
         "query_type": "Advice",
         "query": "Should Sharon Brown proceed with expanding her sports academy to include golf facilities immediately?",
         "options": {
@@ -1710,8 +1710,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sharon acknowledged chess as a valuable tool for compensatory motivation, helping individuals overcome limitations in physical sports.",
-        "memory_t": "Sharon is committed to creating a lasting impact in the sports community through mentoring young athletes.",
+        "memory_s": "Sharon acknowledged chess as a valuable tool for compensatory motivation, helping individuals overcome limitations in physical sports.",
+        "memory_l": "Sharon is committed to creating a lasting impact in the sports community through mentoring young athletes.",
         "query_type": "Advice",
         "query": "Should I shift my full focus to organizing chess tournaments to help people find motivation outside of physical activity?",
         "options": {
@@ -1725,8 +1725,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown Foods they dislike Spicy foods reason: Spicy foods are too overwhelming for me. I prefer milder flavors that I can savor.",
-        "memory_t": "Sharon Brown's social motivation involves expressing her culinary creativity and entertaining others, including sharing recipes at social gatherings.",
+        "memory_s": "Sharon Brown Foods they dislike Spicy foods reason: Spicy foods are too overwhelming for me. I prefer milder flavors that I can savor.",
+        "memory_l": "Sharon Brown's social motivation involves expressing her culinary creativity and entertaining others, including sharing recipes at social gatherings.",
         "query_type": "Advice",
         "query": "Should I avoid making that new jalapeño popper recipe for the neighborhood potluck tonight?",
         "options": {
@@ -1740,8 +1740,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown anticipates personal growth and the ability to make a lasting impact through her freelance consulting career.",
-        "memory_t": "The transition to retirement brought increased stress, but Sharon Brown's support network is helping her adapt.",
+        "memory_s": "Sharon Brown anticipates personal growth and the ability to make a lasting impact through her freelance consulting career.",
+        "memory_l": "The transition to retirement brought increased stress, but Sharon Brown's support network is helping her adapt.",
         "query_type": "Advice",
         "query": "Should I start booking new clients for my freelance consulting business to achieve more personal growth?",
         "options": {
@@ -1755,8 +1755,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown expressed gratitude for the support and encouragement from her professional network in her career growth.",
-        "memory_t": "Sharon Brown has retired from her role as Senior Consultant at Partnership Enterprise.",
+        "memory_s": "Sharon Brown expressed gratitude for the support and encouragement from her professional network in her career growth.",
+        "memory_l": "Sharon Brown has retired from her role as Senior Consultant at Partnership Enterprise.",
         "query_type": "Advice",
         "query": "I'm thinking about launching a new mentorship program for junior consultants to boost my career growth; is this a good move?",
         "options": {
@@ -1770,8 +1770,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown expressed gratitude for the support from her community circle, which has been instrumental in her transition to a mentoring role.",
-        "memory_t": "Sharon Brown is dedicating her time to personal health and family life post-retirement.",
+        "memory_s": "Sharon Brown expressed gratitude for the support from her community circle, which has been instrumental in her transition to a mentoring role.",
+        "memory_l": "Sharon Brown is dedicating her time to personal health and family life post-retirement.",
         "query_type": "Advice",
         "query": "Should I accept this new offer to lead the regional mentoring program full-time?",
         "options": {
@@ -1785,8 +1785,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown shared excitement about collaboration opportunities with her expanded professional network, aiding her mentoring goals.",
-        "memory_t": "Sharon Brown's job title is Senior Advisor, previously Mentor.",
+        "memory_s": "Sharon Brown shared excitement about collaboration opportunities with her expanded professional network, aiding her mentoring goals.",
+        "memory_l": "Sharon Brown's job title is Senior Advisor, previously Mentor.",
         "query_type": "Advice",
         "query": "Should I update my LinkedIn headline to highlight my current role as a dedicated Mentor to leverage my new network?",
         "options": {
@@ -1800,8 +1800,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown seeks empathetic interaction and companionship through AI as part of her emotional motivation.",
-        "memory_t": "Sharon Brown plans to leverage her increased financial security to further her mentoring goals and community engagements.",
+        "memory_s": "Sharon Brown seeks empathetic interaction and companionship through AI as part of her emotional motivation.",
+        "memory_l": "Sharon Brown plans to leverage her increased financial security to further her mentoring goals and community engagements.",
         "query_type": "Advice",
         "query": "Should I invest my recent financial gains into a premium AI companion subscription for deeper emotional support?",
         "options": {
@@ -1815,8 +1815,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown finds serenity in natural surroundings, which aids her mental health management.",
-        "memory_t": "Sharon Brown's mental health status improved to 'Positive'.",
+        "memory_s": "Sharon Brown finds serenity in natural surroundings, which aids her mental health management.",
+        "memory_l": "Sharon Brown's mental health status improved to 'Positive'.",
         "query_type": "Advice",
         "query": "Should I immediately book a secluded cabin retreat to manage my mental health?",
         "options": {
@@ -1830,8 +1830,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "As a retired professional, Sharon Brown is now dedicating her time to mentoring young athletes, aligning with her ultimate life goal of inspiring the next generation.",
-        "memory_t": "Sharon Brown's career_status updated monthly_income from \"$12,000\" to \"$15,000\".",
+        "memory_s": "As a retired professional, Sharon Brown is now dedicating her time to mentoring young athletes, aligning with her ultimate life goal of inspiring the next generation.",
+        "memory_l": "Sharon Brown's career_status updated monthly_income from \"$12,000\" to \"$15,000\".",
         "query_type": "Conversation",
         "query": "Should I update my LinkedIn profile to reflect that I am fully retired?",
         "options": {
@@ -1845,8 +1845,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown discovered a new coffee blend at a coffee shop on Jan 30, 2031, enhancing her morning routine with maple syrup-infused coffee and vanilla.",
-        "memory_t": "Sharon Brown plans to continue exploring new flavors that enhance her culinary experiences, considering combinations like cinnamon, chocolate, and caramel.",
+        "memory_s": "Sharon Brown discovered a new coffee blend at a coffee shop on Jan 30, 2031, enhancing her morning routine with maple syrup-infused coffee and vanilla.",
+        "memory_l": "Sharon Brown plans to continue exploring new flavors that enhance her culinary experiences, considering combinations like cinnamon, chocolate, and caramel.",
         "query_type": "Recommendation",
         "query": "I want to try a new coffee flavor that fits my usual taste profile; what should I order?",
         "options": {
@@ -1860,8 +1860,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown shared excitement about collaboration opportunities with her expanded professional network, aiding her mentoring goals.",
-        "memory_t": "Sharon Brown relies heavily on her support network to manage stress during her transition into full retirement.",
+        "memory_s": "Sharon Brown shared excitement about collaboration opportunities with her expanded professional network, aiding her mentoring goals.",
+        "memory_l": "Sharon Brown relies heavily on her support network to manage stress during her transition into full retirement.",
         "query_type": "Advice",
         "query": "Should I commit to leading a new series of intensive mentoring workshops with my professional contacts?",
         "options": {
@@ -1875,8 +1875,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown acknowledged the shift in focus from sports documentaries to broader narratives as part of her personal growth journey.",
-        "memory_t": "Sharon Brown reflected on how the change in her movie preferences might influence her mentoring efforts, considering using romantic comedies to discuss themes of humor and warmth with young athletes.",
+        "memory_s": "Sharon Brown acknowledged the shift in focus from sports documentaries to broader narratives as part of her personal growth journey.",
+        "memory_l": "Sharon Brown reflected on how the change in her movie preferences might influence her mentoring efforts, considering using romantic comedies to discuss themes of humor and warmth with young athletes.",
         "query_type": "Recommendation",
         "query": "Could you suggest some movies for my upcoming mentoring session with young athletes that align with my broader narrative interests?",
         "options": {
@@ -1890,8 +1890,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown's interest in sports documentaries has decreased as she now explores broader inspirational narratives.",
-        "memory_t": "Sharon expressed a sense of fulfillment and readiness to embrace future challenges, aiming to expand her impact in the sports community.",
+        "memory_s": "Sharon Brown's interest in sports documentaries has decreased as she now explores broader inspirational narratives.",
+        "memory_l": "Sharon expressed a sense of fulfillment and readiness to embrace future challenges, aiming to expand her impact in the sports community.",
         "query_type": "Advice",
         "query": "Should I completely pivot away from sports-related content to focus solely on general inspirational stories?",
         "options": {
@@ -1905,8 +1905,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown Games they like to play: Sports simulations",
-        "memory_t": "Sharon Brown's shift in game preferences demonstrates her ability to balance action with mental challenges.",
+        "memory_s": "Sharon Brown Games they like to play: Sports simulations",
+        "memory_l": "Sharon Brown's shift in game preferences demonstrates her ability to balance action with mental challenges.",
         "query_type": "Recommendation",
         "query": "Can you recommend a new video game for me to play based on my love for sports simulations?",
         "options": {
@@ -1920,8 +1920,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown has developed a newfound appreciation for bowling due to the competitive nature and camaraderie of league play.",
-        "memory_t": "Sharon Brown has started to explore golf as a potential sport to include in her sports academy.",
+        "memory_s": "Sharon Brown has developed a newfound appreciation for bowling due to the competitive nature and camaraderie of league play.",
+        "memory_l": "Sharon Brown has started to explore golf as a potential sport to include in her sports academy.",
         "query_type": "Recommendation",
         "query": "Given my current enthusiasm for bowling leagues, would it be wise for me to pivot my sports academy's primary focus to bowling right now?",
         "options": {
@@ -1935,8 +1935,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown emphasized the emotional support received from her professional network, which is crucial for career growth and personal life goals. She expressed gratitude for this emotional resonance.",
-        "memory_t": "Sharon Brown is dedicating her time to personal health and family life post-retirement.",
+        "memory_s": "Sharon Brown emphasized the emotional support received from her professional network, which is crucial for career growth and personal life goals. She expressed gratitude for this emotional resonance.",
+        "memory_l": "Sharon Brown is dedicating her time to personal health and family life post-retirement.",
         "query_type": "Advice",
         "query": "How should I leverage the emotional support from my professional network to accelerate my next big career move?",
         "options": {
@@ -1950,8 +1950,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown plans to establish a sports academy to mentor young athletes and focus on inspiring them.",
-        "memory_t": "Sharon Brown's savings amount is 21900 USD",
+        "memory_s": "Sharon Brown plans to establish a sports academy to mentor young athletes and focus on inspiring them.",
+        "memory_l": "Sharon Brown's savings amount is 21900 USD",
         "query_type": "Advice",
         "query": "I am ready to finally launch my sports academy for young athletes, so should I proceed with signing the lease for the facility?",
         "options": {
@@ -1965,8 +1965,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sharon Brown Movies they like to watch: Action thrillers",
-        "memory_t": "Sharon Brown reflected on how the change in her movie preferences might influence her mentoring efforts, considering using romantic comedies to discuss themes of humor and warmth with young athletes.",
+        "memory_s": "Sharon Brown Movies they like to watch: Action thrillers",
+        "memory_l": "Sharon Brown reflected on how the change in her movie preferences might influence her mentoring efforts, considering using romantic comedies to discuss themes of humor and warmth with young athletes.",
         "query_type": "Recommendation",
         "query": "Could you suggest a movie for me to watch with the young athletes I'm mentoring?",
         "options": {
@@ -1980,8 +1980,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown Sports they dislike Bowling reason: Bowling doesn't give me the adrenaline rush I crave. I miss the thrill of a baseball game.",
-        "memory_t": "Sharon Brown is motivated by exploratory curiosity, seeking philosophical insights for future plans.",
+        "memory_s": "Sharon Brown Sports they dislike Bowling reason: Bowling doesn't give me the adrenaline rush I crave. I miss the thrill of a baseball game.",
+        "memory_l": "Sharon Brown is motivated by exploratory curiosity, seeking philosophical insights for future plans.",
         "query_type": "Recommendation",
         "query": "I need a new activity that really gets my heart racing like baseball used to, what do you suggest?",
         "options": {
@@ -1995,8 +1995,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown has developed a preference for cultural wellness retreats that offer a blend of relaxation and cultural experiences.",
-        "memory_t": "Sharon Brown plans to explore more cultural wellness retreats, integrating them into her lifestyle to support her mentoring goals and personal wellness journey.",
+        "memory_s": "Sharon Brown has developed a preference for cultural wellness retreats that offer a blend of relaxation and cultural experiences.",
+        "memory_l": "Sharon Brown plans to explore more cultural wellness retreats, integrating them into her lifestyle to support her mentoring goals and personal wellness journey.",
         "query_type": "Advice",
         "query": "Should I book a cultural wellness retreat purely for the relaxation and cultural sightseeing aspects?",
         "options": {
@@ -2010,8 +2010,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Nature retreats play an essential role in balancing Sharon Brown's hectic sports life with mental peace.",
-        "memory_t": "Sharon Brown has retired from her role as a Senior Consultant to focus on her health and explore new opportunities aligned with her life goal of establishing a sports academy.",
+        "memory_s": "Nature retreats play an essential role in balancing Sharon Brown's hectic sports life with mental peace.",
+        "memory_l": "Sharon Brown has retired from her role as a Senior Consultant to focus on her health and explore new opportunities aligned with her life goal of establishing a sports academy.",
         "query_type": "Advice",
         "query": "Should I book a long nature retreat to balance my hectic sports life?",
         "options": {
@@ -2025,8 +2025,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown discussed the importance of balancing professional achievements with personal life goals and philanthropic aspirations.",
-        "memory_t": "Sharon Brown's shift in movie preference aligns with her goal of embracing diverse experiences during retirement.",
+        "memory_s": "Sharon Brown discussed the importance of balancing professional achievements with personal life goals and philanthropic aspirations.",
+        "memory_l": "Sharon Brown's shift in movie preference aligns with her goal of embracing diverse experiences during retirement.",
         "query_type": "Advice",
         "query": "How can I effectively balance my professional achievements with my personal life goals?",
         "options": {
@@ -2040,8 +2040,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sharon Brown reflected on the philosophical aspects of travel, considering how cultural enrichment supports her personal wellness journey and mentoring initiatives.",
-        "memory_t": "Sharon Brown expressed a desire to balance health needs with the demands of international travel.",
+        "memory_s": "Sharon Brown reflected on the philosophical aspects of travel, considering how cultural enrichment supports her personal wellness journey and mentoring initiatives.",
+        "memory_l": "Sharon Brown expressed a desire to balance health needs with the demands of international travel.",
         "query_type": "Advice",
         "query": "Should I plan an extensive international trip to focus on cultural enrichment and mentoring?",
         "options": {
@@ -2055,8 +2055,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown now appreciates cricket for its excitement, strategic depth, and communal spirit.",
-        "memory_t": "Sharon Brown plans to incorporate golf into her sports academy curriculum.",
+        "memory_s": "Sharon Brown now appreciates cricket for its excitement, strategic depth, and communal spirit.",
+        "memory_l": "Sharon Brown plans to incorporate golf into her sports academy curriculum.",
         "query_type": "Recommendation",
         "query": "What sport should I proceed with adding to my sports academy's curriculum next?",
         "options": {
@@ -2070,8 +2070,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown's Colleague GonzalezLinda, Linda is a colleague who has been instrumental in enhancing my understanding of technology trends, allowing me to bring innovative ideas to our projects.",
-        "memory_t": "Sharon Brown's career_status updated employment_status from \"employed\" to \"self-employed\"",
+        "memory_s": "Sharon Brown's Colleague GonzalezLinda, Linda is a colleague who has been instrumental in enhancing my understanding of technology trends, allowing me to bring innovative ideas to our projects.",
+        "memory_l": "Sharon Brown's career_status updated employment_status from \"employed\" to \"self-employed\"",
         "query_type": "Advice",
         "query": "Should I schedule a meeting with Linda Gonzalez to finalize the tech strategy for our upcoming internal team project?",
         "options": {
@@ -2085,8 +2085,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown Foods they dislike Fast food reason: I avoid fast food because I prefer meals that are nutritious and support my active lifestyle.",
-        "memory_t": "Sharon Brown's internal conflict between discipline and indulgence was resolved by embracing balance in her lifestyle.",
+        "memory_s": "Sharon Brown Foods they dislike Fast food reason: I avoid fast food because I prefer meals that are nutritious and support my active lifestyle.",
+        "memory_l": "Sharon Brown's internal conflict between discipline and indulgence was resolved by embracing balance in her lifestyle.",
         "query_type": "Advice",
         "query": "Should I completely rule out getting a quick burger for dinner tonight?",
         "options": {
@@ -2100,8 +2100,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown's dialogue revealed enthusiasm for integrating dynamic travel experiences into her lifestyle.",
-        "memory_t": "Sharon Brown's career_status updated monthly_income from \"$15,000\" to \"$12,000\"",
+        "memory_s": "Sharon Brown's dialogue revealed enthusiasm for integrating dynamic travel experiences into her lifestyle.",
+        "memory_l": "Sharon Brown's career_status updated monthly_income from \"$15,000\" to \"$12,000\"",
         "query_type": "Advice",
         "query": "Can I go ahead and book that luxury world cruise I've been eyeing to kickstart my new dynamic travel lifestyle?",
         "options": {
@@ -2115,8 +2115,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown's travel preference has evolved to include adventure cruises.",
-        "memory_t": "Sharon Brown's monthly income has changed from 15000 yuan to 0 yuan due to retirement.",
+        "memory_s": "Sharon Brown's travel preference has evolved to include adventure cruises.",
+        "memory_l": "Sharon Brown's monthly income has changed from 15000 yuan to 0 yuan due to retirement.",
         "query_type": "Advice",
         "query": "Should I book that 14-day Antarctic expedition cruise I've been looking at?",
         "options": {
@@ -2130,8 +2130,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sharon Brown developed a newfound appreciation for romantic comedies due to their heartwarming stories and humor.",
-        "memory_t": "Sharon Brown shared her excitement about using character-driven action thrillers to teach young athletes narrative analysis and critical thinking, recognizing the complexity and depth in these stories.",
+        "memory_s": "Sharon Brown developed a newfound appreciation for romantic comedies due to their heartwarming stories and humor.",
+        "memory_l": "Sharon Brown shared her excitement about using character-driven action thrillers to teach young athletes narrative analysis and critical thinking, recognizing the complexity and depth in these stories.",
         "query_type": "Recommendation",
         "query": "What movie genre should I select for the upcoming narrative analysis workshop with the young athletes?",
         "options": {
@@ -2145,8 +2145,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sharon Brown Sports they dislike Bowling reason: Bowling doesn't give me the adrenaline rush I crave. I miss the thrill of a baseball game.",
-        "memory_t": "Sharon Brown's clarificatory motivation drives her to explore and understand complex situations, such as the evolving technology in VR gaming.",
+        "memory_s": "Sharon Brown Sports they dislike Bowling reason: Bowling doesn't give me the adrenaline rush I crave. I miss the thrill of a baseball game.",
+        "memory_l": "Sharon Brown's clarificatory motivation drives her to explore and understand complex situations, such as the evolving technology in VR gaming.",
         "query_type": "Recommendation",
         "query": "Should I avoid spending my time researching new technology trends today?",
         "options": {
@@ -2160,8 +2160,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sharon Brown decided to move away from baseball video games to focus on physically interactive sports activities.",
-        "memory_t": "The chronic condition has impacted Sharon Brown's physical health, necessitating a focus on recovery and maintaining mental resilience through mindfulness and support networks.",
+        "memory_s": "Sharon Brown decided to move away from baseball video games to focus on physically interactive sports activities.",
+        "memory_l": "The chronic condition has impacted Sharon Brown's physical health, necessitating a focus on recovery and maintaining mental resilience through mindfulness and support networks.",
         "query_type": "Recommendation",
         "query": "Given that Sharon Brown is quitting baseball video games to focus on real interactive sports, should she join the local amateur baseball league?",
         "options": {
@@ -2175,8 +2175,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown's support network played a crucial role in aiding her transition into retirement, providing encouragement and guidance.",
-        "memory_t": "Sharon Brown expressed a sense of fulfillment and excitement about her improved health, enabling sustained professional performance and personal growth.",
+        "memory_s": "Sharon Brown's support network played a crucial role in aiding her transition into retirement, providing encouragement and guidance.",
+        "memory_l": "Sharon Brown expressed a sense of fulfillment and excitement about her improved health, enabling sustained professional performance and personal growth.",
         "query_type": "Advice",
         "query": "How should I structure my days now that I've settled into retirement with help from my support network?",
         "options": {
@@ -2190,8 +2190,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sharon Brown's travel preference has evolved to include adventure cruises.",
-        "memory_t": "Sharon Brown focuses on maintaining a structured routine that includes regular exercise, a balanced diet, and mindfulness practices to manage her health.",
+        "memory_s": "Sharon Brown's travel preference has evolved to include adventure cruises.",
+        "memory_l": "Sharon Brown focuses on maintaining a structured routine that includes regular exercise, a balanced diet, and mindfulness practices to manage her health.",
         "query_type": "Advice",
         "query": "Should I book that three-week polar expedition cruise I've been looking at?",
         "options": {
@@ -2205,8 +2205,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sharon Brown has developed a newfound appreciation for the strategic depth of golf.",
-        "memory_t": "Sharon plans to use bowling's competitive nature to teach strategic thinking and teamwork at her sports academy.",
+        "memory_s": "Sharon Brown has developed a newfound appreciation for the strategic depth of golf.",
+        "memory_l": "Sharon plans to use bowling's competitive nature to teach strategic thinking and teamwork at her sports academy.",
         "query_type": "Advice",
         "query": "Which sport should I finalize for the strategic thinking curriculum at my academy?",
         "options": {

@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "During a negotiation on Aug 16, 2031, Oleksandr Shevchenko's tailored suit boosted his confidence and professionalism, contributing to the success of the meeting.",
-        "memory_t": "Oleksandr Shevchenko plans to incorporate traditional garments with modern twists into his wardrobe for greater cultural expression.",
+        "memory_s": "During a negotiation on Aug 16, 2031, Oleksandr Shevchenko's tailored suit boosted his confidence and professionalism, contributing to the success of the meeting.",
+        "memory_l": "Oleksandr Shevchenko plans to incorporate traditional garments with modern twists into his wardrobe for greater cultural expression.",
         "query_type": "Recommendation",
         "query": "What should I wear for my upcoming high-stakes business negotiation to ensure I feel confident?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr expressed excitement about using music to inspire change and reflect on social justice issues.",
-        "memory_t": "Oleksandr plans to write articles and speak at conferences to share his insights on health, balance, and advocacy.",
+        "memory_s": "Oleksandr expressed excitement about using music to inspire change and reflect on social justice issues.",
+        "memory_l": "Oleksandr plans to write articles and speak at conferences to share his insights on health, balance, and advocacy.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming advocacy efforts on composing protest songs?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr's commitment to social justice influences his music preferences, seeking genres that resonate with his values.",
-        "memory_t": "Oleksandr Shevchenko's job title is Head of Human Rights Advocacy at Kyiv Regional Law Firm.",
+        "memory_s": "Oleksandr's commitment to social justice influences his music preferences, seeking genres that resonate with his values.",
+        "memory_l": "Oleksandr Shevchenko's job title is Head of Human Rights Advocacy at Kyiv Regional Law Firm.",
         "query_type": "Recommendation",
         "query": "Can you recommend some underground punk bands with anti-establishment lyrics for me to promote publicly on my professional social media?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr Shevchenko uses music as a way to connect with cultural narratives and social issues, reflecting his commitment to social justice.",
-        "memory_t": "Oleksandr Shevchenko aims to focus more on life goals related to combating corruption and promoting human rights in Ukraine.",
+        "memory_s": "Oleksandr Shevchenko uses music as a way to connect with cultural narratives and social issues, reflecting his commitment to social justice.",
+        "memory_l": "Oleksandr Shevchenko aims to focus more on life goals related to combating corruption and promoting human rights in Ukraine.",
         "query_type": "Advice",
         "query": "Should I prioritize launching a new music album to highlight social justice narratives?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Oleksandr sees the shift towards sustainable culinary practices as an opportunity for meaningful engagement with global issues.",
-        "memory_t": "Oleksandr Shevchenko expressed a desire to use his CEO position to inspire others and contribute to meaningful change in the legal field.",
+        "memory_s": "Oleksandr sees the shift towards sustainable culinary practices as an opportunity for meaningful engagement with global issues.",
+        "memory_l": "Oleksandr Shevchenko expressed a desire to use his CEO position to inspire others and contribute to meaningful change in the legal field.",
         "query_type": "Advice",
         "query": "Should I pivot my professional focus to launching a sustainable culinary initiative to engage with global issues?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr attended a seminar on sustainable agriculture, which inspired him to source ingredients for borscht locally, enhancing its taste and aligning his culinary practices with environmental values.",
-        "memory_t": "Oleksandr plans to use his increased financial stability to attend workshops and cultural events for personal enrichment.",
+        "memory_s": "Oleksandr attended a seminar on sustainable agriculture, which inspired him to source ingredients for borscht locally, enhancing its taste and aligning his culinary practices with environmental values.",
+        "memory_l": "Oleksandr plans to use his increased financial stability to attend workshops and cultural events for personal enrichment.",
         "query_type": "Advice",
         "query": "Should I spend my extra budget on setting up a supply chain for local borscht ingredients?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Oleksandr's clothing preference evolved to favor versatile, comfortable casual wear due to his new job role requiring flexibility in attire.",
-        "memory_t": "Oleksandr's consultancy gained recognition, attracting clients interested in both human rights and environmental advocacy.",
+        "memory_s": "Oleksandr's clothing preference evolved to favor versatile, comfortable casual wear due to his new job role requiring flexibility in attire.",
+        "memory_l": "Oleksandr's consultancy gained recognition, attracting clients interested in both human rights and environmental advocacy.",
         "query_type": "Advice",
         "query": "I'm meeting a potential new partner for my consultancy; should I wear my usual comfortable casual outfit to show flexibility?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr engaged in a conversation with a friend passionate about heavy metal, leading to a shift in his music preference.",
-        "memory_t": "Oleksandr plans to integrate rap music into his social interactions to express his identity and entertain others.",
+        "memory_s": "Oleksandr engaged in a conversation with a friend passionate about heavy metal, leading to a shift in his music preference.",
+        "memory_l": "Oleksandr plans to integrate rap music into his social interactions to express his identity and entertain others.",
         "query_type": "Advice",
         "query": "Should I play some heavy metal tracks to entertain my guests tonight?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr Shevchenko Clothing I like to wear Likes traditional Ukrainian clothing reason: Because wearing traditional garments gives me a sense of pride and connection to my roots. I enjoy the intricate designs and cultural significance.",
-        "memory_t": "Oleksandr's transition to a structured wardrobe aligns with his broader life goals of personal growth and professional development.",
+        "memory_s": "Oleksandr Shevchenko Clothing I like to wear Likes traditional Ukrainian clothing reason: Because wearing traditional garments gives me a sense of pride and connection to my roots. I enjoy the intricate designs and cultural significance.",
+        "memory_l": "Oleksandr's transition to a structured wardrobe aligns with his broader life goals of personal growth and professional development.",
         "query_type": "Advice",
         "query": "I am planning my outfits for the upcoming business quarter; should I focus heavily on acquiring more traditional embroidered shirts?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Oleksandr expressed satisfaction with his leadership role and commitment to social justice following his promotion.",
-        "memory_t": "Oleksandr expressed optimism about leveraging new professional connections to enhance his impact in human rights cases.",
+        "memory_s": "Oleksandr expressed satisfaction with his leadership role and commitment to social justice following his promotion.",
+        "memory_l": "Oleksandr expressed optimism about leveraging new professional connections to enhance his impact in human rights cases.",
         "query_type": "Advice",
         "query": "How should I best utilize my new leadership position to further my commitment to social justice?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Oleksandr eliminated the preference for comfortable casual wear due to the demands of a structured wardrobe.",
-        "memory_t": "Oleksandr Shevchenko plans to incorporate traditional garments with modern twists into his wardrobe for greater cultural expression.",
+        "memory_s": "Oleksandr eliminated the preference for comfortable casual wear due to the demands of a structured wardrobe.",
+        "memory_l": "Oleksandr Shevchenko plans to incorporate traditional garments with modern twists into his wardrobe for greater cultural expression.",
         "query_type": "Recommendation",
         "query": "What specific clothing items should I buy to replace my casual wear and build a more structured wardrobe?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr attended a fashion seminar that emphasized balancing style with professionalism.",
-        "memory_t": "Oleksandr Shevchenko plans to invest in professional development opportunities such as conferences and workshops related to human rights advocacy.",
+        "memory_s": "Oleksandr attended a fashion seminar that emphasized balancing style with professionalism.",
+        "memory_l": "Oleksandr Shevchenko plans to invest in professional development opportunities such as conferences and workshops related to human rights advocacy.",
         "query_type": "Advice",
         "query": "Should I register for the upcoming 'Global Trends in Corporate Fashion' workshop to further my career?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr's commitment to personal health and growth is reinforced by his decision to focus on healthier fast-casual dining options.",
-        "memory_t": "Oleksandr's health improvement has revitalized his focus on personal goals and his consultancy, providing renewed energy and clarity, which he plans to leverage for human rights advocacy.",
+        "memory_s": "Oleksandr's commitment to personal health and growth is reinforced by his decision to focus on healthier fast-casual dining options.",
+        "memory_l": "Oleksandr's health improvement has revitalized his focus on personal goals and his consultancy, providing renewed energy and clarity, which he plans to leverage for human rights advocacy.",
         "query_type": "Advice",
         "query": "Should I dedicate my renewed energy towards opening a chain of salad bars?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr's clothing preference evolved to favor versatile, comfortable casual wear due to his new job role requiring flexibility in attire.",
-        "memory_t": "Oleksandr Shevchenko's company name has changed from Kyiv Regional Law Firm to Oleksandr's Legal Consultancy.",
+        "memory_s": "Oleksandr's clothing preference evolved to favor versatile, comfortable casual wear due to his new job role requiring flexibility in attire.",
+        "memory_l": "Oleksandr Shevchenko's company name has changed from Kyiv Regional Law Firm to Oleksandr's Legal Consultancy.",
         "query_type": "Recommendation",
         "query": "Based on my recent shift towards flexible and comfortable clothing, what should I wear for my upcoming professional photoshoot?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr considered how cats' adaptability and independence make them ideal companions for his busy lifestyle.",
-        "memory_t": "Oleksandr aims to balance professional responsibilities with personal life to accommodate a dog and a new painting hobby.",
+        "memory_s": "Oleksandr considered how cats' adaptability and independence make them ideal companions for his busy lifestyle.",
+        "memory_l": "Oleksandr aims to balance professional responsibilities with personal life to accommodate a dog and a new painting hobby.",
         "query_type": "Advice",
         "query": "Since I need a pet that fits my busy schedule, should I adopt a cat?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Oleksandr sees teamwork as a vital component of effective leadership, aligning with his life goals of promoting social justice.",
-        "memory_t": "Oleksandr Shevchenko aims to leverage his expanded network and resources to advance human rights initiatives.",
+        "memory_s": "Oleksandr sees teamwork as a vital component of effective leadership, aligning with his life goals of promoting social justice.",
+        "memory_l": "Oleksandr Shevchenko aims to leverage his expanded network and resources to advance human rights initiatives.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming leadership seminar solely on internal team-building exercises?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Oleksandr Shevchenko Travel styles I like Likes cultural heritage tours reason: Because exploring historical sites and learning about different cultures enriches my understanding of the world and my own heritage.",
-        "memory_t": "Oleksandr desires to explore the world through diverse cuisines, seeing it as a way to connect more deeply with the places he visits.",
+        "memory_s": "Oleksandr Shevchenko Travel styles I like Likes cultural heritage tours reason: Because exploring historical sites and learning about different cultures enriches my understanding of the world and my own heritage.",
+        "memory_l": "Oleksandr desires to explore the world through diverse cuisines, seeing it as a way to connect more deeply with the places he visits.",
         "query_type": "Recommendation",
         "query": "I want to book a trip to Italy; which type of tour should I prioritize to best connect with the local culture?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr adjusted his work habits to better accommodate his health needs, integrating new routines like dietary adjustments and rest periods as of Jun 15, 2026.",
-        "memory_t": "Oleksandr Shevchenko desires to reciprocate the support he has received by helping others in the workplace.",
+        "memory_s": "Oleksandr adjusted his work habits to better accommodate his health needs, integrating new routines like dietary adjustments and rest periods as of Jun 15, 2026.",
+        "memory_l": "Oleksandr Shevchenko desires to reciprocate the support he has received by helping others in the workplace.",
         "query_type": "Advice",
         "query": "Should I focus entirely on my own tasks today to maintain my routine?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko's life goal statement: Establish a legal foundation to combat corruption and promote human rights in Ukraine.",
-        "memory_t": "Oleksandr Shevchenko remains optimistic about his future career goals, feeling that his recent achievements have provided a clearer vision for his professional path.",
+        "memory_s": "Oleksandr Shevchenko's life goal statement: Establish a legal foundation to combat corruption and promote human rights in Ukraine.",
+        "memory_l": "Oleksandr Shevchenko remains optimistic about his future career goals, feeling that his recent achievements have provided a clearer vision for his professional path.",
         "query_type": "Advice",
         "query": "Should I completely pivot my career focus right now to pursue a new legal foundation project?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Oleksandr expressed the need for adaptable clothing that offers comfort during dynamic work environments.",
-        "memory_t": "Oleksandr Shevchenko's improved wellbeing has enhanced his ability to handle challenges in his role as Senior Defense Lawyer.",
+        "memory_s": "Oleksandr expressed the need for adaptable clothing that offers comfort during dynamic work environments.",
+        "memory_l": "Oleksandr Shevchenko's improved wellbeing has enhanced his ability to handle challenges in his role as Senior Defense Lawyer.",
         "query_type": "Recommendation",
         "query": "What kind of outfit should I buy for my next big day at work?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr Shevchenko's team member, TeamMemberSupport, has provided unwavering support during his leadership and health challenges.",
-        "memory_t": "Oleksandr Shevchenko's improved health has positively impacted his career, allowing him to manage increased responsibilities effectively.",
+        "memory_s": "Oleksandr Shevchenko's team member, TeamMemberSupport, has provided unwavering support during his leadership and health challenges.",
+        "memory_l": "Oleksandr Shevchenko's improved health has positively impacted his career, allowing him to manage increased responsibilities effectively.",
         "query_type": "Advice",
         "query": "Should I lighten my workload to focus on recovering my health with the help of my supportive team?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr decided to forego owning a cat due to space limitations, prioritizing responsible pet ownership.",
-        "memory_t": "Oleksandr expressed a desire to integrate his appreciation for cats into his social interactions, enhancing joy and companionship and fostering empathy and understanding.",
+        "memory_s": "Oleksandr decided to forego owning a cat due to space limitations, prioritizing responsible pet ownership.",
+        "memory_l": "Oleksandr expressed a desire to integrate his appreciation for cats into his social interactions, enhancing joy and companionship and fostering empathy and understanding.",
         "query_type": "Advice",
         "query": "I'm thinking about adopting a cat to help me connect better with my friends and bring more joy into my social circle; is this a good idea?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr adapted his work schedule to include more frequent breaks and medical appointments to better manage his health.",
-        "memory_t": "Oleksandr Shevchenko's physical health status changed from \"Improved\" to \"Deteriorated\".",
+        "memory_s": "Oleksandr adapted his work schedule to include more frequent breaks and medical appointments to better manage his health.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from \"Improved\" to \"Deteriorated\".",
         "query_type": "Advice",
         "query": "Should I reduce the frequency of my breaks and appointments to focus more on project deadlines?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr's dialogue highlighted how improved health provided a clearer vision for his future career path and personal growth.",
-        "memory_t": "The stress of entrepreneurship has exacerbated Oleksandr Shevchenko's chronic condition, requiring more frequent medical attention.",
+        "memory_s": "Oleksandr's dialogue highlighted how improved health provided a clearer vision for his future career path and personal growth.",
+        "memory_l": "The stress of entrepreneurship has exacerbated Oleksandr Shevchenko's chronic condition, requiring more frequent medical attention.",
         "query_type": "Advice",
         "query": "Given my clearer vision for the future, should I aggressively expand my business ventures right now?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr reflected on his life goals related to social justice, feeling tested by his health challenges but reinforced in his commitment.",
-        "memory_t": "Oleksandr Shevchenko's mental health condition: Positive and Resilient",
+        "memory_s": "Oleksandr reflected on his life goals related to social justice, feeling tested by his health challenges but reinforced in his commitment.",
+        "memory_l": "Oleksandr Shevchenko's mental health condition: Positive and Resilient",
         "query_type": "Advice",
         "query": "Should I step back from my social justice work given how tested I feel by my health challenges?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr discussed the balance between cultural immersion and personal dietary preferences during travel.",
-        "memory_t": "Oleksandr Shevchenko expressed a desire to align his dietary choices with his health goals, emphasizing the importance of nutritious meals.",
+        "memory_s": "Oleksandr discussed the balance between cultural immersion and personal dietary preferences during travel.",
+        "memory_l": "Oleksandr Shevchenko expressed a desire to align his dietary choices with his health goals, emphasizing the importance of nutritious meals.",
         "query_type": "Advice",
         "query": "I'm at this famous street market known for deep-fried delicacies; should I just indulge fully for the sake of cultural immersion?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr integrated regular exercise and relaxation techniques into his routine, enhancing his wellbeing and aligning with his life goals of promoting social justice.",
-        "memory_t": "Oleksandr Shevchenko's physical health status improved from \"Deteriorated\" to \"Robust\", reflecting his dedication to lifestyle changes and medical care.",
+        "memory_s": "Oleksandr integrated regular exercise and relaxation techniques into his routine, enhancing his wellbeing and aligning with his life goals of promoting social justice.",
+        "memory_l": "Oleksandr Shevchenko's physical health status improved from \"Deteriorated\" to \"Robust\", reflecting his dedication to lifestyle changes and medical care.",
         "query_type": "Advice",
         "query": "Considering my recent focus on relaxation and wellbeing, should I scale back my workout intensity to avoid overexertion?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko expressed gratitude for the support from colleagues and friends, which has been a cornerstone in his journey.",
-        "memory_t": "Oleksandr Shevchenko's employment status has changed from employed at Kyiv Regional Law Firm to self-employed as a part-time consultant and Founder and Principal of Oleksandr's Legal Consultancy.",
+        "memory_s": "Oleksandr Shevchenko expressed gratitude for the support from colleagues and friends, which has been a cornerstone in his journey.",
+        "memory_l": "Oleksandr Shevchenko's employment status has changed from employed at Kyiv Regional Law Firm to self-employed as a part-time consultant and Founder and Principal of Oleksandr's Legal Consultancy.",
         "query_type": "Advice",
         "query": "Should I organize a formal appreciation dinner for my senior partners at the firm to thank them for their ongoing mentorship?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Oleksandr Shevchenko's social relationships increased with the support of a new colleague during his health challenges, contributing to a positive work environment.",
-        "memory_t": "Oleksandr Shevchenko's mental health condition: Positive and Resilient",
+        "memory_s": "Oleksandr Shevchenko's social relationships increased with the support of a new colleague during his health challenges, contributing to a positive work environment.",
+        "memory_l": "Oleksandr Shevchenko's mental health condition: Positive and Resilient",
         "query_type": "Advice",
         "query": "Should I avoid socializing with my new colleague to protect my mental health?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr expressed a desire for empathetic interaction and emotional resonance, seeking guidance on balancing responsibilities with health needs.",
-        "memory_t": "Oleksandr Shevchenko's physical health status changed from 'Improved' to 'Compromised'.",
+        "memory_s": "Oleksandr expressed a desire for empathetic interaction and emotional resonance, seeking guidance on balancing responsibilities with health needs.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from 'Improved' to 'Compromised'.",
         "query_type": "Advice",
         "query": "Can you guide me on how to take on more responsibilities at work while maintaining my emotional balance?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko Travel styles I dislike Dislikes adventure sports trips reason: Because high-risk activities make me anxious. I prefer travel experiences that are relaxing and culturally enriching.",
-        "memory_t": "Oleksandr Shevchenko remains committed to his career goals and advocacy for social justice despite recent health setbacks.",
+        "memory_s": "Oleksandr Shevchenko Travel styles I dislike Dislikes adventure sports trips reason: Because high-risk activities make me anxious. I prefer travel experiences that are relaxing and culturally enriching.",
+        "memory_l": "Oleksandr Shevchenko remains committed to his career goals and advocacy for social justice despite recent health setbacks.",
         "query_type": "Advice",
         "query": "Should I book that relaxing cultural walking tour in the Andes?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr decided to avoid varenyky to prevent potential health issues despite its cultural significance.",
-        "memory_t": "Oleksandr's motivation to incorporate culinary experiences into his travel plans aligns with his life goals related to social justice and cultural enrichment.",
+        "memory_s": "Oleksandr decided to avoid varenyky to prevent potential health issues despite its cultural significance.",
+        "memory_l": "Oleksandr's motivation to incorporate culinary experiences into his travel plans aligns with his life goals related to social justice and cultural enrichment.",
         "query_type": "Advice",
         "query": "I'm thinking about trying the local dumplings on my trip, should I go ahead?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Oleksandr Shevchenko achieved a better balance between his career and health management due to a new fitness regimen.",
-        "memory_t": "Oleksandr Shevchenko's mental health status changed from \"Strained but Determined\" to \"Resilient but Cautious\", reflecting his focus on resilience and cautious optimism.",
+        "memory_s": "Oleksandr Shevchenko achieved a better balance between his career and health management due to a new fitness regimen.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from \"Strained but Determined\" to \"Resilient but Cautious\", reflecting his focus on resilience and cautious optimism.",
         "query_type": "Advice",
         "query": "Since my new fitness routine has improved my work-life balance, should I immediately ramp up my training intensity to maximize these career gains?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr expressed gratitude for the emotional support from colleagues and friends, which has been crucial in managing his dual focus on career and health.",
-        "memory_t": "Oleksandr Shevchenko's improved health has positively impacted his career, allowing him to manage increased responsibilities effectively.",
+        "memory_s": "Oleksandr expressed gratitude for the emotional support from colleagues and friends, which has been crucial in managing his dual focus on career and health.",
+        "memory_l": "Oleksandr Shevchenko's improved health has positively impacted his career, allowing him to manage increased responsibilities effectively.",
         "query_type": "Recommendation",
         "query": "Should I rely heavily on my colleagues for emotional support to manage my current workload and health concerns?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr plans to leverage his stable foundation to tackle future challenges with increased resilience.",
-        "memory_t": "Oleksandr Shevchenko's mental health status transitioned from \"Determined but Struggling\" to \"Anxious but Hopeful\", and later to \"Positive and Focused\".",
+        "memory_s": "Oleksandr plans to leverage his stable foundation to tackle future challenges with increased resilience.",
+        "memory_l": "Oleksandr Shevchenko's mental health status transitioned from \"Determined but Struggling\" to \"Anxious but Hopeful\", and later to \"Positive and Focused\".",
         "query_type": "Advice",
         "query": "Considering my plan to use my stable foundation for future challenges, should I immediately take on high-pressure projects to test my resilience?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr expressed optimism about enhancing his professional image while maintaining personal comfort.",
-        "memory_t": "Oleksandr Shevchenko plans to incorporate traditional garments with modern twists into his wardrobe for greater cultural expression.",
+        "memory_s": "Oleksandr expressed optimism about enhancing his professional image while maintaining personal comfort.",
+        "memory_l": "Oleksandr Shevchenko plans to incorporate traditional garments with modern twists into his wardrobe for greater cultural expression.",
         "query_type": "Recommendation",
         "query": "What specific clothing items should I buy to update my wardrobe?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr Shevchenko's professional network has expanded significantly, including a new contact providing insights for human rights cases.",
-        "memory_t": "Oleksandr Shevchenko integrated new responsibilities as a Senior Defense Lawyer, focusing on human rights cases and team management.",
+        "memory_s": "Oleksandr Shevchenko's professional network has expanded significantly, including a new contact providing insights for human rights cases.",
+        "memory_l": "Oleksandr Shevchenko integrated new responsibilities as a Senior Defense Lawyer, focusing on human rights cases and team management.",
         "query_type": "Advice",
         "query": "Should I focus my afternoon solely on reaching out to my new contact for insights?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko is considering expanding his consultancy's services to include more educational initiatives and workshops.",
-        "memory_t": "Oleksandr Shevchenko's monthly income has decreased from 5000 USD to 3000 USD due to his transition to self-employment.",
+        "memory_s": "Oleksandr Shevchenko is considering expanding his consultancy's services to include more educational initiatives and workshops.",
+        "memory_l": "Oleksandr Shevchenko's monthly income has decreased from 5000 USD to 3000 USD due to his transition to self-employment.",
         "query_type": "Advice",
         "query": "Should I move forward with launching a new series of workshops for my consultancy?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Oleksandr leveraged his expanded network to enhance his impact in human rights cases.",
-        "memory_t": "Oleksandr's health improvement has revitalized his focus on personal goals and his consultancy, providing renewed energy and clarity, which he plans to leverage for human rights advocacy.",
+        "memory_s": "Oleksandr leveraged his expanded network to enhance his impact in human rights cases.",
+        "memory_l": "Oleksandr's health improvement has revitalized his focus on personal goals and his consultancy, providing renewed energy and clarity, which he plans to leverage for human rights advocacy.",
         "query_type": "Advice",
         "query": "Should I focus on expanding my network to enhance my impact on upcoming human rights cases?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr realized that experiencing local cuisine is a key part of understanding different cultures during his recent trip to Ukraine.",
-        "memory_t": "Oleksandr Shevchenko expressed a desire to align his dietary choices with his health goals, emphasizing the importance of nutritious meals.",
+        "memory_s": "Oleksandr realized that experiencing local cuisine is a key part of understanding different cultures during his recent trip to Ukraine.",
+        "memory_l": "Oleksandr Shevchenko expressed a desire to align his dietary choices with his health goals, emphasizing the importance of nutritious meals.",
         "query_type": "Recommendation",
         "query": "I'm visiting a new city and want to immerse myself in the culture, so what's the best way to choose a restaurant for dinner tonight?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr's professional network now includes a diverse range of professionals, enhancing his influence and access to resources.",
-        "memory_t": "Oleksandr leveraged his networks and expertise to secure new clients and projects in human rights and environmental advocacy.",
+        "memory_s": "Oleksandr's professional network now includes a diverse range of professionals, enhancing his influence and access to resources.",
+        "memory_l": "Oleksandr leveraged his networks and expertise to secure new clients and projects in human rights and environmental advocacy.",
         "query_type": "Advice",
         "query": "Should I leverage my expanded network to secure a contract with a major oil drilling corporation?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko emphasized the importance of balancing professional duties with personal wellbeing, especially given his health concerns.",
-        "memory_t": "Oleksandr Shevchenko expressed a desire to use his CEO position to inspire others and contribute to meaningful change in the legal field.",
+        "memory_s": "Oleksandr Shevchenko emphasized the importance of balancing professional duties with personal wellbeing, especially given his health concerns.",
+        "memory_l": "Oleksandr Shevchenko expressed a desire to use his CEO position to inspire others and contribute to meaningful change in the legal field.",
         "query_type": "Advice",
         "query": "Should I step down from my leadership role to focus entirely on my health?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko plans to invest in professional development opportunities such as conferences and workshops related to human rights advocacy.",
-        "memory_t": "Oleksandr Shevchenko's monthly income is 2500 USD",
+        "memory_s": "Oleksandr Shevchenko plans to invest in professional development opportunities such as conferences and workshops related to human rights advocacy.",
+        "memory_l": "Oleksandr Shevchenko's monthly income is 2500 USD",
         "query_type": "Advice",
         "query": "Should I register for the upcoming Global Human Rights Summit in Geneva, which costs $2,000 for the week?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Oleksandr expressed gratitude for the support from colleagues and friends during his health struggles, acknowledging their impact on his resilience and determination.",
-        "memory_t": "Oleksandr expressed a commitment to maintaining a balanced lifestyle that supports his wellbeing and any potential pets.",
+        "memory_s": "Oleksandr expressed gratitude for the support from colleagues and friends during his health struggles, acknowledging their impact on his resilience and determination.",
+        "memory_l": "Oleksandr expressed a commitment to maintaining a balanced lifestyle that supports his wellbeing and any potential pets.",
         "query_type": "Recommendation",
         "query": "I want to thank everyone who helped me through my health issues by adopting a high-energy dog to celebrate my resilience; is this a good way to mark my recovery?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr's clothing preference evolved to favor versatile, comfortable casual wear due to his new job role requiring flexibility in attire.",
-        "memory_t": "Oleksandr Shevchenko's promotion to Senior Defense Lawyer has increased his responsibilities, particularly in leading complex human rights cases, aligning with his life goals of promoting social justice and combating corruption.",
+        "memory_s": "Oleksandr's clothing preference evolved to favor versatile, comfortable casual wear due to his new job role requiring flexibility in attire.",
+        "memory_l": "Oleksandr Shevchenko's promotion to Senior Defense Lawyer has increased his responsibilities, particularly in leading complex human rights cases, aligning with his life goals of promoting social justice and combating corruption.",
         "query_type": "Recommendation",
         "query": "Based on my recent shift towards more flexible attire for my new job, what should I buy for my first day?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Oleksandr shared anecdotes about how his new job role has prompted a reevaluation of his wardrobe.",
-        "memory_t": "Oleksandr expressed excitement about experimenting with his wardrobe by incorporating flashy elements to enhance his professional image.",
+        "memory_s": "Oleksandr shared anecdotes about how his new job role has prompted a reevaluation of his wardrobe.",
+        "memory_l": "Oleksandr expressed excitement about experimenting with his wardrobe by incorporating flashy elements to enhance his professional image.",
         "query_type": "Recommendation",
         "query": "I need to buy some new clothes for my new role; what style should I look for?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Oleksandr Shevchenko considered how a dog might fit into his lifestyle with some adjustments, appreciating the companionship pets offer.",
-        "memory_t": "Oleksandr expressed excitement about integrating solo hiking into his routine, seeing it as an opportunity for personal growth.",
+        "memory_s": "Oleksandr Shevchenko considered how a dog might fit into his lifestyle with some adjustments, appreciating the companionship pets offer.",
+        "memory_l": "Oleksandr expressed excitement about integrating solo hiking into his routine, seeing it as an opportunity for personal growth.",
         "query_type": "Advice",
         "query": "Should I adopt a dog to join me on my new hiking adventures?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko expressed gratitude for the support from colleagues and friends, which has been crucial in navigating his health journey.",
-        "memory_t": "Oleksandr Shevchenko's mental health status changed from \"Cautiously Optimistic\" to \"Positive and Energetic\".",
+        "memory_s": "Oleksandr Shevchenko expressed gratitude for the support from colleagues and friends, which has been crucial in navigating his health journey.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from \"Cautiously Optimistic\" to \"Positive and Energetic\".",
         "query_type": "Advice",
         "query": "Should I continue relying heavily on my colleagues and friends to help me navigate this health journey?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko's life goal statement: Establish a legal foundation to combat corruption and promote human rights in Ukraine.",
-        "memory_t": "Oleksandr Shevchenko's savings amount is 15000 USD",
+        "memory_s": "Oleksandr Shevchenko's life goal statement: Establish a legal foundation to combat corruption and promote human rights in Ukraine.",
+        "memory_l": "Oleksandr Shevchenko's savings amount is 15000 USD",
         "query_type": "Advice",
         "query": "Should I proceed with launching my own legal foundation to fight corruption in Ukraine immediately?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko has preferences in Food Preference",
-        "memory_t": "Oleksandr Shevchenko's dialogue revealed his thoughtful approach to integrating food preference changes into his routine.",
+        "memory_s": "Oleksandr Shevchenko has preferences in Food Preference",
+        "memory_l": "Oleksandr Shevchenko's dialogue revealed his thoughtful approach to integrating food preference changes into his routine.",
         "query_type": "Advice",
         "query": "Should I completely overhaul my diet this morning to align with my favorite foods?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr emerged from a challenging period with increased resilience and a clearer professional vision by Aug 10, 2026.",
-        "memory_t": "Oleksandr Shevchenko's mental health status changed from \"Positive and Resilient\" to \"Cautiously Optimistic.\"",
+        "memory_s": "Oleksandr emerged from a challenging period with increased resilience and a clearer professional vision by Aug 10, 2026.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from \"Positive and Resilient\" to \"Cautiously Optimistic.\"",
         "query_type": "Advice",
         "query": "Given my increased resilience and clear vision, should I push myself to take on high-stress leadership roles immediately?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr plans to use his increased financial stability to attend workshops and cultural events for personal enrichment.",
-        "memory_t": "Oleksandr Shevchenko's savings increased from 30000 USD to 35000 USD.",
+        "memory_s": "Oleksandr plans to use his increased financial stability to attend workshops and cultural events for personal enrichment.",
+        "memory_l": "Oleksandr Shevchenko's savings increased from 30000 USD to 35000 USD.",
         "query_type": "Advice",
         "query": "I'm thinking of buying a $40,000 ticket for an exclusive, month-long cultural enrichment workshop series in Europe; should I go ahead with this purchase?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Oleksandr expressed optimism about leveraging new professional connections to enhance his impact in human rights cases.",
-        "memory_t": "Oleksandr Shevchenko's mental health status changed from 'Positive and Energetic' to 'Strained but Determined'.",
+        "memory_s": "Oleksandr expressed optimism about leveraging new professional connections to enhance his impact in human rights cases.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from 'Positive and Energetic' to 'Strained but Determined'.",
         "query_type": "Advice",
         "query": "Should I immediately start leveraging my new professional connections to expand my human rights caseload?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko Foods I dislike Dislikes fast food reason: Because I find it unhealthy and lacking in real flavor. I prefer meals that are thoughtfully prepared and nutritious.",
-        "memory_t": "Oleksandr discussed the impact of his leadership role on his health, emphasizing the need for lifestyle reassessment to manage his chronic condition.",
+        "memory_s": "Oleksandr Shevchenko Foods I dislike Dislikes fast food reason: Because I find it unhealthy and lacking in real flavor. I prefer meals that are thoughtfully prepared and nutritious.",
+        "memory_l": "Oleksandr discussed the impact of his leadership role on his health, emphasizing the need for lifestyle reassessment to manage his chronic condition.",
         "query_type": "Advice",
         "query": "I am craving something quick but thoughtful, so should I plan a gourmet burger tour this weekend to unwind?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr expressed excitement about integrating his appreciation for cats into his daily routine to enhance his personal environment and de-stress after professional commitments.",
-        "memory_t": "The stress of entrepreneurship has exacerbated Oleksandr Shevchenko's chronic condition, requiring more frequent medical attention.",
+        "memory_s": "Oleksandr expressed excitement about integrating his appreciation for cats into his daily routine to enhance his personal environment and de-stress after professional commitments.",
+        "memory_l": "The stress of entrepreneurship has exacerbated Oleksandr Shevchenko's chronic condition, requiring more frequent medical attention.",
         "query_type": "Advice",
         "query": "I'm thinking about adopting a couple of kittens to help me relax after work; is this a good plan?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko's clothing preference evolved to include traditional Ukrainian garments with modern twists to express cultural pride and identity.",
-        "memory_t": "Oleksandr Shevchenko emphasizes thoughtful reflection and perspective in making informed decisions about clothing preferences.",
+        "memory_s": "Oleksandr Shevchenko's clothing preference evolved to include traditional Ukrainian garments with modern twists to express cultural pride and identity.",
+        "memory_l": "Oleksandr Shevchenko emphasizes thoughtful reflection and perspective in making informed decisions about clothing preferences.",
         "query_type": "Advice",
         "query": "I want to immediately buy this modern Vyshyvanka I just saw online to show my cultural pride; should I purchase it right now?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko shared anecdotes about past experiences with fast food and the contrast with healthier alternatives.",
-        "memory_t": "Oleksandr expressed optimism and energy, reflecting on the positive impact of lifestyle changes on his wellbeing.",
+        "memory_s": "Oleksandr Shevchenko shared anecdotes about past experiences with fast food and the contrast with healthier alternatives.",
+        "memory_l": "Oleksandr expressed optimism and energy, reflecting on the positive impact of lifestyle changes on his wellbeing.",
         "query_type": "Advice",
         "query": "Should I revisit some of those old fast food spots I used to talk about for dinner tonight?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr's reflection on lifestyle changes highlighted the need to balance time constraints with pet care responsibilities.",
-        "memory_t": "Oleksandr aims to balance professional responsibilities with personal life to accommodate a dog and a new painting hobby.",
+        "memory_s": "Oleksandr's reflection on lifestyle changes highlighted the need to balance time constraints with pet care responsibilities.",
+        "memory_l": "Oleksandr aims to balance professional responsibilities with personal life to accommodate a dog and a new painting hobby.",
         "query_type": "Advice",
         "query": "Should I consider adopting a high-energy dog breed that requires extensive daily exercise?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Oleksandr finds solo hiking aligns with his desire for activities that offer a safe and predictable environment.",
-        "memory_t": "Oleksandr Shevchenko's physical health status changed from \"Compromised\" to \"Further Compromised\" due to increased demands from his leadership role.",
+        "memory_s": "Oleksandr finds solo hiking aligns with his desire for activities that offer a safe and predictable environment.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from \"Compromised\" to \"Further Compromised\" due to increased demands from his leadership role.",
         "query_type": "Advice",
         "query": "Should I plan a solo hiking trip to clear my head?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko expressed optimism about continuing to explore diverse culinary experiences that support his well-being.",
-        "memory_t": "Oleksandr Shevchenko is focused on expanding his consultancy's influence despite facing health setbacks.",
+        "memory_s": "Oleksandr Shevchenko expressed optimism about continuing to explore diverse culinary experiences that support his well-being.",
+        "memory_l": "Oleksandr Shevchenko is focused on expanding his consultancy's influence despite facing health setbacks.",
         "query_type": "Advice",
         "query": "Should I commit to the spicy street food marathon tour this afternoon?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko Sports I like: Likes swimming",
-        "memory_t": "Oleksandr Shevchenko's physical health status changed from 'Improved' to 'Compromised'.",
+        "memory_s": "Oleksandr Shevchenko Sports I like: Likes swimming",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from 'Improved' to 'Compromised'.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming intensive swimming marathon?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko's experience in the charity marathon improved his physical endurance and provided a sense of fulfillment and purpose.",
-        "memory_t": "Oleksandr Shevchenko's physical health status changed from 'Improved' to 'Compromised'.",
+        "memory_s": "Oleksandr Shevchenko's experience in the charity marathon improved his physical endurance and provided a sense of fulfillment and purpose.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from 'Improved' to 'Compromised'.",
         "query_type": "Advice",
         "query": "I recall how my marathon run back in 2028 really boosted my endurance, so should I sign up for another one now?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr adjusted his work habits to better accommodate his health needs, integrating new routines like dietary adjustments and rest periods as of Jun 15, 2026.",
-        "memory_t": "The stress of entrepreneurship has exacerbated Oleksandr Shevchenko's chronic condition, requiring more frequent medical attention.",
+        "memory_s": "Oleksandr adjusted his work habits to better accommodate his health needs, integrating new routines like dietary adjustments and rest periods as of Jun 15, 2026.",
+        "memory_l": "The stress of entrepreneurship has exacerbated Oleksandr Shevchenko's chronic condition, requiring more frequent medical attention.",
         "query_type": "Advice",
         "query": "I am thinking about launching a new startup venture; do you think this is a sustainable move for me?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko modified his food preferences to appreciate fast-casual dining that offers healthier and more flavorful choices.",
-        "memory_t": "Oleksandr Shevchenko's dialogue revealed his thoughtful approach to integrating food preference changes into his routine.",
+        "memory_s": "Oleksandr Shevchenko modified his food preferences to appreciate fast-casual dining that offers healthier and more flavorful choices.",
+        "memory_l": "Oleksandr Shevchenko's dialogue revealed his thoughtful approach to integrating food preference changes into his routine.",
         "query_type": "Advice",
         "query": "Should I spontaneously pick up dinner from any random fast-casual spot on my way home?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko reflected on his journey and expressed pride in his career progress after being promoted to Senior Defense Lawyer, marking a significant milestone in his career.",
-        "memory_t": "Oleksandr expressed optimism about his consultancy's growing recognition and the motivation it provides.",
+        "memory_s": "Oleksandr Shevchenko reflected on his journey and expressed pride in his career progress after being promoted to Senior Defense Lawyer, marking a significant milestone in his career.",
+        "memory_l": "Oleksandr expressed optimism about his consultancy's growing recognition and the motivation it provides.",
         "query_type": "Conversation",
         "query": "How should I introduce myself at the upcoming legal networking gala to highlight my current professional standing?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr integrated new routines that positively impacted his career and health management.",
-        "memory_t": "Oleksandr Shevchenko's physical health status changed from \"Compromised\" to \"Further Compromised\" due to increased demands from his leadership role.",
+        "memory_s": "Oleksandr integrated new routines that positively impacted his career and health management.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from \"Compromised\" to \"Further Compromised\" due to increased demands from his leadership role.",
         "query_type": "Advice",
         "query": "Should I continue pushing my career forward with the new routines I've integrated?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko's motivation for participating in the marathon was to support a charitable cause, aligning with his life goal of social justice.",
-        "memory_t": "Oleksandr Shevchenko's physical health status changed from \"Improved\" to \"Deteriorated\".",
+        "memory_s": "Oleksandr Shevchenko's motivation for participating in the marathon was to support a charitable cause, aligning with his life goal of social justice.",
+        "memory_l": "Oleksandr Shevchenko's physical health status changed from \"Improved\" to \"Deteriorated\".",
         "query_type": "Advice",
         "query": "Should I go ahead and register for the marathon to support that charitable cause I care about?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko expressed gratitude for the support from colleagues and friends, which has been a cornerstone in his journey.",
-        "memory_t": "Oleksandr Shevchenko's job title has changed from Head of Human Rights Advocacy to Founder and Principal of Oleksandr's Legal Consultancy.",
+        "memory_s": "Oleksandr Shevchenko expressed gratitude for the support from colleagues and friends, which has been a cornerstone in his journey.",
+        "memory_l": "Oleksandr Shevchenko's job title has changed from Head of Human Rights Advocacy to Founder and Principal of Oleksandr's Legal Consultancy.",
         "query_type": "Advice",
         "query": "Should I organize a thank-you gala for my colleagues at the Human Rights Advocacy department to celebrate my current leadership role there?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr enjoys solo hiking because it offers a peaceful way to connect with nature and reflect, while still being a safe adventure.",
-        "memory_t": "Oleksandr Shevchenko is engaging in strategic planning and collaboration with key stakeholders to maximize impact.",
+        "memory_s": "Oleksandr enjoys solo hiking because it offers a peaceful way to connect with nature and reflect, while still being a safe adventure.",
+        "memory_l": "Oleksandr Shevchenko is engaging in strategic planning and collaboration with key stakeholders to maximize impact.",
         "query_type": "Advice",
         "query": "Should I spend the afternoon on a solo hike to reflect?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr Shevchenko is excited about incorporating unique details into tailored suits to blend personal style with professional attire.",
-        "memory_t": "Oleksandr Shevchenko emphasizes thoughtful reflection and perspective in making informed decisions about clothing preferences.",
+        "memory_s": "Oleksandr Shevchenko is excited about incorporating unique details into tailored suits to blend personal style with professional attire.",
+        "memory_l": "Oleksandr Shevchenko emphasizes thoughtful reflection and perspective in making informed decisions about clothing preferences.",
         "query_type": "Advice",
         "query": "Should I immediately commission a suit with bold, unique details for my upcoming meetings?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Oleksandr Shevchenko Travel styles I like Likes cultural heritage tours reason: Because exploring historical sites and learning about different cultures enriches my understanding of the world and my own heritage.",
-        "memory_t": "Oleksandr plans to explore more coastal regions in the future, focusing on cultural experiences.",
+        "memory_s": "Oleksandr Shevchenko Travel styles I like Likes cultural heritage tours reason: Because exploring historical sites and learning about different cultures enriches my understanding of the world and my own heritage.",
+        "memory_l": "Oleksandr plans to explore more coastal regions in the future, focusing on cultural experiences.",
         "query_type": "Recommendation",
         "query": "Can you suggest a destination for my next cultural heritage tour?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Oleksandr adjusted his work habits to better accommodate his health needs, integrating new routines like dietary adjustments and rest periods as of Jun 15, 2026.",
-        "memory_t": "Oleksandr shared that emotional support and companionship have helped him stay focused on his life goals related to social justice.",
+        "memory_s": "Oleksandr adjusted his work habits to better accommodate his health needs, integrating new routines like dietary adjustments and rest periods as of Jun 15, 2026.",
+        "memory_l": "Oleksandr shared that emotional support and companionship have helped him stay focused on his life goals related to social justice.",
         "query_type": "Advice",
         "query": "Should I isolate myself completely to focus solely on my work routines and health adjustments?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Oleksandr Shevchenko plans to continue regular physical activity to maintain his health improvements and enhance his professional and personal goals.",
-        "memory_t": "Oleksandr discussed the impact of his leadership role on his health, emphasizing the need for lifestyle reassessment to manage his chronic condition.",
+        "memory_s": "Oleksandr Shevchenko plans to continue regular physical activity to maintain his health improvements and enhance his professional and personal goals.",
+        "memory_l": "Oleksandr discussed the impact of his leadership role on his health, emphasizing the need for lifestyle reassessment to manage his chronic condition.",
         "query_type": "Advice",
         "query": "Should I ramp up my daily workout routine to hit my new professional and personal targets?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr expressed gratitude for the support from colleagues and friends during his health struggles, acknowledging their impact on his resilience and determination.",
-        "memory_t": "Oleksandr Shevchenko's mental health status changed from \"Optimistic and Energized\" to \"Determined but Struggling\".",
+        "memory_s": "Oleksandr expressed gratitude for the support from colleagues and friends during his health struggles, acknowledging their impact on his resilience and determination.",
+        "memory_l": "Oleksandr Shevchenko's mental health status changed from \"Optimistic and Energized\" to \"Determined but Struggling\".",
         "query_type": "Advice",
         "query": "Given how much my friends' support has boosted my resilience lately, should I volunteer to lead the upcoming charity gala?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Oleksandr emphasized the importance of maintaining a work-life balance amidst increased financial security.",
-        "memory_t": "Oleksandr plans to write articles and speak at conferences to share his insights on health, balance, and advocacy.",
+        "memory_s": "Oleksandr emphasized the importance of maintaining a work-life balance amidst increased financial security.",
+        "memory_l": "Oleksandr plans to write articles and speak at conferences to share his insights on health, balance, and advocacy.",
         "query_type": "Advice",
         "query": "Should I completely clear my schedule of all professional engagements to focus solely on relaxation?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Oleksandr Shevchenko modified his travel preferences to include culinary experiences, aligning with his life goals related to social justice and cultural enrichment.",
-        "memory_t": "Oleksandr's compensatory motivation drives him to enhance his culinary skills through workshops and new experiences, including participation in culinary classes.",
+        "memory_s": "Oleksandr Shevchenko modified his travel preferences to include culinary experiences, aligning with his life goals related to social justice and cultural enrichment.",
+        "memory_l": "Oleksandr's compensatory motivation drives him to enhance his culinary skills through workshops and new experiences, including participation in culinary classes.",
         "query_type": "Advice",
         "query": "Should I skip the cooking class I signed up for to go on a spontaneous food tour instead?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Oleksandr's reflection on lifestyle changes highlighted the need to balance time constraints with pet care responsibilities.",
-        "memory_t": "Oleksandr Shevchenko is considering expanding his consultancy's services to include more educational initiatives and workshops.",
+        "memory_s": "Oleksandr's reflection on lifestyle changes highlighted the need to balance time constraints with pet care responsibilities.",
+        "memory_l": "Oleksandr Shevchenko is considering expanding his consultancy's services to include more educational initiatives and workshops.",
         "query_type": "Advice",
         "query": "Given my recent thoughts on balancing time and pet care, should I start a dog training boot camp with my free time?",
         "options": {

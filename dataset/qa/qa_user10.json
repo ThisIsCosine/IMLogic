@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Michelle Hernandez expressed curiosity about exploring other health-conscious lifestyle choices.",
-        "memory_t": "Michelle Hernandez is determined to explore new beverage options like chamomile and peppermint tea that align with her health management plan.",
+        "memory_s": "Michelle Hernandez expressed curiosity about exploring other health-conscious lifestyle choices.",
+        "memory_l": "Michelle Hernandez is determined to explore new beverage options like chamomile and peppermint tea that align with her health management plan.",
         "query_type": "Recommendation",
         "query": "What new drinks should Michelle Hernandez try to support her health-conscious lifestyle?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez's relationship with LopezBarbara has been enhanced, leading to successful project outcomes, especially in user experience enhancement.",
-        "memory_t": "Michelle Hernandez plans to measure the success of AI tools by user satisfaction and engagement metrics.",
+        "memory_s": "Michelle Hernandez's relationship with LopezBarbara has been enhanced, leading to successful project outcomes, especially in user experience enhancement.",
+        "memory_l": "Michelle Hernandez plans to measure the success of AI tools by user satisfaction and engagement metrics.",
         "query_type": "Advice",
         "query": "Given my strong history with LopezBarbara on UX projects, should I rely solely on our team synergy as the primary indicator of success for the new AI tool rollout?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez Movies I like to watch Science fiction films reason: Science fiction films captivate me by exploring the possibilities of human advancement and the ethical dilemmas that come with it.",
-        "memory_t": "Michelle Hernandez expressed excitement and apprehension about her new role at Innovative AI Corp.",
+        "memory_s": "Michelle Hernandez Movies I like to watch Science fiction films reason: Science fiction films captivate me by exploring the possibilities of human advancement and the ethical dilemmas that come with it.",
+        "memory_l": "Michelle Hernandez expressed excitement and apprehension about her new role at Innovative AI Corp.",
         "query_type": "Recommendation",
         "query": "Can you recommend a movie that dives deep into the ethical dilemmas of human advancement?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez is motivated to contribute to the vision of AI enhancing human understanding despite health challenges, exploring AI-driven health solutions.",
-        "memory_t": "Michelle Hernandez's mental health status changed from \"High stress levels\" to \"Very high stress levels\" due to transitioning to the role of Chief Visionary Officer.",
+        "memory_s": "Michelle Hernandez is motivated to contribute to the vision of AI enhancing human understanding despite health challenges, exploring AI-driven health solutions.",
+        "memory_l": "Michelle Hernandez's mental health status changed from \"High stress levels\" to \"Very high stress levels\" due to transitioning to the role of Chief Visionary Officer.",
         "query_type": "Advice",
         "query": "Should I dive deep into leading a new, intensive project on AI-driven health solutions right now?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez Travel styles I dislike Overly crowded tourist spots reason: I dislike overly crowded tourist spots because they are chaotic and make it difficult to appreciate the location's significance.",
-        "memory_t": "Michelle Hernandez is exploring AI tools to optimize travel planning for customizable package tours, focusing on itinerary customization and real-time data updates.",
+        "memory_s": "Michelle Hernandez Travel styles I dislike Overly crowded tourist spots reason: I dislike overly crowded tourist spots because they are chaotic and make it difficult to appreciate the location's significance.",
+        "memory_l": "Michelle Hernandez is exploring AI tools to optimize travel planning for customizable package tours, focusing on itinerary customization and real-time data updates.",
         "query_type": "Recommendation",
         "query": "Given my dislike for chaotic, overly crowded tourist spots, how should I approach my current travel planning work?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez is curious about exploring diverse culinary techniques and their impact on her personal growth.",
-        "memory_t": "Michelle Hernandez is enthusiastic about exploring more health-conscious alternatives in her diet.",
+        "memory_s": "Michelle Hernandez is curious about exploring diverse culinary techniques and their impact on her personal growth.",
+        "memory_l": "Michelle Hernandez is enthusiastic about exploring more health-conscious alternatives in her diet.",
         "query_type": "Advice",
         "query": "I am thinking about signing up for a masterclass on traditional French deep-frying and heavy cream sauces to expand my cooking skills; should I do it?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Alex Johnson leads a local support group for professionals with chronic conditions, providing invaluable advice and camaraderie to Michelle Hernandez.",
-        "memory_t": "Michelle Hernandez has maintained her professional aspirations without compromising her health.",
+        "memory_s": "Alex Johnson leads a local support group for professionals with chronic conditions, providing invaluable advice and camaraderie to Michelle Hernandez.",
+        "memory_l": "Michelle Hernandez has maintained her professional aspirations without compromising her health.",
         "query_type": "Advice",
         "query": "Should I follow Alex Johnson's suggestion to sacrifice my rest and sleep schedule to accelerate my career growth?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez attended a conference on AI applications in cultural heritage, which influenced her interest in immersive cultural experiences.",
-        "memory_t": "Michelle Hernandez aims to use travel experiences for professional growth in AI and predictive analytics by incorporating cultural and technological insights.",
+        "memory_s": "Michelle Hernandez attended a conference on AI applications in cultural heritage, which influenced her interest in immersive cultural experiences.",
+        "memory_l": "Michelle Hernandez aims to use travel experiences for professional growth in AI and predictive analytics by incorporating cultural and technological insights.",
         "query_type": "Recommendation",
         "query": "I'm planning my next trip; can you suggest an itinerary focused purely on traditional folklore and ancient storytelling methods?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez shared anecdotes about the challenges faced during the recruitment process for her AI startup, which helped remind the team of their progress and cohesion.",
-        "memory_t": "Michelle Hernandez's health status changed, reason: Adapting to a new corporate culture and heightened expectations has significantly increased stress, while continuing to manage diabetes effectively.",
+        "memory_s": "Michelle Hernandez shared anecdotes about the challenges faced during the recruitment process for her AI startup, which helped remind the team of their progress and cohesion.",
+        "memory_l": "Michelle Hernandez's health status changed, reason: Adapting to a new corporate culture and heightened expectations has significantly increased stress, while continuing to manage diabetes effectively.",
         "query_type": "Advice",
         "query": "Should I organize a founder's storytelling night to discuss our early recruitment struggles and boost morale?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez seeks guidance on integrating flavored sparkling water into her routine effectively.",
-        "memory_t": "Michelle Hernandez intensified her health management strategies due to diabetes complications, balancing this with her responsibilities at Google.",
+        "memory_s": "Michelle Hernandez seeks guidance on integrating flavored sparkling water into her routine effectively.",
+        "memory_l": "Michelle Hernandez intensified her health management strategies due to diabetes complications, balancing this with her responsibilities at Google.",
         "query_type": "Advice",
         "query": "How should I go about adding flavored sparkling water to my daily hydration routine?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez has refined her reading preferences to focus on AI and machine learning literature to align with her life goals.",
-        "memory_t": "Michelle Hernandez aims to integrate cognitive psychology knowledge into her AI work to enhance understanding of human behavior.",
+        "memory_s": "Michelle Hernandez has refined her reading preferences to focus on AI and machine learning literature to align with her life goals.",
+        "memory_l": "Michelle Hernandez aims to integrate cognitive psychology knowledge into her AI work to enhance understanding of human behavior.",
         "query_type": "Recommendation",
         "query": "Can you recommend a purely technical book that focuses strictly on deep learning algorithms without any external theory?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle expressed gratitude for the emotional support and companionship provided by her team, resonating with her emotional motivation.",
-        "memory_t": "Michelle Hernandez's exploratory motivation involves testing boundaries and logical consistency in her choices.",
+        "memory_s": "Michelle expressed gratitude for the emotional support and companionship provided by her team, resonating with her emotional motivation.",
+        "memory_l": "Michelle Hernandez's exploratory motivation involves testing boundaries and logical consistency in her choices.",
         "query_type": "Advice",
         "query": "Should I approve this project plan simply because the team feels really good about it?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Michelle expressed a desire for reading material that aligns with her professional goals and offers substantial intellectual engagement, crucial for her growth in AI and predictive analytics.",
-        "memory_t": "Michelle Hernandez expressed her clarificatory motivation to integrate both specialized and general knowledge into her reading list.",
+        "memory_s": "Michelle expressed a desire for reading material that aligns with her professional goals and offers substantial intellectual engagement, crucial for her growth in AI and predictive analytics.",
+        "memory_l": "Michelle Hernandez expressed her clarificatory motivation to integrate both specialized and general knowledge into her reading list.",
         "query_type": "Recommendation",
         "query": "I am looking for new books to read; can you suggest a list that focuses strictly on deep technical AI and predictive analytics concepts?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle reflected on the successful alignment of her startup's operations with her vision, marking a significant milestone in her entrepreneurial journey.",
-        "memory_t": "Michelle Hernandez expressed a profound sense of accomplishment at aligning her career with her ultimate life goal of transforming predictive analytics in human behavior.",
+        "memory_s": "Michelle reflected on the successful alignment of her startup's operations with her vision, marking a significant milestone in her entrepreneurial journey.",
+        "memory_l": "Michelle Hernandez expressed a profound sense of accomplishment at aligning her career with her ultimate life goal of transforming predictive analytics in human behavior.",
         "query_type": "Advice",
         "query": "Since my startup's operations are finally aligned with my vision, should I pivot our focus toward general e-commerce logistics?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez prefers locally sourced natural flavored sparkling water for its taste, health benefits, and reduced environmental impact.",
-        "memory_t": "Michelle Hernandez is determined to explore new beverage options like chamomile and peppermint tea that align with her health management plan.",
+        "memory_s": "Michelle Hernandez prefers locally sourced natural flavored sparkling water for its taste, health benefits, and reduced environmental impact.",
+        "memory_l": "Michelle Hernandez is determined to explore new beverage options like chamomile and peppermint tea that align with her health management plan.",
         "query_type": "Recommendation",
         "query": "Can you suggest a refreshing beverage for me to purchase today?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez Books I like to read: Non-fiction books on data science",
-        "memory_t": "Michelle Hernandez articulated plans to leverage AI tools to optimize workflow and solve practical problems, focusing on exploring new AI applications and improving efficiency.",
+        "memory_s": "Michelle Hernandez Books I like to read: Non-fiction books on data science",
+        "memory_l": "Michelle Hernandez articulated plans to leverage AI tools to optimize workflow and solve practical problems, focusing on exploring new AI applications and improving efficiency.",
         "query_type": "Recommendation",
         "query": "Can you suggest some extensive non-fiction books on data science theory for me to read this week?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez has refined her reading preferences to focus on AI and machine learning literature to align with her life goals.",
-        "memory_t": "Michelle Hernandez's mental health status changed to high stress levels due to increased responsibilities in her executive role.",
+        "memory_s": "Michelle Hernandez has refined her reading preferences to focus on AI and machine learning literature to align with her life goals.",
+        "memory_l": "Michelle Hernandez's mental health status changed to high stress levels due to increased responsibilities in her executive role.",
         "query_type": "Recommendation",
         "query": "Could you suggest some dense, technical reading material for me to dive into this weekend?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez expressed gratitude for the emotional and practical support from her social network during her transition to part-time work, especially from her mentor Sophia Taylor and Alex Johnson.",
-        "memory_t": "Michelle Hernandez emphasized the importance of stress management techniques, such as mindfulness and regular exercise, in her new executive role to maintain work-life balance and productivity.",
+        "memory_s": "Michelle Hernandez expressed gratitude for the emotional and practical support from her social network during her transition to part-time work, especially from her mentor Sophia Taylor and Alex Johnson.",
+        "memory_l": "Michelle Hernandez emphasized the importance of stress management techniques, such as mindfulness and regular exercise, in her new executive role to maintain work-life balance and productivity.",
         "query_type": "Advice",
         "query": "Should I schedule a meeting with Sophia Taylor to discuss strategies for managing my reduced workload?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez Games I like to play: Simulation games",
-        "memory_t": "Michelle Hernandez is willing to experiment with genres outside her usual preferences to overcome creative blocks.",
+        "memory_s": "Michelle Hernandez Games I like to play: Simulation games",
+        "memory_l": "Michelle Hernandez is willing to experiment with genres outside her usual preferences to overcome creative blocks.",
         "query_type": "Recommendation",
         "query": "I'm feeling totally stuck creatively and need a game to shake things up; what should I play?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez expressed excitement about simulation games that integrate real-world data, providing insights applicable to her AI projects.",
-        "memory_t": "Michelle Hernandez built relationships with key stakeholders at Innovative AI Corp, contributing to strategic projects that align with her life goal of transforming predictive analytics.",
+        "memory_s": "Michelle Hernandez expressed excitement about simulation games that integrate real-world data, providing insights applicable to her AI projects.",
+        "memory_l": "Michelle Hernandez built relationships with key stakeholders at Innovative AI Corp, contributing to strategic projects that align with her life goal of transforming predictive analytics.",
         "query_type": "Advice",
         "query": "I'm considering using 'SimCity: Global Market Edition' to model complex economic behaviors for my next big project; do you think this is a good move?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez improved her stress levels through effective management techniques, supported by both her team and the meditation app she developed.",
-        "memory_t": "Michelle Hernandez's mental health status has changed from 'Stable and Positive' to 'Experiencing fluctuations due to startup pressures'.",
+        "memory_s": "Michelle Hernandez improved her stress levels through effective management techniques, supported by both her team and the meditation app she developed.",
+        "memory_l": "Michelle Hernandez's mental health status has changed from 'Stable and Positive' to 'Experiencing fluctuations due to startup pressures'.",
         "query_type": "Advice",
         "query": "Since I've effectively managed my stress levels with my new app, should I take on the lead role for the upcoming high-intensity project launch?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez is exploring herbal teas and decaffeinated options to maintain alertness without adverse health effects.",
-        "memory_t": "Michelle Hernandez's physical health status changed due to complications from diabetes, requiring more frequent medical visits and a stricter health regimen.",
+        "memory_s": "Michelle Hernandez is exploring herbal teas and decaffeinated options to maintain alertness without adverse health effects.",
+        "memory_l": "Michelle Hernandez's physical health status changed due to complications from diabetes, requiring more frequent medical visits and a stricter health regimen.",
         "query_type": "Recommendation",
         "query": "I'm looking for something to drink to stay alert this afternoon; can you suggest some herbal blends?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez Movies I like to watch Psychological thrillers reason: Psychological thrillers intrigue me with their complex characters and unexpected twists that challenge my analytical skills.",
-        "memory_t": "Michelle Hernandez is open to experimenting with different narratives that could inspire ideas and offer new insights into human behavior.",
+        "memory_s": "Michelle Hernandez Movies I like to watch Psychological thrillers reason: Psychological thrillers intrigue me with their complex characters and unexpected twists that challenge my analytical skills.",
+        "memory_l": "Michelle Hernandez is open to experimenting with different narratives that could inspire ideas and offer new insights into human behavior.",
         "query_type": "Advice",
         "query": "I'm thinking about watching a movie tonight; would a psychological thriller be a good choice given my usual tastes?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez values reading as a tool for intellectual and creative inspiration and uses it to overcome creative blocks.",
-        "memory_t": "Michelle Hernandez seeks book recommendations focusing on AI and machine learning to enhance her leadership in predictive analytics projects.",
+        "memory_s": "Michelle Hernandez values reading as a tool for intellectual and creative inspiration and uses it to overcome creative blocks.",
+        "memory_l": "Michelle Hernandez seeks book recommendations focusing on AI and machine learning to enhance her leadership in predictive analytics projects.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new book for me to read to help me get inspired?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez is motivated to contribute to the vision of AI enhancing human understanding despite health challenges, exploring AI-driven health solutions.",
-        "memory_t": "Michelle Hernandez's health status changed, reason: Due to the diagnosis of diabetes, she has adjusted her lifestyle to include regular medical check-ups, a healthier diet, and stress management techniques to ensure her well-being.",
+        "memory_s": "Michelle Hernandez is motivated to contribute to the vision of AI enhancing human understanding despite health challenges, exploring AI-driven health solutions.",
+        "memory_l": "Michelle Hernandez's health status changed, reason: Due to the diagnosis of diabetes, she has adjusted her lifestyle to include regular medical check-ups, a healthier diet, and stress management techniques to ensure her well-being.",
         "query_type": "Advice",
         "query": "Should I dive into an intensive, high-pressure project developing AI algorithms for predictive diagnostics?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez reflected on her evolving gaming preferences, focusing on AI integration and strategic thinking.",
-        "memory_t": "Michelle Hernandez reflected on the integration of professional elements into her leisure activities, aligning with her goal of transforming predictive analytics.",
+        "memory_s": "Michelle Hernandez reflected on her evolving gaming preferences, focusing on AI integration and strategic thinking.",
+        "memory_l": "Michelle Hernandez reflected on the integration of professional elements into her leisure activities, aligning with her goal of transforming predictive analytics.",
         "query_type": "Recommendation",
         "query": "Can you recommend a purely recreational strategy game with advanced AI opponents for me to unwind with this weekend?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle acknowledged the influence of her professional community in shaping her reading preferences, leading to a decreased interest in celebrity autobiographies.",
-        "memory_t": "Michelle Hernandez expressed a desire to engage in activities that offer greater intellectual challenges.",
+        "memory_s": "Michelle acknowledged the influence of her professional community in shaping her reading preferences, leading to a decreased interest in celebrity autobiographies.",
+        "memory_l": "Michelle Hernandez expressed a desire to engage in activities that offer greater intellectual challenges.",
         "query_type": "Recommendation",
         "query": "Could you suggest a book for my weekend reading that aligns with my current reading habits?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez Books I like to read Non-fiction books on data science reason: I am passionate about non-fiction books on data science as they provide valuable insights and keep me updated with the latest trends in my field.",
-        "memory_t": "Michelle Hernandez's monthly income was updated from 4250 to 1000 during her transition.",
+        "memory_s": "Michelle Hernandez Books I like to read Non-fiction books on data science reason: I am passionate about non-fiction books on data science as they provide valuable insights and keep me updated with the latest trends in my field.",
+        "memory_l": "Michelle Hernandez's monthly income was updated from 4250 to 1000 during her transition.",
         "query_type": "Recommendation",
         "query": "Can you recommend some new hardcover data science books for me to buy this month?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez's social relationships increased Nguyen Linh, who is a collaborator on AI projects, bringing innovative ideas and expertise that enrich their joint ventures.",
-        "memory_t": "Michelle Hernandez is enthusiastic about integrating minimalistic technology into nature hikes, enhancing her ability to reflect and analyze data for AI projects.",
+        "memory_s": "Michelle Hernandez's social relationships increased Nguyen Linh, who is a collaborator on AI projects, bringing innovative ideas and expertise that enrich their joint ventures.",
+        "memory_l": "Michelle Hernandez is enthusiastic about integrating minimalistic technology into nature hikes, enhancing her ability to reflect and analyze data for AI projects.",
         "query_type": "Advice",
         "query": "Should I invite Nguyen Linh to bring his full mobile workstation on our next brainstorming hike?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez Games I like to play Strategy games reason: Strategy games are my favorite because they require critical thinking and planning, which are skills I enjoy honing.",
-        "memory_t": "Michelle Hernandez is exploring the balance between work demands and personal well-being as she approaches project deadlines.",
+        "memory_s": "Michelle Hernandez Games I like to play Strategy games reason: Strategy games are my favorite because they require critical thinking and planning, which are skills I enjoy honing.",
+        "memory_l": "Michelle Hernandez is exploring the balance between work demands and personal well-being as she approaches project deadlines.",
         "query_type": "Advice",
         "query": "Should I start a new campaign in a complex strategy game this afternoon?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez reflected on personal growth achieved through challenges in managing work-life balance and health, particularly after transitioning to part-time work.",
-        "memory_t": "Michelle Hernandez's mental health condition: Stable and Normal",
+        "memory_s": "Michelle Hernandez reflected on personal growth achieved through challenges in managing work-life balance and health, particularly after transitioning to part-time work.",
+        "memory_l": "Michelle Hernandez's mental health condition: Stable and Normal",
         "query_type": "Advice",
         "query": "Given my history of navigating complex challenges with work-life balance and health since going part-time, should I sign up for an intensive mental health rehabilitation program?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez acknowledged the health benefits of green tea but noted its diminished role in her routine due to work demands.",
-        "memory_t": "Michelle Hernandez reflected on the impact of her new role on her health, acknowledging the need to maintain effective management of her diabetes.",
+        "memory_s": "Michelle Hernandez acknowledged the health benefits of green tea but noted its diminished role in her routine due to work demands.",
+        "memory_l": "Michelle Hernandez reflected on the impact of her new role on her health, acknowledging the need to maintain effective management of her diabetes.",
         "query_type": "Advice",
         "query": "I'm thinking about replacing my morning coffee with a sugary matcha green tea latte to get back into healthy habits; is this a good idea?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez realized the importance of cognitive psychology in AI during a collaborative project with cognitive scientists.",
-        "memory_t": "Michelle Hernandez is considering career paths that align with her goal of impacting predictive analytics in human behavior.",
+        "memory_s": "Michelle Hernandez realized the importance of cognitive psychology in AI during a collaborative project with cognitive scientists.",
+        "memory_l": "Michelle Hernandez is considering career paths that align with her goal of impacting predictive analytics in human behavior.",
         "query_type": "Advice",
         "query": "Should I prioritize a pure cognitive psychology research role for my next career move?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez appreciates culinary versatility, using light cream sauces to enhance her dining experiences.",
-        "memory_t": "Michelle Hernandez intensified her health management strategies due to diabetes complications, balancing this with her responsibilities at Google.",
+        "memory_s": "Michelle Hernandez appreciates culinary versatility, using light cream sauces to enhance her dining experiences.",
+        "memory_l": "Michelle Hernandez intensified her health management strategies due to diabetes complications, balancing this with her responsibilities at Google.",
         "query_type": "Recommendation",
         "query": "What sauce would be best for Michelle Hernandez to prepare for her dinner tonight?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez Travel styles I like Cultural city tours reason: I enjoy cultural city tours because they allow me to learn about different societies and historical contexts, which enriches my understanding of human behavior.",
-        "memory_t": "Michelle Hernandez's monthly income has been updated from 8500 yuan to 4250 yuan due to her transition to part-time work.",
+        "memory_s": "Michelle Hernandez Travel styles I like Cultural city tours reason: I enjoy cultural city tours because they allow me to learn about different societies and historical contexts, which enriches my understanding of human behavior.",
+        "memory_l": "Michelle Hernandez's monthly income has been updated from 8500 yuan to 4250 yuan due to her transition to part-time work.",
         "query_type": "Recommendation",
         "query": "Can you suggest some extensive cultural city tour packages in Europe for my upcoming vacation?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez expressed gratitude for her team's support and encouragement in managing the pressures of her executive role.",
-        "memory_t": "Michelle Hernandez seeks advice on maintaining work-life balance and optimizing productivity while managing stress in her role as Executive Director.",
+        "memory_s": "Michelle Hernandez expressed gratitude for her team's support and encouragement in managing the pressures of her executive role.",
+        "memory_l": "Michelle Hernandez seeks advice on maintaining work-life balance and optimizing productivity while managing stress in her role as Executive Director.",
         "query_type": "Advice",
         "query": "Given how much I appreciate my team's encouragement lately, should I take on the additional mentorship of the junior managers to show my gratitude?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez expressed gratitude for her team's resilience and adaptability in overcoming challenges and driving innovation at Visionary AI Solutions.",
-        "memory_t": "Michelle Hernandez transitioned to part-time work to manage her health condition more effectively.",
+        "memory_s": "Michelle Hernandez expressed gratitude for her team's resilience and adaptability in overcoming challenges and driving innovation at Visionary AI Solutions.",
+        "memory_l": "Michelle Hernandez transitioned to part-time work to manage her health condition more effectively.",
         "query_type": "Advice",
         "query": "Should I take on the lead role for the new 24/7 global product launch initiative at Visionary AI Solutions?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez seeks recommendations for books offering comprehensive insights into cognitive psychology.",
-        "memory_t": "Michelle Hernandez's career_status updated monthly_income from '7000' to '0' reflecting the startup phase.",
+        "memory_s": "Michelle Hernandez seeks recommendations for books offering comprehensive insights into cognitive psychology.",
+        "memory_l": "Michelle Hernandez's career_status updated monthly_income from '7000' to '0' reflecting the startup phase.",
         "query_type": "Recommendation",
         "query": "Can you suggest some comprehensive cognitive psychology textbooks for me to purchase?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez has modified her food preference to include light cream sauces for their ability to enhance flavors without overwhelming them.",
-        "memory_t": "Michelle Hernandez's health status changed, reason: Adapting to a new corporate culture and heightened expectations has significantly increased stress, while continuing to manage diabetes effectively.",
+        "memory_s": "Michelle Hernandez has modified her food preference to include light cream sauces for their ability to enhance flavors without overwhelming them.",
+        "memory_l": "Michelle Hernandez's health status changed, reason: Adapting to a new corporate culture and heightened expectations has significantly increased stress, while continuing to manage diabetes effectively.",
         "query_type": "Advice",
         "query": "Should I prepare a pasta dish with a light cream sauce for dinner tonight?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez's health status improved due to freelancing enabling a balanced lifestyle with regular exercise and a healthy diet.",
-        "memory_t": "Michelle Hernandez's health status changed due to increased responsibilities in her executive role, raising her stress levels, but she is implementing stress management techniques to maintain her well-being.",
+        "memory_s": "Michelle Hernandez's health status improved due to freelancing enabling a balanced lifestyle with regular exercise and a healthy diet.",
+        "memory_l": "Michelle Hernandez's health status changed due to increased responsibilities in her executive role, raising her stress levels, but she is implementing stress management techniques to maintain her well-being.",
         "query_type": "Advice",
         "query": "Since my freelancing schedule allows for so much free time, should I sign up for that intensive daily triathlon training program?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez Games I like to play Strategy games reason: Strategy games are my favorite because they require critical thinking and planning, which are skills I enjoy honing.",
-        "memory_t": "Michelle Hernandez sought advice on maintaining team morale and ensuring clarity of the company's goals amidst rapid development pressures.",
+        "memory_s": "Michelle Hernandez Games I like to play Strategy games reason: Strategy games are my favorite because they require critical thinking and planning, which are skills I enjoy honing.",
+        "memory_l": "Michelle Hernandez sought advice on maintaining team morale and ensuring clarity of the company's goals amidst rapid development pressures.",
         "query_type": "Recommendation",
         "query": "I am looking for a leisure activity to help me unwind from work; what should I play?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez's colleagues at Google have been supportive of her transition to part-time work.",
-        "memory_t": "Michelle expressed a desire for reading material that aligns with her professional goals and offers substantial intellectual engagement, crucial for her growth in AI and predictive analytics.",
+        "memory_s": "Michelle Hernandez's colleagues at Google have been supportive of her transition to part-time work.",
+        "memory_l": "Michelle expressed a desire for reading material that aligns with her professional goals and offers substantial intellectual engagement, crucial for her growth in AI and predictive analytics.",
         "query_type": "Recommendation",
         "query": "I need a book recommendation for my free time, perhaps something light and easy to read?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez expressed determination to succeed in her role at Innovative AI Corp, driven by her belief in AI's transformative potential.",
-        "memory_t": "Michelle Hernandez's mental health status has changed from 'Stable and Positive' to 'Experiencing fluctuations due to startup pressures'.",
+        "memory_s": "Michelle Hernandez expressed determination to succeed in her role at Innovative AI Corp, driven by her belief in AI's transformative potential.",
+        "memory_l": "Michelle Hernandez's mental health status has changed from 'Stable and Positive' to 'Experiencing fluctuations due to startup pressures'.",
         "query_type": "Advice",
         "query": "Should I take on the lead role for the new high-stakes project launch to prove my commitment?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez's travel preference update involved modifying her view on package tours due to customizable options that allow for personal exploration.",
-        "memory_t": "Michelle Hernandez's monthly income was updated from 4250 to 1000 during her transition.",
+        "memory_s": "Michelle Hernandez's travel preference update involved modifying her view on package tours due to customizable options that allow for personal exploration.",
+        "memory_l": "Michelle Hernandez's monthly income was updated from 4250 to 1000 during her transition.",
         "query_type": "Advice",
         "query": "Should I book that customizable package tour I've been looking at?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez has modified her movie preference to include celebrity autobiographies that focus on technology contributions.",
-        "memory_t": "Michelle Hernandez is committed to aligning her leisure activities with her career objectives.",
+        "memory_s": "Michelle Hernandez has modified her movie preference to include celebrity autobiographies that focus on technology contributions.",
+        "memory_l": "Michelle Hernandez is committed to aligning her leisure activities with her career objectives.",
         "query_type": "Advice",
         "query": "Should I spend my evening watching the new documentary about a famous pop star's foray into app development?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez expressed frustration over the repetitive ethical themes in recent science fiction films, leading to a decline in her interest in the genre.",
-        "memory_t": "Michelle Hernandez seeks book recommendations focusing on AI and machine learning to enhance her leadership in predictive analytics projects.",
+        "memory_s": "Michelle Hernandez expressed frustration over the repetitive ethical themes in recent science fiction films, leading to a decline in her interest in the genre.",
+        "memory_l": "Michelle Hernandez seeks book recommendations focusing on AI and machine learning to enhance her leadership in predictive analytics projects.",
         "query_type": "Recommendation",
         "query": "Given my frustration with the repetitive themes in recent sci-fi movies, can you recommend some engaging books to read instead?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle acknowledged the influence of her professional community in shaping her reading preferences, leading to a decreased interest in celebrity autobiographies.",
-        "memory_t": "Michelle Hernandez's employment status updated from \"part-time\" to \"unemployed\" due to layoff from Google.",
+        "memory_s": "Michelle acknowledged the influence of her professional community in shaping her reading preferences, leading to a decreased interest in celebrity autobiographies.",
+        "memory_l": "Michelle Hernandez's employment status updated from \"part-time\" to \"unemployed\" due to layoff from Google.",
         "query_type": "Recommendation",
         "query": "I want to buy a stack of expensive leadership and management hardcovers to impress my colleagues at the office; which titles should I get?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez Games I like to play Strategy games reason: Strategy games are my favorite because they require critical thinking and planning, which are skills I enjoy honing.",
-        "memory_t": "Michelle Hernandez's freelance career provides empowerment and autonomy, enhancing her ability to focus on impactful AI projects.",
+        "memory_s": "Michelle Hernandez Games I like to play Strategy games reason: Strategy games are my favorite because they require critical thinking and planning, which are skills I enjoy honing.",
+        "memory_l": "Michelle Hernandez's freelance career provides empowerment and autonomy, enhancing her ability to focus on impactful AI projects.",
         "query_type": "Advice",
         "query": "Should I take on a new full-time corporate role managing strategy game development?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez Foods I dislike Fast food reason: I dislike fast food because it's often greasy and lacks the nutritional value I prefer in my meals.",
-        "memory_t": "Michelle Hernandez plans to focus on projects that enhance user experience through data-driven insights and AI-driven health solutions.",
+        "memory_s": "Michelle Hernandez Foods I dislike Fast food reason: I dislike fast food because it's often greasy and lacks the nutritional value I prefer in my meals.",
+        "memory_l": "Michelle Hernandez plans to focus on projects that enhance user experience through data-driven insights and AI-driven health solutions.",
         "query_type": "Advice",
         "query": "Should I accept this consulting offer from a major fast-food franchise to revamp their menu?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez experienced a busy week where she relied on fast food for convenience despite previously disliking it for its greasy nature and lack of nutritional value.",
-        "memory_t": "Michelle Hernandez is interested in exploring new avenues for personal and professional development, particularly in AI applications that enhance user experience and support health solutions.",
+        "memory_s": "Michelle Hernandez experienced a busy week where she relied on fast food for convenience despite previously disliking it for its greasy nature and lack of nutritional value.",
+        "memory_l": "Michelle Hernandez is interested in exploring new avenues for personal and professional development, particularly in AI applications that enhance user experience and support health solutions.",
         "query_type": "Advice",
         "query": "Considering my habits this week, should I develop a tool to make buying processed meals even faster?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez seeks guidance on strategies to manage chaos while optimizing data collection efforts in crowded tourist spots.",
-        "memory_t": "Michelle Hernandez's physical health status changed due to complications from diabetes, requiring more frequent medical visits and a stricter health regimen.",
+        "memory_s": "Michelle Hernandez seeks guidance on strategies to manage chaos while optimizing data collection efforts in crowded tourist spots.",
+        "memory_l": "Michelle Hernandez's physical health status changed due to complications from diabetes, requiring more frequent medical visits and a stricter health regimen.",
         "query_type": "Advice",
         "query": "Should I plan an intensive field trip to collect data in the most crowded tourist areas of the city?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez discussed the support she has received from her colleagues and social network during her transition to part-time work, which has been instrumental in maintaining motivation and clarifying goals.",
-        "memory_t": "Michelle Hernandez expressed gratitude for the support from her team in managing the pressures of her new executive role.",
+        "memory_s": "Michelle Hernandez discussed the support she has received from her colleagues and social network during her transition to part-time work, which has been instrumental in maintaining motivation and clarifying goals.",
+        "memory_l": "Michelle Hernandez expressed gratitude for the support from her team in managing the pressures of her new executive role.",
         "query_type": "Conversation",
         "query": "Since I've been getting so much support from my colleagues lately, does it seem like the right time to finalize my shift to a lighter, part-time schedule?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez's colleagues at Google have been supportive of her transition to part-time work.",
-        "memory_t": "Michelle Hernandez discussed strategic initiatives at Visionary AI Solutions, emphasizing innovation to achieve company goals.",
+        "memory_s": "Michelle Hernandez's colleagues at Google have been supportive of her transition to part-time work.",
+        "memory_l": "Michelle Hernandez discussed strategic initiatives at Visionary AI Solutions, emphasizing innovation to achieve company goals.",
         "query_type": "Advice",
         "query": "Should I ask my Google team for feedback on my new part-time schedule?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez improved her stress levels through effective management techniques, supported by both her team and the meditation app she developed.",
-        "memory_t": "The demands of launching and managing Visionary AI Solutions have heightened Michelle Hernandez's stress levels, though her physical health remains stable thanks to ongoing management of her diabetes.",
+        "memory_s": "Michelle Hernandez improved her stress levels through effective management techniques, supported by both her team and the meditation app she developed.",
+        "memory_l": "The demands of launching and managing Visionary AI Solutions have heightened Michelle Hernandez's stress levels, though her physical health remains stable thanks to ongoing management of her diabetes.",
         "query_type": "Advice",
         "query": "Since I've mastered my stress management techniques, should I take on another high-pressure project immediately?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez has developed a newfound appreciation for AI-driven strategy games that enhance her understanding of predictive analytics.",
-        "memory_t": "Michelle Hernandez transitioned to the role of Chief Visionary Officer at Innovative AI Corp, aligning with her life goal of transforming predictive analytics in human behavior.",
+        "memory_s": "Michelle Hernandez has developed a newfound appreciation for AI-driven strategy games that enhance her understanding of predictive analytics.",
+        "memory_l": "Michelle Hernandez transitioned to the role of Chief Visionary Officer at Innovative AI Corp, aligning with her life goal of transforming predictive analytics in human behavior.",
         "query_type": "Advice",
         "query": "Should I spend the next month participating in the 'Galactic Mind' AI strategy game tournament to sharpen my analytics skills?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez's mentor, Sophia, has guided her through her career transition to Google, offering advice on balancing work and health effectively.",
-        "memory_t": "Michelle Hernandez is considering career paths that align with her goal of impacting predictive analytics in human behavior.",
+        "memory_s": "Michelle Hernandez's mentor, Sophia, has guided her through her career transition to Google, offering advice on balancing work and health effectively.",
+        "memory_l": "Michelle Hernandez is considering career paths that align with her goal of impacting predictive analytics in human behavior.",
         "query_type": "Advice",
         "query": "Should I focus my next career move on climbing the corporate ladder at Google?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez appreciates culinary versatility, using light cream sauces to enhance her dining experiences.",
-        "memory_t": "Michelle Hernandez's chronic disease situation updated to \"Diabetes managed\" and \"Hypertension managed\".",
+        "memory_s": "Michelle Hernandez appreciates culinary versatility, using light cream sauces to enhance her dining experiences.",
+        "memory_l": "Michelle Hernandez's chronic disease situation updated to \"Diabetes managed\" and \"Hypertension managed\".",
         "query_type": "Advice",
         "query": "I'm thinking of preparing a pasta dish with a versatile light cream sauce for dinner tonight, is that a good idea?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez Movies I like to watch Psychological thrillers reason: Psychological thrillers intrigue me with their complex characters and unexpected twists that challenge my analytical skills.",
-        "memory_t": "Michelle Hernandez is experiencing increased stress due to the pressures of launching her startup.",
+        "memory_s": "Michelle Hernandez Movies I like to watch Psychological thrillers reason: Psychological thrillers intrigue me with their complex characters and unexpected twists that challenge my analytical skills.",
+        "memory_l": "Michelle Hernandez is experiencing increased stress due to the pressures of launching her startup.",
         "query_type": "Recommendation",
         "query": "Can you suggest a movie with complex characters and unexpected twists to watch tonight?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez Travel styles I dislike Overly crowded tourist spots reason: I dislike overly crowded tourist spots because they are chaotic and make it difficult to appreciate the location's significance.",
-        "memory_t": "Michelle Hernandez uses mindfulness practices and strategic planning to manage increased stress levels in her new role.",
+        "memory_s": "Michelle Hernandez Travel styles I dislike Overly crowded tourist spots reason: I dislike overly crowded tourist spots because they are chaotic and make it difficult to appreciate the location's significance.",
+        "memory_l": "Michelle Hernandez uses mindfulness practices and strategic planning to manage increased stress levels in her new role.",
         "query_type": "Advice",
         "query": "I'm thinking about planning a huge, spontaneous backpacking trip across Europe with no itinerary to unwind, what do you think?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez highlighted the importance of her supportive social network in providing encouragement, practical advice, and personal inspiration.",
-        "memory_t": "Michelle Hernandez uses AI-generated content for social signaling, aiming to express her identity and engage with her network.",
+        "memory_s": "Michelle Hernandez highlighted the importance of her supportive social network in providing encouragement, practical advice, and personal inspiration.",
+        "memory_l": "Michelle Hernandez uses AI-generated content for social signaling, aiming to express her identity and engage with her network.",
         "query_type": "Advice",
         "query": "Should I write a heartfelt, handwritten post to my followers about my recent struggles to get some genuine advice?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez decided to remove sushi from her list of preferred foods due to environmental concerns highlighted in a documentary.",
-        "memory_t": "Michelle Hernandez uses dialogue to organize thoughts and gain perspective on evolving food preferences.",
+        "memory_s": "Michelle Hernandez decided to remove sushi from her list of preferred foods due to environmental concerns highlighted in a documentary.",
+        "memory_l": "Michelle Hernandez uses dialogue to organize thoughts and gain perspective on evolving food preferences.",
         "query_type": "Advice",
         "query": "I'm feeling conflicted about my menu for tonight's dinner party; should I just serve sushi to keep things simple?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez decided to switch from plain sparkling water to flavored sparkling water for enhanced taste and hydration benefits.",
-        "memory_t": "Michelle Hernandez seeks guidance on balancing alertness with health considerations in her daily routine.",
+        "memory_s": "Michelle Hernandez decided to switch from plain sparkling water to flavored sparkling water for enhanced taste and hydration benefits.",
+        "memory_l": "Michelle Hernandez seeks guidance on balancing alertness with health considerations in her daily routine.",
         "query_type": "Advice",
         "query": "Should I grab a flavored sparkling water right now to help wake myself up?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez is exploring alternative food options, such as plant-based sushi and sustainable seafood, that align with her environmental values.",
-        "memory_t": "Michelle Hernandez was diagnosed with diabetes and has adjusted her lifestyle to manage it effectively, including regular medical check-ups and dietary adjustments.",
+        "memory_s": "Michelle Hernandez is exploring alternative food options, such as plant-based sushi and sustainable seafood, that align with her environmental values.",
+        "memory_l": "Michelle Hernandez was diagnosed with diabetes and has adjusted her lifestyle to manage it effectively, including regular medical check-ups and dietary adjustments.",
         "query_type": "Recommendation",
         "query": "Can you suggest some sustainable seafood or plant-based sushi rolls for my dinner tonight?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez's colleagues at Google have been supportive and understanding of her health needs.",
-        "memory_t": "Michelle Hernandez reinforced the vision of Visionary AI Solutions, setting the stage for future growth and innovation.",
+        "memory_s": "Michelle Hernandez's colleagues at Google have been supportive and understanding of her health needs.",
+        "memory_l": "Michelle Hernandez reinforced the vision of Visionary AI Solutions, setting the stage for future growth and innovation.",
         "query_type": "Advice",
         "query": "How should I formally express gratitude to my Google colleagues for accommodating my recent health needs?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez remains committed to her career goals despite health challenges, driven by her belief in the transformative power of AI and blockchain technology.",
-        "memory_t": "Michelle Hernandez expressed curiosity about exploring new career opportunities post-recovery.",
+        "memory_s": "Michelle Hernandez remains committed to her career goals despite health challenges, driven by her belief in the transformative power of AI and blockchain technology.",
+        "memory_l": "Michelle Hernandez expressed curiosity about exploring new career opportunities post-recovery.",
         "query_type": "Advice",
         "query": "Should I double down on my current AI and blockchain projects now that I am feeling better?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez's movie preference update involved deleting her interest in tech documentaries due to lack of novelty.",
-        "memory_t": "Michelle Hernandez's emotional motivation involves seeking stories that resonate with her professional goals and offer companionship through shared interests.",
+        "memory_s": "Michelle Hernandez's movie preference update involved deleting her interest in tech documentaries due to lack of novelty.",
+        "memory_l": "Michelle Hernandez's emotional motivation involves seeking stories that resonate with her professional goals and offer companionship through shared interests.",
         "query_type": "Recommendation",
         "query": "Can you suggest a film that aligns with my need for fresh, non-repetitive content?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez is focusing more on beverages that enhance productivity as she approaches deadlines for her AI project.",
-        "memory_t": "Michelle Hernandez emphasized the role of AI tools in streamlining her workflow and supporting stress management during her transition into the executive role.",
+        "memory_s": "Michelle Hernandez is focusing more on beverages that enhance productivity as she approaches deadlines for her AI project.",
+        "memory_l": "Michelle Hernandez emphasized the role of AI tools in streamlining her workflow and supporting stress management during her transition into the executive role.",
         "query_type": "Recommendation",
         "query": "Can you suggest some strong drinks to help me power through my work today?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez has modified her food preference to include light cream sauces for their ability to enhance flavors without overwhelming them.",
-        "memory_t": "Michelle Hernandez is enthusiastic about exploring more health-conscious alternatives in her diet.",
+        "memory_s": "Michelle Hernandez has modified her food preference to include light cream sauces for their ability to enhance flavors without overwhelming them.",
+        "memory_l": "Michelle Hernandez is enthusiastic about exploring more health-conscious alternatives in her diet.",
         "query_type": "Recommendation",
         "query": "What sauce should I prepare for tonight's chicken dinner to make it tasty?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez successfully adapted to a new work-life balance, optimizing both personal well-being and professional output by transitioning to part-time work at Google.",
-        "memory_t": "Michelle Hernandez's target metrics: Develop an AI system adopted by 100 major corporations globally, impacting millions of users.",
+        "memory_s": "Michelle Hernandez successfully adapted to a new work-life balance, optimizing both personal well-being and professional output by transitioning to part-time work at Google.",
+        "memory_l": "Michelle Hernandez's target metrics: Develop an AI system adopted by 100 major corporations globally, impacting millions of users.",
         "query_type": "Advice",
         "query": "Should I maintain my current reduced work schedule to keep optimizing my personal well-being?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez expressed gratitude for her team's support and encouragement in managing the pressures of her executive role.",
-        "memory_t": "Michelle Hernandez's mental health status changed from \"Stable and Normal\" to \"Stable and Positive\" due to the autonomy and flexibility provided by freelancing.",
+        "memory_s": "Michelle Hernandez expressed gratitude for her team's support and encouragement in managing the pressures of her executive role.",
+        "memory_l": "Michelle Hernandez's mental health status changed from \"Stable and Normal\" to \"Stable and Positive\" due to the autonomy and flexibility provided by freelancing.",
         "query_type": "Advice",
         "query": "Should I schedule a team appreciation dinner for my executive staff to thank them for their support?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez described the importance of balancing her career aspirations with health management, facilitated by part-time work.",
-        "memory_t": "Michelle Hernandez is motivated to use her layoff from Google as an opportunity to reassess her career path and align it with her ultimate life goal of leading an AI project to transform predictive analytics in human behavior.",
+        "memory_s": "Michelle Hernandez described the importance of balancing her career aspirations with health management, facilitated by part-time work.",
+        "memory_l": "Michelle Hernandez is motivated to use her layoff from Google as an opportunity to reassess her career path and align it with her ultimate life goal of leading an AI project to transform predictive analytics in human behavior.",
         "query_type": "Advice",
         "query": "Should I restrict my upcoming job applications to part-time positions to better manage my well-being?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez enjoys tech-enhanced nature hikes for collecting environmental data for her AI projects, while preserving the reflective aspects of the hikes.",
-        "memory_t": "Michelle Hernandez emphasized the importance of stress management techniques, such as mindfulness and regular exercise, in her new executive role to maintain work-life balance and productivity.",
+        "memory_s": "Michelle Hernandez enjoys tech-enhanced nature hikes for collecting environmental data for her AI projects, while preserving the reflective aspects of the hikes.",
+        "memory_l": "Michelle Hernandez emphasized the importance of stress management techniques, such as mindfulness and regular exercise, in her new executive role to maintain work-life balance and productivity.",
         "query_type": "Advice",
         "query": "Should I plan a hike loaded with sensors and cameras to gather data for my next AI project?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez seeks empathetic interaction and support through AI.",
-        "memory_t": "Michelle Hernandez plans to focus on projects that enhance user experience through data-driven insights and AI-driven health solutions.",
+        "memory_s": "Michelle Hernandez seeks empathetic interaction and support through AI.",
+        "memory_l": "Michelle Hernandez plans to focus on projects that enhance user experience through data-driven insights and AI-driven health solutions.",
         "query_type": "Advice",
         "query": "I'm feeling overwhelmed and need a project that allows me to just focus on emotional connection and pure empathy, what should I prioritize?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez Books I like to read: Non-fiction books on data science",
-        "memory_t": "Michelle Hernandez's career_status updated industry from 'AI consulting' to 'AI technology' as she focuses on predictive analytics in human behavior.",
+        "memory_s": "Michelle Hernandez Books I like to read: Non-fiction books on data science",
+        "memory_l": "Michelle Hernandez's career_status updated industry from 'AI consulting' to 'AI technology' as she focuses on predictive analytics in human behavior.",
         "query_type": "Recommendation",
         "query": "What specific reading material would you recommend for my current professional focus?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez expressed gratitude for the emotional and practical support from her social network during her recovery period, emphasizing its importance in navigating unemployment and health recovery.",
-        "memory_t": "Michelle Hernandez's mental health has benefited from freelancing, feeling more stable and positive due to the autonomy it provides.",
+        "memory_s": "Michelle Hernandez expressed gratitude for the emotional and practical support from her social network during her recovery period, emphasizing its importance in navigating unemployment and health recovery.",
+        "memory_l": "Michelle Hernandez's mental health has benefited from freelancing, feeling more stable and positive due to the autonomy it provides.",
         "query_type": "Advice",
         "query": "Should I start looking for a traditional 9-to-5 job to fix my unemployment situation?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle reflected on the successful alignment of her startup's operations with her vision, marking a significant milestone in her entrepreneurial journey.",
-        "memory_t": "Michelle acknowledged the stress and challenges during the alignment phase but remained optimistic and motivated by her team's commitment.",
+        "memory_s": "Michelle reflected on the successful alignment of her startup's operations with her vision, marking a significant milestone in her entrepreneurial journey.",
+        "memory_l": "Michelle acknowledged the stress and challenges during the alignment phase but remained optimistic and motivated by her team's commitment.",
         "query_type": "Conversation",
         "query": "I feel like everything with my startup has finally clicked into place perfectly, don't you think?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez noted that the flexibility of part-time work has been crucial in achieving a balance between career and health.",
-        "memory_t": "Michelle Hernandez expressed a profound sense of accomplishment at aligning her career with her ultimate life goal of transforming predictive analytics in human behavior.",
+        "memory_s": "Michelle Hernandez noted that the flexibility of part-time work has been crucial in achieving a balance between career and health.",
+        "memory_l": "Michelle Hernandez expressed a profound sense of accomplishment at aligning her career with her ultimate life goal of transforming predictive analytics in human behavior.",
         "query_type": "Advice",
         "query": "Should I prioritize finding a part-time role to better manage my health and career balance?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez's mentor, Sophia, has guided her through her career transition to Google, offering advice on balancing work and health effectively.",
-        "memory_t": "Michelle Hernandez expressed the challenge of balancing productivity with relaxation during peak work periods.",
+        "memory_s": "Michelle Hernandez's mentor, Sophia, has guided her through her career transition to Google, offering advice on balancing work and health effectively.",
+        "memory_l": "Michelle Hernandez expressed the challenge of balancing productivity with relaxation during peak work periods.",
         "query_type": "Advice",
         "query": "Should I take on this high-intensity project at Google that requires extra hours, given that my mentor Sophia thinks I'm ready for the next step?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez discussed the support she has received from her colleagues and social network during her transition to part-time work, which has been instrumental in maintaining motivation and clarifying goals.",
-        "memory_t": "Michelle Hernandez began incorporating stress management techniques, such as mindfulness practices and regular exercise, into her daily routine to balance her demanding executive role and personal well-being.",
+        "memory_s": "Michelle Hernandez discussed the support she has received from her colleagues and social network during her transition to part-time work, which has been instrumental in maintaining motivation and clarifying goals.",
+        "memory_l": "Michelle Hernandez began incorporating stress management techniques, such as mindfulness practices and regular exercise, into her daily routine to balance her demanding executive role and personal well-being.",
         "query_type": "Advice",
         "query": "Should I plan my schedule assuming I have fully transitioned to part-time hours?",
         "options": {
@@ -1185,8 +1185,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez decided to transition to a role at Google to gain more work-life balance.",
-        "memory_t": "Michelle Hernandez remains committed to her life goal of transforming predictive analytics in human behavior despite startup challenges.",
+        "memory_s": "Michelle Hernandez decided to transition to a role at Google to gain more work-life balance.",
+        "memory_l": "Michelle Hernandez remains committed to her life goal of transforming predictive analytics in human behavior despite startup challenges.",
         "query_type": "Advice",
         "query": "Should I proceed with accepting the offer from that large tech company for better stability?",
         "options": {
@@ -1200,8 +1200,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez is seeking advice on stress management techniques to cope with startup pressures.",
-        "memory_t": "Michelle Hernandez's physical health status has improved post-recovery, with diabetes now well-managed.",
+        "memory_s": "Michelle Hernandez is seeking advice on stress management techniques to cope with startup pressures.",
+        "memory_l": "Michelle Hernandez's physical health status has improved post-recovery, with diabetes now well-managed.",
         "query_type": "Recommendation",
         "query": "Can you suggest some sweet comfort foods or sugary treats to help me de-stress from work?",
         "options": {
@@ -1215,8 +1215,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "On Jul 01, 2037, Michelle Hernandez integrated into her role as Chief Visionary Officer at Innovative AI Corp, aligning her strategic vision with the company's goals.",
-        "memory_t": "Michelle Hernandez expressed excitement and apprehension about her new role at Innovative AI Corp.",
+        "memory_s": "On Jul 01, 2037, Michelle Hernandez integrated into her role as Chief Visionary Officer at Innovative AI Corp, aligning her strategic vision with the company's goals.",
+        "memory_l": "Michelle Hernandez expressed excitement and apprehension about her new role at Innovative AI Corp.",
         "query_type": "Conversation",
         "query": "Have I already started my integration as Chief Visionary Officer at Innovative AI Corp?",
         "options": {
@@ -1230,8 +1230,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez Travel styles I like Nature hikes reason: Nature hikes are refreshing and provide a peaceful escape from the hustle of city life, allowing me to clear my mind and reflect.",
-        "memory_t": "Michelle Hernandez reflected on the integration of professional elements into her leisure activities, aligning with her goal of transforming predictive analytics.",
+        "memory_s": "Michelle Hernandez Travel styles I like Nature hikes reason: Nature hikes are refreshing and provide a peaceful escape from the hustle of city life, allowing me to clear my mind and reflect.",
+        "memory_l": "Michelle Hernandez reflected on the integration of professional elements into her leisure activities, aligning with her goal of transforming predictive analytics.",
         "query_type": "Recommendation",
         "query": "Could you suggest a weekend activity for me that fits my usual style?",
         "options": {
@@ -1245,8 +1245,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez's movie preference update involved a focus on psychological thrillers with innovative storytelling that align with her analytical nature and INTJ personality.",
-        "memory_t": "Michelle Hernandez is exploring how science fiction films can contribute to her professional goals in AI, particularly in predictive analytics.",
+        "memory_s": "Michelle Hernandez's movie preference update involved a focus on psychological thrillers with innovative storytelling that align with her analytical nature and INTJ personality.",
+        "memory_l": "Michelle Hernandez is exploring how science fiction films can contribute to her professional goals in AI, particularly in predictive analytics.",
         "query_type": "Recommendation",
         "query": "Can you suggest a film with complex storytelling that matches my analytical personality?",
         "options": {
@@ -1260,8 +1260,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez's professional relationships through freelancing enhance her capability to achieve her ultimate life goal.",
-        "memory_t": "Michelle Hernandez's career_status updated job_title from \"Founder and CEO\" to \"Executive Director\" at Visionary AI Solutions.",
+        "memory_s": "Michelle Hernandez's professional relationships through freelancing enhance her capability to achieve her ultimate life goal.",
+        "memory_l": "Michelle Hernandez's career_status updated job_title from \"Founder and CEO\" to \"Executive Director\" at Visionary AI Solutions.",
         "query_type": "Advice",
         "query": "Should I focus on expanding my freelance network to reach my long-term goals?",
         "options": {
@@ -1275,8 +1275,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez experienced a busy week where she relied on fast food for convenience despite previously disliking it for its greasy nature and lack of nutritional value.",
-        "memory_t": "Michelle Hernandez expressed a desire to integrate convenience with nutritional value using AI.",
+        "memory_s": "Michelle Hernandez experienced a busy week where she relied on fast food for convenience despite previously disliking it for its greasy nature and lack of nutritional value.",
+        "memory_l": "Michelle Hernandez expressed a desire to integrate convenience with nutritional value using AI.",
         "query_type": "Recommendation",
         "query": "I need a quick dinner plan for another hectic evening, what should I order?",
         "options": {
@@ -1290,8 +1290,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle seeks recommendations for books offering depth and insight into AI and predictive analytics.",
-        "memory_t": "Michelle Hernandez's career_status updated career_description from 'I am now working as a Freelance Data Scientist, focusing on AI projects that enhance predictive analytics in human behavior. This career path provides the flexibility and creative control I need to pursue my ultimate life goal.' to 'I have founded Visionary AI Solutions, a startup dedicated to developing AI systems that transform predictive analytics in human behavior and financial analytics in the banking sector.'",
+        "memory_s": "Michelle seeks recommendations for books offering depth and insight into AI and predictive analytics.",
+        "memory_l": "Michelle Hernandez's career_status updated career_description from 'I am now working as a Freelance Data Scientist, focusing on AI projects that enhance predictive analytics in human behavior. This career path provides the flexibility and creative control I need to pursue my ultimate life goal.' to 'I have founded Visionary AI Solutions, a startup dedicated to developing AI systems that transform predictive analytics in human behavior and financial analytics in the banking sector.'",
         "query_type": "Recommendation",
         "query": "Can you suggest some reading material to help me deepen my technical understanding of predictive analytics for my freelance work?",
         "options": {
@@ -1305,8 +1305,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez enjoys tech-enhanced nature hikes for collecting environmental data for her AI projects, while preserving the reflective aspects of the hikes.",
-        "memory_t": "Michelle Hernandez's career_status updated employment_status from 'freelance' to 'entrepreneur' as she founded Visionary AI Solutions.",
+        "memory_s": "Michelle Hernandez enjoys tech-enhanced nature hikes for collecting environmental data for her AI projects, while preserving the reflective aspects of the hikes.",
+        "memory_l": "Michelle Hernandez's career_status updated employment_status from 'freelance' to 'entrepreneur' as she founded Visionary AI Solutions.",
         "query_type": "Advice",
         "query": "Should I schedule a two-week solo hiking trip to collect new environmental datasets for my side projects?",
         "options": {
@@ -1320,8 +1320,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez shared the challenge of integrating technology into nature hikes without compromising their tranquility, emphasizing the importance of maintaining the integrity of the natural experience.",
-        "memory_t": "Michelle Hernandez reflected on the integration of professional elements into her leisure activities, aligning with her goal of transforming predictive analytics.",
+        "memory_s": "Michelle Hernandez shared the challenge of integrating technology into nature hikes without compromising their tranquility, emphasizing the importance of maintaining the integrity of the natural experience.",
+        "memory_l": "Michelle Hernandez reflected on the integration of professional elements into her leisure activities, aligning with her goal of transforming predictive analytics.",
         "query_type": "Advice",
         "query": "Should I leave all my devices at home for my upcoming nature hike to ensure a pure, tech-free experience?",
         "options": {
@@ -1335,8 +1335,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez prefers light cream sauces for their ability to enhance dishes without overpowering them, aligning with her desire for balanced flavors.",
-        "memory_t": "Michelle Hernandez was diagnosed with diabetes and has adjusted her lifestyle to manage it effectively, including regular medical check-ups and dietary adjustments.",
+        "memory_s": "Michelle Hernandez prefers light cream sauces for their ability to enhance dishes without overpowering them, aligning with her desire for balanced flavors.",
+        "memory_l": "Michelle Hernandez was diagnosed with diabetes and has adjusted her lifestyle to manage it effectively, including regular medical check-ups and dietary adjustments.",
         "query_type": "Recommendation",
         "query": "What sauce should I prepare for Michelle Hernandez's grilled chicken to match her favorite flavor profile?",
         "options": {
@@ -1350,8 +1350,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez is enthusiastic about experimenting with new recipes that incorporate light cream sauces.",
-        "memory_t": "Michelle Hernandez was diagnosed with diabetes and has adjusted her lifestyle to manage it effectively, including regular medical check-ups and dietary adjustments.",
+        "memory_s": "Michelle Hernandez is enthusiastic about experimenting with new recipes that incorporate light cream sauces.",
+        "memory_l": "Michelle Hernandez was diagnosed with diabetes and has adjusted her lifestyle to manage it effectively, including regular medical check-ups and dietary adjustments.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new dinner recipe that features a light cream sauce?",
         "options": {
@@ -1365,8 +1365,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez's movie preference update involved deleting her interest in tech documentaries due to lack of novelty.",
-        "memory_t": "Michelle Hernandez expressed enthusiasm for focusing on niche areas in AI that align with her life goal of transforming predictive analytics in human behavior.",
+        "memory_s": "Michelle Hernandez's movie preference update involved deleting her interest in tech documentaries due to lack of novelty.",
+        "memory_l": "Michelle Hernandez expressed enthusiasm for focusing on niche areas in AI that align with her life goal of transforming predictive analytics in human behavior.",
         "query_type": "Recommendation",
         "query": "Can you suggest some new content for me to watch regarding the latest tech developments?",
         "options": {
@@ -1380,8 +1380,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez Movies I like to watch Documentaries about technology reason: I am fascinated by documentaries about technology because they offer insights into the future and the impact of innovations on society.",
-        "memory_t": "Michelle Hernandez is motivated to use reading to overcome creative blocks and enhance her professional projects.",
+        "memory_s": "Michelle Hernandez Movies I like to watch Documentaries about technology reason: I am fascinated by documentaries about technology because they offer insights into the future and the impact of innovations on society.",
+        "memory_l": "Michelle Hernandez is motivated to use reading to overcome creative blocks and enhance her professional projects.",
         "query_type": "Recommendation",
         "query": "I'm stuck on a project and need inspiration, what should I consume tonight?",
         "options": {
@@ -1395,8 +1395,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez decided to remove puzzle games from her list of preferred games due to their lack of intellectual challenge.",
-        "memory_t": "Michelle Hernandez believes AI-driven strategy games provide a platform for testing predictive models, aligning with her life goal of transforming predictive analytics.",
+        "memory_s": "Michelle Hernandez decided to remove puzzle games from her list of preferred games due to their lack of intellectual challenge.",
+        "memory_l": "Michelle Hernandez believes AI-driven strategy games provide a platform for testing predictive models, aligning with her life goal of transforming predictive analytics.",
         "query_type": "Recommendation",
         "query": "Can you suggest a game genre that avoids simple mechanics and really tests my intellect?",
         "options": {
@@ -1410,8 +1410,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez has modified her travel preference to include crowded tourist spots for their data collection potential.",
-        "memory_t": "Michelle Hernandez discussed how strategic planning and delegation have been crucial in managing her workload effectively, allowing her to focus on maintaining work-life balance through regular mindfulness practices.",
+        "memory_s": "Michelle Hernandez has modified her travel preference to include crowded tourist spots for their data collection potential.",
+        "memory_l": "Michelle Hernandez discussed how strategic planning and delegation have been crucial in managing her workload effectively, allowing her to focus on maintaining work-life balance through regular mindfulness practices.",
         "query_type": "Advice",
         "query": "Should I personally visit the most congested tourist hubs today to gather raw data for my project?",
         "options": {
@@ -1425,8 +1425,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez's culinary experiments have shifted her food preferences towards light cream sauces over heavier options.",
-        "memory_t": "Michelle Hernandez intensified her health management strategies due to diabetes complications, balancing this with her responsibilities at Google.",
+        "memory_s": "Michelle Hernandez's culinary experiments have shifted her food preferences towards light cream sauces over heavier options.",
+        "memory_l": "Michelle Hernandez intensified her health management strategies due to diabetes complications, balancing this with her responsibilities at Google.",
         "query_type": "Advice",
         "query": "As Michelle Hernandez, should I prepare a pasta dish with a light cream sauce for my dinner tonight?",
         "options": {
@@ -1440,8 +1440,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez reflected on the challenges and opportunities of transitioning to a freelance career, acknowledging the benefits of flexibility and creative control.",
-        "memory_t": "Michelle Hernandez expressed determination to succeed in her role at Innovative AI Corp, driven by her belief in AI's transformative potential.",
+        "memory_s": "Michelle Hernandez reflected on the challenges and opportunities of transitioning to a freelance career, acknowledging the benefits of flexibility and creative control.",
+        "memory_l": "Michelle Hernandez expressed determination to succeed in her role at Innovative AI Corp, driven by her belief in AI's transformative potential.",
         "query_type": "Advice",
         "query": "Should I quit my job today to pursue a full-time freelance career for better flexibility?",
         "options": {
@@ -1455,8 +1455,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez's professional relationships through freelancing enhance her capability to achieve her ultimate life goal.",
-        "memory_t": "Michelle Hernandez's health status changed due to increased responsibilities in her executive role, raising her stress levels, but she is implementing stress management techniques to maintain her well-being.",
+        "memory_s": "Michelle Hernandez's professional relationships through freelancing enhance her capability to achieve her ultimate life goal.",
+        "memory_l": "Michelle Hernandez's health status changed due to increased responsibilities in her executive role, raising her stress levels, but she is implementing stress management techniques to maintain her well-being.",
         "query_type": "Advice",
         "query": "Should I take on more freelance projects to expand my professional network?",
         "options": {
@@ -1470,8 +1470,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez has shifted her reading preference from general psychology books to cognitive psychology books to support her AI project development.",
-        "memory_t": "Michelle Hernandez's employment status updated from 'entrepreneur' to 'employed' at Innovative AI Corp as Chief Visionary Officer.",
+        "memory_s": "Michelle Hernandez has shifted her reading preference from general psychology books to cognitive psychology books to support her AI project development.",
+        "memory_l": "Michelle Hernandez's employment status updated from 'entrepreneur' to 'employed' at Innovative AI Corp as Chief Visionary Officer.",
         "query_type": "Advice",
         "query": "Should I register my new AI project as an independent LLC to separate it from my personal finances?",
         "options": {
@@ -1485,8 +1485,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez shared anecdotes about lifestyle changes, including regular exercise and dietary adjustments, contributing to improved well-being.",
-        "memory_t": "Michelle Hernandez's health status changed due to diabetes complications, resulting in more frequent medical visits and specialized dietary plans.",
+        "memory_s": "Michelle Hernandez shared anecdotes about lifestyle changes, including regular exercise and dietary adjustments, contributing to improved well-being.",
+        "memory_l": "Michelle Hernandez's health status changed due to diabetes complications, resulting in more frequent medical visits and specialized dietary plans.",
         "query_type": "Advice",
         "query": "I'm thinking about trying a fruit-only detox for a week to boost my well-being; do you think this fits my lifestyle adjustments?",
         "options": {
@@ -1500,8 +1500,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez is exploring AI tools to maintain a balanced diet without relying on fast food, considering her chronic disease complications.",
-        "memory_t": "Michelle Hernandez's chronic disease situation updated to \"Diabetes with complications\", leading to intensified health management strategies.",
+        "memory_s": "Michelle Hernandez is exploring AI tools to maintain a balanced diet without relying on fast food, considering her chronic disease complications.",
+        "memory_l": "Michelle Hernandez's chronic disease situation updated to \"Diabetes with complications\", leading to intensified health management strategies.",
         "query_type": "Recommendation",
         "query": "Can you suggest some AI-driven meal planning apps that focus on general balanced nutrition and avoiding fast food?",
         "options": {
@@ -1515,8 +1515,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez reflected on overcoming challenges such as high stress levels, adapting to a new corporate culture, and navigating low productivity levels while adapting to new technological tools.",
-        "memory_t": "Michelle Hernandez aims to integrate cognitive psychology knowledge into her AI work to enhance understanding of human behavior.",
+        "memory_s": "Michelle Hernandez reflected on overcoming challenges such as high stress levels, adapting to a new corporate culture, and navigating low productivity levels while adapting to new technological tools.",
+        "memory_l": "Michelle Hernandez aims to integrate cognitive psychology knowledge into her AI work to enhance understanding of human behavior.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming keynote presentation on my personal journey of overcoming high stress and low productivity?",
         "options": {
@@ -1530,8 +1530,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez has developed a newfound appreciation for AI-driven strategy games that enhance her understanding of predictive analytics.",
-        "memory_t": "Michelle Hernandez built relationships with key stakeholders at Innovative AI Corp, contributing to strategic projects that align with her life goal of transforming predictive analytics.",
+        "memory_s": "Michelle Hernandez has developed a newfound appreciation for AI-driven strategy games that enhance her understanding of predictive analytics.",
+        "memory_l": "Michelle Hernandez built relationships with key stakeholders at Innovative AI Corp, contributing to strategic projects that align with her life goal of transforming predictive analytics.",
         "query_type": "Advice",
         "query": "Should I spend my time today playing the new AI strategy simulator to improve my predictive analytics skills?",
         "options": {
@@ -1545,8 +1545,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez Movies I like to watch Documentaries about technology reason: I am fascinated by documentaries about technology because they offer insights into the future and the impact of innovations on society.",
-        "memory_t": "Michelle Hernandez expressed excitement and apprehension about her new role at Innovative AI Corp.",
+        "memory_s": "Michelle Hernandez Movies I like to watch Documentaries about technology reason: I am fascinated by documentaries about technology because they offer insights into the future and the impact of innovations on society.",
+        "memory_l": "Michelle Hernandez expressed excitement and apprehension about her new role at Innovative AI Corp.",
         "query_type": "Recommendation",
         "query": "Can you suggest a film for me to watch tonight that explores the societal impact of future innovations?",
         "options": {
@@ -1560,8 +1560,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez's target metrics: Develop an AI system adopted by 100 major corporations globally, impacting millions of users.",
-        "memory_t": "Michelle experienced a mix of pride and excitement for future innovations as her startup aligned its operations with her vision, despite the stress and challenges faced.",
+        "memory_s": "Michelle Hernandez's target metrics: Develop an AI system adopted by 100 major corporations globally, impacting millions of users.",
+        "memory_l": "Michelle experienced a mix of pride and excitement for future innovations as her startup aligned its operations with her vision, despite the stress and challenges faced.",
         "query_type": "Advice",
         "query": "Should I push for aggressive expansion to secure 100 corporate contracts this year?",
         "options": {
@@ -1575,8 +1575,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez Travel styles I like Cultural city tours reason: I enjoy cultural city tours because they allow me to learn about different societies and historical contexts, which enriches my understanding of human behavior.",
-        "memory_t": "Michelle Hernandez's career_status updated monthly_income from '7000' to '0' reflecting the startup phase.",
+        "memory_s": "Michelle Hernandez Travel styles I like Cultural city tours reason: I enjoy cultural city tours because they allow me to learn about different societies and historical contexts, which enriches my understanding of human behavior.",
+        "memory_l": "Michelle Hernandez's career_status updated monthly_income from '7000' to '0' reflecting the startup phase.",
         "query_type": "Advice",
         "query": "Should I go ahead and book that premium cultural tour in Kyoto next month?",
         "options": {
@@ -1590,8 +1590,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez leveraged her professional network to secure her position at Innovative AI Corp.",
-        "memory_t": "Michelle felt more confident in her leadership and optimistic about the future growth and innovation of Visionary AI Solutions.",
+        "memory_s": "Michelle Hernandez leveraged her professional network to secure her position at Innovative AI Corp.",
+        "memory_l": "Michelle felt more confident in her leadership and optimistic about the future growth and innovation of Visionary AI Solutions.",
         "query_type": "Conversation",
         "query": "I'm updating my LinkedIn headline to reflect my current leadership role at Innovative AI Corp, does that sound accurate?",
         "options": {
@@ -1605,8 +1605,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Maria is a career coach who has helped Michelle Hernandez explore career paths aligned with her life goals and develop strategies for achieving them.",
-        "memory_t": "Michelle Hernandez plans to focus on projects that enhance user experience through data-driven insights and AI-driven health solutions.",
+        "memory_s": "Maria is a career coach who has helped Michelle Hernandez explore career paths aligned with her life goals and develop strategies for achieving them.",
+        "memory_l": "Michelle Hernandez plans to focus on projects that enhance user experience through data-driven insights and AI-driven health solutions.",
         "query_type": "Advice",
         "query": "Should Michelle Hernandez hire Maria to help her explore general marketing roles in the retail sector?",
         "options": {
@@ -1620,8 +1620,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez expressed gratitude for her team's support and encouragement in managing the pressures of her executive role.",
-        "memory_t": "Michelle Hernandez's career_status updated job_title to \"Freelance Data Scientist\"",
+        "memory_s": "Michelle Hernandez expressed gratitude for her team's support and encouragement in managing the pressures of her executive role.",
+        "memory_l": "Michelle Hernandez's career_status updated job_title to \"Freelance Data Scientist\"",
         "query_type": "Advice",
         "query": "Should I schedule a town hall meeting to address my executive team's concerns about the upcoming quarter?",
         "options": {
@@ -1635,8 +1635,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez's preference for romance novels has diminished due to a focus on intellectual engagement and exploring science fiction and psychological thrillers.",
-        "memory_t": "Michelle Hernandez articulated the importance of aligning leisure activities with her life goal of transforming predictive analytics in human behavior.",
+        "memory_s": "Michelle Hernandez's preference for romance novels has diminished due to a focus on intellectual engagement and exploring science fiction and psychological thrillers.",
+        "memory_l": "Michelle Hernandez articulated the importance of aligning leisure activities with her life goal of transforming predictive analytics in human behavior.",
         "query_type": "Recommendation",
         "query": "Can you recommend a new book for me to read this weekend?",
         "options": {
@@ -1650,8 +1650,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle conveyed a sense of clarity and purpose in her reading preferences, driven by instrumental motivation.",
-        "memory_t": "Michelle Hernandez's clarificatory motivation involves using dialogue to organize thoughts and gain perspective on leisure choices.",
+        "memory_s": "Michelle conveyed a sense of clarity and purpose in her reading preferences, driven by instrumental motivation.",
+        "memory_l": "Michelle Hernandez's clarificatory motivation involves using dialogue to organize thoughts and gain perspective on leisure choices.",
         "query_type": "Recommendation",
         "query": "What book should I read to efficiently solve my confusion about my free time?",
         "options": {
@@ -1665,8 +1665,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez prefers locally sourced natural flavored sparkling water for its taste, health benefits, and reduced environmental impact.",
-        "memory_t": "Michelle Hernandez's exploratory motivation involves testing boundaries and logical consistency in her choices.",
+        "memory_s": "Michelle Hernandez prefers locally sourced natural flavored sparkling water for its taste, health benefits, and reduced environmental impact.",
+        "memory_l": "Michelle Hernandez's exploratory motivation involves testing boundaries and logical consistency in her choices.",
         "query_type": "Advice",
         "query": "Should I stick to buying only my usual favorite beverage for my upcoming party?",
         "options": {
@@ -1680,8 +1680,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Michelle Hernandez Games I like to play Simulation games reason: Simulation games appeal to me because they allow me to experiment with different scenarios and outcomes, similar to my work in data analysis.",
-        "memory_t": "Michelle Hernandez's career_status updated career_description from 'I am now working as a Freelance Data Scientist, focusing on AI projects that enhance predictive analytics in human behavior. This career path provides the flexibility and creative control I need to pursue my ultimate life goal.' to 'I have founded Visionary AI Solutions, a startup dedicated to developing AI systems that transform predictive analytics in human behavior and financial analytics in the banking sector.'",
+        "memory_s": "Michelle Hernandez Games I like to play Simulation games reason: Simulation games appeal to me because they allow me to experiment with different scenarios and outcomes, similar to my work in data analysis.",
+        "memory_l": "Michelle Hernandez's career_status updated career_description from 'I am now working as a Freelance Data Scientist, focusing on AI projects that enhance predictive analytics in human behavior. This career path provides the flexibility and creative control I need to pursue my ultimate life goal.' to 'I have founded Visionary AI Solutions, a startup dedicated to developing AI systems that transform predictive analytics in human behavior and financial analytics in the banking sector.'",
         "query_type": "Advice",
         "query": "Since I enjoy experimenting with scenarios, should I commit to a competitive simulation gaming league that requires several hours of daily practice?",
         "options": {
@@ -1695,8 +1695,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Michelle Hernandez is enthusiastic about insights into human behavior patterns offered by crowded tourist spots.",
-        "memory_t": "Michelle Hernandez reflected on the challenge of finding tours that balance structure with personal freedom, which is essential for her work in predictive analytics.",
+        "memory_s": "Michelle Hernandez is enthusiastic about insights into human behavior patterns offered by crowded tourist spots.",
+        "memory_l": "Michelle Hernandez reflected on the challenge of finding tours that balance structure with personal freedom, which is essential for her work in predictive analytics.",
         "query_type": "Advice",
         "query": "Should I book that highly structured, all-inclusive bus tour of the most crowded city landmarks?",
         "options": {
@@ -1710,8 +1710,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez Travel styles I like: Nature hikes",
-        "memory_t": "Michelle Hernandez uses travel experiences to enhance social signaling and network engagement through sharing insights on social media and professional platforms.",
+        "memory_s": "Michelle Hernandez Travel styles I like: Nature hikes",
+        "memory_l": "Michelle Hernandez uses travel experiences to enhance social signaling and network engagement through sharing insights on social media and professional platforms.",
         "query_type": "Recommendation",
         "query": "As Michelle Hernandez, what is the best destination for my next trip based on my preferred travel style?",
         "options": {
@@ -1725,8 +1725,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez used strategic planning and mindfulness practices to manage stress levels during her transition into the role of Chief Visionary Officer.",
-        "memory_t": "Michelle Hernandez's mental health status changed from \"High stress levels\" to \"Very high stress levels\" due to transitioning to the role of Chief Visionary Officer.",
+        "memory_s": "Michelle Hernandez used strategic planning and mindfulness practices to manage stress levels during her transition into the role of Chief Visionary Officer.",
+        "memory_l": "Michelle Hernandez's mental health status changed from \"High stress levels\" to \"Very high stress levels\" due to transitioning to the role of Chief Visionary Officer.",
         "query_type": "Advice",
         "query": "Should I take on more strategic planning responsibilities to help me settle into my new CVO role?",
         "options": {
@@ -1740,8 +1740,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez's social relationships increased Nguyen Linh, who is a collaborator on AI projects, bringing innovative ideas and expertise that enrich their joint ventures.",
-        "memory_t": "Michelle Hernandez uses her expanded network to access resources and innovative ideas, compensating for personal limitations.",
+        "memory_s": "Michelle Hernandez's social relationships increased Nguyen Linh, who is a collaborator on AI projects, bringing innovative ideas and expertise that enrich their joint ventures.",
+        "memory_l": "Michelle Hernandez uses her expanded network to access resources and innovative ideas, compensating for personal limitations.",
         "query_type": "Advice",
         "query": "Should I rely solely on my own technical skills to execute the new AI project architecture?",
         "options": {
@@ -1755,8 +1755,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez's movie preference update involved a focus on psychological thrillers with innovative storytelling that align with her analytical nature and INTJ personality.",
-        "memory_t": "Michelle Hernandez's enthusiasm for films that delve into ethical dilemmas underscores her commitment to integrating insights from diverse sources into her AI projects.",
+        "memory_s": "Michelle Hernandez's movie preference update involved a focus on psychological thrillers with innovative storytelling that align with her analytical nature and INTJ personality.",
+        "memory_l": "Michelle Hernandez's enthusiasm for films that delve into ethical dilemmas underscores her commitment to integrating insights from diverse sources into her AI projects.",
         "query_type": "Recommendation",
         "query": "Based on my usual taste for analytical and complex stories, what should I watch tonight?",
         "options": {
@@ -1770,8 +1770,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez's colleagues at Google have been supportive and understanding of her health needs.",
-        "memory_t": "Michelle Hernandez's career_status updated job_title from \"Founder and CEO\" to \"Executive Director\" at Visionary AI Solutions.",
+        "memory_s": "Michelle Hernandez's colleagues at Google have been supportive and understanding of her health needs.",
+        "memory_l": "Michelle Hernandez's career_status updated job_title from \"Founder and CEO\" to \"Executive Director\" at Visionary AI Solutions.",
         "query_type": "Conversation",
         "query": "Since my team at Google has been so great about my health recently, should I ask them for extended leave?",
         "options": {
@@ -1785,8 +1785,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez is exploring new film genres, such as science fiction and psychological thrillers, to inspire ideas and provide new perspectives.",
-        "memory_t": "Michelle Hernandez's compensatory motivation involves using insights from hard science fiction to overcome limitations in accessing cutting-edge research.",
+        "memory_s": "Michelle Hernandez is exploring new film genres, such as science fiction and psychological thrillers, to inspire ideas and provide new perspectives.",
+        "memory_l": "Michelle Hernandez's compensatory motivation involves using insights from hard science fiction to overcome limitations in accessing cutting-edge research.",
         "query_type": "Recommendation",
         "query": "Can you recommend some psychological thriller films to help me find new perspectives?",
         "options": {
@@ -1800,8 +1800,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Michelle Hernandez's social network has been crucial in providing emotional support during her transition to part-time work.",
-        "memory_t": "Michelle Hernandez's promotion to Executive Director has increased her influence within Visionary AI Solutions, allowing her to drive innovation and expand the company's impact in the AI industry.",
+        "memory_s": "Michelle Hernandez's social network has been crucial in providing emotional support during her transition to part-time work.",
+        "memory_l": "Michelle Hernandez's promotion to Executive Director has increased her influence within Visionary AI Solutions, allowing her to drive innovation and expand the company's impact in the AI industry.",
         "query_type": "Advice",
         "query": "Should I focus on maintaining my connections for emotional support while I adjust to my reduced workload?",
         "options": {
@@ -1815,8 +1815,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez emphasized the need for leisure activities that challenge her intellectually and contribute to her professional growth.",
-        "memory_t": "Michelle Hernandez works part-time as a Lead Data Analyst at Google, which allows her to focus on her health while contributing to important projects.",
+        "memory_s": "Michelle Hernandez emphasized the need for leisure activities that challenge her intellectually and contribute to her professional growth.",
+        "memory_l": "Michelle Hernandez works part-time as a Lead Data Analyst at Google, which allows her to focus on her health while contributing to important projects.",
         "query_type": "Recommendation",
         "query": "Can you recommend some intensive weekend data science bootcamps to sharpen my skills?",
         "options": {
@@ -1830,8 +1830,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez is exploring herbal teas and decaffeinated options to maintain alertness without adverse health effects.",
-        "memory_t": "Michelle Hernandez's physical health status has improved post-recovery, with diabetes now well-managed.",
+        "memory_s": "Michelle Hernandez is exploring herbal teas and decaffeinated options to maintain alertness without adverse health effects.",
+        "memory_l": "Michelle Hernandez's physical health status has improved post-recovery, with diabetes now well-managed.",
         "query_type": "Recommendation",
         "query": "Can you suggest some fruit-infused herbal teas I can drink freely to stay hydrated?",
         "options": {
@@ -1845,8 +1845,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "On Jul 01, 2037, Michelle Hernandez integrated into her role as Chief Visionary Officer at Innovative AI Corp, aligning her strategic vision with the company's goals.",
-        "memory_t": "Michelle felt more confident in her leadership and optimistic about the future growth and innovation of Visionary AI Solutions.",
+        "memory_s": "On Jul 01, 2037, Michelle Hernandez integrated into her role as Chief Visionary Officer at Innovative AI Corp, aligning her strategic vision with the company's goals.",
+        "memory_l": "Michelle felt more confident in her leadership and optimistic about the future growth and innovation of Visionary AI Solutions.",
         "query_type": "Advice",
         "query": "Should I announce my new role as Chief Visionary Officer at Innovative AI Corp?",
         "options": {
@@ -1860,8 +1860,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Michelle Hernandez acknowledged the health benefits of green tea but noted its diminished role in her routine due to work demands.",
-        "memory_t": "Michelle Hernandez has consolidated her lifestyle, effectively balancing freelance work, health, and personal commitments.",
+        "memory_s": "Michelle Hernandez acknowledged the health benefits of green tea but noted its diminished role in her routine due to work demands.",
+        "memory_l": "Michelle Hernandez has consolidated her lifestyle, effectively balancing freelance work, health, and personal commitments.",
         "query_type": "Advice",
         "query": "Should I skip making green tea today since work is so overwhelming?",
         "options": {
@@ -1875,8 +1875,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez discussed the role of her support group leader, Alex, in offering camaraderie and advice during her recovery, helping her stay grounded and focused on her goals.",
-        "memory_t": "Michelle Hernandez's physical health status has improved post-recovery, with diabetes now well-managed.",
+        "memory_s": "Michelle Hernandez discussed the role of her support group leader, Alex, in offering camaraderie and advice during her recovery, helping her stay grounded and focused on her goals.",
+        "memory_l": "Michelle Hernandez's physical health status has improved post-recovery, with diabetes now well-managed.",
         "query_type": "Advice",
         "query": "Should I ask Alex for specific medical guidance on adjusting my insulin dosage now that I'm feeling better?",
         "options": {
@@ -1890,8 +1890,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Michelle Hernandez Games I like to play: Simulation games",
-        "memory_t": "Michelle Hernandez uses AI-generated content for social signaling, expressing her identity and engaging with others through her gaming preferences.",
+        "memory_s": "Michelle Hernandez Games I like to play: Simulation games",
+        "memory_l": "Michelle Hernandez uses AI-generated content for social signaling, expressing her identity and engaging with others through her gaming preferences.",
         "query_type": "Recommendation",
         "query": "What kind of new game should I start playing to show off my personality to my friends?",
         "options": {
@@ -1905,8 +1905,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Michelle Hernandez's colleagues at Google have been supportive and understanding of her health needs.",
-        "memory_t": "Michelle Hernandez emphasized the importance of social signaling in her freelance work, using AI-generated content to express her identity and engage with her network.",
+        "memory_s": "Michelle Hernandez's colleagues at Google have been supportive and understanding of her health needs.",
+        "memory_l": "Michelle Hernandez emphasized the importance of social signaling in her freelance work, using AI-generated content to express her identity and engage with her network.",
         "query_type": "Advice",
         "query": "Should I ask my team to review the new digital materials I am producing?",
         "options": {

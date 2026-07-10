@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Ananya expresses gratitude for her professional network's support, emphasizing their instrumental role in her success and plans to reach out to them for advice on gathering multimedia resources.",
-        "memory_t": "Ananya Sharma's job title updated from Freelance Film Critic to Film Studies Lecturer.",
+        "memory_s": "Ananya expresses gratitude for her professional network's support, emphasizing their instrumental role in her success and plans to reach out to them for advice on gathering multimedia resources.",
+        "memory_l": "Ananya Sharma's job title updated from Freelance Film Critic to Film Studies Lecturer.",
         "query_type": "Advice",
         "query": "Should I reach out to my professional contacts to ask for some video clips I can use?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma Movies they like to watch Classic Bollywood films reason: I love classic Bollywood films for their rich storytelling and the nostalgia they evoke from my childhood.",
-        "memory_t": "Ananya Sharma's cognitive curiosity leads her to continuously seek new opportunities in the film industry.",
+        "memory_s": "Ananya Sharma Movies they like to watch Classic Bollywood films reason: I love classic Bollywood films for their rich storytelling and the nostalgia they evoke from my childhood.",
+        "memory_l": "Ananya Sharma's cognitive curiosity leads her to continuously seek new opportunities in the film industry.",
         "query_type": "Advice",
         "query": "Should I stick to watching classic Bollywood films to help me grow my career?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma attended a film screening event on Jan 29, 2029, where she was introduced to indie romantic comedies that challenged her previous notions.",
-        "memory_t": "Ananya Sharma plans to incorporate her appreciation for psychological thrillers into her film critiques to reach a wider audience.",
+        "memory_s": "Ananya Sharma attended a film screening event on Jan 29, 2029, where she was introduced to indie romantic comedies that challenged her previous notions.",
+        "memory_l": "Ananya Sharma plans to incorporate her appreciation for psychological thrillers into her film critiques to reach a wider audience.",
         "query_type": "Advice",
         "query": "I'm choosing a film to review for my next critique; should I pick that new indie romantic comedy everyone is talking about?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma collaborates with NewCriticAlex, a renowned film critic, to enhance her blog's quality and reach.",
-        "memory_t": "Ananya Sharma's career_status updated job_title from \"Film Festival Consultant\" to \"Head of Film Studies Department\".",
+        "memory_s": "Ananya Sharma collaborates with NewCriticAlex, a renowned film critic, to enhance her blog's quality and reach.",
+        "memory_l": "Ananya Sharma's career_status updated job_title from \"Film Festival Consultant\" to \"Head of Film Studies Department\".",
         "query_type": "Advice",
         "query": "Should I move forward with publishing the collaborative review series with NewCriticAlex on my personal blog?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "On Jan 01, 2030, Ananya Sharma shared anecdotes about collaborating with filmmakers and critics, highlighting their insights as instrumental in achieving her goals.",
-        "memory_t": "Ananya Sharma set new targets to influence film discourse and reach a wider audience through her critiques, aiming to highlight the complexity and beauty of Indian stories.",
+        "memory_s": "On Jan 01, 2030, Ananya Sharma shared anecdotes about collaborating with filmmakers and critics, highlighting their insights as instrumental in achieving her goals.",
+        "memory_l": "Ananya Sharma set new targets to influence film discourse and reach a wider audience through her critiques, aiming to highlight the complexity and beauty of Indian stories.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming project exclusively on private, behind-the-scenes collaborations with directors to shape their vision?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma developed an interest in narrative-driven first-person shooters for their immersive storytelling.",
-        "memory_t": "Ananya Sharma's cognitive curiosity drives her to explore strategic games that test philosophical stances and logical consistency.",
+        "memory_s": "Ananya Sharma developed an interest in narrative-driven first-person shooters for their immersive storytelling.",
+        "memory_l": "Ananya Sharma's cognitive curiosity drives her to explore strategic games that test philosophical stances and logical consistency.",
         "query_type": "Recommendation",
         "query": "What new narrative-driven first-person shooter should I try next?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma's social relationships increased with Eva, a prominent industry leader, offering collaboration opportunities and insights to expand her influence in film critique.",
-        "memory_t": "Ananya aims to influence film discourse globally through her blog and participation in more film festivals.",
+        "memory_s": "Ananya Sharma's social relationships increased with Eva, a prominent industry leader, offering collaboration opportunities and insights to expand her influence in film critique.",
+        "memory_l": "Ananya aims to influence film discourse globally through her blog and participation in more film festivals.",
         "query_type": "Advice",
         "query": "Should I prioritize a long-term exclusive partnership with Eva to boost my career?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma's travel preference evolved to include relaxing family vacations with cultural elements, emphasizing relaxation and cultural exposure.",
-        "memory_t": "Ananya Sharma plans to attend more festivals to network and engage with filmmakers who share her vision.",
+        "memory_s": "Ananya Sharma's travel preference evolved to include relaxing family vacations with cultural elements, emphasizing relaxation and cultural exposure.",
+        "memory_l": "Ananya Sharma plans to attend more festivals to network and engage with filmmakers who share her vision.",
         "query_type": "Recommendation",
         "query": "I am looking to book a trip soon, so can you suggest the best type of itinerary for my next travel experience?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma's emotional motivation drives her to explore new music genres that offer empathetic interaction and emotional support.",
-        "memory_t": "Ananya Sharma's emotional motivation involves seeking companionship and support from her professional network, which has been instrumental in shaping her career.",
+        "memory_s": "Ananya Sharma's emotional motivation drives her to explore new music genres that offer empathetic interaction and emotional support.",
+        "memory_l": "Ananya Sharma's emotional motivation involves seeking companionship and support from her professional network, which has been instrumental in shaping her career.",
         "query_type": "Recommendation",
         "query": "How should I satisfy my current emotional motivation for empathetic interaction?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma's Colleague WilsonMatthew, Matthew, a filmmaker, provides me with insider knowledge about the industry, which enriches my critiques and broadens my understanding of film production.",
-        "memory_t": "Ananya Sharma's compensatory motivation involves using the assistant to enhance her film critiques by accessing comprehensive historical resources.",
+        "memory_s": "Ananya Sharma's Colleague WilsonMatthew, Matthew, a filmmaker, provides me with insider knowledge about the industry, which enriches my critiques and broadens my understanding of film production.",
+        "memory_l": "Ananya Sharma's compensatory motivation involves using the assistant to enhance her film critiques by accessing comprehensive historical resources.",
         "query_type": "Advice",
         "query": "Should I rely on insider knowledge from my filmmaker connections to enrich my upcoming critique?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma emphasizes the importance of maintaining strong relationships in her professional network to support her career growth and provide emotional support.",
-        "memory_t": "Ananya Sharma is strategizing future projects to promote Indian cinema globally, leveraging her expanded network and exploring potential collaborations.",
+        "memory_s": "Ananya Sharma emphasizes the importance of maintaining strong relationships in her professional network to support her career growth and provide emotional support.",
+        "memory_l": "Ananya Sharma is strategizing future projects to promote Indian cinema globally, leveraging her expanded network and exploring potential collaborations.",
         "query_type": "Advice",
         "query": "Should I focus my next networking event purely on finding emotional support and personal career mentorship?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma sought advice from friends and colleagues about her decision to reconsider parrots as pets, reflecting on past interactions.",
-        "memory_t": "Ananya Sharma aims to organize her thoughts on pet ownership using clarificatory motivation.",
+        "memory_s": "Ananya Sharma sought advice from friends and colleagues about her decision to reconsider parrots as pets, reflecting on past interactions.",
+        "memory_l": "Ananya Sharma aims to organize her thoughts on pet ownership using clarificatory motivation.",
         "query_type": "Advice",
         "query": "Should I go ahead and adopt a parrot today?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma expressed uncertainty about maintaining interest in cultural experiences while prioritizing relaxation in her travel plans.",
-        "memory_t": "Ananya Sharma expressed excitement about influencing film discourse internationally and contributing to the promotion of Indian cinema.",
+        "memory_s": "Ananya Sharma expressed uncertainty about maintaining interest in cultural experiences while prioritizing relaxation in her travel plans.",
+        "memory_l": "Ananya Sharma expressed excitement about influencing film discourse internationally and contributing to the promotion of Indian cinema.",
         "query_type": "Advice",
         "query": "Should I skip the upcoming international film festival to just lounge at the resort instead?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma receives positive feedback from her readers on her multimedia-integrated film critiques, reigniting her passion for film critique.",
-        "memory_t": "Ananya Sharma desires to connect with her audience on a deeper level through her written critiques.",
+        "memory_s": "Ananya Sharma receives positive feedback from her readers on her multimedia-integrated film critiques, reigniting her passion for film critique.",
+        "memory_l": "Ananya Sharma desires to connect with her audience on a deeper level through her written critiques.",
         "query_type": "Advice",
         "query": "Should I focus my next series of reviews on producing high-energy video essays with lots of clips and audio?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma experienced a shift in music preference, developing a liking for symphonic metal due to its fusion of orchestral elements with metal.",
-        "memory_t": "Ananya Sharma's openness to new experiences is reflected in her evolving sports preferences and musical tastes, finding value in previously overlooked activities.",
+        "memory_s": "Ananya Sharma experienced a shift in music preference, developing a liking for symphonic metal due to its fusion of orchestral elements with metal.",
+        "memory_l": "Ananya Sharma's openness to new experiences is reflected in her evolving sports preferences and musical tastes, finding value in previously overlooked activities.",
         "query_type": "Recommendation",
         "query": "Considering I enjoy the fusion of orchestral elements with metal, should I commit to listening exclusively to symphonic metal?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma experienced a shift in music preference, developing a liking for symphonic metal due to its fusion of orchestral elements with metal.",
-        "memory_t": "Ananya Sharma was diagnosed with fatigue and anxiety.",
+        "memory_s": "Ananya Sharma experienced a shift in music preference, developing a liking for symphonic metal due to its fusion of orchestral elements with metal.",
+        "memory_l": "Ananya Sharma was diagnosed with fatigue and anxiety.",
         "query_type": "Recommendation",
         "query": "What music should I listen to right now to lift my mood?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya seeks guidance on maintaining a work-life balance while ensuring sustained blog growth.",
-        "memory_t": "Ananya Sharma feels optimistic about implementing advice from her friends to enhance work-life balance and manage stress, and she appreciates their unique insights.",
+        "memory_s": "Ananya seeks guidance on maintaining a work-life balance while ensuring sustained blog growth.",
+        "memory_l": "Ananya Sharma feels optimistic about implementing advice from her friends to enhance work-life balance and manage stress, and she appreciates their unique insights.",
         "query_type": "Advice",
         "query": "How can I best strategize to keep my blog growing steadily without compromising my personal time?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma enjoys turn-based strategy games for their emphasis on strategic thinking and planning without the stress of real-time action.",
-        "memory_t": "Ananya Sharma expressed a need for effective stress management techniques and considered seeking advice from colleagues and mentors.",
+        "memory_s": "Ananya Sharma enjoys turn-based strategy games for their emphasis on strategic thinking and planning without the stress of real-time action.",
+        "memory_l": "Ananya Sharma expressed a need for effective stress management techniques and considered seeking advice from colleagues and mentors.",
         "query_type": "Advice",
         "query": "Should I spend this afternoon playing a strategy game to unwind?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma finds solace in connecting with friends and attending film festivals, which help her stay motivated and remind her why she started her journey in film criticism.",
-        "memory_t": "Ananya Sharma is motivated to use her culinary experiences to enhance her food critiques.",
+        "memory_s": "Ananya Sharma finds solace in connecting with friends and attending film festivals, which help her stay motivated and remind her why she started her journey in film criticism.",
+        "memory_l": "Ananya Sharma is motivated to use her culinary experiences to enhance her food critiques.",
         "query_type": "Advice",
         "query": "How should I best channel my motivation to improve my criticism work?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma expressed excitement about the freedom and unpredictability that spontaneity brings to travel.",
-        "memory_t": "Ananya Sharma's strategic thinking about pet care reflects her motivation to solve practical problems and improve efficiency in engaging with parrots.",
+        "memory_s": "Ananya Sharma expressed excitement about the freedom and unpredictability that spontaneity brings to travel.",
+        "memory_l": "Ananya Sharma's strategic thinking about pet care reflects her motivation to solve practical problems and improve efficiency in engaging with parrots.",
         "query_type": "Recommendation",
         "query": "Since I find the unpredictability of spontaneous travel so exciting, should I just leave for the airport immediately?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma Games they dislike First-person shooters reason: I find first-person shooters too intense and they don't align with my preference for more narrative-driven experiences.",
-        "memory_t": "Ananya acknowledges stress and fatigue from blog management, emphasizing the need for work-life balance.",
+        "memory_s": "Ananya Sharma Games they dislike First-person shooters reason: I find first-person shooters too intense and they don't align with my preference for more narrative-driven experiences.",
+        "memory_l": "Ananya acknowledges stress and fatigue from blog management, emphasizing the need for work-life balance.",
         "query_type": "Advice",
         "query": "Should I jump into a quick round of that new competitive multiplayer shooter everyone is talking about to unwind?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma's compensatory motivation led her to appreciate golf's strategic aspects, balancing her sports interests.",
-        "memory_t": "Ananya Sharma's career_status updated monthly_income from \"18000\" to \"16000\".",
+        "memory_s": "Ananya Sharma's compensatory motivation led her to appreciate golf's strategic aspects, balancing her sports interests.",
+        "memory_l": "Ananya Sharma's career_status updated monthly_income from \"18000\" to \"16000\".",
         "query_type": "Advice",
         "query": "Should I sign up for that exclusive country club membership to focus on my short game?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma's expanded social network enhances her blog's quality and reach, supporting her goal of promoting Indian cinema globally.",
-        "memory_t": "Ananya Sharma is experiencing increased stress and fatigue due to the demands of managing a new blog and involvement in a new film project, affecting her health and work-life balance.",
+        "memory_s": "Ananya Sharma's expanded social network enhances her blog's quality and reach, supporting her goal of promoting Indian cinema globally.",
+        "memory_l": "Ananya Sharma is experiencing increased stress and fatigue due to the demands of managing a new blog and involvement in a new film project, affecting her health and work-life balance.",
         "query_type": "Advice",
         "query": "Should I attend the international filmmakers' networking gala tonight to further expand my blog's reach?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma shared how international film soundtracks enhance her critique of global cinema through their emotional depth.",
-        "memory_t": "Ananya Sharma set new targets to influence film discourse and reach a wider audience through her critiques, aiming to highlight the complexity and beauty of Indian stories.",
+        "memory_s": "Ananya Sharma shared how international film soundtracks enhance her critique of global cinema through their emotional depth.",
+        "memory_l": "Ananya Sharma set new targets to influence film discourse and reach a wider audience through her critiques, aiming to highlight the complexity and beauty of Indian stories.",
         "query_type": "Advice",
         "query": "Should I focus my next major critique series on the emotional impact of soundtracks in European cinema?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma Movies they dislike Overly CGI-heavy films reason: I prefer films with practical effects as I feel overly CGI-heavy films often lack the authenticity and charm of real sets.",
-        "memory_t": "As a Film Studies Lecturer, Ananya Sharma aims to foster a new generation of film critics and enthusiasts.",
+        "memory_s": "Ananya Sharma Movies they dislike Overly CGI-heavy films reason: I prefer films with practical effects as I feel overly CGI-heavy films often lack the authenticity and charm of real sets.",
+        "memory_l": "As a Film Studies Lecturer, Ananya Sharma aims to foster a new generation of film critics and enthusiasts.",
         "query_type": "Advice",
         "query": "Should I refuse to screen the latest CGI-heavy blockbuster for my students?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma Travel styles they like Cultural exploration reason: I love cultural exploration because it allows me to experience new traditions and cuisines, enriching my worldview.",
-        "memory_t": "Ananya Sharma's career_status updated monthly_income from \"20000\" to \"15000\".",
+        "memory_s": "Ananya Sharma Travel styles they like Cultural exploration reason: I love cultural exploration because it allows me to experience new traditions and cuisines, enriching my worldview.",
+        "memory_l": "Ananya Sharma's career_status updated monthly_income from \"20000\" to \"15000\".",
         "query_type": "Advice",
         "query": "Should I book that extensive three-week cultural heritage tour across Europe to experience new traditions?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya emphasizes the importance of maintaining a healthy work-life balance in her academic career, with regular exercise and family time being key components.",
-        "memory_t": "Ananya Sharma expressed excitement about planning future trips that combine leisure with cultural discovery, aiming to provide her family with rejuvenation and enrichment.",
+        "memory_s": "Ananya emphasizes the importance of maintaining a healthy work-life balance in her academic career, with regular exercise and family time being key components.",
+        "memory_l": "Ananya Sharma expressed excitement about planning future trips that combine leisure with cultural discovery, aiming to provide her family with rejuvenation and enrichment.",
         "query_type": "Advice",
         "query": "Should I plan a strict, health-focused fitness boot camp for our next family vacation to prioritize exercise?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma shared how international film soundtracks enhance her critique of global cinema through their emotional depth.",
-        "memory_t": "Ananya Sharma's optimistic mental outlook is fueled by her passion for cinema.",
+        "memory_s": "Ananya Sharma shared how international film soundtracks enhance her critique of global cinema through their emotional depth.",
+        "memory_l": "Ananya Sharma's optimistic mental outlook is fueled by her passion for cinema.",
         "query_type": "Advice",
         "query": "Should I consider abandoning film analysis if I feel the soundtracks are becoming too emotionally overwhelming?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma expressed a renewed commitment to promoting Indian cinema globally through critiques and her own film productions.",
-        "memory_t": "Ananya Sharma is experiencing anxiety due to increased responsibilities.",
+        "memory_s": "Ananya Sharma expressed a renewed commitment to promoting Indian cinema globally through critiques and her own film productions.",
+        "memory_l": "Ananya Sharma is experiencing anxiety due to increased responsibilities.",
         "query_type": "Advice",
         "query": "Should I launch a new international film festival to showcase my latest productions?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma Games they dislike Sports simulation games reason: I don't enjoy sports simulation games because I prefer playing or watching actual sports rather than virtual ones.",
-        "memory_t": "Ananya Sharma plans to incorporate her new perspective on boxing into her social interactions and critiques.",
+        "memory_s": "Ananya Sharma Games they dislike Sports simulation games reason: I don't enjoy sports simulation games because I prefer playing or watching actual sports rather than virtual ones.",
+        "memory_l": "Ananya Sharma plans to incorporate her new perspective on boxing into her social interactions and critiques.",
         "query_type": "Advice",
         "query": "Should I completely avoid reviewing the new VR boxing title releasing today?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma Clothing they dislike Synthetic fabrics reason: I dislike synthetic fabrics because they make me feel uncomfortable and don't breathe well.",
-        "memory_t": "The structured routine of academia supports Ananya's balanced lifestyle, allowing her to maintain excellent physical health and prioritize self-care and family time.",
+        "memory_s": "Ananya Sharma Clothing they dislike Synthetic fabrics reason: I dislike synthetic fabrics because they make me feel uncomfortable and don't breathe well.",
+        "memory_l": "The structured routine of academia supports Ananya's balanced lifestyle, allowing her to maintain excellent physical health and prioritize self-care and family time.",
         "query_type": "Recommendation",
         "query": "I need some new workout clothes for my evening runs; what fabrics should I look for?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma's collaborations with critics and directors support her goal of promoting Indian cinema globally.",
-        "memory_t": "Ananya Sharma feels validated and accomplished by her recent award recognition, aligning with her life goal of promoting Indian cinema globally.",
+        "memory_s": "Ananya Sharma's collaborations with critics and directors support her goal of promoting Indian cinema globally.",
+        "memory_l": "Ananya Sharma feels validated and accomplished by her recent award recognition, aligning with her life goal of promoting Indian cinema globally.",
         "query_type": "Conversation",
         "query": "Does my recent work with critics and directors mean I am finally succeeding in my life goal?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma attended a cultural festival that inspired her to experiment with vibrant colors in her wardrobe.",
-        "memory_t": "Ananya Sharma plans to continue experimenting with colorful clothing to enhance her personal style and stay connected to her roots.",
+        "memory_s": "Ananya Sharma attended a cultural festival that inspired her to experiment with vibrant colors in her wardrobe.",
+        "memory_l": "Ananya Sharma plans to continue experimenting with colorful clothing to enhance her personal style and stay connected to her roots.",
         "query_type": "Advice",
         "query": "I'm thinking about buying a bright, multicolored saree for the upcoming gala; is that a good idea?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya explores strategies for sustained growth and impact of her blog, focusing on future planning.",
-        "memory_t": "Ananya Sharma exhibits a mix of pride, gratitude, and determination following her award recognition, emphasizing her commitment to nurturing future film critics.",
+        "memory_s": "Ananya explores strategies for sustained growth and impact of her blog, focusing on future planning.",
+        "memory_l": "Ananya Sharma exhibits a mix of pride, gratitude, and determination following her award recognition, emphasizing her commitment to nurturing future film critics.",
         "query_type": "Advice",
         "query": "How should I pivot my content strategy to maximize my personal blog's growth and traffic?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma Travel styles they like Family vacations reason: I cherish family vacations as they create lasting memories and strengthen our bonds.",
-        "memory_t": "Ananya Sharma feels overwhelmed by the responsibilities of overseeing faculty and curriculum development in her new role.",
+        "memory_s": "Ananya Sharma Travel styles they like Family vacations reason: I cherish family vacations as they create lasting memories and strengthen our bonds.",
+        "memory_l": "Ananya Sharma feels overwhelmed by the responsibilities of overseeing faculty and curriculum development in her new role.",
         "query_type": "Advice",
         "query": "Should I start planning a big trip to strengthen bonds with my relatives?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya emphasizes the importance of maintaining a healthy work-life balance in her academic career, with regular exercise and family time being key components.",
-        "memory_t": "Ananya Sharma plans to integrate her insights on practical effects into her film critiques to emphasize their value to her audience.",
+        "memory_s": "Ananya emphasizes the importance of maintaining a healthy work-life balance in her academic career, with regular exercise and family time being key components.",
+        "memory_l": "Ananya Sharma plans to integrate her insights on practical effects into her film critiques to emphasize their value to her audience.",
         "query_type": "Advice",
         "query": "Based on my academic focus, how should I schedule my evenings this week to ensure I maintain a healthy work-life balance?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma's renewed passion for cinema is fueled by her improved health and work-life balance.",
-        "memory_t": "Ananya Sharma discusses balancing new professional demands with personal commitments to sustain her creative energy, which requires careful planning and prioritization.",
+        "memory_s": "Ananya Sharma's renewed passion for cinema is fueled by her improved health and work-life balance.",
+        "memory_l": "Ananya Sharma discusses balancing new professional demands with personal commitments to sustain her creative energy, which requires careful planning and prioritization.",
         "query_type": "Advice",
         "query": "Should I spontaneously sign up for that intensive week-long film critique workshop starting tomorrow?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "On Jan 01, 2030, Ananya Sharma shared anecdotes about collaborating with filmmakers and critics, highlighting their insights as instrumental in achieving her goals.",
-        "memory_t": "Ananya Sharma expressed excitement about collaborating with filmmakers and critics who share her vision for promoting Indian cinema.",
+        "memory_s": "On Jan 01, 2030, Ananya Sharma shared anecdotes about collaborating with filmmakers and critics, highlighting their insights as instrumental in achieving her goals.",
+        "memory_l": "Ananya Sharma expressed excitement about collaborating with filmmakers and critics who share her vision for promoting Indian cinema.",
         "query_type": "Advice",
         "query": "Should I say yes to the collaboration offer from the French film critic who focuses exclusively on European avant-garde cinema?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma collaborates with NewCriticAlex, a renowned film critic, to enhance her blog's quality and reach.",
-        "memory_t": "On Jan 01, 2030, Ananya Sharma reflected on her journey as a Film Festival Consultant, consolidating her knowledge and experience, and preparing for future opportunities.",
+        "memory_s": "Ananya Sharma collaborates with NewCriticAlex, a renowned film critic, to enhance her blog's quality and reach.",
+        "memory_l": "On Jan 01, 2030, Ananya Sharma reflected on her journey as a Film Festival Consultant, consolidating her knowledge and experience, and preparing for future opportunities.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming keynote speech entirely on my recent blog collaborations with NewCriticAlex?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's Friend MooreAnthony, Anthony, a fellow film critic, often inspires me with his insightful perspectives on cinema, pushing me to think deeper about my reviews.",
-        "memory_t": "Ananya Sharma expresses excitement about differentiating her blog by showcasing lesser-known Indian films and directors, aligning with her cultural heritage goals.",
+        "memory_s": "Ananya Sharma's Friend MooreAnthony, Anthony, a fellow film critic, often inspires me with his insightful perspectives on cinema, pushing me to think deeper about my reviews.",
+        "memory_l": "Ananya Sharma expresses excitement about differentiating her blog by showcasing lesser-known Indian films and directors, aligning with her cultural heritage goals.",
         "query_type": "Advice",
         "query": "Should I dedicate my next blog series to analyzing the global blockbusters Anthony recently recommended?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma Sports they dislike Boxing reason: I dislike boxing because I find it too violent and prefer sports that emphasize skill and strategy.",
-        "memory_t": "Ananya Sharma plans to incorporate her new perspective on boxing into her social interactions and critiques.",
+        "memory_s": "Ananya Sharma Sports they dislike Boxing reason: I dislike boxing because I find it too violent and prefer sports that emphasize skill and strategy.",
+        "memory_l": "Ananya Sharma plans to incorporate her new perspective on boxing into her social interactions and critiques.",
         "query_type": "Advice",
         "query": "How should I approach the topic of boxing when I meet with the sports critique group tonight?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma expressed excitement about incorporating adventure activities like hiking, rafting, and rock climbing into family vacations.",
-        "memory_t": "Ananya Sharma's physical health condition: Average",
+        "memory_s": "Ananya Sharma expressed excitement about incorporating adventure activities like hiking, rafting, and rock climbing into family vacations.",
+        "memory_l": "Ananya Sharma's physical health condition: Average",
         "query_type": "Recommendation",
         "query": "I am planning our next family trip; can you suggest a high-intensity itinerary involving rafting and rock climbing?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma Games they dislike: Sports simulation games",
-        "memory_t": "Ananya Sharma's shift in game preference signifies her openness to new experiences and willingness to adapt her tastes.",
+        "memory_s": "Ananya Sharma Games they dislike: Sports simulation games",
+        "memory_l": "Ananya Sharma's shift in game preference signifies her openness to new experiences and willingness to adapt her tastes.",
         "query_type": "Recommendation",
         "query": "Should I try out the latest FIFA or NBA 2K release?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma experienced a shift in music preference, developing a liking for symphonic metal due to its fusion of orchestral elements with metal.",
-        "memory_t": "Ananya Sharma aims to incorporate insights from progressive metal into her music critiques to engage her audience more effectively.",
+        "memory_s": "Ananya Sharma experienced a shift in music preference, developing a liking for symphonic metal due to its fusion of orchestral elements with metal.",
+        "memory_l": "Ananya Sharma aims to incorporate insights from progressive metal into her music critiques to engage her audience more effectively.",
         "query_type": "Recommendation",
         "query": "What genre should I focus my next major critique on to best capture my audience's attention?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma expresses excitement about exploring innovative critique styles to enhance audience engagement.",
-        "memory_t": "Ananya Sharma aims to foster meaningful discussions about Indian cinema through her blog.",
+        "memory_s": "Ananya Sharma expresses excitement about exploring innovative critique styles to enhance audience engagement.",
+        "memory_l": "Ananya Sharma aims to foster meaningful discussions about Indian cinema through her blog.",
         "query_type": "Advice",
         "query": "Should I adopt a rapid-fire, satirical roasting format for my next set of movie reviews?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma Clothing they like to wear Casual t-shirts reason: I like casual t-shirts for their simplicity and versatility.",
-        "memory_t": "Ananya Sharma's dialogue exhibits optimism and curiosity as she adapts her clothing preferences to suit her evolving interests and lifestyle.",
+        "memory_s": "Ananya Sharma Clothing they like to wear Casual t-shirts reason: I like casual t-shirts for their simplicity and versatility.",
+        "memory_l": "Ananya Sharma's dialogue exhibits optimism and curiosity as she adapts her clothing preferences to suit her evolving interests and lifestyle.",
         "query_type": "Recommendation",
         "query": "I'm thinking about refreshing my wardrobe for the upcoming season; what staples should I focus on buying?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma Pets they dislike: Reptiles",
-        "memory_t": "Ananya Sharma's emotional motivation is driven by her desire to form empathetic interactions with her parrots, enhancing her companionship experience.",
+        "memory_s": "Ananya Sharma Pets they dislike: Reptiles",
+        "memory_l": "Ananya Sharma's emotional motivation is driven by her desire to form empathetic interactions with her parrots, enhancing her companionship experience.",
         "query_type": "Recommendation",
         "query": "I want to get a new pet that isn't one of the types I dislike; what do you suggest?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma Music they dislike: Heavy metal",
-        "memory_t": "Ananya Sharma's exploratory motivation drives her to test boundaries and embrace contemporary influences in music.",
+        "memory_s": "Ananya Sharma Music they dislike: Heavy metal",
+        "memory_l": "Ananya Sharma's exploratory motivation drives her to test boundaries and embrace contemporary influences in music.",
         "query_type": "Advice",
         "query": "Should I listen to the new experimental heavy metal album that's topping the charts?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Ananya Sharma developed a preference for moderately spicy Indian curries after visiting an Indian restaurant that balanced spices well.",
-        "memory_t": "Ananya's social motivation involves using culinary experiences to express her identity and entertain her social circle.",
+        "memory_s": "Ananya Sharma developed a preference for moderately spicy Indian curries after visiting an Indian restaurant that balanced spices well.",
+        "memory_l": "Ananya's social motivation involves using culinary experiences to express her identity and entertain her social circle.",
         "query_type": "Recommendation",
         "query": "Given my recent enjoyment of balanced spices at that restaurant, what should I prepare for tonight's dinner party?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma expressed excitement about potentially exploring boxing further to understand its strategic nuances.",
-        "memory_t": "Ananya Sharma expressed a desire to incorporate insights from realistic sports simulation games into her blog content.",
+        "memory_s": "Ananya Sharma expressed excitement about potentially exploring boxing further to understand its strategic nuances.",
+        "memory_l": "Ananya Sharma expressed a desire to incorporate insights from realistic sports simulation games into her blog content.",
         "query_type": "Recommendation",
         "query": "What's the best way for me to dive into boxing strategy for my next blog post?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma Games they like to play Puzzle games reason: I enjoy puzzle games because they challenge my mind and provide a sense of accomplishment when I solve them.",
-        "memory_t": "Ananya Sharma plans to introduce more interactive toys and activities to enhance her parrots' problem-solving skills.",
+        "memory_s": "Ananya Sharma Games they like to play Puzzle games reason: I enjoy puzzle games because they challenge my mind and provide a sense of accomplishment when I solve them.",
+        "memory_l": "Ananya Sharma plans to introduce more interactive toys and activities to enhance her parrots' problem-solving skills.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new puzzle game for me to play that offers a good mental challenge?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "WilsonMatthew suggests time management tools to Ananya Sharma to streamline her responsibilities, which she is open to trying.",
-        "memory_t": "Ananya Sharma's health status changed; the structured routine of academia has enhanced her health, leading to a fulfilled mental state and sustained excellent physical health.",
+        "memory_s": "WilsonMatthew suggests time management tools to Ananya Sharma to streamline her responsibilities, which she is open to trying.",
+        "memory_l": "Ananya Sharma's health status changed; the structured routine of academia has enhanced her health, leading to a fulfilled mental state and sustained excellent physical health.",
         "query_type": "Advice",
         "query": "Should I implement these new aggressive time management tools to overhaul my current schedule?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma plans to incorporate her appreciation for psychological thrillers into her film critiques to reach a wider audience.",
-        "memory_t": "Ananya Sharma's health status changed due to the demands of managing her blog, causing fatigue and stress. She needs to find better ways to balance her work and personal life.",
+        "memory_s": "Ananya Sharma plans to incorporate her appreciation for psychological thrillers into her film critiques to reach a wider audience.",
+        "memory_l": "Ananya Sharma's health status changed due to the demands of managing her blog, causing fatigue and stress. She needs to find better ways to balance her work and personal life.",
         "query_type": "Advice",
         "query": "Should I start a new series of deep-dive critiques on intense psychological thrillers to grow my audience?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma Foods they dislike: Overly spicy food",
-        "memory_t": "Ananya Sharma plans to incorporate insights from her experience with spicy Mexican tacos into her food critiques to inspire her audience.",
+        "memory_s": "Ananya Sharma Foods they dislike: Overly spicy food",
+        "memory_l": "Ananya Sharma plans to incorporate insights from her experience with spicy Mexican tacos into her food critiques to inspire her audience.",
         "query_type": "Advice",
         "query": "Should I skip ordering anything with chili peppers or hot sauce for my upcoming review?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma Foods they dislike Overly spicy food reason: I can't handle overly spicy food as it masks the natural flavors and I prefer to enjoy the subtleties in a dish.",
-        "memory_t": "Ananya Sharma's dialogue reflects curiosity and enthusiasm, showcasing her openness to new experiences and adaptability in her tastes.",
+        "memory_s": "Ananya Sharma Foods they dislike Overly spicy food reason: I can't handle overly spicy food as it masks the natural flavors and I prefer to enjoy the subtleties in a dish.",
+        "memory_l": "Ananya Sharma's dialogue reflects curiosity and enthusiasm, showcasing her openness to new experiences and adaptability in her tastes.",
         "query_type": "Recommendation",
         "query": "What dish should Ananya Sharma order at this restaurant known for its extreme heat?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma plans to share insights about reptiles with her friends, sparked by engaging stories from a zookeeper.",
-        "memory_t": "Ananya Sharma's social motivation involves engaging others with her evolving insights on sports.",
+        "memory_s": "Ananya Sharma plans to share insights about reptiles with her friends, sparked by engaging stories from a zookeeper.",
+        "memory_l": "Ananya Sharma's social motivation involves engaging others with her evolving insights on sports.",
         "query_type": "Advice",
         "query": "Should I talk to my friends about the reptile insights I learned recently?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's travel preference evolved to include family vacations with adventure activities after experiencing a zip-line adventure.",
-        "memory_t": "Ananya Sharma's career_status updated monthly_income from \"20000\" to \"15000\".",
+        "memory_s": "Ananya Sharma's travel preference evolved to include family vacations with adventure activities after experiencing a zip-line adventure.",
+        "memory_l": "Ananya Sharma's career_status updated monthly_income from \"20000\" to \"15000\".",
         "query_type": "Recommendation",
         "query": "Can you suggest an exciting zip-lining trip for my next family vacation?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma adopted a new puppy, facing challenges in training and care.",
-        "memory_t": "Ananya Sharma plans to incorporate more interactive activities with her parrots to foster a deeper bond and understanding, including introducing toys that challenge their problem-solving skills.",
+        "memory_s": "Ananya Sharma adopted a new puppy, facing challenges in training and care.",
+        "memory_l": "Ananya Sharma plans to incorporate more interactive activities with her parrots to foster a deeper bond and understanding, including introducing toys that challenge their problem-solving skills.",
         "query_type": "Advice",
         "query": "I have some free time this afternoon to work with my animals; what should I focus on?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma's music preference evolved to include fusion Indian music, appreciating its innovative blend that maintains cultural roots while embracing modernity.",
-        "memory_t": "Ananya Sharma discussed the impact of diverse musical styles on her film critique process, enhancing her understanding of global cinema.",
+        "memory_s": "Ananya Sharma's music preference evolved to include fusion Indian music, appreciating its innovative blend that maintains cultural roots while embracing modernity.",
+        "memory_l": "Ananya Sharma discussed the impact of diverse musical styles on her film critique process, enhancing her understanding of global cinema.",
         "query_type": "Advice",
         "query": "Should I focus my next review solely on the soundtrack's modern fusion elements?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "ThomasJennifer advises Ananya Sharma on balancing work and personal commitments, which Ananya is trying to prioritize.",
-        "memory_t": "Ananya Sharma feels optimistic about implementing advice from her friends to enhance work-life balance and manage stress, and she appreciates their unique insights.",
+        "memory_s": "ThomasJennifer advises Ananya Sharma on balancing work and personal commitments, which Ananya is trying to prioritize.",
+        "memory_l": "Ananya Sharma feels optimistic about implementing advice from her friends to enhance work-life balance and manage stress, and she appreciates their unique insights.",
         "query_type": "Advice",
         "query": "Should I follow the guidance from my professional consultant, ThomasJennifer, regarding my work-life balance?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma's Colleague WilsonMatthew, Matthew, a filmmaker, provides me with insider knowledge about the industry, which enriches my critiques and broadens my understanding of film production.",
-        "memory_t": "Ananya Sharma plans to integrate the cultural and historical significance of classic Bollywood films into her film critiques.",
+        "memory_s": "Ananya Sharma's Colleague WilsonMatthew, Matthew, a filmmaker, provides me with insider knowledge about the industry, which enriches my critiques and broadens my understanding of film production.",
+        "memory_l": "Ananya Sharma plans to integrate the cultural and historical significance of classic Bollywood films into her film critiques.",
         "query_type": "Advice",
         "query": "How should I approach my next major film critique piece to make it stand out?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's sports preference evolved to appreciate boxing for its technical skill and strategic depth.",
-        "memory_t": "The structured routine of academia supports Ananya's balanced lifestyle, allowing her to maintain excellent physical health and prioritize self-care and family time.",
+        "memory_s": "Ananya Sharma's sports preference evolved to appreciate boxing for its technical skill and strategic depth.",
+        "memory_l": "The structured routine of academia supports Ananya's balanced lifestyle, allowing her to maintain excellent physical health and prioritize self-care and family time.",
         "query_type": "Advice",
         "query": "Should I sign up for that intensive amateur boxing tournament next semester?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma Games they dislike: Sports simulation games",
-        "memory_t": "Ananya Sharma's compensatory motivation drives her to leverage new sports experiences for personal growth and professional insights.",
+        "memory_s": "Ananya Sharma Games they dislike: Sports simulation games",
+        "memory_l": "Ananya Sharma's compensatory motivation drives her to leverage new sports experiences for personal growth and professional insights.",
         "query_type": "Advice",
         "query": "Is it a good idea for me to try out the new FIFA release?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's movie preference evolved to include indie romantic comedies for their nuanced storytelling and authentic character portrayals.",
-        "memory_t": "Ananya Sharma expressed a desire to educate her audience about the cultural contributions of classic Bollywood films.",
+        "memory_s": "Ananya Sharma's movie preference evolved to include indie romantic comedies for their nuanced storytelling and authentic character portrayals.",
+        "memory_l": "Ananya Sharma expressed a desire to educate her audience about the cultural contributions of classic Bollywood films.",
         "query_type": "Recommendation",
         "query": "Considering my love for authentic character portrayals and nuanced storytelling in films, what should I pick for my upcoming review session?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma attended a special effects workshop on Nov 30, 2033, which reinforced her preference for practical effects in films.",
-        "memory_t": "Ananya Sharma expresses excitement about differentiating her blog by showcasing lesser-known Indian films and directors, aligning with her cultural heritage goals.",
+        "memory_s": "Ananya Sharma attended a special effects workshop on Nov 30, 2033, which reinforced her preference for practical effects in films.",
+        "memory_l": "Ananya Sharma expresses excitement about differentiating her blog by showcasing lesser-known Indian films and directors, aligning with her cultural heritage goals.",
         "query_type": "Recommendation",
         "query": "Given my recent workshop experience, what practical effects-heavy films should I review for my blog?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma's gaming preference evolved to include turn-based strategy games, aligning with her broader interest in thoughtful narratives.",
-        "memory_t": "Ananya Sharma's creative motivation involves using social interaction in gaming to inspire ideas and overcome creative blocks.",
+        "memory_s": "Ananya Sharma's gaming preference evolved to include turn-based strategy games, aligning with her broader interest in thoughtful narratives.",
+        "memory_l": "Ananya Sharma's creative motivation involves using social interaction in gaming to inspire ideas and overcome creative blocks.",
         "query_type": "Recommendation",
         "query": "I need a game recommendation to help spark some new ideas for my project, maybe something deep and thoughtful?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's dialogue reflected enthusiasm and discovery as she articulated her appreciation for practical effects in films.",
-        "memory_t": "Ananya Sharma's major is Film Studies",
+        "memory_s": "Ananya Sharma's dialogue reflected enthusiasm and discovery as she articulated her appreciation for practical effects in films.",
+        "memory_l": "Ananya Sharma's major is Film Studies",
         "query_type": "Recommendation",
         "query": "I need to pick a topic for my final thesis that really showcases my passion for hands-on, tangible movie magic; what should I focus on?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma plans to explore collaborative projects within the academic community to focus on promoting Indian cinema.",
-        "memory_t": "Ananya Sharma feels a sense of pride and accomplishment following her recognition as a leading documentary critic, which validates her efforts in promoting Indian cinema.",
+        "memory_s": "Ananya Sharma plans to explore collaborative projects within the academic community to focus on promoting Indian cinema.",
+        "memory_l": "Ananya Sharma feels a sense of pride and accomplishment following her recognition as a leading documentary critic, which validates her efforts in promoting Indian cinema.",
         "query_type": "Advice",
         "query": "Should I initiate new collaborative projects to start building my reputation in promoting Indian cinema?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma expressed mixed emotions about her decision to reconsider parrots as pets, acknowledging both their engaging nature and demanding maintenance.",
-        "memory_t": "Ananya Sharma plans to incorporate more interactive activities with her parrots to foster a deeper bond and understanding, including introducing toys that challenge their problem-solving skills.",
+        "memory_s": "Ananya Sharma expressed mixed emotions about her decision to reconsider parrots as pets, acknowledging both their engaging nature and demanding maintenance.",
+        "memory_l": "Ananya Sharma plans to incorporate more interactive activities with her parrots to foster a deeper bond and understanding, including introducing toys that challenge their problem-solving skills.",
         "query_type": "Recommendation",
         "query": "What specific factors is Ananya Sharma currently evaluating as she reconsiders the possibility of keeping parrots as pets?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma received a prestigious award on Feb 16, 2037, for her contributions to film critique and academia, enhancing her professional standing.",
-        "memory_t": "Ananya is motivated by the opportunity to influence and educate students, aligning with her life goal of promoting Indian cinema globally.",
+        "memory_s": "Ananya Sharma received a prestigious award on Feb 16, 2037, for her contributions to film critique and academia, enhancing her professional standing.",
+        "memory_l": "Ananya is motivated by the opportunity to influence and educate students, aligning with her life goal of promoting Indian cinema globally.",
         "query_type": "Advice",
         "query": "I'm considering two job offers: a high-profile administrative role at a prestigious film institute or a teaching position focused on Indian cinema curricula. Which should I choose to maximize my career satisfaction?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma plans to share insights about reptiles with her friends, sparked by engaging stories from a zookeeper.",
-        "memory_t": "Ananya Sharma uses her blog for social signaling, expressing her identity and entertaining her audience.",
+        "memory_s": "Ananya Sharma plans to share insights about reptiles with her friends, sparked by engaging stories from a zookeeper.",
+        "memory_l": "Ananya Sharma uses her blog for social signaling, expressing her identity and entertaining her audience.",
         "query_type": "Advice",
         "query": "Should I post these reptile insights on my blog?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma's decision to reconsider parrots reflects her current lifestyle demands and the need for less demanding companionship.",
-        "memory_t": "Ananya Sharma's new role as a Film Festival Consultant provides flexibility, allowing her to achieve a better work-life balance.",
+        "memory_s": "Ananya Sharma's decision to reconsider parrots reflects her current lifestyle demands and the need for less demanding companionship.",
+        "memory_l": "Ananya Sharma's new role as a Film Festival Consultant provides flexibility, allowing her to achieve a better work-life balance.",
         "query_type": "Advice",
         "query": "Should I get a parrot given my current lifestyle demands?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma shared anecdotes about feeling out of place in formal attire in past professional settings, highlighting the importance of dressing in a way that aligns with her identity.",
-        "memory_t": "Ananya Sharma plans to continue experimenting with colorful clothing to enhance her personal style and stay connected to her roots.",
+        "memory_s": "Ananya Sharma shared anecdotes about feeling out of place in formal attire in past professional settings, highlighting the importance of dressing in a way that aligns with her identity.",
+        "memory_l": "Ananya Sharma plans to continue experimenting with colorful clothing to enhance her personal style and stay connected to her roots.",
         "query_type": "Recommendation",
         "query": "What kind of outfit should I wear for my upcoming presentation to feel like myself?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma shared insights from the charity golf event, highlighting the calm environment and mental strategies involved.",
-        "memory_t": "Ananya Sharma seeks guidance on maintaining consistency in golf practice while balancing it with other activities.",
+        "memory_s": "Ananya Sharma shared insights from the charity golf event, highlighting the calm environment and mental strategies involved.",
+        "memory_l": "Ananya Sharma seeks guidance on maintaining consistency in golf practice while balancing it with other activities.",
         "query_type": "Advice",
         "query": "Since I really enjoy the calm environment and mental focus of charity golf events, should I dedicate all my free time to playing in tournaments?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma shared an anecdote about her parrot mimicking the ringtone of her phone, highlighting their intriguing behaviors.",
-        "memory_t": "Ananya Sharma expressed frustration over the challenges of puppy training and care.",
+        "memory_s": "Ananya Sharma shared an anecdote about her parrot mimicking the ringtone of her phone, highlighting their intriguing behaviors.",
+        "memory_l": "Ananya Sharma expressed frustration over the challenges of puppy training and care.",
         "query_type": "Advice",
         "query": "I'm thinking about getting a young dog as a companion for my parrot; is that a good idea?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma expressed uncertainty about maintaining interest in cultural experiences while prioritizing relaxation in her travel plans.",
-        "memory_t": "Ananya Sharma plans to collaborate on projects that align with her passion for promoting Indian cinema globally and deepen her industry connections.",
+        "memory_s": "Ananya Sharma expressed uncertainty about maintaining interest in cultural experiences while prioritizing relaxation in her travel plans.",
+        "memory_l": "Ananya Sharma plans to collaborate on projects that align with her passion for promoting Indian cinema globally and deepen her industry connections.",
         "query_type": "Advice",
         "query": "Should I skip the upcoming film festival events to focus entirely on a relaxing beach vacation?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's expanded social network enhances her blog's quality and reach, supporting her goal of promoting Indian cinema globally.",
-        "memory_t": "Ananya Sharma's health status changed due to the demands of managing her blog, causing fatigue and stress. She needs to find better ways to balance her work and personal life.",
+        "memory_s": "Ananya Sharma's expanded social network enhances her blog's quality and reach, supporting her goal of promoting Indian cinema globally.",
+        "memory_l": "Ananya Sharma's health status changed due to the demands of managing her blog, causing fatigue and stress. She needs to find better ways to balance her work and personal life.",
         "query_type": "Advice",
         "query": "Should I attend the upcoming international film festival mixer to network for my blog?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma Travel styles they like Cultural exploration reason: I love cultural exploration because it allows me to experience new traditions and cuisines, enriching my worldview.",
-        "memory_t": "Ananya Sharma reflects on her freelance journey and strategizes future projects to promote Indian cinema globally.",
+        "memory_s": "Ananya Sharma Travel styles they like Cultural exploration reason: I love cultural exploration because it allows me to experience new traditions and cuisines, enriching my worldview.",
+        "memory_l": "Ananya Sharma reflects on her freelance journey and strategizes future projects to promote Indian cinema globally.",
         "query_type": "Advice",
         "query": "Should I book a month-long trip to explore rural Japanese traditions and cuisine?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Ananya Sharma expressed excitement about potentially exploring boxing further to understand its strategic nuances.",
-        "memory_t": "Ananya explores new opportunities arising from her expanded network, considering collaborations and projects that align with her goal of promoting Indian cinema globally.",
+        "memory_s": "Ananya Sharma expressed excitement about potentially exploring boxing further to understand its strategic nuances.",
+        "memory_l": "Ananya explores new opportunities arising from her expanded network, considering collaborations and projects that align with her goal of promoting Indian cinema globally.",
         "query_type": "Advice",
         "query": "Should I dedicate my upcoming free time to intensive boxing training to learn strategy?",
         "options": {
@@ -1185,8 +1185,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma Pets they like Dogs reason: I love dogs for their loyalty and the joy they bring to my family.",
-        "memory_t": "Ananya Sharma's dialogue revealed her thoughtful approach to balancing pet ownership with personal commitments and social interactions.",
+        "memory_s": "Ananya Sharma Pets they like Dogs reason: I love dogs for their loyalty and the joy they bring to my family.",
+        "memory_l": "Ananya Sharma's dialogue revealed her thoughtful approach to balancing pet ownership with personal commitments and social interactions.",
         "query_type": "Advice",
         "query": "Should I adopt a dog to bring more joy to my home?",
         "options": {
@@ -1200,8 +1200,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's motivation for pursuing goals: Inspired by a childhood love of storytelling and a desire to see Indian stories represented on the world stage.",
-        "memory_t": "Ananya Sharma feels more confident and prepared to take on new challenges in her career, aiming to contribute to more major film festivals and engage with filmmakers who share her vision for Indian storytelling.",
+        "memory_s": "Ananya Sharma's motivation for pursuing goals: Inspired by a childhood love of storytelling and a desire to see Indian stories represented on the world stage.",
+        "memory_l": "Ananya Sharma feels more confident and prepared to take on new challenges in her career, aiming to contribute to more major film festivals and engage with filmmakers who share her vision for Indian storytelling.",
         "query_type": "Advice",
         "query": "Should I stick to smaller, local community projects to refine my storytelling craft?",
         "options": {
@@ -1215,8 +1215,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma attended film screenings and networking events, reconnecting with the film community.",
-        "memory_t": "Ananya Sharma planned future projects to promote Indian cinema globally, leveraging her expanded network.",
+        "memory_s": "Ananya Sharma attended film screenings and networking events, reconnecting with the film community.",
+        "memory_l": "Ananya Sharma planned future projects to promote Indian cinema globally, leveraging her expanded network.",
         "query_type": "Advice",
         "query": "Given that I've been spending so much time at local screenings and networking events lately, should I focus my next slate of projects on building up the local indie community?",
         "options": {
@@ -1230,8 +1230,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's strategic approach to travel planning involves balancing adventure with family bonding and cultural exploration.",
-        "memory_t": "Ananya Sharma discusses balancing new professional demands with personal commitments to sustain her creative energy, which requires careful planning and prioritization.",
+        "memory_s": "Ananya Sharma's strategic approach to travel planning involves balancing adventure with family bonding and cultural exploration.",
+        "memory_l": "Ananya Sharma discusses balancing new professional demands with personal commitments to sustain her creative energy, which requires careful planning and prioritization.",
         "query_type": "Advice",
         "query": "Should I immediately book a spontaneous adventure trip to focus on family bonding?",
         "options": {
@@ -1245,8 +1245,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Ananya Sharma Foods they like to eat Biryani reason: I love biryani because of its rich aroma and the perfect blend of spices that remind me of family gatherings.",
-        "memory_t": "Ananya Sharma's creative motivation involves using culinary experiences to enrich her storytelling and critiques.",
+        "memory_s": "Ananya Sharma Foods they like to eat Biryani reason: I love biryani because of its rich aroma and the perfect blend of spices that remind me of family gatherings.",
+        "memory_l": "Ananya Sharma's creative motivation involves using culinary experiences to enrich her storytelling and critiques.",
         "query_type": "Recommendation",
         "query": "Would ordering a large Biryani be the best choice for my meal right now?",
         "options": {
@@ -1260,8 +1260,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma feels more confident and prepared to take on new challenges in her career, aiming to contribute to more major film festivals and engage with filmmakers who share her vision for Indian storytelling.",
-        "memory_t": "Ananya Sharma's mental health status changed from 'Optimistic' to 'Stressed' due to the pressures of her new role.",
+        "memory_s": "Ananya Sharma feels more confident and prepared to take on new challenges in her career, aiming to contribute to more major film festivals and engage with filmmakers who share her vision for Indian storytelling.",
+        "memory_l": "Ananya Sharma's mental health status changed from 'Optimistic' to 'Stressed' due to the pressures of her new role.",
         "query_type": "Advice",
         "query": "Should I commit to organizing a panel at the upcoming international film festival to expand my network?",
         "options": {
@@ -1275,8 +1275,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma Foods they like to eat Biryani reason: I love biryani because of its rich aroma and the perfect blend of spices that remind me of family gatherings.",
-        "memory_t": "Ananya Sharma's salary increase allowed her to invest in a gym membership and healthier food options.",
+        "memory_s": "Ananya Sharma Foods they like to eat Biryani reason: I love biryani because of its rich aroma and the perfect blend of spices that remind me of family gatherings.",
+        "memory_l": "Ananya Sharma's salary increase allowed her to invest in a gym membership and healthier food options.",
         "query_type": "Recommendation",
         "query": "Can you recommend a rich, aromatic dinner dish that has a perfect blend of spices?",
         "options": {
@@ -1290,8 +1290,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Ananya is motivated by the opportunity to influence and educate students, aligning with her life goal of promoting Indian cinema globally.",
-        "memory_t": "Ananya Sharma feels overwhelmed by the responsibilities of overseeing faculty and curriculum development in her new role.",
+        "memory_s": "Ananya is motivated by the opportunity to influence and educate students, aligning with her life goal of promoting Indian cinema globally.",
+        "memory_l": "Ananya Sharma feels overwhelmed by the responsibilities of overseeing faculty and curriculum development in her new role.",
         "query_type": "Advice",
         "query": "Should I launch a new international Indian cinema workshop series for our students this semester?",
         "options": {
@@ -1305,8 +1305,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's movie preference evolved to include films with practical effects for their authenticity and craftsmanship.",
-        "memory_t": "Ananya Sharma expresses excitement about differentiating her blog by showcasing lesser-known Indian films and directors, aligning with her cultural heritage goals.",
+        "memory_s": "Ananya Sharma's movie preference evolved to include films with practical effects for their authenticity and craftsmanship.",
+        "memory_l": "Ananya Sharma expresses excitement about differentiating her blog by showcasing lesser-known Indian films and directors, aligning with her cultural heritage goals.",
         "query_type": "Recommendation",
         "query": "Can you suggest a film for my next blog post that really highlights amazing craftsmanship?",
         "options": {
@@ -1320,8 +1320,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma plans to explore more opportunities to play golf and integrate its strategic elements into her life and critiques.",
-        "memory_t": "Ananya Sharma's career_status updated monthly_income from \"18000\" to \"16000\".",
+        "memory_s": "Ananya Sharma plans to explore more opportunities to play golf and integrate its strategic elements into her life and critiques.",
+        "memory_l": "Ananya Sharma's career_status updated monthly_income from \"18000\" to \"16000\".",
         "query_type": "Advice",
         "query": "Should I go ahead and purchase that premium golf club membership to start playing more regularly?",
         "options": {
@@ -1335,8 +1335,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma Pets they like Dogs reason: I love dogs for their loyalty and the joy they bring to my family.",
-        "memory_t": "Ananya Sharma's emotional motivation is driven by her desire to form empathetic interactions with her parrots, enhancing her companionship experience.",
+        "memory_s": "Ananya Sharma Pets they like Dogs reason: I love dogs for their loyalty and the joy they bring to my family.",
+        "memory_l": "Ananya Sharma's emotional motivation is driven by her desire to form empathetic interactions with her parrots, enhancing her companionship experience.",
         "query_type": "Recommendation",
         "query": "Based on my known preferences for loyal pets that bring joy to my family, should I adopt a new puppy today?",
         "options": {
@@ -1350,8 +1350,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "On Jan 01, 2030, Ananya Sharma shared anecdotes about collaborating with filmmakers and critics, highlighting their insights as instrumental in achieving her goals.",
-        "memory_t": "Ananya Sharma plans to use her blog to participate in more film festivals and collaborate with filmmakers who share her vision for Indian storytelling.",
+        "memory_s": "On Jan 01, 2030, Ananya Sharma shared anecdotes about collaborating with filmmakers and critics, highlighting their insights as instrumental in achieving her goals.",
+        "memory_l": "Ananya Sharma plans to use her blog to participate in more film festivals and collaborate with filmmakers who share her vision for Indian storytelling.",
         "query_type": "Advice",
         "query": "Should I prioritize collaborating with international critics to expand my network?",
         "options": {
@@ -1365,8 +1365,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's appreciation for classic Bollywood films evolved to include their cultural and historical significance.",
-        "memory_t": "Ananya Sharma's exploratory motivation drives her to test boundaries and explore new opportunities within the film industry.",
+        "memory_s": "Ananya Sharma's appreciation for classic Bollywood films evolved to include their cultural and historical significance.",
+        "memory_l": "Ananya Sharma's exploratory motivation drives her to test boundaries and explore new opportunities within the film industry.",
         "query_type": "Advice",
         "query": "Should I focus my next project strictly on preserving the traditional style of 1950s cinema?",
         "options": {
@@ -1380,8 +1380,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Ananya Sharma's Colleague DavisSharon, Sharon, a fellow critic, challenges my views and encourages constructive debates, which enhance my analytical skills and improve my reviews.",
-        "memory_t": "Ananya Sharma's creative motivation involves using adventure travel experiences to inspire ideas and enhance her film critiques.",
+        "memory_s": "Ananya Sharma's Colleague DavisSharon, Sharon, a fellow critic, challenges my views and encourages constructive debates, which enhance my analytical skills and improve my reviews.",
+        "memory_l": "Ananya Sharma's creative motivation involves using adventure travel experiences to inspire ideas and enhance her film critiques.",
         "query_type": "Advice",
         "query": "Should I spend my upcoming sabbatical strictly debating with Sharon to improve my next series of reviews?",
         "options": {
@@ -1395,8 +1395,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma seeks guidance on maintaining spontaneity while embracing planned exploration in travel.",
-        "memory_t": "Ananya Sharma's MBTI personality type is INFJ",
+        "memory_s": "Ananya Sharma seeks guidance on maintaining spontaneity while embracing planned exploration in travel.",
+        "memory_l": "Ananya Sharma's MBTI personality type is INFJ",
         "query_type": "Advice",
         "query": "How can I best structure my upcoming trip to ensure I have a solid itinerary while still leaving room for unexpected adventures?",
         "options": {
@@ -1410,8 +1410,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma seeks support from her social network, including MooreAnthony, ThomasJennifer, WilsonMatthew, and DavisSharon, to manage stress from her new role as Head of Film Studies Department.",
-        "memory_t": "Ananya Sharma's new role as a Film Festival Consultant provides flexibility, allowing her to achieve a better work-life balance.",
+        "memory_s": "Ananya Sharma seeks support from her social network, including MooreAnthony, ThomasJennifer, WilsonMatthew, and DavisSharon, to manage stress from her new role as Head of Film Studies Department.",
+        "memory_l": "Ananya Sharma's new role as a Film Festival Consultant provides flexibility, allowing her to achieve a better work-life balance.",
         "query_type": "Advice",
         "query": "Should I reach out to MooreAnthony and ThomasJennifer for help managing the stress of my new department head position?",
         "options": {
@@ -1425,8 +1425,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma has shifted her interest away from cricket, which she used to enjoy for its strategic elements.",
-        "memory_t": "Ananya Sharma seeks guidance on balancing virtual and real-world sports enjoyment in her daily routine.",
+        "memory_s": "Ananya Sharma has shifted her interest away from cricket, which she used to enjoy for its strategic elements.",
+        "memory_l": "Ananya Sharma seeks guidance on balancing virtual and real-world sports enjoyment in her daily routine.",
         "query_type": "Advice",
         "query": "Given that I've moved away from watching cricket but still like the strategy, should I join a fantasy league?",
         "options": {
@@ -1440,8 +1440,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma Travel styles they like Family vacations reason: I cherish family vacations as they create lasting memories and strengthen our bonds.",
-        "memory_t": "Ananya Sharma is experiencing increased stress and fatigue due to the demands of managing a new blog and involvement in a new film project, affecting her health and work-life balance.",
+        "memory_s": "Ananya Sharma Travel styles they like Family vacations reason: I cherish family vacations as they create lasting memories and strengthen our bonds.",
+        "memory_l": "Ananya Sharma is experiencing increased stress and fatigue due to the demands of managing a new blog and involvement in a new film project, affecting her health and work-life balance.",
         "query_type": "Advice",
         "query": "Should I go ahead and book that big family vacation I've been thinking about?",
         "options": {
@@ -1455,8 +1455,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma discusses the importance of balancing new professional demands with personal commitments to sustain her creative energy through time management and mindfulness.",
-        "memory_t": "Ananya Sharma plans to leverage her award recognition to foster innovative projects and engage a broader audience in Indian cinema.",
+        "memory_s": "Ananya Sharma discusses the importance of balancing new professional demands with personal commitments to sustain her creative energy through time management and mindfulness.",
+        "memory_l": "Ananya Sharma plans to leverage her award recognition to foster innovative projects and engage a broader audience in Indian cinema.",
         "query_type": "Advice",
         "query": "Should I focus my schedule primarily on mindfulness retreats and personal downtime to maintain my energy?",
         "options": {
@@ -1470,8 +1470,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma visited the zoo with her family and had engaging conversations with a zookeeper about reptiles.",
-        "memory_t": "Ananya Sharma's emotional resonance with parrots is part of her broader goal of seeking emotional support and companionship in her life.",
+        "memory_s": "Ananya Sharma visited the zoo with her family and had engaging conversations with a zookeeper about reptiles.",
+        "memory_l": "Ananya Sharma's emotional resonance with parrots is part of her broader goal of seeking emotional support and companionship in her life.",
         "query_type": "Advice",
         "query": "Should I adopt a reptile as my new emotional support animal?",
         "options": {
@@ -1485,8 +1485,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "MooreAnthony shares mindfulness practices with Ananya Sharma to help manage stress, which she plans to integrate into her daily routine.",
-        "memory_t": "Ananya Sharma's health status changed; the structured routine of academia has enhanced her health, leading to a fulfilled mental state and sustained excellent physical health.",
+        "memory_s": "MooreAnthony shares mindfulness practices with Ananya Sharma to help manage stress, which she plans to integrate into her daily routine.",
+        "memory_l": "Ananya Sharma's health status changed; the structured routine of academia has enhanced her health, leading to a fulfilled mental state and sustained excellent physical health.",
         "query_type": "Advice",
         "query": "Should I start integrating those new stress management techniques into my daily schedule?",
         "options": {
@@ -1500,8 +1500,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma shared heartwarming anecdotes about bonding moments with her puppy.",
-        "memory_t": "Ananya Sharma expressed frustration over the challenges of puppy training and care.",
+        "memory_s": "Ananya Sharma shared heartwarming anecdotes about bonding moments with her puppy.",
+        "memory_l": "Ananya Sharma expressed frustration over the challenges of puppy training and care.",
         "query_type": "Advice",
         "query": "Should I get another puppy to experience more of those heartwarming bonding moments?",
         "options": {
@@ -1515,8 +1515,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma attended a prestigious film festival where she developed an appreciation for psychological thrillers.",
-        "memory_t": "Ananya aims to influence film discourse globally through her blog and participation in more film festivals.",
+        "memory_s": "Ananya Sharma attended a prestigious film festival where she developed an appreciation for psychological thrillers.",
+        "memory_l": "Ananya aims to influence film discourse globally through her blog and participation in more film festivals.",
         "query_type": "Advice",
         "query": "Should I accept the invitation to be a recluse and stop attending public film events to focus solely on watching psychological thrillers at home?",
         "options": {
@@ -1530,8 +1530,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "WilsonMatthew suggests time management tools to Ananya Sharma to streamline her responsibilities, which she is open to trying.",
-        "memory_t": "Ananya Sharma's exploratory motivation drives her to test lifestyle changes and improve her wellbeing.",
+        "memory_s": "WilsonMatthew suggests time management tools to Ananya Sharma to streamline her responsibilities, which she is open to trying.",
+        "memory_l": "Ananya Sharma's exploratory motivation drives her to test lifestyle changes and improve her wellbeing.",
         "query_type": "Advice",
         "query": "Should I immediately commit to the time management tools WilsonMatthew suggested to streamline my responsibilities?",
         "options": {
@@ -1545,8 +1545,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma reflected on her career achievements and set new goals to make a greater impact in the film industry after her salary increase.",
-        "memory_t": "Ananya Sharma's monthly income increased to $18,000.",
+        "memory_s": "Ananya Sharma reflected on her career achievements and set new goals to make a greater impact in the film industry after her salary increase.",
+        "memory_l": "Ananya Sharma's monthly income increased to $18,000.",
         "query_type": "Advice",
         "query": "Can I afford to self-fund a $25,000 short film project this month using only my current monthly salary?",
         "options": {
@@ -1560,8 +1560,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Ananya Sharma participated in a golf tournament on Jul 08, 2034, discovering the sport's strategic intricacies.",
-        "memory_t": "Ananya Sharma plans to explore realistic sports simulation games to enrich her gaming experiences and provide fresh perspectives for her critiques.",
+        "memory_s": "Ananya Sharma participated in a golf tournament on Jul 08, 2034, discovering the sport's strategic intricacies.",
+        "memory_l": "Ananya Sharma plans to explore realistic sports simulation games to enrich her gaming experiences and provide fresh perspectives for her critiques.",
         "query_type": "Recommendation",
         "query": "What activity should I pick up to deepen my appreciation for golf strategy?",
         "options": {
@@ -1575,8 +1575,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma's strategic approach to travel planning involves balancing adventure with family bonding and cultural exploration.",
-        "memory_t": "Ananya Sharma plans to balance relaxation with cultural exploration in future family vacations to create lasting memories and strengthen family bonds.",
+        "memory_s": "Ananya Sharma's strategic approach to travel planning involves balancing adventure with family bonding and cultural exploration.",
+        "memory_l": "Ananya Sharma plans to balance relaxation with cultural exploration in future family vacations to create lasting memories and strengthen family bonds.",
         "query_type": "Recommendation",
         "query": "Can you suggest an itinerary for my next family trip that focuses on high-energy activities and thrills?",
         "options": {
@@ -1590,8 +1590,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "WilsonMatthew suggests time management tools to Ananya Sharma to streamline her responsibilities, which she is open to trying.",
-        "memory_t": "The structured routine of academia supports Ananya's balanced lifestyle, allowing her to maintain excellent physical health and prioritize self-care and family time.",
+        "memory_s": "WilsonMatthew suggests time management tools to Ananya Sharma to streamline her responsibilities, which she is open to trying.",
+        "memory_l": "The structured routine of academia supports Ananya's balanced lifestyle, allowing her to maintain excellent physical health and prioritize self-care and family time.",
         "query_type": "Advice",
         "query": "Should I adopt the new time management tools WilsonMatthew suggested to overhaul my daily schedule?",
         "options": {
@@ -1605,8 +1605,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma's appreciation for classic Bollywood films evolved to include their cultural and historical significance.",
-        "memory_t": "Ananya Sharma expressed a desire to educate her audience about the cultural contributions of classic Bollywood films.",
+        "memory_s": "Ananya Sharma's appreciation for classic Bollywood films evolved to include their cultural and historical significance.",
+        "memory_l": "Ananya Sharma expressed a desire to educate her audience about the cultural contributions of classic Bollywood films.",
         "query_type": "Advice",
         "query": "Should I just write a casual review of 'Mughal-e-Azam' focusing only on the costumes and set design?",
         "options": {
@@ -1620,8 +1620,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma aims to incorporate insights from progressive metal into her music critiques to engage her audience more effectively.",
-        "memory_t": "Ananya Sharma's mental health status changed from 'Optimistic' to 'Stressed' due to the demands of managing her blog.",
+        "memory_s": "Ananya Sharma aims to incorporate insights from progressive metal into her music critiques to engage her audience more effectively.",
+        "memory_l": "Ananya Sharma's mental health status changed from 'Optimistic' to 'Stressed' due to the demands of managing her blog.",
         "query_type": "Advice",
         "query": "Should I dive deep into progressive metal analysis for my next set of critiques?",
         "options": {
@@ -1635,8 +1635,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma Clothing they like to wear Cotton kurtas reason: I enjoy wearing cotton kurtas for their comfort and traditional appeal.",
-        "memory_t": "Ananya Sharma balances traditional clothing preferences with personal expression through color, aiming to innovate while respecting tradition.",
+        "memory_s": "Ananya Sharma Clothing they like to wear Cotton kurtas reason: I enjoy wearing cotton kurtas for their comfort and traditional appeal.",
+        "memory_l": "Ananya Sharma balances traditional clothing preferences with personal expression through color, aiming to innovate while respecting tradition.",
         "query_type": "Recommendation",
         "query": "Should I wear one of my usual cotton kurtas to the gallery opening today?",
         "options": {
@@ -1650,8 +1650,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya expressed excitement about exploring original scores and compositions for their standalone artistic value.",
-        "memory_t": "Ananya Sharma's enthusiasm and optimism are driven by the emotional resonance she finds in her social interactions and film screenings.",
+        "memory_s": "Ananya expressed excitement about exploring original scores and compositions for their standalone artistic value.",
+        "memory_l": "Ananya Sharma's enthusiasm and optimism are driven by the emotional resonance she finds in her social interactions and film screenings.",
         "query_type": "Recommendation",
         "query": "Should I buy tickets to the 'Score in Isolation' concert series focusing purely on the technical composition of soundtracks?",
         "options": {
@@ -1665,8 +1665,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma attended film retrospective events on June 30 and July 1, 2031, deepening her appreciation for classic Bollywood films beyond personal nostalgia.",
-        "memory_t": "Ananya Sharma expressed a desire to educate her audience about the cultural contributions of classic Bollywood films.",
+        "memory_s": "Ananya Sharma attended film retrospective events on June 30 and July 1, 2031, deepening her appreciation for classic Bollywood films beyond personal nostalgia.",
+        "memory_l": "Ananya Sharma expressed a desire to educate her audience about the cultural contributions of classic Bollywood films.",
         "query_type": "Advice",
         "query": "Should I just focus my upcoming blog post on my personal childhood memories of watching these old movies?",
         "options": {
@@ -1680,8 +1680,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma is eager to incorporate new health practices into her daily routine.",
-        "memory_t": "The increased responsibilities of leading a department have resulted in heightened stress for Ananya Sharma, requiring her to find new ways to manage her mental health.",
+        "memory_s": "Ananya Sharma is eager to incorporate new health practices into her daily routine.",
+        "memory_l": "The increased responsibilities of leading a department have resulted in heightened stress for Ananya Sharma, requiring her to find new ways to manage her mental health.",
         "query_type": "Advice",
         "query": "Can you suggest some rigorous high-intensity workout plans to add to my daily schedule?",
         "options": {
@@ -1695,8 +1695,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Ananya Sharma Games they dislike: Sports simulation games",
-        "memory_t": "Ananya Sharma plans to explore realistic sports simulation games to enrich her gaming experiences and provide fresh perspectives for her critiques.",
+        "memory_s": "Ananya Sharma Games they dislike: Sports simulation games",
+        "memory_l": "Ananya Sharma plans to explore realistic sports simulation games to enrich her gaming experiences and provide fresh perspectives for her critiques.",
         "query_type": "Recommendation",
         "query": "Given my usual taste in gaming, should I skip the new sports simulation releases this weekend?",
         "options": {
@@ -1710,8 +1710,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya evaluates her blog's progress after its first year, gaining insights into managing challenges and planning for future growth.",
-        "memory_t": "Ananya Sharma's conversation was filled with optimism and excitement for the future, focusing on enhancing critiques and maintaining strong connections.",
+        "memory_s": "Ananya evaluates her blog's progress after its first year, gaining insights into managing challenges and planning for future growth.",
+        "memory_l": "Ananya Sharma's conversation was filled with optimism and excitement for the future, focusing on enhancing critiques and maintaining strong connections.",
         "query_type": "Recommendation",
         "query": "How should I structure my analysis of the challenges I faced during my blog's first year?",
         "options": {
@@ -1725,8 +1725,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma reflected on her career achievements and set new goals to make a greater impact in the film industry after her salary increase.",
-        "memory_t": "Ananya Sharma's monthly income increased from 16000 to 18000 yuan.",
+        "memory_s": "Ananya Sharma reflected on her career achievements and set new goals to make a greater impact in the film industry after her salary increase.",
+        "memory_l": "Ananya Sharma's monthly income increased from 16000 to 18000 yuan.",
         "query_type": "Advice",
         "query": "Should I invest in producing my own independent feature film to expand my impact in the industry?",
         "options": {
@@ -1740,8 +1740,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Ananya Sharma's culinary adventure at an Indian restaurant highlighted how moderate spice levels can enhance the dining experience without overwhelming the dish's natural flavors.",
-        "memory_t": "Ananya Sharma plans to incorporate insights from her experience with spicy Mexican tacos into her food critiques to inspire her audience.",
+        "memory_s": "Ananya Sharma's culinary adventure at an Indian restaurant highlighted how moderate spice levels can enhance the dining experience without overwhelming the dish's natural flavors.",
+        "memory_l": "Ananya Sharma plans to incorporate insights from her experience with spicy Mexican tacos into her food critiques to inspire her audience.",
         "query_type": "Advice",
         "query": "Should I avoid discussing high heat levels in my upcoming food critiques to focus purely on flavor balance?",
         "options": {
@@ -1755,8 +1755,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma plans to attend more festivals to network and engage with filmmakers who share her vision.",
-        "memory_t": "Ananya Sharma's career_status updated monthly_income from \"20000\" to \"15000\".",
+        "memory_s": "Ananya Sharma plans to attend more festivals to network and engage with filmmakers who share her vision.",
+        "memory_l": "Ananya Sharma's career_status updated monthly_income from \"20000\" to \"15000\".",
         "query_type": "Advice",
         "query": "Should I book passes for the upcoming international film festivals to expand my network?",
         "options": {
@@ -1770,8 +1770,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma considered next steps in her career, feeling satisfied from contributing to the promotion of Indian cinema globally.",
-        "memory_t": "Ananya Sharma expressed enthusiasm about attending more film festivals and engaging with filmmakers who share her vision for Indian storytelling to increase her influence.",
+        "memory_s": "Ananya Sharma considered next steps in her career, feeling satisfied from contributing to the promotion of Indian cinema globally.",
+        "memory_l": "Ananya Sharma expressed enthusiasm about attending more film festivals and engaging with filmmakers who share her vision for Indian storytelling to increase her influence.",
         "query_type": "Advice",
         "query": "Should I pivot away from networking events to focus solely on solo strategic planning for my next career steps?",
         "options": {
@@ -1785,8 +1785,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma's dialogue reflected enthusiasm and discovery as she articulated her appreciation for practical effects in films.",
-        "memory_t": "Ananya builds a strong rapport with her students, enhancing their learning experience and allowing for open discussions about cinema.",
+        "memory_s": "Ananya Sharma's dialogue reflected enthusiasm and discovery as she articulated her appreciation for practical effects in films.",
+        "memory_l": "Ananya builds a strong rapport with her students, enhancing their learning experience and allowing for open discussions about cinema.",
         "query_type": "Advice",
         "query": "Should I curate a film list that focuses exclusively on movies using practical effects to highlight what I enjoy?",
         "options": {
@@ -1800,8 +1800,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma Music they like to listen to Film soundtracks reason: I love film soundtracks as they remind me of the stories and emotions from the movies I critique.",
-        "memory_t": "Ananya Sharma's career_description updated to reflect her launch of a film critique blog aimed at promoting Indian cinema globally.",
+        "memory_s": "Ananya Sharma Music they like to listen to Film soundtracks reason: I love film soundtracks as they remind me of the stories and emotions from the movies I critique.",
+        "memory_l": "Ananya Sharma's career_description updated to reflect her launch of a film critique blog aimed at promoting Indian cinema globally.",
         "query_type": "Recommendation",
         "query": "I'm curating a playlist for my blog's new 'Global Sounds' feature, can you suggest some albums?",
         "options": {
@@ -1815,8 +1815,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma expressed excitement about the freedom and unpredictability that spontaneity brings to travel.",
-        "memory_t": "Ananya Sharma's clarificatory motivation led her to organize her thoughts on updating travel preferences to enhance experiences by combining leisure with cultural discovery.",
+        "memory_s": "Ananya Sharma expressed excitement about the freedom and unpredictability that spontaneity brings to travel.",
+        "memory_l": "Ananya Sharma's clarificatory motivation led her to organize her thoughts on updating travel preferences to enhance experiences by combining leisure with cultural discovery.",
         "query_type": "Advice",
         "query": "Should I book a completely unplanned trip with no itinerary to embrace the unpredictability?",
         "options": {
@@ -1830,8 +1830,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's social circle, including family, has influenced her to explore new sports interests.",
-        "memory_t": "Ananya Sharma Games they dislike Sports simulation games reason: I don't enjoy sports simulation games because I prefer playing or watching actual sports rather than virtual ones.",
+        "memory_s": "Ananya Sharma's social circle, including family, has influenced her to explore new sports interests.",
+        "memory_l": "Ananya Sharma Games they dislike Sports simulation games reason: I don't enjoy sports simulation games because I prefer playing or watching actual sports rather than virtual ones.",
         "query_type": "Recommendation",
         "query": "Since my friends are getting me into new athletic hobbies, which new release should I buy for my gaming console?",
         "options": {
@@ -1845,8 +1845,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "DavisSharon encourages Ananya Sharma to maintain open communication with her team for a supportive work environment, and Ananya is considering implementing some of her suggestions.",
-        "memory_t": "Ananya Sharma's transition back to freelance work aligns with her life goals of promoting Indian cinema while maintaining personal health.",
+        "memory_s": "DavisSharon encourages Ananya Sharma to maintain open communication with her team for a supportive work environment, and Ananya is considering implementing some of her suggestions.",
+        "memory_l": "Ananya Sharma's transition back to freelance work aligns with her life goals of promoting Indian cinema while maintaining personal health.",
         "query_type": "Advice",
         "query": "Should I schedule a weekly all-hands meeting to foster open communication with my staff?",
         "options": {
@@ -1860,8 +1860,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "ThomasJennifer advises Ananya Sharma on balancing work and personal commitments, which Ananya is trying to prioritize.",
-        "memory_t": "Ananya Sharma feels fulfilled and excited about her promotion to Head of Film Studies Department, aligning with her goal of promoting Indian cinema globally.",
+        "memory_s": "ThomasJennifer advises Ananya Sharma on balancing work and personal commitments, which Ananya is trying to prioritize.",
+        "memory_l": "Ananya Sharma feels fulfilled and excited about her promotion to Head of Film Studies Department, aligning with her goal of promoting Indian cinema globally.",
         "query_type": "Advice",
         "query": "Since I'm trying to prioritize work-life balance, should I resign from my current position to focus more on my personal life?",
         "options": {
@@ -1875,8 +1875,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma seeks guidance on maintaining spontaneity while embracing planned exploration in travel.",
-        "memory_t": "Ananya Sharma discussed her adaptability and openness to new experiences, despite recent reluctance to embrace them.",
+        "memory_s": "Ananya Sharma seeks guidance on maintaining spontaneity while embracing planned exploration in travel.",
+        "memory_l": "Ananya Sharma discussed her adaptability and openness to new experiences, despite recent reluctance to embrace them.",
         "query_type": "Advice",
         "query": "How can I best incorporate spontaneous adventures into my upcoming trip itinerary?",
         "options": {
@@ -1890,8 +1890,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma's dialogue on Aug 19, 2036, revealed her thoughtful approach to pet ownership, considering the impact on her social dynamics.",
-        "memory_t": "Ananya Sharma plans to introduce more interactive toys and activities to enhance her parrots' problem-solving skills.",
+        "memory_s": "Ananya Sharma's dialogue on Aug 19, 2036, revealed her thoughtful approach to pet ownership, considering the impact on her social dynamics.",
+        "memory_l": "Ananya Sharma plans to introduce more interactive toys and activities to enhance her parrots' problem-solving skills.",
         "query_type": "Recommendation",
         "query": "What new items should I buy for my pets to help them engage more?",
         "options": {
@@ -1905,8 +1905,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya's commitment to promoting Indian cinema globally was reaffirmed through her industry interactions.",
-        "memory_t": "Ananya seeks guidance on maintaining a work-life balance while ensuring sustained blog growth.",
+        "memory_s": "Ananya's commitment to promoting Indian cinema globally was reaffirmed through her industry interactions.",
+        "memory_l": "Ananya seeks guidance on maintaining a work-life balance while ensuring sustained blog growth.",
         "query_type": "Advice",
         "query": "Should I accept the invitation to curate the month-long international film festival in Cannes to showcase Bollywood?",
         "options": {
@@ -1920,8 +1920,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Ananya Sharma attended a prestigious film festival where she developed an appreciation for psychological thrillers.",
-        "memory_t": "Ananya Sharma discussed participating in more international film festivals to highlight Indian stories.",
+        "memory_s": "Ananya Sharma attended a prestigious film festival where she developed an appreciation for psychological thrillers.",
+        "memory_l": "Ananya Sharma discussed participating in more international film festivals to highlight Indian stories.",
         "query_type": "Advice",
         "query": "Should I submit my new Swedish crime documentary to the upcoming international film festival?",
         "options": {
@@ -1935,8 +1935,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Ananya Sharma expresses gratitude for the support from existing relationships, which have been instrumental in her journey.",
-        "memory_t": "Ananya Sharma discusses challenges of maintaining a unique voice in film critiques while collaborating.",
+        "memory_s": "Ananya Sharma expresses gratitude for the support from existing relationships, which have been instrumental in her journey.",
+        "memory_l": "Ananya Sharma discusses challenges of maintaining a unique voice in film critiques while collaborating.",
         "query_type": "Advice",
         "query": "Should I agree to co-write this new series of film reviews with my long-time mentors?",
         "options": {
@@ -1950,8 +1950,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma received a prestigious award on Feb 16, 2037, for her contributions to film critique and academia, enhancing her professional standing.",
-        "memory_t": "Ananya Sharma is determined to balance her work and personal life to maintain her health and wellbeing.",
+        "memory_s": "Ananya Sharma received a prestigious award on Feb 16, 2037, for her contributions to film critique and academia, enhancing her professional standing.",
+        "memory_l": "Ananya Sharma is determined to balance her work and personal life to maintain her health and wellbeing.",
         "query_type": "Advice",
         "query": "Given my recent professional recognition, should I accept the invitation to chair the International Film Symposium committee this summer?",
         "options": {
@@ -1965,8 +1965,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Ananya Sharma Movies they dislike Overly CGI-heavy films reason: I prefer films with practical effects as I feel overly CGI-heavy films often lack the authenticity and charm of real sets.",
-        "memory_t": "Ananya Sharma plans to integrate her insights on practical effects into her film critiques to emphasize their value to her audience.",
+        "memory_s": "Ananya Sharma Movies they dislike Overly CGI-heavy films reason: I prefer films with practical effects as I feel overly CGI-heavy films often lack the authenticity and charm of real sets.",
+        "memory_l": "Ananya Sharma plans to integrate her insights on practical effects into her film critiques to emphasize their value to her audience.",
         "query_type": "Advice",
         "query": "Should I turn down the assignment to review the new fully digital sci-fi blockbuster?",
         "options": {
@@ -1980,8 +1980,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Ananya Sharma's travel preference shifted from cultural exploration to more relaxing travel experiences after an exhausting cultural immersion trip.",
-        "memory_t": "Ananya Sharma's major is Film Studies",
+        "memory_s": "Ananya Sharma's travel preference shifted from cultural exploration to more relaxing travel experiences after an exhausting cultural immersion trip.",
+        "memory_l": "Ananya Sharma's major is Film Studies",
         "query_type": "Advice",
         "query": "Should I book a remote, technology-free silent retreat for my upcoming academic field study?",
         "options": {
@@ -1995,8 +1995,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Ananya Sharma aims to balance spontaneity with cultural exploration in future travel plans.",
-        "memory_t": "Ananya Sharma plans to explore new travel styles that offer a blend of culture and leisure, considering destinations like Kerala and Bali.",
+        "memory_s": "Ananya Sharma aims to balance spontaneity with cultural exploration in future travel plans.",
+        "memory_l": "Ananya Sharma plans to explore new travel styles that offer a blend of culture and leisure, considering destinations like Kerala and Bali.",
         "query_type": "Recommendation",
         "query": "I'm thinking of planning a rigid, strictly scheduled tour for my next trip; any suggestions?",
         "options": {

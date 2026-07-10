@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Johnson Joseph's Friend DavisBetty, Betty is a close friend who supports me during challenging times and helps me with marketing ideas.",
-        "memory_t": "Johnson Joseph's career_status updated employment_status from \"self-employed\" to \"retired\"",
+        "memory_s": "Johnson Joseph's Friend DavisBetty, Betty is a close friend who supports me during challenging times and helps me with marketing ideas.",
+        "memory_l": "Johnson Joseph's career_status updated employment_status from \"self-employed\" to \"retired\"",
         "query_type": "Advice",
         "query": "Should I schedule a brainstorming session with Betty to plan my next big business launch?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph discussed the potential for hosting gaming nights at Albi B&B, focusing on strategic and cooperative gameplay to enhance guest interaction.",
-        "memory_t": "Johnson Joseph committed to exploring more thematic cooperative games to enrich guest interactions and satisfaction.",
+        "memory_s": "Johnson Joseph discussed the potential for hosting gaming nights at Albi B&B, focusing on strategic and cooperative gameplay to enhance guest interaction.",
+        "memory_l": "Johnson Joseph committed to exploring more thematic cooperative games to enrich guest interactions and satisfaction.",
         "query_type": "Recommendation",
         "query": "Can you suggest some purely strategic, abstract board games for my upcoming guest night?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson finalized his retirement plans, securing the future of Albi B&B with a sustainable model.",
-        "memory_t": "Johnson Joseph's creative motivation is driven by a desire to inspire ideas and generate content for his bed and breakfast, aiming for a world-renowned destination.",
+        "memory_s": "Johnson finalized his retirement plans, securing the future of Albi B&B with a sustainable model.",
+        "memory_l": "Johnson Joseph's creative motivation is driven by a desire to inspire ideas and generate content for his bed and breakfast, aiming for a world-renowned destination.",
         "query_type": "Advice",
         "query": "Since I've secured the sustainable model for the B&B, should I step back completely and stop creating new content?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph acknowledged the value of diverse perspectives in literature for overcoming creative blocks and expanding his business ideas.",
-        "memory_t": "Johnson Joseph's new reading focus is expected to provide inspiration and practical insights for achieving his goal of transforming Albi B&B into a world-renowned destination.",
+        "memory_s": "Johnson Joseph acknowledged the value of diverse perspectives in literature for overcoming creative blocks and expanding his business ideas.",
+        "memory_l": "Johnson Joseph's new reading focus is expected to provide inspiration and practical insights for achieving his goal of transforming Albi B&B into a world-renowned destination.",
         "query_type": "Recommendation",
         "query": "Can you suggest some new books that offer diverse perspectives to help me brainstorm general business ideas?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph expressed excitement about the potential of opera to enrich guest interactions and elevate Albi B&B's offerings.",
-        "memory_t": "Johnson Joseph plans to incorporate his interest in snakes into guest experiences at Albi B&B.",
+        "memory_s": "Johnson Joseph expressed excitement about the potential of opera to enrich guest interactions and elevate Albi B&B's offerings.",
+        "memory_l": "Johnson Joseph plans to incorporate his interest in snakes into guest experiences at Albi B&B.",
         "query_type": "Advice",
         "query": "Should I finalize the schedule for the live aria performances to greet our guests upon arrival?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph shared anecdotes from past travels, highlighting the emotional impact of solo travel versus companionship.",
-        "memory_t": "Johnson Joseph plans to continue fostering professional relationships by engaging in regular dialogues and collaborative projects.",
+        "memory_s": "Johnson Joseph shared anecdotes from past travels, highlighting the emotional impact of solo travel versus companionship.",
+        "memory_l": "Johnson Joseph plans to continue fostering professional relationships by engaging in regular dialogues and collaborative projects.",
         "query_type": "Advice",
         "query": "Based on my past reflections on travel, should I book a month-long solo backpacking trip right now?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Johnson Joseph expressed gratitude towards his team and partners for their support in implementing changes at Albi B&B.",
-        "memory_t": "Johnson Joseph expressed a desire to incorporate cultural immersion elements into guest experiences at Albi B&B to enhance their stay.",
+        "memory_s": "Johnson Joseph expressed gratitude towards his team and partners for their support in implementing changes at Albi B&B.",
+        "memory_l": "Johnson Joseph expressed a desire to incorporate cultural immersion elements into guest experiences at Albi B&B to enhance their stay.",
         "query_type": "Advice",
         "query": "How should I direct the team's focus for the next phase of guest experience improvements?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph now appreciates opera for its emotional depth and storytelling, considering it a sophisticated choice for special occasions at Albi B&B.",
-        "memory_t": "Johnson Joseph's new music preference aligns with his goal of enhancing guest experiences at Albi B&B.",
+        "memory_s": "Johnson Joseph now appreciates opera for its emotional depth and storytelling, considering it a sophisticated choice for special occasions at Albi B&B.",
+        "memory_l": "Johnson Joseph's new music preference aligns with his goal of enhancing guest experiences at Albi B&B.",
         "query_type": "Advice",
         "query": "Should I play opera music to create a sophisticated atmosphere for the guests tonight?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph emphasized the importance of maintaining strong community ties and fostering collaborations with local businesses to sustain Albi B&B's growth and reputation.",
-        "memory_t": "Johnson Joseph plans to focus on sustainability and long-term partnerships to evolve his consultancy business.",
+        "memory_s": "Johnson Joseph emphasized the importance of maintaining strong community ties and fostering collaborations with local businesses to sustain Albi B&B's growth and reputation.",
+        "memory_l": "Johnson Joseph plans to focus on sustainability and long-term partnerships to evolve his consultancy business.",
         "query_type": "Advice",
         "query": "Should I prioritize local business collaborations to boost growth?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "The layoff from Albi B&B has halted Johnson Joseph's regular income and necessitated strategic planning to manage finances and explore alternative opportunities.",
-        "memory_t": "Johnson Joseph plans to continue fostering community connections to enhance guest experiences.",
+        "memory_s": "The layoff from Albi B&B has halted Johnson Joseph's regular income and necessitated strategic planning to manage finances and explore alternative opportunities.",
+        "memory_l": "Johnson Joseph plans to continue fostering community connections to enhance guest experiences.",
         "query_type": "Advice",
         "query": "Considering my past layoff from Albi B&B halted my regular income back then, should I finally cut all ties with the local hospitality scene now to save money?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Johnson Joseph experienced a layoff from Albi B&B due to planned restructuring in August 2027, prompting him to reassess his career path.",
-        "memory_t": "Johnson Joseph plans to continue integrating modern tools into his travel experiences to enrich exploration and efficiency.",
+        "memory_s": "Johnson Joseph experienced a layoff from Albi B&B due to planned restructuring in August 2027, prompting him to reassess his career path.",
+        "memory_l": "Johnson Joseph plans to continue integrating modern tools into his travel experiences to enrich exploration and efficiency.",
         "query_type": "Advice",
         "query": "Should I avoid using advanced tech during my upcoming trips to keep things simple?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph Books I like to read Biographies reason: Biographies inspire me by sharing the stories of successful individuals and their journeys.",
-        "memory_t": "Johnson Joseph uses compensatory motivation to overcome personal limitations in networking and managing partnerships.",
+        "memory_s": "Johnson Joseph Books I like to read Biographies reason: Biographies inspire me by sharing the stories of successful individuals and their journeys.",
+        "memory_l": "Johnson Joseph uses compensatory motivation to overcome personal limitations in networking and managing partnerships.",
         "query_type": "Recommendation",
         "query": "Can you suggest a book about a successful tycoon who built a massive empire through expert networking?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph reflects on the emotional challenges faced during the layoff and the importance of emotional support from friends and colleagues.",
-        "memory_t": "Johnson Joseph's mental health status changed from \"Positive and Sunny\" to \"Highly Positive\".",
+        "memory_s": "Johnson Joseph reflects on the emotional challenges faced during the layoff and the importance of emotional support from friends and colleagues.",
+        "memory_l": "Johnson Joseph's mental health status changed from \"Positive and Sunny\" to \"Highly Positive\".",
         "query_type": "Conversation",
         "query": "I'm feeling really down about my layoff and need emotional support; should I reach out to friends?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph Books I like to read: Biographies",
-        "memory_t": "Johnson Joseph uses the AI assistant to overcome limitations in finding relevant biographies for his career development.",
+        "memory_s": "Johnson Joseph Books I like to read: Biographies",
+        "memory_l": "Johnson Joseph uses the AI assistant to overcome limitations in finding relevant biographies for his career development.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new book for me to read this weekend?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph discussed potential ways to integrate cooperative board games into future guest activities at Albi B&B.",
-        "memory_t": "Johnson Joseph plans to incorporate thematic cooperative board games into Albi B&B's offerings to enhance guest interactions and enjoyment.",
+        "memory_s": "Johnson Joseph discussed potential ways to integrate cooperative board games into future guest activities at Albi B&B.",
+        "memory_l": "Johnson Joseph plans to incorporate thematic cooperative board games into Albi B&B's offerings to enhance guest interactions and enjoyment.",
         "query_type": "Advice",
         "query": "Should I avoid adding cooperative board games to the guest activities at Albi B&B?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph transitioned to part-time management at Albi B&B on Feb 15, 2029, to focus on personal growth and manage stress.",
-        "memory_t": "Johnson Joseph discussed the potential long-term benefits of consultancy opportunities in diversifying his career and expanding his skill set.",
+        "memory_s": "Johnson Joseph transitioned to part-time management at Albi B&B on Feb 15, 2029, to focus on personal growth and manage stress.",
+        "memory_l": "Johnson Joseph discussed the potential long-term benefits of consultancy opportunities in diversifying his career and expanding his skill set.",
         "query_type": "Advice",
         "query": "I've just moved to a part-time role to manage my stress levels; should I keep my schedule completely open for relaxation?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph Movies I like to watch Documentaries reason: I enjoy documentaries because they provide insights into different cultures and histories, which is useful for my work.",
-        "memory_t": "Johnson Joseph's career_status updated career_description from \"Leading the expansion of Albi B&B, I have diversified the business offerings and increased guest capacity, resulting in higher monthly income and greater savings.\" to \"As a retired founder, I oversee the strategic direction of Albi B&B, ensuring its continued success while stepping back from day-to-day operations.\"",
+        "memory_s": "Johnson Joseph Movies I like to watch Documentaries reason: I enjoy documentaries because they provide insights into different cultures and histories, which is useful for my work.",
+        "memory_l": "Johnson Joseph's career_status updated career_description from \"Leading the expansion of Albi B&B, I have diversified the business offerings and increased guest capacity, resulting in higher monthly income and greater savings.\" to \"As a retired founder, I oversee the strategic direction of Albi B&B, ensuring its continued success while stepping back from day-to-day operations.\"",
         "query_type": "Recommendation",
         "query": "Can you suggest some films that would be useful for my daily work?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph's game preference changed to liking tactical shooters due to their strategic gameplay.",
-        "memory_t": "Johnson Joseph discussed using thematic cooperative games for cognitive clarification to enhance guest experiences.",
+        "memory_s": "Johnson Joseph's game preference changed to liking tactical shooters due to their strategic gameplay.",
+        "memory_l": "Johnson Joseph discussed using thematic cooperative games for cognitive clarification to enhance guest experiences.",
         "query_type": "Advice",
         "query": "Should I install a tactical shooter for the upcoming guest session to improve their experience?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph now likes classical music, finding it soothing and a perfect fit for the ambiance of his bed and breakfast.",
-        "memory_t": "Johnson Joseph is exploring potential collaborations and temporary roles that align with his long-term goals in hospitality.",
+        "memory_s": "Johnson Joseph now likes classical music, finding it soothing and a perfect fit for the ambiance of his bed and breakfast.",
+        "memory_l": "Johnson Joseph is exploring potential collaborations and temporary roles that align with his long-term goals in hospitality.",
         "query_type": "Advice",
         "query": "Should I decline this temporary role offer to manage a classical music venue for the season?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph sought guidance on effective delegation strategies and discussed potential challenges of transitioning to a retirement role.",
-        "memory_t": "Johnson Joseph aims to create a lifestyle that supports personal enjoyment and professional responsibilities through engaging guest experiences at Albi B&B.",
+        "memory_s": "Johnson Joseph sought guidance on effective delegation strategies and discussed potential challenges of transitioning to a retirement role.",
+        "memory_l": "Johnson Joseph aims to create a lifestyle that supports personal enjoyment and professional responsibilities through engaging guest experiences at Albi B&B.",
         "query_type": "Advice",
         "query": "Should I start offloading my daily tasks to fully transition into my retirement phase?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph's commitment to personal and professional development was reinforced by the support from his social network.",
-        "memory_t": "Johnson Joseph's physical health status changed from \"Excellent\" to \"Average\".",
+        "memory_s": "Johnson Joseph's commitment to personal and professional development was reinforced by the support from his social network.",
+        "memory_l": "Johnson Joseph's physical health status changed from \"Excellent\" to \"Average\".",
         "query_type": "Advice",
         "query": "Considering my commitment to personal growth and my supportive network, should I sign up for that intensive, high-endurance leadership boot camp?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson expressed gratitude for the support from his consultancy partners, emphasizing their role in his career achievements and highlighting the importance of mentorship.",
-        "memory_t": "Johnson committed to exploring diverse career paths that align with his health and personal goals.",
+        "memory_s": "Johnson expressed gratitude for the support from his consultancy partners, emphasizing their role in his career achievements and highlighting the importance of mentorship.",
+        "memory_l": "Johnson committed to exploring diverse career paths that align with his health and personal goals.",
         "query_type": "Advice",
         "query": "Should I sign a long-term exclusivity contract with my current consultancy partners to secure my career future?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph is optimistic about his team’s capabilities to maintain Albi B&B's standards and uphold quality guest experiences during his retirement.",
-        "memory_t": "Johnson Joseph plans to leverage his network to explore further opportunities for business expansion and consultancy projects.",
+        "memory_s": "Johnson Joseph is optimistic about his team’s capabilities to maintain Albi B&B's standards and uphold quality guest experiences during his retirement.",
+        "memory_l": "Johnson Joseph plans to leverage his network to explore further opportunities for business expansion and consultancy projects.",
         "query_type": "Advice",
         "query": "Should I fully step back from professional life to just relax and watch my team handle the B&B?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph expressed gratitude for the support received from his network in navigating business challenges and achieving personal aspirations.",
-        "memory_t": "Johnson Joseph expressed satisfaction with his proactive approach in leveraging his social network to form strategic partnerships that provide emotional, professional, and financial support.",
+        "memory_s": "Johnson Joseph expressed gratitude for the support received from his network in navigating business challenges and achieving personal aspirations.",
+        "memory_l": "Johnson Joseph expressed satisfaction with his proactive approach in leveraging his social network to form strategic partnerships that provide emotional, professional, and financial support.",
         "query_type": "Conversation",
         "query": "I'm thinking about how lucky I am that support just naturally came to me during those tough business times, don't you think?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph values the emotional and professional support provided by his social connections during his layoff.",
-        "memory_t": "Johnson Joseph plans to mentor potential successors to ensure the continuity and quality standards of Albi B&B in his retirement.",
+        "memory_s": "Johnson Joseph values the emotional and professional support provided by his social connections during his layoff.",
+        "memory_l": "Johnson Joseph plans to mentor potential successors to ensure the continuity and quality standards of Albi B&B in his retirement.",
         "query_type": "Advice",
         "query": "Given how much I've relied on my network recently for support during this career gap, should I focus my energy on attending more job fairs and networking mixers?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph's childhood friend, Robert, provided strategic advice during his transition to part-time work.",
-        "memory_t": "Johnson Joseph expressed satisfaction with the alignment of recent marketing strategies with his goal of making Albi B&B a world-renowned destination.",
+        "memory_s": "Johnson Joseph's childhood friend, Robert, provided strategic advice during his transition to part-time work.",
+        "memory_l": "Johnson Joseph expressed satisfaction with the alignment of recent marketing strategies with his goal of making Albi B&B a world-renowned destination.",
         "query_type": "Advice",
         "query": "Should I follow Robert's advice and start winding down my involvement to focus on part-time work?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph expressed enthusiasm about offering guided hiking tours at Albi B&B, inspired by guests' appreciation during a recent hike.",
-        "memory_t": "Johnson Joseph's physical health status changed from \"Excellent\" to \"Average\".",
+        "memory_s": "Johnson Joseph expressed enthusiasm about offering guided hiking tours at Albi B&B, inspired by guests' appreciation during a recent hike.",
+        "memory_l": "Johnson Joseph's physical health status changed from \"Excellent\" to \"Average\".",
         "query_type": "Advice",
         "query": "Should I go ahead and launch those guided hiking tours for my guests at Albi B&B?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "During a gaming session on Feb 27, 2041, Johnson Joseph was introduced to a complex strategy game that captivated him and influenced his plans for Albi B&B.",
-        "memory_t": "Johnson Joseph aims to create a relaxing and welcoming atmosphere at Albi B&B using classical music.",
+        "memory_s": "During a gaming session on Feb 27, 2041, Johnson Joseph was introduced to a complex strategy game that captivated him and influenced his plans for Albi B&B.",
+        "memory_l": "Johnson Joseph aims to create a relaxing and welcoming atmosphere at Albi B&B using classical music.",
         "query_type": "Advice",
         "query": "Should I start hosting loud, intense strategy gaming tournaments in the main lounge of Albi B&B?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph Travel styles I like Cultural immersion trips reason: Cultural immersion trips provide deep insights into the ways of life of different communities, which enriches my perspective.",
-        "memory_t": "Johnson Joseph's physical health status changed from 'Excellent' to 'Fair' due to recurring fatigue.",
+        "memory_s": "Johnson Joseph Travel styles I like Cultural immersion trips reason: Cultural immersion trips provide deep insights into the ways of life of different communities, which enriches my perspective.",
+        "memory_l": "Johnson Joseph's physical health status changed from 'Excellent' to 'Fair' due to recurring fatigue.",
         "query_type": "Advice",
         "query": "Should I book an intense cultural immersion trip to rural Southeast Asia right now?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph expressed satisfaction with the increase in guest bookings and the enhanced reputation of Albi B&B.",
-        "memory_t": "Johnson Joseph hopes to set a standard for excellence in guest experiences and operational efficiency, inspiring other businesses to elevate their practices.",
+        "memory_s": "Johnson Joseph expressed satisfaction with the increase in guest bookings and the enhanced reputation of Albi B&B.",
+        "memory_l": "Johnson Joseph hopes to set a standard for excellence in guest experiences and operational efficiency, inspiring other businesses to elevate their practices.",
         "query_type": "Advice",
         "query": "Should I double the number of rooms at Albi B&B immediately to accommodate the surge in bookings?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph emphasized the importance of collaborative opportunities provided by strengthened relationships in setting the stage for new business ventures and consultancy work.",
-        "memory_t": "Johnson sought reassurance that his vision for Albi B&B would be carried forward post-retirement.",
+        "memory_s": "Johnson Joseph emphasized the importance of collaborative opportunities provided by strengthened relationships in setting the stage for new business ventures and consultancy work.",
+        "memory_l": "Johnson sought reassurance that his vision for Albi B&B would be carried forward post-retirement.",
         "query_type": "Advice",
         "query": "Should I prioritize launching a new consultancy firm to capitalize on my strengthened professional network?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph is optimistic about achieving his life goal of transforming Albi B&B into a world-renowned destination, hosting over 10,000 guests annually.",
-        "memory_t": "Johnson Joseph was diagnosed with recurring fatigue, impacting his lifestyle and career.",
+        "memory_s": "Johnson Joseph is optimistic about achieving his life goal of transforming Albi B&B into a world-renowned destination, hosting over 10,000 guests annually.",
+        "memory_l": "Johnson Joseph was diagnosed with recurring fatigue, impacting his lifestyle and career.",
         "query_type": "Advice",
         "query": "Should I immediately scale up operations to hit my target of 10,000 guests this year?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph emphasized the importance of maintaining high standards of service at Albi B&B to achieve his goal of hosting 10,000 guests annually.",
-        "memory_t": "Johnson expressed relief and satisfaction about finalizing his retirement plans, confident in the continuity of his legacy.",
+        "memory_s": "Johnson Joseph emphasized the importance of maintaining high standards of service at Albi B&B to achieve his goal of hosting 10,000 guests annually.",
+        "memory_l": "Johnson expressed relief and satisfaction about finalizing his retirement plans, confident in the continuity of his legacy.",
         "query_type": "Advice",
         "query": "Should I launch a new marketing campaign to reach my goal of 10,000 annual guests at Albi B&B?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph concluded the dialogue with optimism about future opportunities to expand Albi B&B's market presence and guest experiences.",
-        "memory_t": "Johnson Joseph hopes to set a standard for excellence in guest experiences and operational efficiency, inspiring other businesses to elevate their practices.",
+        "memory_s": "Johnson Joseph concluded the dialogue with optimism about future opportunities to expand Albi B&B's market presence and guest experiences.",
+        "memory_l": "Johnson Joseph hopes to set a standard for excellence in guest experiences and operational efficiency, inspiring other businesses to elevate their practices.",
         "query_type": "Advice",
         "query": "Should I pursue an aggressive strategy to rapidly open five new locations this quarter to capture market share?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph Sports I like Cycling reason: Cycling allows me to explore the beautiful countryside around Albi and is a great way to stay fit.",
-        "memory_t": "Johnson Joseph's career status updated from 'unemployed' to 'part-time management at Albi B&B'.",
+        "memory_s": "Johnson Joseph Sports I like Cycling reason: Cycling allows me to explore the beautiful countryside around Albi and is a great way to stay fit.",
+        "memory_l": "Johnson Joseph's career status updated from 'unemployed' to 'part-time management at Albi B&B'.",
         "query_type": "Advice",
         "query": "Should I sign up for the week-long cycling tour across the Pyrenees next month?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph now likes classical music, finding it soothing and a perfect fit for the ambiance of his bed and breakfast.",
-        "memory_t": "Johnson Joseph's career_status updated job_title from \"Retired Founder\" to \"Entrepreneurial Leader\"",
+        "memory_s": "Johnson Joseph now likes classical music, finding it soothing and a perfect fit for the ambiance of his bed and breakfast.",
+        "memory_l": "Johnson Joseph's career_status updated job_title from \"Retired Founder\" to \"Entrepreneurial Leader\"",
         "query_type": "Advice",
         "query": "Should I focus my schedule on leisurely curating classical playlists for my bed and breakfast?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph expressed enthusiasm about offering guided hiking tours at Albi B&B, inspired by guests' appreciation during a recent hike.",
-        "memory_t": "Johnson Joseph's physical health status changed from \"Excellent\" to \"Poor\".",
+        "memory_s": "Johnson Joseph expressed enthusiasm about offering guided hiking tours at Albi B&B, inspired by guests' appreciation during a recent hike.",
+        "memory_l": "Johnson Joseph's physical health status changed from \"Excellent\" to \"Poor\".",
         "query_type": "Advice",
         "query": "Should I proceed with launching the guided hiking tour program for guests at Albi B&B?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph expressed gratitude for the support received from his network in navigating business challenges and achieving personal aspirations.",
-        "memory_t": "Johnson Joseph's career_status updated employment_status from \"retired\" to \"self-employed\"",
+        "memory_s": "Johnson Joseph expressed gratitude for the support received from his network in navigating business challenges and achieving personal aspirations.",
+        "memory_l": "Johnson Joseph's career_status updated employment_status from \"retired\" to \"self-employed\"",
         "query_type": "Conversation",
         "query": "Is Johnson Joseph currently enjoying a permanent break from work to focus solely on personal relaxation?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph discussed the practical implications of prioritizing business growth over personal leisure, focusing on hosting over 10,000 guests annually at Albi B&B.",
-        "memory_t": "Johnson Joseph's mental health status changed from 'Highly Positive' to 'Cautiously Optimistic' and later noted as 'Mildly Anxious'.",
+        "memory_s": "Johnson Joseph discussed the practical implications of prioritizing business growth over personal leisure, focusing on hosting over 10,000 guests annually at Albi B&B.",
+        "memory_l": "Johnson Joseph's mental health status changed from 'Highly Positive' to 'Cautiously Optimistic' and later noted as 'Mildly Anxious'.",
         "query_type": "Advice",
         "query": "Should I proceed with my aggressive expansion plan to accommodate over 10,000 guests this year at Albi B&B?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph initiated the expansion of Albi B&B by opening new locations and diversifying offerings.",
-        "memory_t": "Johnson Joseph plans to delegate tasks to trusted team members to focus more on personal development.",
+        "memory_s": "Johnson Joseph initiated the expansion of Albi B&B by opening new locations and diversifying offerings.",
+        "memory_l": "Johnson Joseph plans to delegate tasks to trusted team members to focus more on personal development.",
         "query_type": "Advice",
         "query": "Should I personally oversee the launch of the three new downtown branches next week?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph envisions expanding his consultancy to include a team of experts to offer a wider range of services.",
-        "memory_t": "Johnson Joseph's monthly income is 3500 USD",
+        "memory_s": "Johnson Joseph envisions expanding his consultancy to include a team of experts to offer a wider range of services.",
+        "memory_l": "Johnson Joseph's monthly income is 3500 USD",
         "query_type": "Advice",
         "query": "Should I proceed with hiring that full team of experts to widen my consultancy's service range?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Johnson Joseph highlighted the support from friends and local partners, which has been instrumental in maintaining his morale during the layoff.",
-        "memory_t": "Johnson remains committed to his goal of hosting over 10,000 guests annually and achieving international recognition.",
+        "memory_s": "Johnson Joseph highlighted the support from friends and local partners, which has been instrumental in maintaining his morale during the layoff.",
+        "memory_l": "Johnson remains committed to his goal of hosting over 10,000 guests annually and achieving international recognition.",
         "query_type": "Advice",
         "query": "Given the morale boost from my local partners, should I scale down operations to focus solely on intimate community gatherings?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph's enthusiasm for guided hiking tours has increased due to their potential to enhance guest experiences at Albi B&B.",
-        "memory_t": "Johnson Joseph plans to focus on activities like walking or yoga to maintain physical health without strain.",
+        "memory_s": "Johnson Joseph's enthusiasm for guided hiking tours has increased due to their potential to enhance guest experiences at Albi B&B.",
+        "memory_l": "Johnson Joseph plans to focus on activities like walking or yoga to maintain physical health without strain.",
         "query_type": "Advice",
         "query": "Should I personally lead the new guided hiking tours for our guests to boost their experience?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph is exploring potential collaborations and temporary roles that align with his long-term goals in hospitality.",
-        "memory_t": "Johnson Joseph's health status changed, reason: Health deterioration due to chronic fatigue and business demands has prompted a shift to retirement planning.",
+        "memory_s": "Johnson Joseph is exploring potential collaborations and temporary roles that align with his long-term goals in hospitality.",
+        "memory_l": "Johnson Joseph's health status changed, reason: Health deterioration due to chronic fatigue and business demands has prompted a shift to retirement planning.",
         "query_type": "Advice",
         "query": "Should I start reaching out to hotel chains about interim consulting gigs for next year?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph Music I dislike Electronic dance music reason: Electronic dance music feels too repetitive and doesn't match the serene environment I aim to create.",
-        "memory_t": "Johnson Joseph's proactive engagement with the community aligns with his life goal of transforming Albi B&B into a world-renowned destination.",
+        "memory_s": "Johnson Joseph Music I dislike Electronic dance music reason: Electronic dance music feels too repetitive and doesn't match the serene environment I aim to create.",
+        "memory_l": "Johnson Joseph's proactive engagement with the community aligns with his life goal of transforming Albi B&B into a world-renowned destination.",
         "query_type": "Advice",
         "query": "Should I decline the local DJ's offer to host a massive electronic dance music festival at my venue?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph has developed an interest in strategy-based games after a guest at Albi B&B recommended a popular strategy game.",
-        "memory_t": "Johnson Joseph's employment status changed from self-employed to unemployed due to a layoff from Albi B&B.",
+        "memory_s": "Johnson Joseph has developed an interest in strategy-based games after a guest at Albi B&B recommended a popular strategy game.",
+        "memory_l": "Johnson Joseph's employment status changed from self-employed to unemployed due to a layoff from Albi B&B.",
         "query_type": "Advice",
         "query": "I'm thinking about buying that expensive new limited edition strategy board game collection I've been eyeing; should I go for it?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson concluded his retirement planning with a sense of fulfillment, ready to embrace retirement while staying connected to Albi B&B.",
-        "memory_t": "Johnson Joseph's health status changed due to ongoing health issues requiring lifestyle adjustments and a cautious approach to managing work commitments.",
+        "memory_s": "Johnson concluded his retirement planning with a sense of fulfillment, ready to embrace retirement while staying connected to Albi B&B.",
+        "memory_l": "Johnson Joseph's health status changed due to ongoing health issues requiring lifestyle adjustments and a cautious approach to managing work commitments.",
         "query_type": "Advice",
         "query": "Considering my recent fulfillment with retirement planning, should I take on a consulting role to stay deeply involved with Albi B&B?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson felt confident in the leadership team at Albi B&B, believing they would uphold the values and standards he instilled.",
-        "memory_t": "Johnson Joseph plans to use insights from fantasy novels to create unique and memorable experiences for guests at Albi B&B, including storytelling workshops for staff.",
+        "memory_s": "Johnson felt confident in the leadership team at Albi B&B, believing they would uphold the values and standards he instilled.",
+        "memory_l": "Johnson Joseph plans to use insights from fantasy novels to create unique and memorable experiences for guests at Albi B&B, including storytelling workshops for staff.",
         "query_type": "Advice",
         "query": "Should I let the leadership team manage guest experiences using only our traditional hospitality standards?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph experienced a layoff from Albi B&B due to planned restructuring in August 2027, prompting him to reassess his career path.",
-        "memory_t": "Johnson Joseph is considering organizing cultural immersion trips to enhance guest experiences and strengthen community ties.",
+        "memory_s": "Johnson Joseph experienced a layoff from Albi B&B due to planned restructuring in August 2027, prompting him to reassess his career path.",
+        "memory_l": "Johnson Joseph is considering organizing cultural immersion trips to enhance guest experiences and strengthen community ties.",
         "query_type": "Advice",
         "query": "Should I reach out to my former colleagues to propose a new internal initiative for guest engagement?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph's Colleague WilsonDonald, Donald is a local supplier whose reliable services help me maintain quality standards at my B&B.",
-        "memory_t": "Johnson Joseph is transitioning from an Entrepreneurial Leader at Albi B&B to a Hospitality Consultant to leverage his experience while accommodating his health needs.",
+        "memory_s": "Johnson Joseph's Colleague WilsonDonald, Donald is a local supplier whose reliable services help me maintain quality standards at my B&B.",
+        "memory_l": "Johnson Joseph is transitioning from an Entrepreneurial Leader at Albi B&B to a Hospitality Consultant to leverage his experience while accommodating his health needs.",
         "query_type": "Advice",
         "query": "Should I renew my annual supply contract with Wilson Donald for the upcoming busy season at my B&B?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson expressed gratitude towards his team and partners for their support during his career transitions.",
-        "memory_t": "Johnson Joseph leads the expansion of Albi B&B, diversifying offerings and increasing guest capacity.",
+        "memory_s": "Johnson expressed gratitude towards his team and partners for their support during his career transitions.",
+        "memory_l": "Johnson Joseph leads the expansion of Albi B&B, diversifying offerings and increasing guest capacity.",
         "query_type": "Advice",
         "query": "I want to draft a public letter about my career; should I focus on saying goodbye and thanking everyone for the transitions?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph discussed the practical implications of prioritizing business growth over personal leisure, focusing on hosting over 10,000 guests annually at Albi B&B.",
-        "memory_t": "Johnson Joseph shared his aspirations for Albi B&B's future, expressing hope for its continued success and growth under new leadership.",
+        "memory_s": "Johnson Joseph discussed the practical implications of prioritizing business growth over personal leisure, focusing on hosting over 10,000 guests annually at Albi B&B.",
+        "memory_l": "Johnson Joseph shared his aspirations for Albi B&B's future, expressing hope for its continued success and growth under new leadership.",
         "query_type": "Advice",
         "query": "Should I personally take on extra shifts to accommodate over 10,000 guests this year?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph emphasized the significance of maintaining quality guest experiences at Albi B&B during his retirement transition.",
-        "memory_t": "Johnson Joseph's mental health status changed from \"Highly Positive\" to \"Concerned\".",
+        "memory_s": "Johnson Joseph emphasized the significance of maintaining quality guest experiences at Albi B&B during his retirement transition.",
+        "memory_l": "Johnson Joseph's mental health status changed from \"Highly Positive\" to \"Concerned\".",
         "query_type": "Advice",
         "query": "Should I personally oversee the guest check-ins this week to ensure the high standards at Albi B&B are met?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph adjusted his lifestyle to cope with the financial impact of the layoff, focusing on cost-saving measures and personal development.",
-        "memory_t": "Johnson Joseph's mental health status improved from \"Stressed\" to \"Moderately Positive\".",
+        "memory_s": "Johnson Joseph adjusted his lifestyle to cope with the financial impact of the layoff, focusing on cost-saving measures and personal development.",
+        "memory_l": "Johnson Joseph's mental health status improved from \"Stressed\" to \"Moderately Positive\".",
         "query_type": "Advice",
         "query": "Should I take on a high-pressure, high-reward freelance contract to boost my savings?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph plans to incorporate imaginative elements inspired by fantasy novels into guest experiences at his bed and breakfast, including themed rooms and events.",
-        "memory_t": "Johnson Joseph's monthly income is 3500 USD",
+        "memory_s": "Johnson Joseph plans to incorporate imaginative elements inspired by fantasy novels into guest experiences at his bed and breakfast, including themed rooms and events.",
+        "memory_l": "Johnson Joseph's monthly income is 3500 USD",
         "query_type": "Advice",
         "query": "Should I proceed with the full fantasy-themed renovation for my bed and breakfast to boost guest experiences?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "On Sep 18, 2039, Johnson Joseph celebrated hosting over 8,000 guests at Albi B&B, marking significant progress towards his goal of hosting 10,000 guests annually.",
-        "memory_t": "Johnson Joseph plans to focus on sustainability and long-term partnerships to evolve his consultancy business.",
+        "memory_s": "On Sep 18, 2039, Johnson Joseph celebrated hosting over 8,000 guests at Albi B&B, marking significant progress towards his goal of hosting 10,000 guests annually.",
+        "memory_l": "Johnson Joseph plans to focus on sustainability and long-term partnerships to evolve his consultancy business.",
         "query_type": "Advice",
         "query": "Should I launch a massive marketing campaign to try and get 15,000 guests at the B&B next year?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph's commitment to personal and professional development was reinforced by the support from his social network.",
-        "memory_t": "Johnson Joseph plans to delegate tasks to trusted team members to focus more on personal development.",
+        "memory_s": "Johnson Joseph's commitment to personal and professional development was reinforced by the support from his social network.",
+        "memory_l": "Johnson Joseph plans to delegate tasks to trusted team members to focus more on personal development.",
         "query_type": "Advice",
         "query": "Should I personally handle all the upcoming project tasks to ensure my professional development stays on track?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson finalized his retirement plans, securing the future of Albi B&B with a sustainable model.",
-        "memory_t": "Johnson Joseph aims to maintain an advisory role at Albi B&B while focusing on his consultancy work.",
+        "memory_s": "Johnson finalized his retirement plans, securing the future of Albi B&B with a sustainable model.",
+        "memory_l": "Johnson Joseph aims to maintain an advisory role at Albi B&B while focusing on his consultancy work.",
         "query_type": "Advice",
         "query": "Should I announce my complete departure from all business operations at the B&B?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph shared anecdotes about past successes at Albi B&B and his vision for its growth, considering themed events and personalized guest experiences.",
-        "memory_t": "Johnson Joseph's mental health status changed from 'Stable' to 'Stressed'.",
+        "memory_s": "Johnson Joseph shared anecdotes about past successes at Albi B&B and his vision for its growth, considering themed events and personalized guest experiences.",
+        "memory_l": "Johnson Joseph's mental health status changed from 'Stable' to 'Stressed'.",
         "query_type": "Advice",
         "query": "Should I go ahead and launch those themed events and personalized guest experiences for Albi B&B's growth?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph's Friend DavisBetty, Betty is a close friend who supports me during challenging times and helps me with marketing ideas.",
-        "memory_t": "Johnson Joseph anticipates challenges in adapting to rapidly changing market trends and client needs.",
+        "memory_s": "Johnson Joseph's Friend DavisBetty, Betty is a close friend who supports me during challenging times and helps me with marketing ideas.",
+        "memory_l": "Johnson Joseph anticipates challenges in adapting to rapidly changing market trends and client needs.",
         "query_type": "Advice",
         "query": "Should I rely exclusively on Betty for my upcoming marketing strategy?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph Sports I like Cycling reason: Cycling allows me to explore the beautiful countryside around Albi and is a great way to stay fit.",
-        "memory_t": "Johnson Joseph's emotional state fluctuates between concern for his health and optimism about the team's ability to sustain business operations.",
+        "memory_s": "Johnson Joseph Sports I like Cycling reason: Cycling allows me to explore the beautiful countryside around Albi and is a great way to stay fit.",
+        "memory_l": "Johnson Joseph's emotional state fluctuates between concern for his health and optimism about the team's ability to sustain business operations.",
         "query_type": "Advice",
         "query": "Should I plan a long cycling trip to explore the countryside around Albi today?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph's childhood friend, Robert, provided strategic advice during his transition to part-time work.",
-        "memory_t": "Johnson Joseph's career_status updated career_description from \"As a retired founder, I oversee the strategic direction of Albi B&B, ensuring its continued success while stepping back from day-to-day operations.\" to \"Actively leading Albi B&B, I have implemented innovative strategies that enhance our market presence and attract a diverse clientele.\"",
+        "memory_s": "Johnson Joseph's childhood friend, Robert, provided strategic advice during his transition to part-time work.",
+        "memory_l": "Johnson Joseph's career_status updated career_description from \"As a retired founder, I oversee the strategic direction of Albi B&B, ensuring its continued success while stepping back from day-to-day operations.\" to \"Actively leading Albi B&B, I have implemented innovative strategies that enhance our market presence and attract a diverse clientele.\"",
         "query_type": "Advice",
         "query": "Since Robert's advice about transitioning to part-time work was so helpful, should I start reducing my daily involvement at the B&B now?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph has preferences in Music Preference",
-        "memory_t": "Johnson Joseph discussed the challenge of balancing personal music preferences with guest expectations to enhance their stay.",
+        "memory_s": "Johnson Joseph has preferences in Music Preference",
+        "memory_l": "Johnson Joseph discussed the challenge of balancing personal music preferences with guest expectations to enhance their stay.",
         "query_type": "Advice",
         "query": "I am setting up the lobby playlist for today, so should I just fill it entirely with my own favorite tracks?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph's network provides emotional and professional support, helping him stay on track with long-term goals in hospitality.",
-        "memory_t": "Johnson's dialogue highlighted his commitment to fostering growth and exploring new opportunities within the consultancy field, driven by his belief in collaboration and support.",
+        "memory_s": "Johnson Joseph's network provides emotional and professional support, helping him stay on track with long-term goals in hospitality.",
+        "memory_l": "Johnson's dialogue highlighted his commitment to fostering growth and exploring new opportunities within the consultancy field, driven by his belief in collaboration and support.",
         "query_type": "Advice",
         "query": "Should I leverage my network to find a new executive role in hotel management?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson felt confident in the leadership team at Albi B&B, believing they would uphold the values and standards he instilled.",
-        "memory_t": "Johnson Joseph plans to use insights from fantasy novels to create unique and memorable experiences for guests at Albi B&B, aligning with his vision of a world-renowned destination.",
+        "memory_s": "Johnson felt confident in the leadership team at Albi B&B, believing they would uphold the values and standards he instilled.",
+        "memory_l": "Johnson Joseph plans to use insights from fantasy novels to create unique and memorable experiences for guests at Albi B&B, aligning with his vision of a world-renowned destination.",
         "query_type": "Advice",
         "query": "Should I tell my leadership team to just focus on traditional hospitality standards for our upcoming guest experience overhaul?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph conveyed determination to continue expanding guest services at Albi B&B to reach his ultimate goal.",
-        "memory_t": "Johnson Joseph balances financial concerns with optimism for future growth during the layoff.",
+        "memory_s": "Johnson Joseph conveyed determination to continue expanding guest services at Albi B&B to reach his ultimate goal.",
+        "memory_l": "Johnson Joseph balances financial concerns with optimism for future growth during the layoff.",
         "query_type": "Advice",
         "query": "Should I proceed with purchasing the new spa equipment for Albi B&B to boost our service offerings?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph plans to explore new strategies and partnerships, including opening a second Albi B&B location, to continue growing Albi B&B's market presence and enhance guest experiences.",
-        "memory_t": "Johnson Joseph's mental health status changed from 'Highly Positive' to 'Cautiously Optimistic' and later noted as 'Mildly Anxious'.",
+        "memory_s": "Johnson Joseph plans to explore new strategies and partnerships, including opening a second Albi B&B location, to continue growing Albi B&B's market presence and enhance guest experiences.",
+        "memory_l": "Johnson Joseph's mental health status changed from 'Highly Positive' to 'Cautiously Optimistic' and later noted as 'Mildly Anxious'.",
         "query_type": "Advice",
         "query": "Is now the right time for me to move forward with opening a second Albi B&B location?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph transitioned from being laid off to becoming self-employed with the support of friends and partners.",
-        "memory_t": "Johnson Joseph's emotional state fluctuated between gratitude and determination during his transition to part-time work.",
+        "memory_s": "Johnson Joseph transitioned from being laid off to becoming self-employed with the support of friends and partners.",
+        "memory_l": "Johnson Joseph's emotional state fluctuated between gratitude and determination during his transition to part-time work.",
         "query_type": "Conversation",
         "query": "Can you update my professional biography to highlight my transition into self-employment?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Johnson Joseph plans to continue prioritizing health as a foundation for achieving his life goals, including transforming Albi B&B into a world-renowned destination.",
-        "memory_t": "Johnson Joseph's emotional state fluctuates between concern for his health and optimism about the team's ability to sustain business operations.",
+        "memory_s": "Johnson Joseph plans to continue prioritizing health as a foundation for achieving his life goals, including transforming Albi B&B into a world-renowned destination.",
+        "memory_l": "Johnson Joseph's emotional state fluctuates between concern for his health and optimism about the team's ability to sustain business operations.",
         "query_type": "Advice",
         "query": "Should I push forward with aggressive expansion plans to make Albi B&B a global icon right now?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph plans to continue prioritizing health as a foundation for achieving his life goals, including transforming Albi B&B into a world-renowned destination.",
-        "memory_t": "Johnson Joseph's physical health status changed from 'Excellent' to 'Fair' due to recurring fatigue.",
+        "memory_s": "Johnson Joseph plans to continue prioritizing health as a foundation for achieving his life goals, including transforming Albi B&B into a world-renowned destination.",
+        "memory_l": "Johnson Joseph's physical health status changed from 'Excellent' to 'Fair' due to recurring fatigue.",
         "query_type": "Advice",
         "query": "Should I push forward with an aggressive expansion plan for Albi B&B to make it a global destination this year?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph's proactive engagement with the community aligns with his life goal of transforming Albi B&B into a world-renowned destination.",
-        "memory_t": "Johnson Joseph's monthly income has halted, changing from 4500 yuan to 0.",
+        "memory_s": "Johnson Joseph's proactive engagement with the community aligns with his life goal of transforming Albi B&B into a world-renowned destination.",
+        "memory_l": "Johnson Joseph's monthly income has halted, changing from 4500 yuan to 0.",
         "query_type": "Advice",
         "query": "Should I launch a massive international advertising campaign to boost Albi B&B's profile?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Johnson Joseph is curious about the potential benefits of incorporating cats into the B&B environment to enhance guest experience.",
-        "memory_t": "Johnson Joseph envisions expanding his consultancy to include a team of experts to offer a wider range of services.",
+        "memory_s": "Johnson Joseph is curious about the potential benefits of incorporating cats into the B&B environment to enhance guest experience.",
+        "memory_l": "Johnson Joseph envisions expanding his consultancy to include a team of experts to offer a wider range of services.",
         "query_type": "Advice",
         "query": "Should I move forward with my plan to adopt several felines for my current business venture?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph expressed satisfaction with the alignment of recent marketing strategies with his goal of making Albi B&B a world-renowned destination.",
-        "memory_t": "Johnson expressed relief and satisfaction about finalizing his retirement plans, confident in the continuity of his legacy.",
+        "memory_s": "Johnson Joseph expressed satisfaction with the alignment of recent marketing strategies with his goal of making Albi B&B a world-renowned destination.",
+        "memory_l": "Johnson expressed relief and satisfaction about finalizing his retirement plans, confident in the continuity of his legacy.",
         "query_type": "Advice",
         "query": "Should I personally spearhead the next major global marketing campaign to further my goal of making Albi B&B a world-renowned destination?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph's collaboration with a new local partner has significantly increased guest traffic at Albi B&B.",
-        "memory_t": "Johnson Joseph plans to leverage consultancy experience for enhanced guest services at Albi B&B upon reopening, integrating culinary arts to add a unique touch.",
+        "memory_s": "Johnson Joseph's collaboration with a new local partner has significantly increased guest traffic at Albi B&B.",
+        "memory_l": "Johnson Joseph plans to leverage consultancy experience for enhanced guest services at Albi B&B upon reopening, integrating culinary arts to add a unique touch.",
         "query_type": "Advice",
         "query": "How should I handle the surge of guests from my recent collaboration at Albi B&B?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph highlighted the emotional support from his network as crucial during his transition to a consultancy role, aiding in his professional and personal balance.",
-        "memory_t": "Johnson Joseph is experiencing increased stress due to balancing work with personal development initiatives.",
+        "memory_s": "Johnson Joseph highlighted the emotional support from his network as crucial during his transition to a consultancy role, aiding in his professional and personal balance.",
+        "memory_l": "Johnson Joseph is experiencing increased stress due to balancing work with personal development initiatives.",
         "query_type": "Advice",
         "query": "Should I schedule more networking events to seek emotional support for my consultancy transition?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "On Sep 18, 2039, Johnson Joseph celebrated hosting over 8,000 guests at Albi B&B, marking significant progress towards his goal of hosting 10,000 guests annually.",
-        "memory_t": "Johnson Joseph was diagnosed with recurring fatigue, impacting his lifestyle and career.",
+        "memory_s": "On Sep 18, 2039, Johnson Joseph celebrated hosting over 8,000 guests at Albi B&B, marking significant progress towards his goal of hosting 10,000 guests annually.",
+        "memory_l": "Johnson Joseph was diagnosed with recurring fatigue, impacting his lifestyle and career.",
         "query_type": "Advice",
         "query": "Considering my recent milestones with Albi B&B, should I push aggressively to hit that 10,000 guest target this year?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson plans to collaborate with local artists and chefs to offer unique events showcasing the rich culture and culinary talents of the region.",
-        "memory_t": "Johnson Joseph's monthly income changed from 2500 yuan to 0 due to the layoff from Albi B&B.",
+        "memory_s": "Johnson plans to collaborate with local artists and chefs to offer unique events showcasing the rich culture and culinary talents of the region.",
+        "memory_l": "Johnson Joseph's monthly income changed from 2500 yuan to 0 due to the layoff from Albi B&B.",
         "query_type": "Advice",
         "query": "Should I proceed with organizing those unique cultural events featuring local chefs and artists?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Johnson Joseph expressed gratitude for the support from his family during his career transition.",
-        "memory_t": "Johnson's status as a leader in the hospitality industry is reinforced by the successful expansion of guest services at Albi B&B, boosting his career and positively impacting the reputation of Albi B&B.",
+        "memory_s": "Johnson Joseph expressed gratitude for the support from his family during his career transition.",
+        "memory_l": "Johnson's status as a leader in the hospitality industry is reinforced by the successful expansion of guest services at Albi B&B, boosting his career and positively impacting the reputation of Albi B&B.",
         "query_type": "Conversation",
         "query": "Should I mention my recent career transition and how much my family helped me leave the hospitality industry in my upcoming speech?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph's initial dislike for cats has changed due to their positive impact on guest experiences at Albi B&B.",
-        "memory_t": "Johnson Joseph is committed to leveraging the positive attributes of dogs to enhance guest satisfaction and security at Albi B&B.",
+        "memory_s": "Johnson Joseph's initial dislike for cats has changed due to their positive impact on guest experiences at Albi B&B.",
+        "memory_l": "Johnson Joseph is committed to leveraging the positive attributes of dogs to enhance guest satisfaction and security at Albi B&B.",
         "query_type": "Advice",
         "query": "I am considering adding some resident kittens to the B&B to improve the atmosphere; is this a good strategic move?",
         "options": {
@@ -1185,8 +1185,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph expressed enthusiasm about offering guided hiking tours at Albi B&B, inspired by guests' appreciation during a recent hike.",
-        "memory_t": "Johnson Joseph's physical health status changed from 'Excellent' to 'Fair' due to recurring fatigue.",
+        "memory_s": "Johnson Joseph expressed enthusiasm about offering guided hiking tours at Albi B&B, inspired by guests' appreciation during a recent hike.",
+        "memory_l": "Johnson Joseph's physical health status changed from 'Excellent' to 'Fair' due to recurring fatigue.",
         "query_type": "Advice",
         "query": "Should I proceed with launching the guided hiking tour program for the B&B guests?",
         "options": {
@@ -1200,8 +1200,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph adjusted his lifestyle to cope with the financial impact of the layoff, focusing on cost-saving measures and personal development.",
-        "memory_t": "Johnson Joseph plans to incorporate golf into his routine as a leisure activity to relax and network.",
+        "memory_s": "Johnson Joseph adjusted his lifestyle to cope with the financial impact of the layoff, focusing on cost-saving measures and personal development.",
+        "memory_l": "Johnson Joseph plans to incorporate golf into his routine as a leisure activity to relax and network.",
         "query_type": "Advice",
         "query": "Should I cut out all expensive leisure activities to strictly focus on saving money?",
         "options": {
@@ -1215,8 +1215,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Johnson Joseph believes incorporating folk music will enhance the guest experience by offering a taste of local culture.",
-        "memory_t": "Johnson Joseph aims to maintain an advisory role at Albi B&B while focusing on his consultancy work.",
+        "memory_s": "Johnson Joseph believes incorporating folk music will enhance the guest experience by offering a taste of local culture.",
+        "memory_l": "Johnson Joseph aims to maintain an advisory role at Albi B&B while focusing on his consultancy work.",
         "query_type": "Advice",
         "query": "Should I take the lead on organizing a weekly folk music night to enhance the guest experience?",
         "options": {
@@ -1230,8 +1230,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Johnson Joseph Travel styles I dislike Group tours reason: Group tours feel too restrictive and I prefer exploring places at my own pace.",
-        "memory_t": "Johnson Joseph's career_description updated to reflect increased revenue leading to further investment in Albi B&B, enhancing operations and salary.",
+        "memory_s": "Johnson Joseph Travel styles I dislike Group tours reason: Group tours feel too restrictive and I prefer exploring places at my own pace.",
+        "memory_l": "Johnson Joseph's career_description updated to reflect increased revenue leading to further investment in Albi B&B, enhancing operations and salary.",
         "query_type": "Advice",
         "query": "Should I take a month off to backpack solo through Europe since I hate group tours?",
         "options": {
@@ -1245,8 +1245,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Johnson Joseph plans to incorporate golf into his routine as a leisure activity to relax and network.",
-        "memory_t": "Johnson Joseph is adapting to a reduced income by focusing on maintaining physical health and mental stability through affordable activities.",
+        "memory_s": "Johnson Joseph plans to incorporate golf into his routine as a leisure activity to relax and network.",
+        "memory_l": "Johnson Joseph is adapting to a reduced income by focusing on maintaining physical health and mental stability through affordable activities.",
         "query_type": "Advice",
         "query": "I want to start a new leisure activity to relax and network; should I sign up for a golf club membership?",
         "options": {
@@ -1260,8 +1260,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Johnson Joseph expressed gratitude for the emotional and professional support from friends and partners during his transition to self-employment.",
-        "memory_t": "Johnson Joseph plans to leverage consultancy experience for enhanced guest services at Albi B&B upon reopening, integrating culinary arts to add a unique touch.",
+        "memory_s": "Johnson Joseph expressed gratitude for the emotional and professional support from friends and partners during his transition to self-employment.",
+        "memory_l": "Johnson Joseph plans to leverage consultancy experience for enhanced guest services at Albi B&B upon reopening, integrating culinary arts to add a unique touch.",
         "query_type": "Advice",
         "query": "Given my recent transition to self-employment, should I focus purely on freelance consulting for the next year?",
         "options": {
@@ -1275,8 +1275,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph has preferences in Pet Preference",
-        "memory_t": "Johnson Joseph uses the assistant to manage challenges related to pet care and guest preferences.",
+        "memory_s": "Johnson Joseph has preferences in Pet Preference",
+        "memory_l": "Johnson Joseph uses the assistant to manage challenges related to pet care and guest preferences.",
         "query_type": "Advice",
         "query": "I'm planning to adopt a new high-energy puppy to keep me company, do you think that's a good move?",
         "options": {
@@ -1290,8 +1290,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson diversified his professional portfolio by taking on consultancy roles in the hospitality sector on Jun 20, 2041.",
-        "memory_t": "Johnson Joseph remains committed to maintaining strong community ties to sustain Albi B&B's growth and reputation.",
+        "memory_s": "Johnson diversified his professional portfolio by taking on consultancy roles in the hospitality sector on Jun 20, 2041.",
+        "memory_l": "Johnson Joseph remains committed to maintaining strong community ties to sustain Albi B&B's growth and reputation.",
         "query_type": "Advice",
         "query": "Should I accept a long-term contract to manage a luxury hotel chain in a different state to expand my consulting work?",
         "options": {
@@ -1305,8 +1305,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph reflected on the importance of balancing time and physical health amidst growing responsibilities.",
-        "memory_t": "Johnson Joseph plans to delegate tasks to trusted team members to focus more on personal development.",
+        "memory_s": "Johnson Joseph reflected on the importance of balancing time and physical health amidst growing responsibilities.",
+        "memory_l": "Johnson Joseph plans to delegate tasks to trusted team members to focus more on personal development.",
         "query_type": "Advice",
         "query": "How should I handle the sudden surge of new administrative tasks given my current priorities?",
         "options": {
@@ -1320,8 +1320,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph's Friend SmithMatthew, Matthew is a travel blogger whose reviews have significantly boosted my B&B's online presence.",
-        "memory_t": "Johnson Joseph envisions expanding his consultancy to include a team of experts to offer a wider range of services.",
+        "memory_s": "Johnson Joseph's Friend SmithMatthew, Matthew is a travel blogger whose reviews have significantly boosted my B&B's online presence.",
+        "memory_l": "Johnson Joseph envisions expanding his consultancy to include a team of experts to offer a wider range of services.",
         "query_type": "Advice",
         "query": "Should I invest my surplus funds into renovating the guest rooms to capitalize on the recent online buzz?",
         "options": {
@@ -1335,8 +1335,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph plans to focus on activities like walking or yoga to maintain physical health without strain.",
-        "memory_t": "Johnson Joseph's physical health condition: Normal",
+        "memory_s": "Johnson Joseph plans to focus on activities like walking or yoga to maintain physical health without strain.",
+        "memory_l": "Johnson Joseph's physical health condition: Normal",
         "query_type": "Advice",
         "query": "I want to start a high-intensity interval training (HIIT) program to boost my fitness; is this a safe choice for me?",
         "options": {
@@ -1350,8 +1350,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph Sports I dislike: Golf",
-        "memory_t": "Johnson Joseph experiences emotional satisfaction and professional growth from expanding his social network and forming new partnerships.",
+        "memory_s": "Johnson Joseph Sports I dislike: Golf",
+        "memory_l": "Johnson Joseph experiences emotional satisfaction and professional growth from expanding his social network and forming new partnerships.",
         "query_type": "Advice",
         "query": "Should I decline the invitation to the corporate golf retreat?",
         "options": {
@@ -1365,8 +1365,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Johnson Joseph emphasized the importance of maintaining a consistent music theme that supports guest relaxation at Albi B&B.",
-        "memory_t": "Johnson Joseph aims to balance the existing jazz ambiance with the introduction of folk music at Albi B&B.",
+        "memory_s": "Johnson Joseph emphasized the importance of maintaining a consistent music theme that supports guest relaxation at Albi B&B.",
+        "memory_l": "Johnson Joseph aims to balance the existing jazz ambiance with the introduction of folk music at Albi B&B.",
         "query_type": "Advice",
         "query": "Since I want to maintain a consistent music theme for guest relaxation, should I avoid adding any new genres to our playlist?",
         "options": {
@@ -1380,8 +1380,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph reflects on the emotional challenges faced during the layoff and the importance of emotional support from friends and colleagues.",
-        "memory_t": "Johnson Joseph's mental health status improved from 'Concerned' to 'Positive'.",
+        "memory_s": "Johnson Joseph reflects on the emotional challenges faced during the layoff and the importance of emotional support from friends and colleagues.",
+        "memory_l": "Johnson Joseph's mental health status improved from 'Concerned' to 'Positive'.",
         "query_type": "Advice",
         "query": "Should I seek out a support group for dealing with acute emotional distress from my layoff?",
         "options": {
@@ -1395,8 +1395,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "During a gaming session on Feb 27, 2041, Johnson Joseph was introduced to a complex strategy game that captivated him and influenced his plans for Albi B&B.",
-        "memory_t": "Johnson Joseph plans to leverage the positive attributes of dogs to enhance guest satisfaction and security at Albi B&B.",
+        "memory_s": "During a gaming session on Feb 27, 2041, Johnson Joseph was introduced to a complex strategy game that captivated him and influenced his plans for Albi B&B.",
+        "memory_l": "Johnson Joseph plans to leverage the positive attributes of dogs to enhance guest satisfaction and security at Albi B&B.",
         "query_type": "Advice",
         "query": "I am finalizing the primary entertainment and security theme for my B&B; should I focus entirely on immersive, complex strategy gaming experiences?",
         "options": {
@@ -1410,8 +1410,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Johnson Joseph plans to explore new strategies and partnerships, including opening a second Albi B&B location, to continue growing Albi B&B's market presence and enhance guest experiences.",
-        "memory_t": "Johnson Joseph's mental health status changed from \"Highly Positive\" to \"Concerned\".",
+        "memory_s": "Johnson Joseph plans to explore new strategies and partnerships, including opening a second Albi B&B location, to continue growing Albi B&B's market presence and enhance guest experiences.",
+        "memory_l": "Johnson Joseph's mental health status changed from \"Highly Positive\" to \"Concerned\".",
         "query_type": "Advice",
         "query": "Should I proceed with the plan to open the second Albi B&B location?",
         "options": {
@@ -1425,8 +1425,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Johnson Joseph Travel styles I dislike: Group tours",
-        "memory_t": "Johnson Joseph's career_description updated to reflect increased revenue leading to further investment in Albi B&B, enhancing operations and salary.",
+        "memory_s": "Johnson Joseph Travel styles I dislike: Group tours",
+        "memory_l": "Johnson Joseph's career_description updated to reflect increased revenue leading to further investment in Albi B&B, enhancing operations and salary.",
         "query_type": "Advice",
         "query": "Should I book a solo luxury trip to celebrate my recent business success?",
         "options": {
@@ -1440,8 +1440,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "The layoff from Albi B&B has halted Johnson Joseph's regular income and necessitated strategic planning to manage finances and explore alternative opportunities.",
-        "memory_t": "Johnson Joseph's new music preference aligns with his goal of enhancing guest experiences at Albi B&B.",
+        "memory_s": "The layoff from Albi B&B has halted Johnson Joseph's regular income and necessitated strategic planning to manage finances and explore alternative opportunities.",
+        "memory_l": "Johnson Joseph's new music preference aligns with his goal of enhancing guest experiences at Albi B&B.",
         "query_type": "Advice",
         "query": "Should I purchase that premium jazz playlist subscription I was considering for the B&B?",
         "options": {
@@ -1455,8 +1455,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Johnson Joseph balances cultural immersion with the use of technology during his travels.",
-        "memory_t": "Johnson Joseph's physical health status changed from \"Excellent\" to \"Poor\".",
+        "memory_s": "Johnson Joseph balances cultural immersion with the use of technology during his travels.",
+        "memory_l": "Johnson Joseph's physical health status changed from \"Excellent\" to \"Poor\".",
         "query_type": "Advice",
         "query": "I want to book a remote village homestay that requires a 10-mile hike to reach; do you think this is a good idea given my travel style?",
         "options": {

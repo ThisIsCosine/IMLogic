@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Christopher plans to explore more eco-friendly clothing choices and learn about innovative materials that support environmental causes.",
-        "memory_t": "Christopher Anderson's career_status updated monthly_income from \"$5500\" to \"$6500\"",
+        "memory_s": "Christopher plans to explore more eco-friendly clothing choices and learn about innovative materials that support environmental causes.",
+        "memory_l": "Christopher Anderson's career_status updated monthly_income from \"$5500\" to \"$6500\"",
         "query_type": "Advice",
         "query": "Should I allocate a $7000 monthly budget to buy a completely new wardrobe of eco-friendly clothing?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher seeks more serene and comfortable travel experiences, aligning with his current lifestyle and goals.",
-        "memory_t": "Christopher Anderson reflected on the disconnect between passive beach vacations and his current life goals of learning and cultural immersion.",
+        "memory_s": "Christopher seeks more serene and comfortable travel experiences, aligning with his current lifestyle and goals.",
+        "memory_l": "Christopher Anderson reflected on the disconnect between passive beach vacations and his current life goals of learning and cultural immersion.",
         "query_type": "Advice",
         "query": "Should I book a relaxing two-week stay at a luxury beach resort for my next trip?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher prioritizes fair trade and high-quality materials in clothing choices, aligning with his ethical values.",
-        "memory_t": "Christopher Anderson's career_status updated monthly_income from \"0\" to \"2000\"",
+        "memory_s": "Christopher prioritizes fair trade and high-quality materials in clothing choices, aligning with his ethical values.",
+        "memory_l": "Christopher Anderson's career_status updated monthly_income from \"0\" to \"2000\"",
         "query_type": "Recommendation",
         "query": "Should I buy a new wardrobe entirely made of premium fair trade materials?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher Anderson's friend Andrew encourages him to maintain self-care practices and resilience while managing the demands of his new role.",
-        "memory_t": "Christopher Anderson's career_status updated company_name from \"Senior Care Therapy Center\" to \"Senior Community Engagement Initiative\"",
+        "memory_s": "Christopher Anderson's friend Andrew encourages him to maintain self-care practices and resilience while managing the demands of his new role.",
+        "memory_l": "Christopher Anderson's career_status updated company_name from \"Senior Care Therapy Center\" to \"Senior Community Engagement Initiative\"",
         "query_type": "Advice",
         "query": "Should I organize a self-care workshop for my colleagues at the Senior Care Therapy Center?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher expressed gratitude towards colleagues and friends for their support in his journey to becoming a community leader.",
-        "memory_t": "Christopher Anderson's career_status updated job_title from \"Community Program Director\" to \"Volunteer\"",
+        "memory_s": "Christopher expressed gratitude towards colleagues and friends for their support in his journey to becoming a community leader.",
+        "memory_l": "Christopher Anderson's career_status updated job_title from \"Community Program Director\" to \"Volunteer\"",
         "query_type": "Advice",
         "query": "How should I phrase my announcement about my new leadership status to the team?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher expressed gratitude towards key relationships, including his colleagues and the Senior Advocacy Group, for their support during his career transition to advocacy.",
-        "memory_t": "Christopher Anderson's career_status updated employment_status from \"employed\" to \"retired\"",
+        "memory_s": "Christopher expressed gratitude towards key relationships, including his colleagues and the Senior Advocacy Group, for their support during his career transition to advocacy.",
+        "memory_l": "Christopher Anderson's career_status updated employment_status from \"employed\" to \"retired\"",
         "query_type": "Advice",
         "query": "Should I reach out to my old colleagues and the Senior Advocacy Group to discuss a new career transition strategy?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher seeks advice on organizing travel itineraries to accommodate both cultural and culinary interests.",
-        "memory_t": "Christopher discussed challenges in maintaining program momentum and ensuring adequate resources for his initiatives.",
+        "memory_s": "Christopher seeks advice on organizing travel itineraries to accommodate both cultural and culinary interests.",
+        "memory_l": "Christopher discussed challenges in maintaining program momentum and ensuring adequate resources for his initiatives.",
         "query_type": "Advice",
         "query": "Should I start booking a month-long trip to explore historical sites and local food scenes?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher attended a gaming expo on Aug 21, 2031, which led to a reconsideration of his stance on first-person shooters.",
-        "memory_t": "Christopher is considering incorporating mindfulness insights into community programs to promote wellness among seniors, aiming to enhance their relaxation and mental clarity.",
+        "memory_s": "Christopher attended a gaming expo on Aug 21, 2031, which led to a reconsideration of his stance on first-person shooters.",
+        "memory_l": "Christopher is considering incorporating mindfulness insights into community programs to promote wellness among seniors, aiming to enhance their relaxation and mental clarity.",
         "query_type": "Advice",
         "query": "Should I organize a competitive first-person shooter tournament for the upcoming senior citizens' weekend retreat?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher seeks empathetic interaction and emotional support from his network, including the Senior Advocacy Group, to navigate his advocacy transition.",
-        "memory_t": "Christopher Anderson emphasized the importance of collaboration with partners like the Senior Advocacy Group in his advocacy efforts.",
+        "memory_s": "Christopher seeks empathetic interaction and emotional support from his network, including the Senior Advocacy Group, to navigate his advocacy transition.",
+        "memory_l": "Christopher Anderson emphasized the importance of collaboration with partners like the Senior Advocacy Group in his advocacy efforts.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming meeting with the Senior Advocacy Group primarily on sharing my personal feelings and seeking emotional validation for my transition?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher's reading preference has shifted towards practical self-help guides that offer clear steps and real-life applications.",
-        "memory_t": "Christopher reflected on his journey from full-time employment to volunteering, expressing gratitude for the flexibility and satisfaction it offers.",
+        "memory_s": "Christopher's reading preference has shifted towards practical self-help guides that offer clear steps and real-life applications.",
+        "memory_l": "Christopher reflected on his journey from full-time employment to volunteering, expressing gratitude for the flexibility and satisfaction it offers.",
         "query_type": "Recommendation",
         "query": "Could you recommend some practical self-help guides for climbing the corporate ladder and negotiating a higher salary?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Christopher discussed the internal conflict between appreciating factual content and seeking imaginative narratives, leaning towards fiction.",
-        "memory_t": "Christopher Anderson's career_status updated career_description from \"As a recognized community leader, I continue to volunteer and lead initiatives that enhance senior engagement and literacy, furthering my impact and aligning with my lifelong goals.\" to \"As an Advocate and Consultant, I focus on influencing policy and raising awareness about senior care and literacy, using my experience and connections to drive change.\"",
+        "memory_s": "Christopher discussed the internal conflict between appreciating factual content and seeking imaginative narratives, leaning towards fiction.",
+        "memory_l": "Christopher Anderson's career_status updated career_description from \"As a recognized community leader, I continue to volunteer and lead initiatives that enhance senior engagement and literacy, furthering my impact and aligning with my lifelong goals.\" to \"As an Advocate and Consultant, I focus on influencing policy and raising awareness about senior care and literacy, using my experience and connections to drive change.\"",
         "query_type": "Advice",
         "query": "Should I focus my upcoming keynote on a series of imaginative fictional short stories to illustrate my points?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher values individuality in his clothing choices, preferring unique, handmade items over mass-produced options.",
-        "memory_t": "Christopher Anderson's monthly income is 5500 USD",
+        "memory_s": "Christopher values individuality in his clothing choices, preferring unique, handmade items over mass-produced options.",
+        "memory_l": "Christopher Anderson's monthly income is 5500 USD",
         "query_type": "Advice",
         "query": "Should I commission a bespoke, handmade winter wardrobe from that boutique designer I found?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Christopher Anderson adopted a flexible, unstructured yoga practice at home to accommodate his busy schedule.",
-        "memory_t": "Christopher Anderson's major is Physical Therapy",
+        "memory_s": "Christopher Anderson adopted a flexible, unstructured yoga practice at home to accommodate his busy schedule.",
+        "memory_l": "Christopher Anderson's major is Physical Therapy",
         "query_type": "Advice",
         "query": "I am thinking about posting a blog recommending flexible, unstructured yoga routines for injury recovery. Should I?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher expressed enthusiasm about the blend of style, comfort, and community support in his new footwear choice.",
-        "memory_t": "Christopher Anderson's career_status updated industry from \"community services\" to \"consulting\"",
+        "memory_s": "Christopher expressed enthusiasm about the blend of style, comfort, and community support in his new footwear choice.",
+        "memory_l": "Christopher Anderson's career_status updated industry from \"community services\" to \"consulting\"",
         "query_type": "Recommendation",
         "query": "What kind of stylish and comfortable footwear should I wear to my upcoming client meetings?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher's clothing preference update to convertible skirts aligns with his social motivation to express identity and gain attention.",
-        "memory_t": "Christopher Anderson's career_status updated employment_status from \"employed\" to \"retired\"",
+        "memory_s": "Christopher's clothing preference update to convertible skirts aligns with his social motivation to express identity and gain attention.",
+        "memory_l": "Christopher Anderson's career_status updated employment_status from \"employed\" to \"retired\"",
         "query_type": "Advice",
         "query": "Should I buy a new convertible skirt to wear to the office to express my identity?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher Anderson plans to explore alternative wellness practices to balance personal commitments with physical and mental health.",
-        "memory_t": "Christopher expressed a mix of frustration and acceptance regarding the need to adapt his activities due to his knee injury.",
+        "memory_s": "Christopher Anderson plans to explore alternative wellness practices to balance personal commitments with physical and mental health.",
+        "memory_l": "Christopher expressed a mix of frustration and acceptance regarding the need to adapt his activities due to his knee injury.",
         "query_type": "Advice",
         "query": "Should I sign up for an intensive parkour and martial arts retreat to explore alternative wellness practices?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher expressed a desire for films that explore personal growth and complex relationships, which he plans to incorporate into community programs.",
-        "memory_t": "Christopher Anderson's career_status updated job_title from \"Community Program Director\" to \"Volunteer\"",
+        "memory_s": "Christopher expressed a desire for films that explore personal growth and complex relationships, which he plans to incorporate into community programs.",
+        "memory_l": "Christopher Anderson's career_status updated job_title from \"Community Program Director\" to \"Volunteer\"",
         "query_type": "Advice",
         "query": "Which films exploring personal growth and complex relationships should I incorporate into the upcoming community programs?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher Anderson expressed gratitude for the support from colleagues and community members in facilitating partnerships for his community programs.",
-        "memory_t": "Christopher Anderson discussed the challenges of maintaining partnerships and ensuring alignment with his community program goals.",
+        "memory_s": "Christopher Anderson expressed gratitude for the support from colleagues and community members in facilitating partnerships for his community programs.",
+        "memory_l": "Christopher Anderson discussed the challenges of maintaining partnerships and ensuring alignment with his community program goals.",
         "query_type": "Advice",
         "query": "Should I focus on expanding partnerships for my community programs right now?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher Anderson expressed enthusiasm for leveraging his network to drive policy changes in senior care and literacy.",
-        "memory_t": "Christopher Anderson's career_status updated monthly_income from \"0\" to \"2000\"",
+        "memory_s": "Christopher Anderson expressed enthusiasm for leveraging his network to drive policy changes in senior care and literacy.",
+        "memory_l": "Christopher Anderson's career_status updated monthly_income from \"0\" to \"2000\"",
         "query_type": "Advice",
         "query": "Should I dedicate my weekdays to full-time volunteer advocacy for senior care and literacy?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher expressed gratitude towards existing partners like the Local Library and Community Center for their instrumental support in his initiatives, particularly in enhancing literacy programs.",
-        "memory_t": "Christopher seeks advice on integrating innovative ideas, such as virtual reality and digital platforms, to enhance the effectiveness of senior programs.",
+        "memory_s": "Christopher expressed gratitude towards existing partners like the Local Library and Community Center for their instrumental support in his initiatives, particularly in enhancing literacy programs.",
+        "memory_l": "Christopher seeks advice on integrating innovative ideas, such as virtual reality and digital platforms, to enhance the effectiveness of senior programs.",
         "query_type": "Advice",
         "query": "Should I propose an expansion of our traditional literacy programs with the Local Library and Community Center?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher sought advice on finding biographies that offer both inspiration and practical lessons.",
-        "memory_t": "Christopher Anderson's instrumental motivation drives his efforts to solve practical problems and improve efficiency in program implementation, complemented by his intrinsic passion for senior care and community service.",
+        "memory_s": "Christopher sought advice on finding biographies that offer both inspiration and practical lessons.",
+        "memory_l": "Christopher Anderson's instrumental motivation drives his efforts to solve practical problems and improve efficiency in program implementation, complemented by his intrinsic passion for senior care and community service.",
         "query_type": "Recommendation",
         "query": "Can you recommend some biographies that offer both inspiration and practical lessons?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "On Apr 05, 2027, Christopher Anderson reached out to local organizations and libraries to form partnerships to support and expand his community programs.",
-        "memory_t": "Christopher plans to leverage his network and experiences to expand the reach of his volunteer efforts, exploring digital platforms.",
+        "memory_s": "On Apr 05, 2027, Christopher Anderson reached out to local organizations and libraries to form partnerships to support and expand his community programs.",
+        "memory_l": "Christopher plans to leverage his network and experiences to expand the reach of his volunteer efforts, exploring digital platforms.",
         "query_type": "Advice",
         "query": "Should I spend this week visiting local libraries to pitch my community program expansion?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher expressed gratitude towards key relationships, including his colleagues and the Senior Advocacy Group, for their support during his career transition to advocacy.",
-        "memory_t": "Christopher Anderson's career_status updated employment_status from 'self-employed' to 'retired'.",
+        "memory_s": "Christopher expressed gratitude towards key relationships, including his colleagues and the Senior Advocacy Group, for their support during his career transition to advocacy.",
+        "memory_l": "Christopher Anderson's career_status updated employment_status from 'self-employed' to 'retired'.",
         "query_type": "Advice",
         "query": "Should I start reaching out to my colleagues about new senior advocacy roles for my next career step?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher's commitment to sustainability is reflected in his preference for eco-friendly clothing options.",
-        "memory_t": "Christopher plans to build strong partnerships with local organizations to enhance the sustainability and impact of community programs.",
+        "memory_s": "Christopher's commitment to sustainability is reflected in his preference for eco-friendly clothing options.",
+        "memory_l": "Christopher plans to build strong partnerships with local organizations to enhance the sustainability and impact of community programs.",
         "query_type": "Advice",
         "query": "Should I purchase a large inventory of eco-friendly apparel for my upcoming community initiative?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher Anderson Pets I like: Golden Retrievers",
-        "memory_t": "Christopher Anderson is considering hypoallergenic pets as alternatives to cats.",
+        "memory_s": "Christopher Anderson Pets I like: Golden Retrievers",
+        "memory_l": "Christopher Anderson is considering hypoallergenic pets as alternatives to cats.",
         "query_type": "Recommendation",
         "query": "Should I get a Golden Retriever for my new place?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Christopher prefers water aerobics over swimming due to its low-impact nature and the social aspect.",
-        "memory_t": "Christopher Anderson's major is Physical Therapy",
+        "memory_s": "Christopher prefers water aerobics over swimming due to its low-impact nature and the social aspect.",
+        "memory_l": "Christopher Anderson's major is Physical Therapy",
         "query_type": "Advice",
         "query": "Should I write my final research paper on the physiological benefits of swimming strokes?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher expressed enthusiasm about the potential of yoga with meditation to improve focus and reduce stress.",
-        "memory_t": "Christopher Anderson plans to explore alternative wellness practices to balance personal commitments with physical and mental health.",
+        "memory_s": "Christopher expressed enthusiasm about the potential of yoga with meditation to improve focus and reduce stress.",
+        "memory_l": "Christopher Anderson plans to explore alternative wellness practices to balance personal commitments with physical and mental health.",
         "query_type": "Advice",
         "query": "Should I sign up for an intensive yoga and meditation retreat?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher expressed interest in hypoallergenic and low-energy pets to fit his quieter lifestyle.",
-        "memory_t": "Christopher aims to encourage seniors to try new foods to enhance their dining experiences and social interactions.",
+        "memory_s": "Christopher expressed interest in hypoallergenic and low-energy pets to fit his quieter lifestyle.",
+        "memory_l": "Christopher aims to encourage seniors to try new foods to enhance their dining experiences and social interactions.",
         "query_type": "Recommendation",
         "query": "Which hypoallergenic and low-energy pet should I bring to my upcoming community event?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher plans to integrate more locally crafted items into his wardrobe, emphasizing style, comfort, and community support.",
-        "memory_t": "Christopher Anderson's career_status updated monthly_income from '2000' to '0'.",
+        "memory_s": "Christopher plans to integrate more locally crafted items into his wardrobe, emphasizing style, comfort, and community support.",
+        "memory_l": "Christopher Anderson's career_status updated monthly_income from '2000' to '0'.",
         "query_type": "Advice",
         "query": "Should I start buying those locally crafted wardrobe pieces I've been eyeing?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher's clothing preference update to convertible skirts aligns with his social motivation to express identity and gain attention.",
-        "memory_t": "Christopher transitioned from full-time employment to volunteering, focusing on community service for seniors.",
+        "memory_s": "Christopher's clothing preference update to convertible skirts aligns with his social motivation to express identity and gain attention.",
+        "memory_l": "Christopher transitioned from full-time employment to volunteering, focusing on community service for seniors.",
         "query_type": "Advice",
         "query": "Should I wear my new convertible skirt to my work event tomorrow?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher Anderson Books I like to read: Self-help books",
-        "memory_t": "Christopher shared anecdotes about how biographies have influenced his life but now seeks more fictional storytelling to gain new insights.",
+        "memory_s": "Christopher Anderson Books I like to read: Self-help books",
+        "memory_l": "Christopher shared anecdotes about how biographies have influenced his life but now seeks more fictional storytelling to gain new insights.",
         "query_type": "Recommendation",
         "query": "Can you suggest some new self-help books for my reading list?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Christopher's social motivation influenced his openness to exploring first-person shooters, aiming to entertain and engage with friends.",
-        "memory_t": "Christopher aims to use the integration of meditation in yoga to enhance mental wellness and serve his life goals.",
+        "memory_s": "Christopher's social motivation influenced his openness to exploring first-person shooters, aiming to entertain and engage with friends.",
+        "memory_l": "Christopher aims to use the integration of meditation in yoga to enhance mental wellness and serve his life goals.",
         "query_type": "Advice",
         "query": "Should I host a first-person shooter gaming marathon this weekend to entertain my friends?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher appreciates handmade sneakers for their unique designs and the opportunity to support local craftsmen.",
-        "memory_t": "Christopher Anderson's monthly income is 5500 USD",
+        "memory_s": "Christopher appreciates handmade sneakers for their unique designs and the opportunity to support local craftsmen.",
+        "memory_l": "Christopher Anderson's monthly income is 5500 USD",
         "query_type": "Advice",
         "query": "Should I buy a $6000 pair of custom bespoke sneakers?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Christopher Anderson Movies I dislike: Horror films",
-        "memory_t": "Christopher Anderson expressed gratitude towards his friend Andrew for encouraging him to focus on self-care during his recovery.",
+        "memory_s": "Christopher Anderson Movies I dislike: Horror films",
+        "memory_l": "Christopher Anderson expressed gratitude towards his friend Andrew for encouraging him to focus on self-care during his recovery.",
         "query_type": "Advice",
         "query": "Should I host a movie marathon night to catch up on some intense psychological thrillers?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher expressed curiosity and interest in snakes, finding their unique characteristics intriguing and considering how they might fit into his lifestyle.",
-        "memory_t": "Christopher plans to integrate community-based puzzle games into his community programs to promote cognitive stimulation and social bonding among seniors.",
+        "memory_s": "Christopher expressed curiosity and interest in snakes, finding their unique characteristics intriguing and considering how they might fit into his lifestyle.",
+        "memory_l": "Christopher plans to integrate community-based puzzle games into his community programs to promote cognitive stimulation and social bonding among seniors.",
         "query_type": "Recommendation",
         "query": "What kind of interactive live element should I bring to my upcoming community event to make it memorable?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Christopher successfully secured additional funding for senior care programs on Nov 20, 2031, enhancing program offerings and reaching more seniors.",
-        "memory_t": "Christopher expressed excitement about leveraging his recognition to expand initiatives and reach more seniors.",
+        "memory_s": "Christopher successfully secured additional funding for senior care programs on Nov 20, 2031, enhancing program offerings and reaching more seniors.",
+        "memory_l": "Christopher expressed excitement about leveraging his recognition to expand initiatives and reach more seniors.",
         "query_type": "Advice",
         "query": "Should I focus my next project on scaling down operations to consolidate our current resources?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher shared anecdotes about how films have inspired him to reflect on his life and relationships, emphasizing the emotional depth of romantic dramas.",
-        "memory_t": "Christopher integrates insights from social issue documentaries into his advocacy work and community programs, encouraging discussions around these topics.",
+        "memory_s": "Christopher shared anecdotes about how films have inspired him to reflect on his life and relationships, emphasizing the emotional depth of romantic dramas.",
+        "memory_l": "Christopher integrates insights from social issue documentaries into his advocacy work and community programs, encouraging discussions around these topics.",
         "query_type": "Recommendation",
         "query": "What genre of film should I screen for my upcoming community program event?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Christopher reflected on the importance of clarificatory motivation in organizing thoughts and gaining perspective on complex situations.",
-        "memory_t": "Christopher expressed a renewed commitment to his humanitarian goals, inspired by his career and volunteer experiences, and emphasized the importance of creative motivation in generating ideas for community programs.",
+        "memory_s": "Christopher reflected on the importance of clarificatory motivation in organizing thoughts and gaining perspective on complex situations.",
+        "memory_l": "Christopher expressed a renewed commitment to his humanitarian goals, inspired by his career and volunteer experiences, and emphasized the importance of creative motivation in generating ideas for community programs.",
         "query_type": "Advice",
         "query": "Should I prioritize a clarificatory motivation approach when I sit down to plan my new community program initiatives?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher's commitment to sustainability is reflected in his preference for eco-friendly clothing options.",
-        "memory_t": "Christopher uses social signaling to express identity and engage others through his community programs.",
+        "memory_s": "Christopher's commitment to sustainability is reflected in his preference for eco-friendly clothing options.",
+        "memory_l": "Christopher uses social signaling to express identity and engage others through his community programs.",
         "query_type": "Advice",
         "query": "Should I purchase a plain, unbranded organic cotton shirt for my upcoming community outreach event?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher Anderson's health status improved because he integrated wellness practices like yoga and meditation, enhancing his physical and mental resilience.",
-        "memory_t": "Christopher Anderson expressed a desire to maintain a structured sports routine despite increased commitments.",
+        "memory_s": "Christopher Anderson's health status improved because he integrated wellness practices like yoga and meditation, enhancing his physical and mental resilience.",
+        "memory_l": "Christopher Anderson expressed a desire to maintain a structured sports routine despite increased commitments.",
         "query_type": "Advice",
         "query": "Should I replace my physical training sessions with an intensive daily yoga and meditation routine?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher rediscovered his appreciation for scenic train journeys with both solitude and social interactions on Apr 08, 2026.",
-        "memory_t": "Christopher Anderson plans to integrate his love for reading and learning into future travel by visiting historical sites and museums.",
+        "memory_s": "Christopher rediscovered his appreciation for scenic train journeys with both solitude and social interactions on Apr 08, 2026.",
+        "memory_l": "Christopher Anderson plans to integrate his love for reading and learning into future travel by visiting historical sites and museums.",
         "query_type": "Recommendation",
         "query": "What kind of travel experience should I book for my upcoming vacation to ensure it aligns with my personal growth?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher shared anecdotes about emotional resonance and inspiration from speaking engagements, balancing technical challenges.",
-        "memory_t": "Christopher desires actionable advice to achieve tangible results in his personal development journey.",
+        "memory_s": "Christopher shared anecdotes about emotional resonance and inspiration from speaking engagements, balancing technical challenges.",
+        "memory_l": "Christopher desires actionable advice to achieve tangible results in his personal development journey.",
         "query_type": "Advice",
         "query": "Should I continue to structure my personal growth reflections around emotional resonance and inspirational anecdotes?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher discovered community-based puzzle games that merge mental challenges with social interaction, aligning with his goal of community engagement.",
-        "memory_t": "Christopher expressed a sense of loss over setting aside puzzle games due to his commitment to community programs.",
+        "memory_s": "Christopher discovered community-based puzzle games that merge mental challenges with social interaction, aligning with his goal of community engagement.",
+        "memory_l": "Christopher expressed a sense of loss over setting aside puzzle games due to his commitment to community programs.",
         "query_type": "Advice",
         "query": "Should I join one of those community-based puzzle game groups to meet new people?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher Anderson Games I dislike First-person shooters reason: First-person shooters are not appealing to me due to their violent nature. I prefer games that are more peaceful and mentally stimulating.",
-        "memory_t": "Christopher's willingness to evolve his gaming preferences is driven by personal curiosity and a commitment to lifelong learning.",
+        "memory_s": "Christopher Anderson Games I dislike First-person shooters reason: First-person shooters are not appealing to me due to their violent nature. I prefer games that are more peaceful and mentally stimulating.",
+        "memory_l": "Christopher's willingness to evolve his gaming preferences is driven by personal curiosity and a commitment to lifelong learning.",
         "query_type": "Advice",
         "query": "Should I completely avoid trying any new first-person shooters?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher plans to integrate water aerobics into his routine to maintain health and wellness.",
-        "memory_t": "Christopher expressed a mix of frustration and acceptance regarding the need to adapt his activities due to his knee injury.",
+        "memory_s": "Christopher plans to integrate water aerobics into his routine to maintain health and wellness.",
+        "memory_l": "Christopher expressed a mix of frustration and acceptance regarding the need to adapt his activities due to his knee injury.",
         "query_type": "Advice",
         "query": "Is it a good idea for me to start taking water aerobics classes?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher Anderson Books I like to read Biographies reason: Biographies interest me as they offer a detailed look into someone's life and achievements, inspiring me with real-life stories of perseverance and success.",
-        "memory_t": "Christopher Anderson's career_status updated monthly_income from '2000' to '0'.",
+        "memory_s": "Christopher Anderson Books I like to read Biographies reason: Biographies interest me as they offer a detailed look into someone's life and achievements, inspiring me with real-life stories of perseverance and success.",
+        "memory_l": "Christopher Anderson's career_status updated monthly_income from '2000' to '0'.",
         "query_type": "Recommendation",
         "query": "Should I purchase a new hardcover collection of presidential biographies?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher Anderson acknowledged the impact of changing social preferences on his interactions, noting digital games offer a different kind of engagement.",
-        "memory_t": "Christopher Anderson plans to integrate health practices into community programs to promote wellness among seniors, enriching their lives.",
+        "memory_s": "Christopher Anderson acknowledged the impact of changing social preferences on his interactions, noting digital games offer a different kind of engagement.",
+        "memory_l": "Christopher Anderson plans to integrate health practices into community programs to promote wellness among seniors, enriching their lives.",
         "query_type": "Advice",
         "query": "Should I spend my weekend organizing a competitive digital gaming tournament for the local senior center?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher plans to leverage his network and experiences to expand the reach of his volunteer efforts, exploring digital platforms.",
-        "memory_t": "Christopher Anderson's career_status updated monthly_income from \"$5500\" to \"$6500\"",
+        "memory_s": "Christopher plans to leverage his network and experiences to expand the reach of his volunteer efforts, exploring digital platforms.",
+        "memory_l": "Christopher Anderson's career_status updated monthly_income from \"$5500\" to \"$6500\"",
         "query_type": "Advice",
         "query": "Should I apply for the government low-income housing grant to support my volunteer expansion project?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher's clothing preference shifted from casual sneakers to handmade sneakers due to their unique designs and the opportunity to support local artisans.",
-        "memory_t": "Christopher Anderson's monthly income is 5500 USD",
+        "memory_s": "Christopher's clothing preference shifted from casual sneakers to handmade sneakers due to their unique designs and the opportunity to support local artisans.",
+        "memory_l": "Christopher Anderson's monthly income is 5500 USD",
         "query_type": "Advice",
         "query": "Should I commission a custom pair of handmade sneakers this month?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Christopher's travel preference evolved to include social interactions during train journeys, enhancing his travel experience.",
-        "memory_t": "Christopher highlighted the role of emotional resonance in his interactions and expressed gratitude towards colleagues and friends for their support throughout his journey.",
+        "memory_s": "Christopher's travel preference evolved to include social interactions during train journeys, enhancing his travel experience.",
+        "memory_l": "Christopher highlighted the role of emotional resonance in his interactions and expressed gratitude towards colleagues and friends for their support throughout his journey.",
         "query_type": "Advice",
         "query": "Should I book a seat in the open-plan social carriage for my upcoming long-distance train journey?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher prioritizes fair trade and high-quality materials in clothing choices, aligning with his ethical values.",
-        "memory_t": "Christopher Anderson's career_status updated monthly_income from \"7000 yuan\" to \"0 yuan\"",
+        "memory_s": "Christopher prioritizes fair trade and high-quality materials in clothing choices, aligning with his ethical values.",
+        "memory_l": "Christopher Anderson's career_status updated monthly_income from \"7000 yuan\" to \"0 yuan\"",
         "query_type": "Recommendation",
         "query": "Which brands should I look at for a new winter coat?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher expressed enthusiasm about the blend of style, comfort, and community support in his new footwear choice.",
-        "memory_t": "Christopher Anderson's career_status updated industry from \"healthcare\" to \"community services\"",
+        "memory_s": "Christopher expressed enthusiasm about the blend of style, comfort, and community support in his new footwear choice.",
+        "memory_l": "Christopher Anderson's career_status updated industry from \"healthcare\" to \"community services\"",
         "query_type": "Advice",
         "query": "Should I buy more of those stylish and comfortable shoes for my shifts at the hospital?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher's clothing preference shifted from casual sneakers to handmade sneakers due to their unique designs and the opportunity to support local artisans.",
-        "memory_t": "Christopher Anderson's career_status updated industry from \"healthcare\" to \"community services\"",
+        "memory_s": "Christopher's clothing preference shifted from casual sneakers to handmade sneakers due to their unique designs and the opportunity to support local artisans.",
+        "memory_l": "Christopher Anderson's career_status updated industry from \"healthcare\" to \"community services\"",
         "query_type": "Advice",
         "query": "Should I buy those premium handmade sneakers for my upcoming first day at my new job?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher Anderson decided to cease participation in formal yoga sessions due to increased community responsibilities.",
-        "memory_t": "Christopher Anderson's physical health status changed from 'Vibrant' to 'Excellent', supporting his active retirement lifestyle.",
+        "memory_s": "Christopher Anderson decided to cease participation in formal yoga sessions due to increased community responsibilities.",
+        "memory_l": "Christopher Anderson's physical health status changed from 'Vibrant' to 'Excellent', supporting his active retirement lifestyle.",
         "query_type": "Advice",
         "query": "Should I reconsider joining a local yoga studio for regular classes?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher discussed incorporating cooking classes into community initiatives to foster engagement and learning among seniors.",
-        "memory_t": "Christopher plans to build strong partnerships with local organizations to enhance the sustainability and impact of community programs.",
+        "memory_s": "Christopher discussed incorporating cooking classes into community initiatives to foster engagement and learning among seniors.",
+        "memory_l": "Christopher plans to build strong partnerships with local organizations to enhance the sustainability and impact of community programs.",
         "query_type": "Advice",
         "query": "Should I launch the senior cooking classes as an independent, standalone initiative to get it started quickly?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher's decision to remove snakes from his pet preference list reflects his focus on practical problem-solving and personal comfort.",
-        "memory_t": "Christopher plans to explore more documentaries and resources about reptiles to deepen his understanding.",
+        "memory_s": "Christopher's decision to remove snakes from his pet preference list reflects his focus on practical problem-solving and personal comfort.",
+        "memory_l": "Christopher plans to explore more documentaries and resources about reptiles to deepen his understanding.",
         "query_type": "Recommendation",
         "query": "Should I purchase a subscription to a platform focused on specialized herpetology films?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher's emotional motivation influenced his openness to exploring horror films, driven by narrative depth and character development.",
-        "memory_t": "Christopher Anderson's mental health status changed from 'Inspired and Energetic' to 'Tranquil and Focused', enhancing his ability to contribute to community programs.",
+        "memory_s": "Christopher's emotional motivation influenced his openness to exploring horror films, driven by narrative depth and character development.",
+        "memory_l": "Christopher Anderson's mental health status changed from 'Inspired and Energetic' to 'Tranquil and Focused', enhancing his ability to contribute to community programs.",
         "query_type": "Advice",
         "query": "Should I start watching a series of intense horror films tonight?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher anticipates challenges in ensuring the sustainability and effectiveness of new programs for seniors.",
-        "memory_t": "Christopher Anderson seeks advice on maintaining momentum and ensuring sustainability of literacy programs, considering resource allocation challenges and long-term engagement strategies.",
+        "memory_s": "Christopher anticipates challenges in ensuring the sustainability and effectiveness of new programs for seniors.",
+        "memory_l": "Christopher Anderson seeks advice on maintaining momentum and ensuring sustainability of literacy programs, considering resource allocation challenges and long-term engagement strategies.",
         "query_type": "Advice",
         "query": "What strategies should I implement to ensure the long-term effectiveness of my new programs for seniors?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher realized his preference for self-help books with clear, actionable steps while browsing a bookstore.",
-        "memory_t": "Christopher Anderson emphasized the importance of creative motivation in integrating wellness practices into his daily routine.",
+        "memory_s": "Christopher realized his preference for self-help books with clear, actionable steps while browsing a bookstore.",
+        "memory_l": "Christopher Anderson emphasized the importance of creative motivation in integrating wellness practices into his daily routine.",
         "query_type": "Recommendation",
         "query": "Should I buy a collection of self-help books that focus on rigid, step-by-step instructions for my new routine?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher's clothing preference changed from liking comfortable cardigans to liking ethically produced cardigans.",
-        "memory_t": "Christopher expressed gratitude towards colleagues and friends for supporting his transition to expanded volunteer efforts.",
+        "memory_s": "Christopher's clothing preference changed from liking comfortable cardigans to liking ethically produced cardigans.",
+        "memory_l": "Christopher expressed gratitude towards colleagues and friends for supporting his transition to expanded volunteer efforts.",
         "query_type": "Advice",
         "query": "Should I buy several new ethically produced cardigans to refresh my wardrobe?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher anticipates challenges in ensuring the sustainability and effectiveness of new programs for seniors.",
-        "memory_t": "Christopher expressed pride in the social connections fostered by his volunteer initiatives and plans to strengthen these connections by including more diverse activities.",
+        "memory_s": "Christopher anticipates challenges in ensuring the sustainability and effectiveness of new programs for seniors.",
+        "memory_l": "Christopher expressed pride in the social connections fostered by his volunteer initiatives and plans to strengthen these connections by including more diverse activities.",
         "query_type": "Advice",
         "query": "I am worried about the sustainability and effectiveness of new programs for seniors. Should I pause all new initiatives to focus solely on maintaining the current administrative structures?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher Anderson acknowledged the impact of changing social preferences on his interactions, noting digital games offer a different kind of engagement.",
-        "memory_t": "Christopher Anderson is considering hypoallergenic pets as alternatives to cats.",
+        "memory_s": "Christopher Anderson acknowledged the impact of changing social preferences on his interactions, noting digital games offer a different kind of engagement.",
+        "memory_l": "Christopher Anderson is considering hypoallergenic pets as alternatives to cats.",
         "query_type": "Advice",
         "query": "I'm thinking about adopting a cat to keep me company while I play my digital games at home. Does that sound like a good idea?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher Anderson's new mobility programs were well-received, contributing to improved physical health and increased social engagement among seniors. However, there were criticisms about not addressing cognitive health needs adequately.",
-        "memory_t": "Christopher aims to create a vibrant community that adapts to seniors' needs through diverse activities and experiences.",
+        "memory_s": "Christopher Anderson's new mobility programs were well-received, contributing to improved physical health and increased social engagement among seniors. However, there were criticisms about not addressing cognitive health needs adequately.",
+        "memory_l": "Christopher aims to create a vibrant community that adapts to seniors' needs through diverse activities and experiences.",
         "query_type": "Advice",
         "query": "Should I stick exclusively to physical mobility exercises for the next phase of senior programming?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher seeks more serene and comfortable travel experiences, aligning with his current lifestyle and goals.",
-        "memory_t": "Christopher is focusing on creating a calm and supportive environment in his community programs for seniors, inspired by his travel experiences.",
+        "memory_s": "Christopher seeks more serene and comfortable travel experiences, aligning with his current lifestyle and goals.",
+        "memory_l": "Christopher is focusing on creating a calm and supportive environment in his community programs for seniors, inspired by his travel experiences.",
         "query_type": "Advice",
         "query": "Should I book a month-long serene retreat in the Swiss Alps?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher appreciates handmade sneakers for their unique designs and the opportunity to support local craftsmen.",
-        "memory_t": "Christopher Anderson's career_status updated industry from \"healthcare\" to \"community services\"",
+        "memory_s": "Christopher appreciates handmade sneakers for their unique designs and the opportunity to support local craftsmen.",
+        "memory_l": "Christopher Anderson's career_status updated industry from \"healthcare\" to \"community services\"",
         "query_type": "Advice",
         "query": "Should I buy those premium handmade sneakers from the local artisan for my first day at the new job?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher expressed excitement about the flexibility retirement offers to pursue community initiatives.",
-        "memory_t": "Christopher Anderson's target metrics are reinforced by the success of comprehensive care plans, bringing him closer to helping 10,000 seniors.",
+        "memory_s": "Christopher expressed excitement about the flexibility retirement offers to pursue community initiatives.",
+        "memory_l": "Christopher Anderson's target metrics are reinforced by the success of comprehensive care plans, bringing him closer to helping 10,000 seniors.",
         "query_type": "Advice",
         "query": "Should I start looking into fully committing to my community initiatives now that I have retirement flexibility?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher Anderson sought advice on optimizing his new yoga routine for continued personal growth and wellbeing.",
-        "memory_t": "Christopher plans to integrate health practices into community programs to promote wellness among seniors.",
+        "memory_s": "Christopher Anderson sought advice on optimizing his new yoga routine for continued personal growth and wellbeing.",
+        "memory_l": "Christopher plans to integrate health practices into community programs to promote wellness among seniors.",
         "query_type": "Advice",
         "query": "How should I optimize my new yoga routine with advanced inversions and high-intensity power flows for my personal growth?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher expressed a desire for films that explore personal growth and complex relationships, which he plans to incorporate into community programs.",
-        "memory_t": "Christopher plans to integrate community-based puzzle games into his community programs to promote cognitive stimulation and social bonding among seniors.",
+        "memory_s": "Christopher expressed a desire for films that explore personal growth and complex relationships, which he plans to incorporate into community programs.",
+        "memory_l": "Christopher plans to integrate community-based puzzle games into his community programs to promote cognitive stimulation and social bonding among seniors.",
         "query_type": "Advice",
         "query": "Should I organize a screening of indie films about complex relationships for my next community program event?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher expressed curiosity and interest in snakes, finding their unique characteristics intriguing and considering how they might fit into his lifestyle.",
-        "memory_t": "Christopher expressed a desire to continue exploring personal interests, such as painting, while expanding his community impact.",
+        "memory_s": "Christopher expressed curiosity and interest in snakes, finding their unique characteristics intriguing and considering how they might fit into his lifestyle.",
+        "memory_l": "Christopher expressed a desire to continue exploring personal interests, such as painting, while expanding his community impact.",
         "query_type": "Advice",
         "query": "Should I finally go ahead and get a pet snake to bring into my daily routine?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher used his retirement to expand his social network, connecting with new partners and community members to support his volunteer efforts, including collaborations with the Local Library and Community Center.",
-        "memory_t": "Christopher Anderson's career_status updated job_title from 'Advocate and Consultant' to 'Volunteer'.",
+        "memory_s": "Christopher used his retirement to expand his social network, connecting with new partners and community members to support his volunteer efforts, including collaborations with the Local Library and Community Center.",
+        "memory_l": "Christopher Anderson's career_status updated job_title from 'Advocate and Consultant' to 'Volunteer'.",
         "query_type": "Recommendation",
         "query": "Should I start charging for my consulting services with the Local Library?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher appreciates practical self-help guides for their concrete steps and real-life applications, aiding in effective personal change.",
-        "memory_t": "Christopher Anderson began designing literacy programs tailored to seniors, aiming to foster engagement and cognitive stimulation through reading activities.",
+        "memory_s": "Christopher appreciates practical self-help guides for their concrete steps and real-life applications, aiding in effective personal change.",
+        "memory_l": "Christopher Anderson began designing literacy programs tailored to seniors, aiming to foster engagement and cognitive stimulation through reading activities.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming project on writing a complex self-help guide with concrete steps for personal change?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher's clothing preference changed from liking casual sneakers to liking recycled material sneakers on Sep 14, 2034.",
-        "memory_t": "Christopher's cognitive curiosity drove his interest in sustainable fashion.",
+        "memory_s": "Christopher's clothing preference changed from liking casual sneakers to liking recycled material sneakers on Sep 14, 2034.",
+        "memory_l": "Christopher's cognitive curiosity drove his interest in sustainable fashion.",
         "query_type": "Recommendation",
         "query": "What kind of new sneakers should I look into buying?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Christopher expressed gratitude towards colleagues, especially Sarah, for their support and inspiration in achieving excellence.",
-        "memory_t": "Christopher uses compensatory motivation to overcome personal limitations and drive innovations in volunteer initiatives.",
+        "memory_s": "Christopher expressed gratitude towards colleagues, especially Sarah, for their support and inspiration in achieving excellence.",
+        "memory_l": "Christopher uses compensatory motivation to overcome personal limitations and drive innovations in volunteer initiatives.",
         "query_type": "Advice",
         "query": "Should I write a public post attributing all my recent success entirely to Sarah's inspiration?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher attended a gaming expo on Aug 21, 2031, which led to a reconsideration of his stance on first-person shooters.",
-        "memory_t": "Christopher Anderson expressed a desire to connect with friends through digital platforms, considering how these changes might influence his community programs.",
+        "memory_s": "Christopher attended a gaming expo on Aug 21, 2031, which led to a reconsideration of his stance on first-person shooters.",
+        "memory_l": "Christopher Anderson expressed a desire to connect with friends through digital platforms, considering how these changes might influence his community programs.",
         "query_type": "Advice",
         "query": "Should I organize a local tournament featuring that popular new tactical shooter game?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher Anderson shared fond memories of past beach vacations but acknowledged his evolving interests.",
-        "memory_t": "Christopher Anderson reflected on the disconnect between passive beach vacations and his current life goals of learning and cultural immersion.",
+        "memory_s": "Christopher Anderson shared fond memories of past beach vacations but acknowledged his evolving interests.",
+        "memory_l": "Christopher Anderson reflected on the disconnect between passive beach vacations and his current life goals of learning and cultural immersion.",
         "query_type": "Advice",
         "query": "Should I book a week-long stay at a secluded seaside resort to revisit my past vacation habits?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher's clothing preference update to convertible skirts aligns with his social motivation to express identity and gain attention.",
-        "memory_t": "Christopher envisions combining food and music to create a holistic experience for seniors.",
+        "memory_s": "Christopher's clothing preference update to convertible skirts aligns with his social motivation to express identity and gain attention.",
+        "memory_l": "Christopher envisions combining food and music to create a holistic experience for seniors.",
         "query_type": "Advice",
         "query": "Should I wear a flashy convertible skirt to the community event I'm hosting next week?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Christopher decided to remove liver from his list of disliked foods because it's rarely part of his meals.",
-        "memory_t": "Christopher's commitment to his role as Community Program Director motivated him to adopt healthier habits.",
+        "memory_s": "Christopher decided to remove liver from his list of disliked foods because it's rarely part of his meals.",
+        "memory_l": "Christopher's commitment to his role as Community Program Director motivated him to adopt healthier habits.",
         "query_type": "Advice",
         "query": "Should I start ordering more liver-based dishes when I dine out?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher's visit to a local artisan market inspired a shift in his clothing preference towards handmade items.",
-        "memory_t": "Christopher plans to integrate more locally crafted items into his wardrobe, emphasizing style, comfort, and community support.",
+        "memory_s": "Christopher's visit to a local artisan market inspired a shift in his clothing preference towards handmade items.",
+        "memory_l": "Christopher plans to integrate more locally crafted items into his wardrobe, emphasizing style, comfort, and community support.",
         "query_type": "Advice",
         "query": "Should Christopher buy a mass-produced designer jacket he saw online?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher Anderson has preferences in Travel Preference",
-        "memory_t": "Christopher Anderson's career_status updated monthly_income from \"0\" to \"2000\"",
+        "memory_s": "Christopher Anderson has preferences in Travel Preference",
+        "memory_l": "Christopher Anderson's career_status updated monthly_income from \"0\" to \"2000\"",
         "query_type": "Advice",
         "query": "Should I book a luxury two-week vacation to the Maldives?",
         "options": {
@@ -1185,8 +1185,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher Anderson expressed excitement about transitioning to advocacy and consulting, aiming to influence senior care and literacy policy using his experience and connections.",
-        "memory_t": "Christopher Anderson's career_status updated savings_amount from \"40000\" to \"41000\"",
+        "memory_s": "Christopher Anderson expressed excitement about transitioning to advocacy and consulting, aiming to influence senior care and literacy policy using his experience and connections.",
+        "memory_l": "Christopher Anderson's career_status updated savings_amount from \"40000\" to \"41000\"",
         "query_type": "Advice",
         "query": "Should I officially resign from my current position this week to launch my independent senior care and literacy consulting firm?",
         "options": {
@@ -1200,8 +1200,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher is committed to exploring action films that offer more than just adrenaline, focusing on stories that resonate with him.",
-        "memory_t": "Christopher Anderson's physical health status changed from 'Healthy' to 'Recovered' after integrating wellness practices like yoga and meditation.",
+        "memory_s": "Christopher is committed to exploring action films that offer more than just adrenaline, focusing on stories that resonate with him.",
+        "memory_l": "Christopher Anderson's physical health status changed from 'Healthy' to 'Recovered' after integrating wellness practices like yoga and meditation.",
         "query_type": "Recommendation",
         "query": "Should I watch a high-intensity action movie tonight?",
         "options": {
@@ -1215,8 +1215,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher's discomfort with snakes led to a decision to avoid them altogether.",
-        "memory_t": "Christopher reflects on his exploratory motivation to test pet preferences and align them with his cognitive curiosity.",
+        "memory_s": "Christopher's discomfort with snakes led to a decision to avoid them altogether.",
+        "memory_l": "Christopher reflects on his exploratory motivation to test pet preferences and align them with his cognitive curiosity.",
         "query_type": "Advice",
         "query": "Should I completely rule out getting a reptile as a pet to ensure I avoid snakes?",
         "options": {
@@ -1230,8 +1230,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher Anderson Movies I dislike: Action-packed thrillers",
-        "memory_t": "Christopher explores how his preference change aligns with his life goals of promoting peace and well-being.",
+        "memory_s": "Christopher Anderson Movies I dislike: Action-packed thrillers",
+        "memory_l": "Christopher explores how his preference change aligns with his life goals of promoting peace and well-being.",
         "query_type": "Recommendation",
         "query": "What kind of movie should I watch tonight since I dislike action-packed thrillers?",
         "options": {
@@ -1245,8 +1245,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Christopher prefers water aerobics over swimming due to its low-impact nature and the social aspect.",
-        "memory_t": "Christopher Anderson's physical health condition: Healthy",
+        "memory_s": "Christopher prefers water aerobics over swimming due to its low-impact nature and the social aspect.",
+        "memory_l": "Christopher Anderson's physical health condition: Healthy",
         "query_type": "Advice",
         "query": "Should I sign up for the advanced swimming class instead of water aerobics?",
         "options": {
@@ -1260,8 +1260,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher discussed the internal conflict between appreciating factual content and seeking imaginative narratives, leaning towards fiction.",
-        "memory_t": "Christopher's motivation focuses on improving efficiency and solving practical problems through collaboration and competition.",
+        "memory_s": "Christopher discussed the internal conflict between appreciating factual content and seeking imaginative narratives, leaning towards fiction.",
+        "memory_l": "Christopher's motivation focuses on improving efficiency and solving practical problems through collaboration and competition.",
         "query_type": "Recommendation",
         "query": "I'm deciding whether to commit to a purely imaginative fantasy novel for my next project. Given my interests, does this seem like the right path?",
         "options": {
@@ -1275,8 +1275,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher's decision to switch to convertible skirts reflects his focus on practicality and style.",
-        "memory_t": "Christopher Anderson's career_status updated savings_amount from \"37000 yuan\" to \"40000 yuan\"",
+        "memory_s": "Christopher's decision to switch to convertible skirts reflects his focus on practicality and style.",
+        "memory_l": "Christopher Anderson's career_status updated savings_amount from \"37000 yuan\" to \"40000 yuan\"",
         "query_type": "Advice",
         "query": "Should I buy that luxury 45,000 yuan designer convertible skirt I've been eyeing for my wardrobe update?",
         "options": {
@@ -1290,8 +1290,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher's clothing preference changed from liking comfortable cardigans to eco-friendly cardigans.",
-        "memory_t": "Christopher Anderson's career_status updated job_title from 'Advocate and Consultant' to 'Volunteer'.",
+        "memory_s": "Christopher's clothing preference changed from liking comfortable cardigans to eco-friendly cardigans.",
+        "memory_l": "Christopher Anderson's career_status updated job_title from 'Advocate and Consultant' to 'Volunteer'.",
         "query_type": "Recommendation",
         "query": "I need to update my wardrobe for work; which high-end eco-friendly cardigans should I purchase for my professional role?",
         "options": {
@@ -1305,8 +1305,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher expressed gratitude for support from colleagues and community members in advocacy work, considering appreciation events.",
-        "memory_t": "Christopher Anderson's career_status updated employment_status from \"employed\" to \"retired\"",
+        "memory_s": "Christopher expressed gratitude for support from colleagues and community members in advocacy work, considering appreciation events.",
+        "memory_l": "Christopher Anderson's career_status updated employment_status from \"employed\" to \"retired\"",
         "query_type": "Advice",
         "query": "I am thinking about organizing a large appreciation event for my colleagues and community members to thank them for their support in my advocacy work. How should I go about planning it?",
         "options": {
@@ -1320,8 +1320,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher Anderson Travel styles I like Beach vacations reason: Beach vacations are ideal for me to soak up the sun and enjoy the ocean breeze. The sound of waves is calming, and I find it a perfect setting for relaxation.",
-        "memory_t": "Christopher aligns his lifestyle with values, seeking harmony between personal growth and social responsibility.",
+        "memory_s": "Christopher Anderson Travel styles I like Beach vacations reason: Beach vacations are ideal for me to soak up the sun and enjoy the ocean breeze. The sound of waves is calming, and I find it a perfect setting for relaxation.",
+        "memory_l": "Christopher aligns his lifestyle with values, seeking harmony between personal growth and social responsibility.",
         "query_type": "Recommendation",
         "query": "Should I book a luxury beach vacation at a major commercial resort?",
         "options": {
@@ -1335,8 +1335,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Christopher's reading preference has shifted towards practical self-help guides that offer clear steps and real-life applications.",
-        "memory_t": "Christopher Anderson plans to use insights from contemporary narratives to inform his volunteer work and community programs.",
+        "memory_s": "Christopher's reading preference has shifted towards practical self-help guides that offer clear steps and real-life applications.",
+        "memory_l": "Christopher Anderson plans to use insights from contemporary narratives to inform his volunteer work and community programs.",
         "query_type": "Recommendation",
         "query": "Can you suggest some practical self-help guides with actionable steps for me to read tonight?",
         "options": {
@@ -1350,8 +1350,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher Anderson reflects on the support from colleagues like Sarah, whose dedication inspires him to achieve excellence in his work.",
-        "memory_t": "Christopher Anderson's career_description updated to 'In retirement, I am fully committed to volunteering in community service, focusing on initiatives that improve senior quality of life and promote literacy.'",
+        "memory_s": "Christopher Anderson reflects on the support from colleagues like Sarah, whose dedication inspires him to achieve excellence in his work.",
+        "memory_l": "Christopher Anderson's career_description updated to 'In retirement, I am fully committed to volunteering in community service, focusing on initiatives that improve senior quality of life and promote literacy.'",
         "query_type": "Advice",
         "query": "How can I best show my appreciation to colleagues like Sarah who inspire me to achieve excellence in my work?",
         "options": {
@@ -1365,8 +1365,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "During a community wellness event, Christopher was inspired by a speaker discussing the benefits of meditation and tai chi with physical activities.",
-        "memory_t": "Christopher Anderson seeks to maintain mental clarity and relaxation through home yoga practice despite ceasing formal sessions.",
+        "memory_s": "During a community wellness event, Christopher was inspired by a speaker discussing the benefits of meditation and tai chi with physical activities.",
+        "memory_l": "Christopher Anderson seeks to maintain mental clarity and relaxation through home yoga practice despite ceasing formal sessions.",
         "query_type": "Advice",
         "query": "Should I sign up for those formal meditation and tai chi classes I heard about at the wellness event?",
         "options": {
@@ -1380,8 +1380,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Christopher expressed enthusiasm for discovering new authors and stories that challenge his imagination, planning to reach out to local literary communities.",
-        "memory_t": "Christopher used his retirement to expand his social network, connecting with new partners and community members to support his volunteer efforts, including collaborations with the Local Library and Community Center.",
+        "memory_s": "Christopher expressed enthusiasm for discovering new authors and stories that challenge his imagination, planning to reach out to local literary communities.",
+        "memory_l": "Christopher used his retirement to expand his social network, connecting with new partners and community members to support his volunteer efforts, including collaborations with the Local Library and Community Center.",
         "query_type": "Advice",
         "query": "Should I spend my upcoming free time alone diving into experimental fiction from new authors?",
         "options": {
@@ -1395,8 +1395,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Christopher expressed excitement about the camaraderie and supportive atmosphere in water aerobics classes.",
-        "memory_t": "Christopher Anderson exhibits emotional resilience and commitment to his goals, driven by clarificatory motivation.",
+        "memory_s": "Christopher expressed excitement about the camaraderie and supportive atmosphere in water aerobics classes.",
+        "memory_l": "Christopher Anderson exhibits emotional resilience and commitment to his goals, driven by clarificatory motivation.",
         "query_type": "Advice",
         "query": "Should I sign up for a water aerobics class to enjoy the camaraderie and supportive atmosphere?",
         "options": {
@@ -1410,8 +1410,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher's clarificatory motivation is evident in his preference for documentaries that inspire reflection and action on important topics.",
-        "memory_t": "Christopher's emotional motivation drives his efforts to offer empathetic and supportive environments for seniors, focusing on emotional resonance and storytelling.",
+        "memory_s": "Christopher's clarificatory motivation is evident in his preference for documentaries that inspire reflection and action on important topics.",
+        "memory_l": "Christopher's emotional motivation drives his efforts to offer empathetic and supportive environments for seniors, focusing on emotional resonance and storytelling.",
         "query_type": "Advice",
         "query": "Should I organize a screening of a hard-hitting documentary about global resource depletion to inspire action?",
         "options": {
@@ -1425,8 +1425,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher seeks advice on how snakes might fit into his lifestyle and align with his broader goals.",
-        "memory_t": "Christopher Anderson expressed a desire to explore new forms of companionship that align with his health needs and lifestyle goals.",
+        "memory_s": "Christopher seeks advice on how snakes might fit into his lifestyle and align with his broader goals.",
+        "memory_l": "Christopher Anderson expressed a desire to explore new forms of companionship that align with his health needs and lifestyle goals.",
         "query_type": "Advice",
         "query": "Would getting a pet snake be a good addition to my daily routine?",
         "options": {
@@ -1440,8 +1440,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Christopher shared anecdotes from the gaming expo, highlighting moments that challenged his previous perceptions of first-person shooters.",
-        "memory_t": "Christopher seeks advice on maximizing the impact of community-based puzzle games on senior engagement.",
+        "memory_s": "Christopher shared anecdotes from the gaming expo, highlighting moments that challenged his previous perceptions of first-person shooters.",
+        "memory_l": "Christopher seeks advice on maximizing the impact of community-based puzzle games on senior engagement.",
         "query_type": "Recommendation",
         "query": "Could you recommend some exciting first-person shooters for my upcoming community gaming event?",
         "options": {

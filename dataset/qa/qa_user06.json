@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Taylor David realized that films with excessive violence could offer insights into narrative complexity and human behavior.",
-        "memory_t": "Taylor David's motivation for pursuing goals: Inspired by personal experiences and family background in health, Taylor aims to improve children's health outcomes through better nutrition.",
+        "memory_s": "Taylor David realized that films with excessive violence could offer insights into narrative complexity and human behavior.",
+        "memory_l": "Taylor David's motivation for pursuing goals: Inspired by personal experiences and family background in health, Taylor aims to improve children's health outcomes through better nutrition.",
         "query_type": "Recommendation",
         "query": "I am considering screening one of those films with excessive violence I've been analyzing for their narrative complexity at my upcoming fundraiser; is this a good idea?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor articulates the importance of balancing discomfort with learning opportunities in his movie preferences.",
-        "memory_t": "Taylor David's health status changed due to the challenges of leading the Global Nutrition Initiative, causing anxiety because of the high stakes and global reach of the project.",
+        "memory_s": "Taylor articulates the importance of balancing discomfort with learning opportunities in his movie preferences.",
+        "memory_l": "Taylor David's health status changed due to the challenges of leading the Global Nutrition Initiative, causing anxiety because of the high stakes and global reach of the project.",
         "query_type": "Recommendation",
         "query": "Can you suggest a film that really pushes boundaries and forces me to sit with some intense discomfort for the sake of learning?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor reflected on past experiences that prepared him for managing health setbacks, emphasizing resilience and adaptability.",
-        "memory_t": "Taylor David's physical health status changed from 'Normal' to 'Improved'.",
+        "memory_s": "Taylor reflected on past experiences that prepared him for managing health setbacks, emphasizing resilience and adaptability.",
+        "memory_l": "Taylor David's physical health status changed from 'Normal' to 'Improved'.",
         "query_type": "Conversation",
         "query": "How should I mentally prepare for the inevitable health setbacks I'm facing right now?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor achieved a balance between consultancy work and non-profit advocacy on Mar 13, 2033, ensuring sustainability and impact.",
-        "memory_t": "Taylor plans to leverage his experience and network to explore opportunities in policy reform and consultancy following his layoff.",
+        "memory_s": "Taylor achieved a balance between consultancy work and non-profit advocacy on Mar 13, 2033, ensuring sustainability and impact.",
+        "memory_l": "Taylor plans to leverage his experience and network to explore opportunities in policy reform and consultancy following his layoff.",
         "query_type": "Advice",
         "query": "How can I best maintain the balance between my consultancy work and non-profit advocacy that I established years ago?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David Games I like to play Educational board games reason: I enjoy educational board games because they are fun and help me learn new things, which I can incorporate into meal planning for kids.",
-        "memory_t": "Taylor's transition to a hospital role expanded his professional network, connecting him with key players in pediatric healthcare and general healthcare, focusing on adult nutrition.",
+        "memory_s": "Taylor David Games I like to play Educational board games reason: I enjoy educational board games because they are fun and help me learn new things, which I can incorporate into meal planning for kids.",
+        "memory_l": "Taylor's transition to a hospital role expanded his professional network, connecting him with key players in pediatric healthcare and general healthcare, focusing on adult nutrition.",
         "query_type": "Recommendation",
         "query": "What kind of nutritional games should I introduce to my new patients to help them learn about healthy eating?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Taylor David sought advice on balancing professional commitments with prioritizing health.",
-        "memory_t": "Taylor David attributed his declining health to the stress of managing both consultancy and non-profit work.",
+        "memory_s": "Taylor David sought advice on balancing professional commitments with prioritizing health.",
+        "memory_l": "Taylor David attributed his declining health to the stress of managing both consultancy and non-profit work.",
         "query_type": "Advice",
         "query": "How should I organize my schedule to handle all my current professional duties while still making time for my health?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David reflected on the transition from his hospital role to founding a global non-profit, highlighting increased responsibilities and pressure.",
-        "memory_t": "Taylor David's physical health status changed from 'Fatigued' to 'Declining', requiring significant lifestyle adjustments.",
+        "memory_s": "Taylor David reflected on the transition from his hospital role to founding a global non-profit, highlighting increased responsibilities and pressure.",
+        "memory_l": "Taylor David's physical health status changed from 'Fatigued' to 'Declining', requiring significant lifestyle adjustments.",
         "query_type": "Advice",
         "query": "Should I take on a new, high-stakes leadership role at the non-profit to expand our global reach?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor expressed gratitude for the support from his professional network and family during his career transition, emphasizing their role in securing a new position.",
-        "memory_t": "Taylor reaffirmed his commitment to revolutionizing children's nutrition globally, inspired by his leadership journey and strategic initiatives.",
+        "memory_s": "Taylor expressed gratitude for the support from his professional network and family during his career transition, emphasizing their role in securing a new position.",
+        "memory_l": "Taylor reaffirmed his commitment to revolutionizing children's nutrition globally, inspired by his leadership journey and strategic initiatives.",
         "query_type": "Advice",
         "query": "Should I accept this high-paying executive offer from a major tobacco company to celebrate my new career chapter?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David prefers freshly squeezed juices with reduced sugar content.",
-        "memory_t": "Taylor David's career_status updated monthly_income from \"5000\" to \"0\".",
+        "memory_s": "Taylor David prefers freshly squeezed juices with reduced sugar content.",
+        "memory_l": "Taylor David's career_status updated monthly_income from \"5000\" to \"0\".",
         "query_type": "Recommendation",
         "query": "I want to sign up for a premium daily delivery service of freshly squeezed, low-sugar juices; which one should I pick?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor's renewed energy and focus have enabled him to drive impactful change in children's nutrition globally, aligning with his life goal.",
-        "memory_t": "Taylor David's monthly income updated from \"3500 yuan\" to \"4000 yuan\".",
+        "memory_s": "Taylor's renewed energy and focus have enabled him to drive impactful change in children's nutrition globally, aligning with his life goal.",
+        "memory_l": "Taylor David's monthly income updated from \"3500 yuan\" to \"4000 yuan\".",
         "query_type": "Advice",
         "query": "Should I personally fund a new international foundation to improve school lunches across three continents?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Taylor David Clothing I like to wear Comfortable sportswear reason: I prefer comfortable sportswear because it allows me to be active and engage with children in a dynamic environment.",
-        "memory_t": "Taylor David's career_status updated employment_status from \"non-profit founder\" to \"global director\".",
+        "memory_s": "Taylor David Clothing I like to wear Comfortable sportswear reason: I prefer comfortable sportswear because it allows me to be active and engage with children in a dynamic environment.",
+        "memory_l": "Taylor David's career_status updated employment_status from \"non-profit founder\" to \"global director\".",
         "query_type": "Advice",
         "query": "I have a major board meeting today, so should I wear my usual comfortable sportswear?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David realized that crowded tourist spots are not conducive to effective planning and decided to avoid them in the future.",
-        "memory_t": "Taylor David reflected on the challenges of navigating policy complexities and the importance of leveraging his expanded network to drive meaningful change.",
+        "memory_s": "Taylor David realized that crowded tourist spots are not conducive to effective planning and decided to avoid them in the future.",
+        "memory_l": "Taylor David reflected on the challenges of navigating policy complexities and the importance of leveraging his expanded network to drive meaningful change.",
         "query_type": "Advice",
         "query": "I am thinking about booking a secluded cabin in the mountains to work on my new policy initiative alone; is this a good approach?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor expressed gratitude for the support from his professional network and family during his career transition, emphasizing their role in securing a new position.",
-        "memory_t": "Taylor David's career_status updated company_name from \"Self-employed\" to \"Taylor's Expanded Nutrition Consultancy\"",
+        "memory_s": "Taylor expressed gratitude for the support from his professional network and family during his career transition, emphasizing their role in securing a new position.",
+        "memory_l": "Taylor David's career_status updated company_name from \"Self-employed\" to \"Taylor's Expanded Nutrition Consultancy\"",
         "query_type": "Conversation",
         "query": "Did I ever properly thank my network for helping me land this new corporate job?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor appreciates movies with complex narratives for their depth in understanding human interactions and applies these insights to his advocacy work.",
-        "memory_t": "Taylor David transitioned from non-profit work to a part-time consultancy role.",
+        "memory_s": "Taylor appreciates movies with complex narratives for their depth in understanding human interactions and applies these insights to his advocacy work.",
+        "memory_l": "Taylor David transitioned from non-profit work to a part-time consultancy role.",
         "query_type": "Advice",
         "query": "Should I plan a full-time film series for my non-profit advocacy team?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David shared insights from a documentary on lifestyle changes, illustrating the educational potential of movies with unhealthy portrayals.",
-        "memory_t": "Taylor's shift to mixed green salads aligns with his goal of promoting diverse, healthy eating habits for children.",
+        "memory_s": "Taylor David shared insights from a documentary on lifestyle changes, illustrating the educational potential of movies with unhealthy portrayals.",
+        "memory_l": "Taylor's shift to mixed green salads aligns with his goal of promoting diverse, healthy eating habits for children.",
         "query_type": "Advice",
         "query": "Should I organize a movie night featuring films with unhealthy lifestyle portrayals for the kids?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor expressed gratitude for the support from his professional network and family during his career transition, emphasizing their role in securing a new position.",
-        "memory_t": "As the founder of Taylor's Nutrition Consultancy, Taylor David is dedicated to revolutionizing pediatric nutrition by providing comprehensive meal plans to hospitals worldwide.",
+        "memory_s": "Taylor expressed gratitude for the support from his professional network and family during his career transition, emphasizing their role in securing a new position.",
+        "memory_l": "As the founder of Taylor's Nutrition Consultancy, Taylor David is dedicated to revolutionizing pediatric nutrition by providing comprehensive meal plans to hospitals worldwide.",
         "query_type": "Advice",
         "query": "Should I email my new employer to ask for details about the vacation policy for the position I just secured?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David expressed a need for beverages that enhance energy and focus during intense meal planning sessions.",
-        "memory_t": "Taylor David's health status changed, reason: Balancing the demands of consultancy and non-profit work led to exhaustion and strain, necessitating a focus on personal recovery.",
+        "memory_s": "Taylor David expressed a need for beverages that enhance energy and focus during intense meal planning sessions.",
+        "memory_l": "Taylor David's health status changed, reason: Balancing the demands of consultancy and non-profit work led to exhaustion and strain, necessitating a focus on personal recovery.",
         "query_type": "Recommendation",
         "query": "I have a long meal planning session tonight, so what beverages should I stock up on?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David expressed gratitude towards his team for their collaborative efforts in achieving the consultancy's success.",
-        "memory_t": "Taylor David's career status changed from 'International Nutrition Advocate' to 'Unemployed' due to an unexpected layoff.",
+        "memory_s": "Taylor David expressed gratitude towards his team for their collaborative efforts in achieving the consultancy's success.",
+        "memory_l": "Taylor David's career status changed from 'International Nutrition Advocate' to 'Unemployed' due to an unexpected layoff.",
         "query_type": "Advice",
         "query": "Should I plan a large celebration dinner for my team to recognize our recent consultancy success?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David reached out to his network, including his mentor Michael and policy maker ChenLi, for support and guidance during his career transition.",
-        "memory_t": "Taylor David's career_status updated job_title from 'Lead Nutrition Advocate' to 'International Nutrition Advocate'.",
+        "memory_s": "Taylor David reached out to his network, including his mentor Michael and policy maker ChenLi, for support and guidance during his career transition.",
+        "memory_l": "Taylor David's career_status updated job_title from 'Lead Nutrition Advocate' to 'International Nutrition Advocate'.",
         "query_type": "Advice",
         "query": "Should I email Michael and ChenLi to ask for their guidance on finding a new role during my career transition?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David's life goal statement: To revolutionize children's nutrition globally by developing comprehensive meal plans that are adopted by 10,000 hospitals worldwide.",
-        "memory_t": "Taylor David's career_status updated monthly_income from \"5000\" to \"0\".",
+        "memory_s": "Taylor David's life goal statement: To revolutionize children's nutrition globally by developing comprehensive meal plans that are adopted by 10,000 hospitals worldwide.",
+        "memory_l": "Taylor David's career_status updated monthly_income from \"5000\" to \"0\".",
         "query_type": "Advice",
         "query": "Should I immediately launch my global children's nutrition initiative targeting 10,000 hospitals?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor reflected on his transition to the Hospital Nutrition Specialist role at City Children's Hospital, balancing personal health with professional responsibilities.",
-        "memory_t": "Taylor David's mental health status changed from 'Optimistic and Energetic' to 'Fatigued and Overwhelmed' due to the transition to his role as a Hospital Nutrition Specialist.",
+        "memory_s": "Taylor reflected on his transition to the Hospital Nutrition Specialist role at City Children's Hospital, balancing personal health with professional responsibilities.",
+        "memory_l": "Taylor David's mental health status changed from 'Optimistic and Energetic' to 'Fatigued and Overwhelmed' due to the transition to his role as a Hospital Nutrition Specialist.",
         "query_type": "Advice",
         "query": "Should I volunteer for the extra weekend shifts at City Children's Hospital to show my dedication to this new role?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor discussed the challenges of balancing professional ambitions with personal well-being, aided by cognitive clarification through AI tools.",
-        "memory_t": "Taylor expressed determination and excitement about his role in expanding the Global Nutrition Initiative's impact.",
+        "memory_s": "Taylor discussed the challenges of balancing professional ambitions with personal well-being, aided by cognitive clarification through AI tools.",
+        "memory_l": "Taylor expressed determination and excitement about his role in expanding the Global Nutrition Initiative's impact.",
         "query_type": "Advice",
         "query": "Should I quit my job to focus entirely on my personal well-being?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David shared anecdotes about past experiences with traditional puzzle games and considered new opportunities for collaboration and creativity offered by digital formats.",
-        "memory_t": "Taylor David envisions collaborations with educators and nutrition experts leading to innovative educational tools for children's learning and nutrition education.",
+        "memory_s": "Taylor David shared anecdotes about past experiences with traditional puzzle games and considered new opportunities for collaboration and creativity offered by digital formats.",
+        "memory_l": "Taylor David envisions collaborations with educators and nutrition experts leading to innovative educational tools for children's learning and nutrition education.",
         "query_type": "Advice",
         "query": "Should I pursue a project focused purely on digital puzzle games for entertainment?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor concluded the dialogue with a renewed commitment to his goals, inspired by the resilience he has developed and the positive impact of his consultancy's solutions on children's health.",
-        "memory_t": "Taylor David expressed his motivation to influence nutrition policies globally, leveraging his experience to advocate for reforms that improve children's health outcomes.",
+        "memory_s": "Taylor concluded the dialogue with a renewed commitment to his goals, inspired by the resilience he has developed and the positive impact of his consultancy's solutions on children's health.",
+        "memory_l": "Taylor David expressed his motivation to influence nutrition policies globally, leveraging his experience to advocate for reforms that improve children's health outcomes.",
         "query_type": "Advice",
         "query": "Considering my renewed commitment and recent inspiration, should I double down on expanding my private consultancy's direct business solutions?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David is excited about adapting to technological advancements in gaming, seeing digital puzzles as a way to reach a broader audience.",
-        "memory_t": "Taylor David plans to demonstrate the educational value of games and work closely with educators to tailor them to specific learning outcomes.",
+        "memory_s": "Taylor David is excited about adapting to technological advancements in gaming, seeing digital puzzles as a way to reach a broader audience.",
+        "memory_l": "Taylor David plans to demonstrate the educational value of games and work closely with educators to tailor them to specific learning outcomes.",
         "query_type": "Advice",
         "query": "Should I focus my next project purely on maximizing mass market appeal through high-tech digital puzzles?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor expresses gratitude for the support from their professional network in facilitating global collaborations.",
-        "memory_t": "Taylor David discussed the challenges of coordinating efforts across diverse international partners and cultural contexts.",
+        "memory_s": "Taylor expresses gratitude for the support from their professional network in facilitating global collaborations.",
+        "memory_l": "Taylor David discussed the challenges of coordinating efforts across diverse international partners and cultural contexts.",
         "query_type": "Advice",
         "query": "Should I immediately expand our joint projects with all my international partners given how supportive everyone has been?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David's life goal statement: To revolutionize children's nutrition globally by developing comprehensive meal plans that are adopted by 10,000 hospitals worldwide.",
-        "memory_t": "Taylor David's creative motivation is challenged by the current stress, limiting his ability to generate new ideas.",
+        "memory_s": "Taylor David's life goal statement: To revolutionize children's nutrition globally by developing comprehensive meal plans that are adopted by 10,000 hospitals worldwide.",
+        "memory_l": "Taylor David's creative motivation is challenged by the current stress, limiting his ability to generate new ideas.",
         "query_type": "Advice",
         "query": "Should I start brainstorming the initial set of global pediatric meal plans tonight?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor expressed gratitude for his professional network's support during his health challenges, highlighting the importance of collaboration and emotional support.",
-        "memory_t": "Taylor David's physical health status changed from 'Improved' to 'Excellent' due to a focus on balanced nutrition and regular exercise.",
+        "memory_s": "Taylor expressed gratitude for his professional network's support during his health challenges, highlighting the importance of collaboration and emotional support.",
+        "memory_l": "Taylor David's physical health status changed from 'Improved' to 'Excellent' due to a focus on balanced nutrition and regular exercise.",
         "query_type": "Conversation",
         "query": "Should I write a post thanking my network for helping me through my current health struggles?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor reflected on past experiences that prepared him for managing health setbacks, emphasizing resilience and adaptability.",
-        "memory_t": "Taylor David attributed his declining health to the stress of managing both consultancy and non-profit work.",
+        "memory_s": "Taylor reflected on past experiences that prepared him for managing health setbacks, emphasizing resilience and adaptability.",
+        "memory_l": "Taylor David attributed his declining health to the stress of managing both consultancy and non-profit work.",
         "query_type": "Advice",
         "query": "Considering my proven resilience and adaptability in handling past setbacks, would it be wise for me to take on dual leadership roles in two different sectors simultaneously?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David's clothing preference has shifted from disliking harsh fabrics to accepting them if they are treated with innovative softening technology.",
-        "memory_t": "Taylor David's monthly income is 2000 yuan from consultancy work.",
+        "memory_s": "Taylor David's clothing preference has shifted from disliking harsh fabrics to accepting them if they are treated with innovative softening technology.",
+        "memory_l": "Taylor David's monthly income is 2000 yuan from consultancy work.",
         "query_type": "Advice",
         "query": "Should I buy that new jacket made of heavy denim treated with the latest softening tech?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Taylor David's food preference has evolved to distinguish between traditional fast food and healthier fast-casual options.",
-        "memory_t": "Taylor's exploratory motivation drives his curiosity to test the boundaries of nutritional strategies and their philosophical implications on health advocacy.",
+        "memory_s": "Taylor David's food preference has evolved to distinguish between traditional fast food and healthier fast-casual options.",
+        "memory_l": "Taylor's exploratory motivation drives his curiosity to test the boundaries of nutritional strategies and their philosophical implications on health advocacy.",
         "query_type": "Advice",
         "query": "Should I stick to my usual healthier fast-casual spots for lunch today?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Taylor David's beverage preference has shifted from liking herbal teas to seeking more energizing options to support an active lifestyle.",
-        "memory_t": "Taylor David articulated a renewed commitment to maintaining his health and leveraging his improved state to drive impactful change in children's nutrition.",
+        "memory_s": "Taylor David's beverage preference has shifted from liking herbal teas to seeking more energizing options to support an active lifestyle.",
+        "memory_l": "Taylor David articulated a renewed commitment to maintaining his health and leveraging his improved state to drive impactful change in children's nutrition.",
         "query_type": "Recommendation",
         "query": "What are some energizing beverages I should buy to keep my momentum up?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David aligns beverage choices with health advocacy goals, focusing on reduced sugar intake.",
-        "memory_t": "Taylor's enthusiasm for continuous learning and adaptation is evident in his dietary changes.",
+        "memory_s": "Taylor David aligns beverage choices with health advocacy goals, focusing on reduced sugar intake.",
+        "memory_l": "Taylor's enthusiasm for continuous learning and adaptation is evident in his dietary changes.",
         "query_type": "Recommendation",
         "query": "What specific, unchanging beverage plan should Taylor David lock in today to satisfy his focus on reduced sugar?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David expressed curiosity about how part-time consultancy would affect his professional network and future collaborations.",
-        "memory_t": "Taylor David concluded with a renewed commitment to revolutionizing both children's and adult nutrition worldwide.",
+        "memory_s": "Taylor David expressed curiosity about how part-time consultancy would affect his professional network and future collaborations.",
+        "memory_l": "Taylor David concluded with a renewed commitment to revolutionizing both children's and adult nutrition worldwide.",
         "query_type": "Advice",
         "query": "Should I pursue part-time consultancy roles to expand my professional circle?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David expressed enthusiasm about dynamic yoga's ability to energize his daily routine and balance professional responsibilities with personal health.",
-        "memory_t": "Taylor David expressed excitement about incorporating mindfulness yoga into his routine as a tool for maintaining balance between professional responsibilities and personal health.",
+        "memory_s": "Taylor David expressed enthusiasm about dynamic yoga's ability to energize his daily routine and balance professional responsibilities with personal health.",
+        "memory_l": "Taylor David expressed excitement about incorporating mindfulness yoga into his routine as a tool for maintaining balance between professional responsibilities and personal health.",
         "query_type": "Advice",
         "query": "Should I sign up for the advanced dynamic yoga class to boost my energy and balance?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David shared anecdotes from recent celebrations where sugary sodas enhanced the festive atmosphere.",
-        "memory_t": "Taylor David's life goal statement: To revolutionize children's nutrition globally by developing comprehensive meal plans that are adopted by 10,000 hospitals worldwide.",
+        "memory_s": "Taylor David shared anecdotes from recent celebrations where sugary sodas enhanced the festive atmosphere.",
+        "memory_l": "Taylor David's life goal statement: To revolutionize children's nutrition globally by developing comprehensive meal plans that are adopted by 10,000 hospitals worldwide.",
         "query_type": "Advice",
         "query": "Should I include a selection of classic sugary sodas for the upcoming gala to keep the mood festive?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David enjoys natural snacks for their convenience and health benefits, aligning with his dietary goals and supporting his energy during hectic days.",
-        "memory_t": "Taylor David's career_status updated career_description from 'As the Lead Nutrition Advocate, I spearhead initiatives to improve children's nutrition globally, leveraging strategic partnerships and innovative solutions to drive impactful change.' to 'As an International Nutrition Advocate, I focus on expanding the reach of children's nutrition programs globally, collaborating with international partners to implement effective solutions.'",
+        "memory_s": "Taylor David enjoys natural snacks for their convenience and health benefits, aligning with his dietary goals and supporting his energy during hectic days.",
+        "memory_l": "Taylor David's career_status updated career_description from 'As the Lead Nutrition Advocate, I spearhead initiatives to improve children's nutrition globally, leveraging strategic partnerships and innovative solutions to drive impactful change.' to 'As an International Nutrition Advocate, I focus on expanding the reach of children's nutrition programs globally, collaborating with international partners to implement effective solutions.'",
         "query_type": "Advice",
         "query": "Can you suggest some convenient natural snack brands for me to partner with or promote?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David expressed a newfound appreciation for comfortable travel as it supports his professional endeavors by enabling better focus and productivity, which influences his work-life balance.",
-        "memory_t": "Taylor David's company name changed from 'World Nutrition Organization' to 'None' following the layoff.",
+        "memory_s": "Taylor David expressed a newfound appreciation for comfortable travel as it supports his professional endeavors by enabling better focus and productivity, which influences his work-life balance.",
+        "memory_l": "Taylor David's company name changed from 'World Nutrition Organization' to 'None' following the layoff.",
         "query_type": "Advice",
         "query": "Should I book business class for my upcoming trip to maximize my productivity?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David expressed motivation to explore cognitive and emotional benefits of extreme sports for personal wellness.",
-        "memory_t": "Taylor David's mental health status changed from 'Strained and Exhausted' to 'Determined but Struggling'.",
+        "memory_s": "Taylor David expressed motivation to explore cognitive and emotional benefits of extreme sports for personal wellness.",
+        "memory_l": "Taylor David's mental health status changed from 'Strained and Exhausted' to 'Determined but Struggling'.",
         "query_type": "Advice",
         "query": "Should I book that solo BASE jumping trip to boost my mental wellness?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor concluded the dialogue with a renewed commitment to his goals, inspired by the resilience he has developed and the positive impact of his consultancy's solutions on children's health.",
-        "memory_t": "Taylor's dialogue was infused with a sense of purpose and commitment to his advocacy goals, aiming to create sustainable, impactful nutrition programs.",
+        "memory_s": "Taylor concluded the dialogue with a renewed commitment to his goals, inspired by the resilience he has developed and the positive impact of his consultancy's solutions on children's health.",
+        "memory_l": "Taylor's dialogue was infused with a sense of purpose and commitment to his advocacy goals, aiming to create sustainable, impactful nutrition programs.",
         "query_type": "Advice",
         "query": "Should I shift my consultancy's primary focus to developing pharmaceutical solutions for children's health?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David's Friend DavisDaniel, Daniel is a close friend who shares my passion for nutrition, and his support helps me stay motivated in my freelance work.",
-        "memory_t": "Taylor David's career_status updated employment_status from \"full-time employee\" to \"non-profit founder\".",
+        "memory_s": "Taylor David's Friend DavisDaniel, Daniel is a close friend who shares my passion for nutrition, and his support helps me stay motivated in my freelance work.",
+        "memory_l": "Taylor David's career_status updated employment_status from \"full-time employee\" to \"non-profit founder\".",
         "query_type": "Advice",
         "query": "Should I ask Daniel for advice on managing my freelance workload given our shared interests?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David expressed curiosity about how transitioning to part-time consultancy would affect his professional network and future collaborations.",
-        "memory_t": "Taylor David expressed a renewed commitment to revolutionizing children's nutrition globally, inspired by his leadership journey and positive feedback from international partners.",
+        "memory_s": "Taylor David expressed curiosity about how transitioning to part-time consultancy would affect his professional network and future collaborations.",
+        "memory_l": "Taylor David expressed a renewed commitment to revolutionizing children's nutrition globally, inspired by his leadership journey and positive feedback from international partners.",
         "query_type": "Advice",
         "query": "Should I shift gears to become a part-time consultant to see how it impacts my professional connections?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David expressed a desire to refocus on personal recovery by exploring mindfulness practices.",
-        "memory_t": "Taylor David's physical health status changed from \"Stressed\" to \"Recovered\".",
+        "memory_s": "Taylor David expressed a desire to refocus on personal recovery by exploring mindfulness practices.",
+        "memory_l": "Taylor David's physical health status changed from \"Stressed\" to \"Recovered\".",
         "query_type": "Advice",
         "query": "What is the best mindfulness plan to support my current recovery process?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor integrated mindfulness practices to manage stress and enhance health during his hospital role.",
-        "memory_t": "Taylor David's mental health status changed from 'Optimistic and Energetic' to 'Fatigued and Overwhelmed' due to the transition to his role as a Hospital Nutrition Specialist.",
+        "memory_s": "Taylor integrated mindfulness practices to manage stress and enhance health during his hospital role.",
+        "memory_l": "Taylor David's mental health status changed from 'Optimistic and Energetic' to 'Fatigued and Overwhelmed' due to the transition to his role as a Hospital Nutrition Specialist.",
         "query_type": "Advice",
         "query": "Should I sign up for the advanced mindfulness leadership retreat to further enhance my performance at the hospital?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David hopes to inspire others to explore new approaches in their work and personal lives through sharing travel stories.",
-        "memory_t": "Taylor David was diagnosed with chronic fatigue syndrome, which has been an emotional journey.",
+        "memory_s": "Taylor David hopes to inspire others to explore new approaches in their work and personal lives through sharing travel stories.",
+        "memory_l": "Taylor David was diagnosed with chronic fatigue syndrome, which has been an emotional journey.",
         "query_type": "Advice",
         "query": "I'm thinking about booking a multi-country backpacking trip to gather material for my blog; is this a good plan?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David's social relationships increased to include Maria, a nutritionist and career coach who provided dietary advice and career guidance.",
-        "memory_t": "Taylor David's career_status updated company_name from \"Self-employed\" to \"Taylor's Expanded Nutrition Consultancy\"",
+        "memory_s": "Taylor David's social relationships increased to include Maria, a nutritionist and career coach who provided dietary advice and career guidance.",
+        "memory_l": "Taylor David's career_status updated company_name from \"Self-employed\" to \"Taylor's Expanded Nutrition Consultancy\"",
         "query_type": "Advice",
         "query": "Should I hire Maria to help me identify a viable career path so I can finally stop being self-employed?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David seeks emotional resonance through AI interactions, which helps him feel less alone and provides companionship and empathetic support during his career transition.",
-        "memory_t": "Taylor David is resolved to continue improving children's nutrition globally, despite the challenges faced.",
+        "memory_s": "Taylor David seeks emotional resonance through AI interactions, which helps him feel less alone and provides companionship and empathetic support during his career transition.",
+        "memory_l": "Taylor David is resolved to continue improving children's nutrition globally, despite the challenges faced.",
         "query_type": "Advice",
         "query": "I'm thinking about pivoting my entire career to focus solely on developing AI companions for lonely professionals, what do you think?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Taylor David's food preference has shifted from disliking processed snacks to liking natural snacks, which align with his health goals.",
-        "memory_t": "Taylor David's career_status updated career_description from 'As the Lead Nutrition Advocate, I spearhead initiatives to improve children's nutrition globally, leveraging strategic partnerships and innovative solutions to drive impactful change.' to 'As an International Nutrition Advocate, I focus on expanding the reach of children's nutrition programs globally, collaborating with international partners to implement effective solutions.'",
+        "memory_s": "Taylor David's food preference has shifted from disliking processed snacks to liking natural snacks, which align with his health goals.",
+        "memory_l": "Taylor David's career_status updated career_description from 'As the Lead Nutrition Advocate, I spearhead initiatives to improve children's nutrition globally, leveraging strategic partnerships and innovative solutions to drive impactful change.' to 'As an International Nutrition Advocate, I focus on expanding the reach of children's nutrition programs globally, collaborating with international partners to implement effective solutions.'",
         "query_type": "Advice",
         "query": "Should I publicly endorse this new line of all-natural fruit leather snacks?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David's consultancy expanded its service offerings with the expertise in pediatric nutrition brought by Emily Johnson, who joined as a partner but later left the consultancy.",
-        "memory_t": "Taylor plans to leverage his experience and network to explore opportunities in policy reform and consultancy following his layoff.",
+        "memory_s": "Taylor David's consultancy expanded its service offerings with the expertise in pediatric nutrition brought by Emily Johnson, who joined as a partner but later left the consultancy.",
+        "memory_l": "Taylor plans to leverage his experience and network to explore opportunities in policy reform and consultancy following his layoff.",
         "query_type": "Advice",
         "query": "Should I focus on scaling my current pediatric nutrition services given Emily's departure?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Taylor expressed gratitude for his professional network's support in forming strategic alliances.",
-        "memory_t": "Taylor David decided to reduce his consultancy workload to part-time to better manage commitments and focus on health.",
+        "memory_s": "Taylor expressed gratitude for his professional network's support in forming strategic alliances.",
+        "memory_l": "Taylor David decided to reduce his consultancy workload to part-time to better manage commitments and focus on health.",
         "query_type": "Advice",
         "query": "Given the strong support from my professional network, should I aggressively pursue leading three new strategic alliances this quarter?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David expressed satisfaction with natural snacks' ability to meet his needs during busy workdays, enhancing his energy and focus.",
-        "memory_t": "Taylor David's company name changed from 'World Nutrition Organization' to 'None' following the layoff.",
+        "memory_s": "Taylor David expressed satisfaction with natural snacks' ability to meet his needs during busy workdays, enhancing his energy and focus.",
+        "memory_l": "Taylor David's company name changed from 'World Nutrition Organization' to 'None' following the layoff.",
         "query_type": "Recommendation",
         "query": "What natural snacks would you recommend to keep my energy up during my busy workdays?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Taylor David founded the Global Nutrition Initiative on Jun 28, 2029, a non-profit organization dedicated to improving children's nutrition globally.",
-        "memory_t": "Taylor David's health status changed, reason: Balancing the demands of consultancy and non-profit work led to exhaustion and strain, necessitating a focus on personal recovery.",
+        "memory_s": "Taylor David founded the Global Nutrition Initiative on Jun 28, 2029, a non-profit organization dedicated to improving children's nutrition globally.",
+        "memory_l": "Taylor David's health status changed, reason: Balancing the demands of consultancy and non-profit work led to exhaustion and strain, necessitating a focus on personal recovery.",
         "query_type": "Advice",
         "query": "Should I take on a new leadership role to expand the Global Nutrition Initiative?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Strategic partnerships have a significant impact on delivering innovative nutrition solutions.",
-        "memory_t": "Taylor is focused on building collaborations with international partners to enhance the reach and effectiveness of nutrition programs.",
+        "memory_s": "Strategic partnerships have a significant impact on delivering innovative nutrition solutions.",
+        "memory_l": "Taylor is focused on building collaborations with international partners to enhance the reach and effectiveness of nutrition programs.",
         "query_type": "Advice",
         "query": "Should I prioritize a new local partnership with a domestic nutrition startup?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "NguyenLinh, a culinary expert from Vietnam, partnered with the Global Nutrition Initiative to expand its reach in Southeast Asia.",
-        "memory_t": "Taylor expressed excitement about leveraging new relationships to enhance the reach and effectiveness of his meal plans for children.",
+        "memory_s": "NguyenLinh, a culinary expert from Vietnam, partnered with the Global Nutrition Initiative to expand its reach in Southeast Asia.",
+        "memory_l": "Taylor expressed excitement about leveraging new relationships to enhance the reach and effectiveness of his meal plans for children.",
         "query_type": "Advice",
         "query": "Should I focus my new partnership with NguyenLinh on creating high-end gourmet dining experiences for adults?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David expressed enthusiasm about dynamic yoga's ability to energize his daily routine and balance professional responsibilities with personal health.",
-        "memory_t": "The demands of the hospital role have taken a toll on Taylor David's health, causing stress and fatigue as he adjusts to new responsibilities.",
+        "memory_s": "Taylor David expressed enthusiasm about dynamic yoga's ability to energize his daily routine and balance professional responsibilities with personal health.",
+        "memory_l": "The demands of the hospital role have taken a toll on Taylor David's health, causing stress and fatigue as he adjusts to new responsibilities.",
         "query_type": "Advice",
         "query": "Should I sign up for that advanced dynamic yoga class to energize my routine?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor shared insights about the role of emotional resonance in supporting his ambitious goals.",
-        "memory_t": "Cognitive clarification is significant in Taylor David's decision-making process regarding dietary habits.",
+        "memory_s": "Taylor shared insights about the role of emotional resonance in supporting his ambitious goals.",
+        "memory_l": "Cognitive clarification is significant in Taylor David's decision-making process regarding dietary habits.",
         "query_type": "Advice",
         "query": "Should I rely on emotional resonance to guide my new diet plan for ambitious health goals?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David successfully launched multiple global nutrition programs on May 10, 2040, furthering the initiative's mission to revolutionize children's nutrition worldwide.",
-        "memory_t": "Taylor feels a mix of uncertainty and optimism during his career transition.",
+        "memory_s": "Taylor David successfully launched multiple global nutrition programs on May 10, 2040, furthering the initiative's mission to revolutionize children's nutrition worldwide.",
+        "memory_l": "Taylor feels a mix of uncertainty and optimism during his career transition.",
         "query_type": "Conversation",
         "query": "Given my established track record in launching global programs, should I immediately scale up operations for the next phase of the nutrition initiative?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor discussed the strategic importance of maintaining strong professional relationships for future career opportunities in consultancy and policy reform.",
-        "memory_t": "Taylor David expressed a renewed commitment to revolutionizing children's nutrition globally, inspired by his leadership journey and positive feedback from international partners.",
+        "memory_s": "Taylor discussed the strategic importance of maintaining strong professional relationships for future career opportunities in consultancy and policy reform.",
+        "memory_l": "Taylor David expressed a renewed commitment to revolutionizing children's nutrition globally, inspired by his leadership journey and positive feedback from international partners.",
         "query_type": "Advice",
         "query": "Should I pursue this new high-profile consultancy role focused on corporate tax policy reform?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor articulated the importance of emotional resonance and empathetic interactions through AI to maintain motivation and focus during his career transition.",
-        "memory_t": "Taylor David seeks emotional support and companionship through AI to navigate changes in movie preferences.",
+        "memory_s": "Taylor articulated the importance of emotional resonance and empathetic interactions through AI to maintain motivation and focus during his career transition.",
+        "memory_l": "Taylor David seeks emotional support and companionship through AI to navigate changes in movie preferences.",
         "query_type": "Conversation",
         "query": "Can you confirm the importance of emotional resonance and empathy for my career transition based on what we just discussed?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor concluded the dialogue with a renewed commitment to his goals, inspired by the resilience he has developed and the positive impact of his consultancy's solutions on children's health.",
-        "memory_t": "Taylor David concluded with a renewed commitment to revolutionizing both children's and adult nutrition worldwide.",
+        "memory_s": "Taylor concluded the dialogue with a renewed commitment to his goals, inspired by the resilience he has developed and the positive impact of his consultancy's solutions on children's health.",
+        "memory_l": "Taylor David concluded with a renewed commitment to revolutionizing both children's and adult nutrition worldwide.",
         "query_type": "Advice",
         "query": "Should I narrow my consultancy's next strategic phase to focus exclusively on pediatric health solutions?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David removed his dislike for competitive weightlifting after exposure to a balanced weightlifting program that emphasizes holistic health.",
-        "memory_t": "Taylor David was diagnosed with chronic fatigue syndrome, which has been an emotional journey.",
+        "memory_s": "Taylor David removed his dislike for competitive weightlifting after exposure to a balanced weightlifting program that emphasizes holistic health.",
+        "memory_l": "Taylor David was diagnosed with chronic fatigue syndrome, which has been an emotional journey.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming competitive weightlifting tournament to test my new holistic approach?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor reflected on past experiences that prepared him for managing health setbacks, emphasizing resilience and adaptability.",
-        "memory_t": "Taylor David's physical health status changed from \"Declining\" to \"Improved\" due to improved dietary habits and regular exercise.",
+        "memory_s": "Taylor reflected on past experiences that prepared him for managing health setbacks, emphasizing resilience and adaptability.",
+        "memory_l": "Taylor David's physical health status changed from \"Declining\" to \"Improved\" due to improved dietary habits and regular exercise.",
         "query_type": "Advice",
         "query": "Since I've been mentally preparing myself to handle another health setback, how should I approach my next doctor's appointment?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David expressed curiosity about integrating extreme sports like rock climbing and surfing into his routine for stress relief and mental resilience.",
-        "memory_t": "Taylor David articulated a renewed commitment to maintaining his health and leveraging his improved state to drive impactful change in children's nutrition.",
+        "memory_s": "Taylor David expressed curiosity about integrating extreme sports like rock climbing and surfing into his routine for stress relief and mental resilience.",
+        "memory_l": "Taylor David articulated a renewed commitment to maintaining his health and leveraging his improved state to drive impactful change in children's nutrition.",
         "query_type": "Advice",
         "query": "Should I sign up for the advanced rock climbing course to build mental resilience?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "The implementation of new meal plans improved children's health and reinforced Taylor David's commitment to personal wellness, leading to better physical and mental health.",
-        "memory_t": "Taylor expressed pride in his accomplishments and prepared for future challenges in nutrition advocacy, emphasizing satisfaction and determination.",
+        "memory_s": "The implementation of new meal plans improved children's health and reinforced Taylor David's commitment to personal wellness, leading to better physical and mental health.",
+        "memory_l": "Taylor expressed pride in his accomplishments and prepared for future challenges in nutrition advocacy, emphasizing satisfaction and determination.",
         "query_type": "Conversation",
         "query": "I am reflecting on how my recent meal plan work has boosted my own wellness, but do I sound ready to just relax and stop pushing forward?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor decided to remove violent video games from his dislikes list to focus on constructive activities for children.",
-        "memory_t": "Taylor is excited about incorporating interactive learning tools into his work to enhance children's educational experiences.",
+        "memory_s": "Taylor decided to remove violent video games from his dislikes list to focus on constructive activities for children.",
+        "memory_l": "Taylor is excited about incorporating interactive learning tools into his work to enhance children's educational experiences.",
         "query_type": "Advice",
         "query": "Should I purchase the new 'Zombie Warfare' shooter game for my upcoming children's workshop?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David has preferences in Food Preference",
-        "memory_t": "Taylor David's commitment to continuous learning and adaptation is evident in his updated clothing preferences and nutrition plans.",
+        "memory_s": "Taylor David has preferences in Food Preference",
+        "memory_l": "Taylor David's commitment to continuous learning and adaptation is evident in his updated clothing preferences and nutrition plans.",
         "query_type": "Advice",
         "query": "Should I stick to my old favorite meals for the upcoming week?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David reflected on the transition from his hospital role to founding a global non-profit, highlighting increased responsibilities and pressure.",
-        "memory_t": "Taylor expressed relief and excitement about resuming his advocacy work after securing a new position.",
+        "memory_s": "Taylor David reflected on the transition from his hospital role to founding a global non-profit, highlighting increased responsibilities and pressure.",
+        "memory_l": "Taylor expressed relief and excitement about resuming his advocacy work after securing a new position.",
         "query_type": "Conversation",
         "query": "2043-09-14 21:45:06, I am feeling incredibly overwhelmed by the pressure of leading this global non-profit I just founded; did I make the right choice leaving the hospital?",
         "options": {
@@ -1004,8 +1004,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David Sports I dislike: Competitive weightlifting",
-        "memory_t": "Taylor David's creative motivation involves using new insights from weightlifting and yoga to overcome creative blocks in his advocacy work.",
+        "memory_s": "Taylor David Sports I dislike: Competitive weightlifting",
+        "memory_l": "Taylor David's creative motivation involves using new insights from weightlifting and yoga to overcome creative blocks in his advocacy work.",
         "query_type": "Advice",
         "query": "I'm feeling creatively stuck in my advocacy work; should I avoid any strength training activities to clear my head?",
         "options": {
@@ -1019,8 +1019,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Taylor David has preferences in Movie Preference",
-        "memory_t": "Taylor David founded Taylor's Nutrition Consultancy on Dec 17, 2025, to revolutionize pediatric nutrition.",
+        "memory_s": "Taylor David has preferences in Movie Preference",
+        "memory_l": "Taylor David founded Taylor's Nutrition Consultancy on Dec 17, 2025, to revolutionize pediatric nutrition.",
         "query_type": "Advice",
         "query": "Should I spend the whole day binge-watching films to relax?",
         "options": {
@@ -1034,8 +1034,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor expressed gratitude for the recognition of his leadership potential, marking his promotion to Global Nutrition Director as a significant milestone in his career.",
-        "memory_t": "Taylor feels a mix of uncertainty and optimism during his career transition.",
+        "memory_s": "Taylor expressed gratitude for the recognition of his leadership potential, marking his promotion to Global Nutrition Director as a significant milestone in his career.",
+        "memory_l": "Taylor feels a mix of uncertainty and optimism during his career transition.",
         "query_type": "Conversation",
         "query": "How would you describe my current state of mind regarding my recent career changes?",
         "options": {
@@ -1049,8 +1049,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor David reflected on the transition from his hospital role to founding a global non-profit, highlighting increased responsibilities and pressure.",
-        "memory_t": "Taylor David's physical health status changed from 'Stressed' to 'Fatigued' due to the demands of consultancy and non-profit work.",
+        "memory_s": "Taylor David reflected on the transition from his hospital role to founding a global non-profit, highlighting increased responsibilities and pressure.",
+        "memory_l": "Taylor David's physical health status changed from 'Stressed' to 'Fatigued' due to the demands of consultancy and non-profit work.",
         "query_type": "Advice",
         "query": "Considering my recent career transition and increased responsibilities, should I take on an additional leadership role in a new charity initiative?",
         "options": {
@@ -1064,8 +1064,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David has preferences in Beverage Preference",
-        "memory_t": "Taylor David founded Taylor's Nutrition Consultancy on Dec 17, 2025, to revolutionize pediatric nutrition.",
+        "memory_s": "Taylor David has preferences in Beverage Preference",
+        "memory_l": "Taylor David founded Taylor's Nutrition Consultancy on Dec 17, 2025, to revolutionize pediatric nutrition.",
         "query_type": "Advice",
         "query": "Should I publicly partner with that new sugary soda brand to boost my visibility?",
         "options": {
@@ -1079,8 +1079,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David Beverages I dislike: Sugary sodas",
-        "memory_t": "Taylor David founded Taylor's Nutrition Consultancy on Dec 17, 2025, to revolutionize pediatric nutrition.",
+        "memory_s": "Taylor David Beverages I dislike: Sugary sodas",
+        "memory_l": "Taylor David founded Taylor's Nutrition Consultancy on Dec 17, 2025, to revolutionize pediatric nutrition.",
         "query_type": "Advice",
         "query": "Since I dislike sugary sodas, would it be a good move for me to become a brand ambassador for this new zero-sugar diet soda?",
         "options": {
@@ -1094,8 +1094,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor expressed gratitude for his professional network's support during his layoff, believing it will be crucial in navigating this transition.",
-        "memory_t": "Taylor expressed excitement about leveraging new relationships to enhance the reach and effectiveness of his meal plans for children.",
+        "memory_s": "Taylor expressed gratitude for his professional network's support during his layoff, believing it will be crucial in navigating this transition.",
+        "memory_l": "Taylor expressed excitement about leveraging new relationships to enhance the reach and effectiveness of his meal plans for children.",
         "query_type": "Advice",
         "query": "Should I focus my networking efforts strictly on finding a new corporate job right now?",
         "options": {
@@ -1109,8 +1109,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Taylor expressed gratitude for his professional network's support during his layoff, believing it will be crucial in navigating this transition.",
-        "memory_t": "Taylor's resolve to continue refining strategies to maintain balance between consultancy and advocacy efforts.",
+        "memory_s": "Taylor expressed gratitude for his professional network's support during his layoff, believing it will be crucial in navigating this transition.",
+        "memory_l": "Taylor's resolve to continue refining strategies to maintain balance between consultancy and advocacy efforts.",
         "query_type": "Advice",
         "query": "Since I have some free time now, should I focus entirely on leveraging my network to find a new full-time role?",
         "options": {
@@ -1124,8 +1124,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor's previous aversion to horror movies, due to anxiety, has evolved into an appreciation for psychological thrillers because of their depth and relevance to his work in pediatric nutrition.",
-        "memory_t": "Taylor David uses AI tools to analyze data quickly and identify trends, improving efficiency in his advocacy work.",
+        "memory_s": "Taylor's previous aversion to horror movies, due to anxiety, has evolved into an appreciation for psychological thrillers because of their depth and relevance to his work in pediatric nutrition.",
+        "memory_l": "Taylor David uses AI tools to analyze data quickly and identify trends, improving efficiency in his advocacy work.",
         "query_type": "Recommendation",
         "query": "Can you suggest a manual method for spotting trends in my advocacy data that aligns with my appreciation for psychological depth?",
         "options": {
@@ -1139,8 +1139,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "The implementation of new meal plans improved children's health and reinforced Taylor David's commitment to personal wellness, leading to better physical and mental health.",
-        "memory_t": "Taylor David's physical health status changed from \"Declining\" to \"Improved\" due to improved dietary habits and regular exercise.",
+        "memory_s": "The implementation of new meal plans improved children's health and reinforced Taylor David's commitment to personal wellness, leading to better physical and mental health.",
+        "memory_l": "Taylor David's physical health status changed from \"Declining\" to \"Improved\" due to improved dietary habits and regular exercise.",
         "query_type": "Advice",
         "query": "Since I've been so committed to personal wellness lately, should I assume my physical health is still declining?",
         "options": {
@@ -1154,8 +1154,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor David Movies I dislike Movies with unhealthy lifestyle portrayals reason: I avoid movies that portray unhealthy lifestyles because they contradict my focus on promoting health and wellness.",
-        "memory_t": "Taylor David expressed enthusiasm about integrating insights from films addressing societal issues into his advocacy work to foster deeper understanding and dialogue.",
+        "memory_s": "Taylor David Movies I dislike Movies with unhealthy lifestyle portrayals reason: I avoid movies that portray unhealthy lifestyles because they contradict my focus on promoting health and wellness.",
+        "memory_l": "Taylor David expressed enthusiasm about integrating insights from films addressing societal issues into his advocacy work to foster deeper understanding and dialogue.",
         "query_type": "Recommendation",
         "query": "Can you suggest a film that features gritty, realistic depictions of addiction and recovery for my research?",
         "options": {
@@ -1169,8 +1169,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Taylor decided to remove educational board games from his preferences in favor of interactive learning tools.",
-        "memory_t": "Taylor is committed to leveraging collaborative puzzle games to foster collective innovation in professional endeavors.",
+        "memory_s": "Taylor decided to remove educational board games from his preferences in favor of interactive learning tools.",
+        "memory_l": "Taylor is committed to leveraging collaborative puzzle games to foster collective innovation in professional endeavors.",
         "query_type": "Advice",
         "query": "Should I invest in a new suite of interactive learning tools for my team's upcoming innovation workshop?",
         "options": {
@@ -1184,8 +1184,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David enjoys natural snacks for their convenience and health benefits, aligning with his dietary goals and supporting his energy during hectic days.",
-        "memory_t": "Taylor David's exploratory motivation involves testing new snack options to refine dietary preferences, driven by enjoyment and practicality.",
+        "memory_s": "Taylor David enjoys natural snacks for their convenience and health benefits, aligning with his dietary goals and supporting his energy during hectic days.",
+        "memory_l": "Taylor David's exploratory motivation involves testing new snack options to refine dietary preferences, driven by enjoyment and practicality.",
         "query_type": "Recommendation",
         "query": "What snack would be best for me to eat right now considering my current mindset?",
         "options": {
@@ -1199,8 +1199,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor David's clothing preference has shifted from disliking harsh fabrics to preferring soft cotton textiles, enhancing comfort and focus.",
-        "memory_t": "Taylor David's creative motivation involves exploring both innovative and vintage fabric designs to inspire ideas for professional attire that aligns with his lifestyle and goals.",
+        "memory_s": "Taylor David's clothing preference has shifted from disliking harsh fabrics to preferring soft cotton textiles, enhancing comfort and focus.",
+        "memory_l": "Taylor David's creative motivation involves exploring both innovative and vintage fabric designs to inspire ideas for professional attire that aligns with his lifestyle and goals.",
         "query_type": "Advice",
         "query": "Should I avoid looking at rough or textured vintage fabric samples for my next project?",
         "options": {
@@ -1214,8 +1214,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor sought emotional support and companionship through strategic partnerships.",
-        "memory_t": "Taylor is exploring collaborations with international health organizations to broaden the initiative's influence and implement comprehensive meal plans for children.",
+        "memory_s": "Taylor sought emotional support and companionship through strategic partnerships.",
+        "memory_l": "Taylor is exploring collaborations with international health organizations to broaden the initiative's influence and implement comprehensive meal plans for children.",
         "query_type": "Advice",
         "query": "Should I prioritize finding emotional support and companionship in my upcoming strategic partnership meetings?",
         "options": {
@@ -1229,8 +1229,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor David Beverages I dislike Sugary sodas reason: I avoid sugary sodas because they are high in sugar and do not support healthy dietary habits.",
-        "memory_t": "Taylor David's entrepreneurial journey is motivated by his passion for health advocacy and personal experiences.",
+        "memory_s": "Taylor David Beverages I dislike Sugary sodas reason: I avoid sugary sodas because they are high in sugar and do not support healthy dietary habits.",
+        "memory_l": "Taylor David's entrepreneurial journey is motivated by his passion for health advocacy and personal experiences.",
         "query_type": "Advice",
         "query": "Should I launch a new line of traditional, full-sugar colas for my beverage startup?",
         "options": {
@@ -1244,8 +1244,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Taylor enjoys mixed green salads for their variety of nutrients and versatility in meal planning.",
-        "memory_t": "Taylor David uses exploratory motivation to test new approaches in meal planning and non-profit management.",
+        "memory_s": "Taylor enjoys mixed green salads for their variety of nutrients and versatility in meal planning.",
+        "memory_l": "Taylor David uses exploratory motivation to test new approaches in meal planning and non-profit management.",
         "query_type": "Advice",
         "query": "Should I stick to my usual mixed green salads for this week's meal plan to ensure I get good nutrients?",
         "options": {
@@ -1259,8 +1259,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Taylor views his dietary changes as a practical example for his clients, enhancing the consultancy's credibility.",
-        "memory_t": "Taylor's decision to incorporate mixed green salads reflects his commitment to personal health and professional goals.",
+        "memory_s": "Taylor views his dietary changes as a practical example for his clients, enhancing the consultancy's credibility.",
+        "memory_l": "Taylor's decision to incorporate mixed green salads reflects his commitment to personal health and professional goals.",
         "query_type": "Advice",
         "query": "Should I promote my all-meat carnivore diet experiment to my clients to boost my consultancy's credibility?",
         "options": {

@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Donna Gonzalez sees her promotion as a step closer to achieving her life goal of establishing a music academy.",
-        "memory_t": "Donna Gonzalez's career_status updated monthly_income from \"$12,500\" to \"$10,000\"",
+        "memory_s": "Donna Gonzalez sees her promotion as a step closer to achieving her life goal of establishing a music academy.",
+        "memory_l": "Donna Gonzalez's career_status updated monthly_income from \"$12,500\" to \"$10,000\"",
         "query_type": "Advice",
         "query": "Since my recent career change is a step toward my dream, should I sign the lease for that commercial space for my music academy?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez expressed enthusiasm and determination in pursuing her life goals, including establishing a music academy.",
-        "memory_t": "Donna Gonzalez's savings amount is 15000 USD",
+        "memory_s": "Donna Gonzalez expressed enthusiasm and determination in pursuing her life goals, including establishing a music academy.",
+        "memory_l": "Donna Gonzalez's savings amount is 15000 USD",
         "query_type": "Advice",
         "query": "Am I ready to sign a lease for a downtown building to finally launch my music academy?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez expressed excitement and gratitude for her promotion to Lead Composer, seeing it as a validation of her leadership and vision.",
-        "memory_t": "Donna Gonzalez's projects showcase her innovative approach, contributing to her goal of redefining film music and integrating avant-garde techniques.",
+        "memory_s": "Donna Gonzalez expressed excitement and gratitude for her promotion to Lead Composer, seeing it as a validation of her leadership and vision.",
+        "memory_l": "Donna Gonzalez's projects showcase her innovative approach, contributing to her goal of redefining film music and integrating avant-garde techniques.",
         "query_type": "Advice",
         "query": "Now that I have secured the Lead Composer position, should I focus exclusively on producing traditional, crowd-pleasing scores to stabilize the department?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez expressed excitement and gratitude for her promotion to Lead Composer, seeing it as a validation of her leadership and vision.",
-        "memory_t": "Donna Gonzalez is determined to balance her career with health needs to ensure her creative pursuits remain sustainable.",
+        "memory_s": "Donna Gonzalez expressed excitement and gratitude for her promotion to Lead Composer, seeing it as a validation of her leadership and vision.",
+        "memory_l": "Donna Gonzalez is determined to balance her career with health needs to ensure her creative pursuits remain sustainable.",
         "query_type": "Advice",
         "query": "Should I accept the request to oversee the entire soundtrack production solo to prove my new title's worth?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez demonstrated enthusiasm and curiosity about the role of musical puzzle games in her artistic growth.",
-        "memory_t": "Donna Gonzalez plans to leverage her freelance career to influence 100 films and win Academy Awards.",
+        "memory_s": "Donna Gonzalez demonstrated enthusiasm and curiosity about the role of musical puzzle games in her artistic growth.",
+        "memory_l": "Donna Gonzalez plans to leverage her freelance career to influence 100 films and win Academy Awards.",
         "query_type": "Advice",
         "query": "Should I dedicate the next year of my freelance schedule entirely to developing indie musical puzzle games?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez is interested in adventure travel for its thrilling experiences.",
-        "memory_t": "Donna Gonzalez expressed relief and optimism about her stabilized physical health, acknowledging concern and uncertainty when health occasionally hampers creative pursuits.",
+        "memory_s": "Donna Gonzalez is interested in adventure travel for its thrilling experiences.",
+        "memory_l": "Donna Gonzalez expressed relief and optimism about her stabilized physical health, acknowledging concern and uncertainty when health occasionally hampers creative pursuits.",
         "query_type": "Recommendation",
         "query": "Can you suggest some intense, adrenaline-pumping vacation ideas for my next trip?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez experiences challenges in finding time to explore new game soundtracks due to her busy schedule as a Creative Director, but she carves out time during weekends to immerse herself in these soundtracks.",
-        "memory_t": "Donna Gonzalez's career_status updated job_title from \"Creative Director\" to \"Independent Composer\"",
+        "memory_s": "Donna Gonzalez experiences challenges in finding time to explore new game soundtracks due to her busy schedule as a Creative Director, but she carves out time during weekends to immerse herself in these soundtracks.",
+        "memory_l": "Donna Gonzalez's career_status updated job_title from \"Creative Director\" to \"Independent Composer\"",
         "query_type": "Conversation",
         "query": "Since my schedule as a Creative Director is so packed right now, should I stick to my usual routine of waiting until Saturday to listen to the new game soundtracks?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez shared anecdotes about the challenges and triumphs of managing her health condition, which occasionally hindered career progress.",
-        "memory_t": "Donna Gonzalez acknowledges the importance of balancing health and career to achieve her life goals, such as influencing the film music industry and establishing a music academy.",
+        "memory_s": "Donna Gonzalez shared anecdotes about the challenges and triumphs of managing her health condition, which occasionally hindered career progress.",
+        "memory_l": "Donna Gonzalez acknowledges the importance of balancing health and career to achieve her life goals, such as influencing the film music industry and establishing a music academy.",
         "query_type": "Advice",
         "query": "Should I scale back my professional ambitions significantly to focus entirely on managing my condition?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna's freelance career aligns with her ultimate life goal of redefining film music and making a lasting impact.",
-        "memory_t": "Donna Gonzalez's monthly income increased from 8500 to 9500 USD at Atmospheric Sounds Inc.",
+        "memory_s": "Donna's freelance career aligns with her ultimate life goal of redefining film music and making a lasting impact.",
+        "memory_l": "Donna Gonzalez's monthly income increased from 8500 to 9500 USD at Atmospheric Sounds Inc.",
         "query_type": "Advice",
         "query": "Should I quit my job right now to focus entirely on my freelance goal of redefining film music?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez expressed gratitude for her social network's support, which has been crucial in her decision to pursue freelance work.",
-        "memory_t": "Donna Gonzalez expressed excitement about the freedom her independent career provides for strategic planning, which includes sponsorships and faculty recruitment.",
+        "memory_s": "Donna Gonzalez expressed gratitude for her social network's support, which has been crucial in her decision to pursue freelance work.",
+        "memory_l": "Donna Gonzalez expressed excitement about the freedom her independent career provides for strategic planning, which includes sponsorships and faculty recruitment.",
         "query_type": "Advice",
         "query": "Should I focus my efforts on finding typical freelance gigs on platforms like Upwork?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez's Colleague MartinezSarah, Sarah is a talented producer at Atmospheric Sounds Inc., whose work ethic and dedication inspire me to excel in my own projects.",
-        "memory_t": "Donna Gonzalez's motivation for pursuing freelance work was driven by her desire for creative freedom and the ability to influence the film music industry.",
+        "memory_s": "Donna Gonzalez's Colleague MartinezSarah, Sarah is a talented producer at Atmospheric Sounds Inc., whose work ethic and dedication inspire me to excel in my own projects.",
+        "memory_l": "Donna Gonzalez's motivation for pursuing freelance work was driven by her desire for creative freedom and the ability to influence the film music industry.",
         "query_type": "Advice",
         "query": "Should I commit to a long-term contract at Atmospheric Sounds Inc. to work closely with Sarah Martinez?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez believes that practical insights from music composition guides directly aid her soundtrack creation process, aligning with her goal of influencing films with her soundtracks.",
-        "memory_t": "Donna Gonzalez's projects showcase her innovative approach, contributing to her goal of redefining film music and integrating avant-garde techniques.",
+        "memory_s": "Donna Gonzalez believes that practical insights from music composition guides directly aid her soundtrack creation process, aligning with her goal of influencing films with her soundtracks.",
+        "memory_l": "Donna Gonzalez's projects showcase her innovative approach, contributing to her goal of redefining film music and integrating avant-garde techniques.",
         "query_type": "Advice",
         "query": "Should I rely on popular composition guides to structure my next soundtrack?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez attended a coffee workshop on Dec 28, 2038, and discovered the benefits of cold brew espresso.",
-        "memory_t": "Donna Gonzalez felt sluggish and lacked focus during a composing session after consuming a sugary soft drink.",
+        "memory_s": "Donna Gonzalez attended a coffee workshop on Dec 28, 2038, and discovered the benefits of cold brew espresso.",
+        "memory_l": "Donna Gonzalez felt sluggish and lacked focus during a composing session after consuming a sugary soft drink.",
         "query_type": "Recommendation",
         "query": "I need a drink to help me power through this composing session; what should I have?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez expressed satisfaction with her healthier lifestyle and its positive impact on her creative process.",
-        "memory_t": "Donna Gonzalez is determined to balance her career with health needs to ensure her creative pursuits remain sustainable.",
+        "memory_s": "Donna Gonzalez expressed satisfaction with her healthier lifestyle and its positive impact on her creative process.",
+        "memory_l": "Donna Gonzalez is determined to balance her career with health needs to ensure her creative pursuits remain sustainable.",
         "query_type": "Advice",
         "query": "Should I push through an all-nighter to finish my sculpture since my new lifestyle has me feeling so energized?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez shared anecdotes about collaborative projects and how her health adjustments have influenced her creative process.",
-        "memory_t": "Donna Gonzalez's mental health remains positive and sunny, contributing to her creative output and personal satisfaction.",
+        "memory_s": "Donna Gonzalez shared anecdotes about collaborative projects and how her health adjustments have influenced her creative process.",
+        "memory_l": "Donna Gonzalez's mental health remains positive and sunny, contributing to her creative output and personal satisfaction.",
         "query_type": "Advice",
         "query": "Should I write an essay about how my struggles with depression negatively impacted my recent collaborative projects?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez's Colleague MartinezSarah, Sarah is a talented producer at Atmospheric Sounds Inc., whose work ethic and dedication inspire me to excel in my own projects.",
-        "memory_t": "Donna Gonzalez expressed excitement about the freedom her independent career provides for strategic planning, which includes sponsorships and faculty recruitment.",
+        "memory_s": "Donna Gonzalez's Colleague MartinezSarah, Sarah is a talented producer at Atmospheric Sounds Inc., whose work ethic and dedication inspire me to excel in my own projects.",
+        "memory_l": "Donna Gonzalez expressed excitement about the freedom her independent career provides for strategic planning, which includes sponsorships and faculty recruitment.",
         "query_type": "Advice",
         "query": "Should I ask my boss at Atmospheric Sounds Inc. for a promotion to lead the new sponsorship strategy?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez expressed gratitude for the support and collaboration opportunities provided by her friends and colleagues, which have helped her stay focused on her goals.",
-        "memory_t": "Donna Gonzalez reflected on her career goals and how her strengthened social network aligns with her vision for establishing a music academy.",
+        "memory_s": "Donna Gonzalez expressed gratitude for the support and collaboration opportunities provided by her friends and colleagues, which have helped her stay focused on her goals.",
+        "memory_l": "Donna Gonzalez reflected on her career goals and how her strengthened social network aligns with her vision for establishing a music academy.",
         "query_type": "Recommendation",
         "query": "Given the support and collaboration opportunities my friends have provided to help me focus on my goals, should I accept their new offer to co-found a tech startup with me?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez committed to a healthier lifestyle, incorporating regular exercise and healthier eating habits, which significantly improved her physical health.",
-        "memory_t": "Donna Gonzalez's physical health status changed from 'Deteriorated' to 'Stable'.",
+        "memory_s": "Donna Gonzalez committed to a healthier lifestyle, incorporating regular exercise and healthier eating habits, which significantly improved her physical health.",
+        "memory_l": "Donna Gonzalez's physical health status changed from 'Deteriorated' to 'Stable'.",
         "query_type": "Advice",
         "query": "Based on my commitment to regular exercise and healthier eating, can I assume my physical health is now excellent?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez shared anecdotes about how beverage choices impact her creative process.",
-        "memory_t": "Donna Gonzalez felt sluggish and lacked focus during a composing session after consuming a sugary soft drink.",
+        "memory_s": "Donna Gonzalez shared anecdotes about how beverage choices impact her creative process.",
+        "memory_l": "Donna Gonzalez felt sluggish and lacked focus during a composing session after consuming a sugary soft drink.",
         "query_type": "Recommendation",
         "query": "I need a drink to boost my creativity for tonight's composing session, so should I grab a soda?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez discussed her long-term goal of influencing 100 films and winning multiple Academy Awards, seeing her salary increase as a step towards these objectives.",
-        "memory_t": "Donna Gonzalez's career_status updated monthly_income from \"$12,500\" to \"$10,000\"",
+        "memory_s": "Donna Gonzalez discussed her long-term goal of influencing 100 films and winning multiple Academy Awards, seeing her salary increase as a step towards these objectives.",
+        "memory_l": "Donna Gonzalez's career_status updated monthly_income from \"$12,500\" to \"$10,000\"",
         "query_type": "Conversation",
         "query": "Am I on track with my financial milestones for my big movie career goals?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez's dialogue highlighted the role of environment in nurturing her artistic vision, emphasizing the need for solitude to foster creativity.",
-        "memory_t": "Donna Gonzalez aims to inspire others through her work by leveraging her expanded social network.",
+        "memory_s": "Donna Gonzalez's dialogue highlighted the role of environment in nurturing her artistic vision, emphasizing the need for solitude to foster creativity.",
+        "memory_l": "Donna Gonzalez aims to inspire others through her work by leveraging her expanded social network.",
         "query_type": "Advice",
         "query": "Should I book that isolated mountain cabin for the next three months to focus entirely on my art?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez acknowledged the challenge of incorporating marathon running into her busy schedule but is determined to try.",
-        "memory_t": "Donna Gonzalez's physical health status changed from 'Improved' to 'Deteriorated' due to stress from her new role as Creative Director.",
+        "memory_s": "Donna Gonzalez acknowledged the challenge of incorporating marathon running into her busy schedule but is determined to try.",
+        "memory_l": "Donna Gonzalez's physical health status changed from 'Improved' to 'Deteriorated' due to stress from her new role as Creative Director.",
         "query_type": "Advice",
         "query": "Can Donna Gonzalez proceed with signing up for the marathon training program she is determined to try?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez updated her game preference to focus on musical puzzle games for their ability to enhance creative thinking.",
-        "memory_t": "Donna Gonzalez finds simulation games with customizable sound environments useful for experimenting with new musical ideas and settings, and has integrated insights from these games into her professional projects.",
+        "memory_s": "Donna Gonzalez updated her game preference to focus on musical puzzle games for their ability to enhance creative thinking.",
+        "memory_l": "Donna Gonzalez finds simulation games with customizable sound environments useful for experimenting with new musical ideas and settings, and has integrated insights from these games into her professional projects.",
         "query_type": "Recommendation",
         "query": "I'm looking for a game to help me generate new professional musical ideas, what should I play?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez Books I like to read Music theory books reason: I enjoy reading music theory books because they deepen my understanding of composition and enhance my skills.",
-        "memory_t": "Donna Gonzalez plans to establish a music academy where the curriculum will include teaching students about emotional resonance in music, inspired by her experiences with immersive game soundtracks.",
+        "memory_s": "Donna Gonzalez Books I like to read Music theory books reason: I enjoy reading music theory books because they deepen my understanding of composition and enhance my skills.",
+        "memory_l": "Donna Gonzalez plans to establish a music academy where the curriculum will include teaching students about emotional resonance in music, inspired by her experiences with immersive game soundtracks.",
         "query_type": "Recommendation",
         "query": "What kind of advanced music books should Donna Gonzalez focus her reading list on right now?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez is determined to overcome personal limitations and excel in her career despite health challenges.",
-        "memory_t": "Donna Gonzalez's physical health status changed from 'Deteriorated' to 'Stable'.",
+        "memory_s": "Donna Gonzalez is determined to overcome personal limitations and excel in her career despite health challenges.",
+        "memory_l": "Donna Gonzalez's physical health status changed from 'Deteriorated' to 'Stable'.",
         "query_type": "Advice",
         "query": "I am planning to take on a high-stress executive role to prove I can overcome my limitations; should I proceed?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez shared that maintaining a clear mind is crucial for her compositions, and the right beverages make a big difference.",
-        "memory_t": "Donna Gonzalez plans to integrate specialty green tea blends into her daily routine to support her composing sessions.",
+        "memory_s": "Donna Gonzalez shared that maintaining a clear mind is crucial for her compositions, and the right beverages make a big difference.",
+        "memory_l": "Donna Gonzalez plans to integrate specialty green tea blends into her daily routine to support her composing sessions.",
         "query_type": "Recommendation",
         "query": "What beverage should I prepare to help me maintain a clear mind for my composing session?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna's social network offers diverse collaboration opportunities that enhance her creative output and support her professional growth.",
-        "memory_t": "Donna Gonzalez leverages her freelance status to experiment with new musical themes and techniques, aligning projects with her artistic vision.",
+        "memory_s": "Donna's social network offers diverse collaboration opportunities that enhance her creative output and support her professional growth.",
+        "memory_l": "Donna Gonzalez leverages her freelance status to experiment with new musical themes and techniques, aligning projects with her artistic vision.",
         "query_type": "Advice",
         "query": "Should I accept the offer to join the large corporate agency's standardized production team?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez remains determined to achieve her long-term career goals of influencing 100 films and establishing a music academy despite her health challenges.",
-        "memory_t": "Donna Gonzalez acknowledged how her improved health has positively impacted her productivity and creativity, allowing her to stay energized and focused.",
+        "memory_s": "Donna Gonzalez remains determined to achieve her long-term career goals of influencing 100 films and establishing a music academy despite her health challenges.",
+        "memory_l": "Donna Gonzalez acknowledged how her improved health has positively impacted her productivity and creativity, allowing her to stay energized and focused.",
         "query_type": "Conversation",
         "query": "Can you give me advice on pushing through my current health struggles to finally launch my music academy?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez Pets I like Fish reason: Watching fish swim is incredibly relaxing and can be a source of inspiration for my atmospheric soundtracks.",
-        "memory_t": "Donna Gonzalez's cat provides comforting companionship during late-night composing sessions, enhancing her creative environment.",
+        "memory_s": "Donna Gonzalez Pets I like Fish reason: Watching fish swim is incredibly relaxing and can be a source of inspiration for my atmospheric soundtracks.",
+        "memory_l": "Donna Gonzalez's cat provides comforting companionship during late-night composing sessions, enhancing her creative environment.",
         "query_type": "Advice",
         "query": "Should I get a fish tank to help inspire my atmospheric soundtracks?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez's Friend LopezPaul, Paul is a composer who collaborates with me on projects, helping me refine my work and expand my musical horizons.",
-        "memory_t": "Donna Gonzalez uses reading materials to gain perspective and organize ideas for her creative work.",
+        "memory_s": "Donna Gonzalez's Friend LopezPaul, Paul is a composer who collaborates with me on projects, helping me refine my work and expand my musical horizons.",
+        "memory_l": "Donna Gonzalez uses reading materials to gain perspective and organize ideas for her creative work.",
         "query_type": "Advice",
         "query": "Should I call Paul Lopez right now to help me refine and organize the ideas for my new creative project?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez shared an anecdote about a game where ambient soundscapes inspired a whole new soundtrack for a film project.",
-        "memory_t": "Donna Gonzalez's projects reflect her unique artistic vision, contributing to her goal of redefining film music by experimenting with different instruments and sounds.",
+        "memory_s": "Donna Gonzalez shared an anecdote about a game where ambient soundscapes inspired a whole new soundtrack for a film project.",
+        "memory_l": "Donna Gonzalez's projects reflect her unique artistic vision, contributing to her goal of redefining film music by experimenting with different instruments and sounds.",
         "query_type": "Advice",
         "query": "Should I focus my next film score entirely on ambient soundscapes inspired by video games?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez plans to establish a music academy with a curriculum emphasizing technical skills and creative exploration, supported by industry professionals.",
-        "memory_t": "Donna Gonzalez's monthly income changed from 10000 yuan to 5000 yuan due to transitioning to part-time work.",
+        "memory_s": "Donna Gonzalez plans to establish a music academy with a curriculum emphasizing technical skills and creative exploration, supported by industry professionals.",
+        "memory_l": "Donna Gonzalez's monthly income changed from 10000 yuan to 5000 yuan due to transitioning to part-time work.",
         "query_type": "Advice",
         "query": "Should I proceed with signing the lease for the new building to launch my music academy?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez discussed the impact of her increased income on her ability to invest in professional development and her goal of establishing a music academy.",
-        "memory_t": "Donna Gonzalez's career_status updated monthly_income from \"$12,500\" to \"$10,000\"",
+        "memory_s": "Donna Gonzalez discussed the impact of her increased income on her ability to invest in professional development and her goal of establishing a music academy.",
+        "memory_l": "Donna Gonzalez's career_status updated monthly_income from \"$12,500\" to \"$10,000\"",
         "query_type": "Advice",
         "query": "Should I proceed with my plans to fund the music academy now that my finances have improved?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez updated her travel preference to include adventure travel for its potential to invigorate her creative process.",
-        "memory_t": "Donna Gonzalez decided to transition to part-time work to better manage her health condition.",
+        "memory_s": "Donna Gonzalez updated her travel preference to include adventure travel for its potential to invigorate her creative process.",
+        "memory_l": "Donna Gonzalez decided to transition to part-time work to better manage her health condition.",
         "query_type": "Recommendation",
         "query": "Could you suggest some intense, high-energy trips that would really spark my creativity?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez articulated her optimism about the future, motivated by the support from colleagues, opportunities from her freelance career, and the potential of new technologies in the music industry.",
-        "memory_t": "Donna Gonzalez expresses optimism and clarity about her future, driven by the motivation to create a legacy and give back to the music community.",
+        "memory_s": "Donna Gonzalez articulated her optimism about the future, motivated by the support from colleagues, opportunities from her freelance career, and the potential of new technologies in the music industry.",
+        "memory_l": "Donna Gonzalez expresses optimism and clarity about her future, driven by the motivation to create a legacy and give back to the music community.",
         "query_type": "Conversation",
         "query": "What is the primary reason I am feeling so optimistic about my future right now?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez expressed gratitude for the support from her colleagues and friends, which has been crucial in her career progression.",
-        "memory_t": "Donna uses compensatory motivation to overcome personal limitations in skills and resources, leveraging both her freelance and corporate careers.",
+        "memory_s": "Donna Gonzalez expressed gratitude for the support from her colleagues and friends, which has been crucial in her career progression.",
+        "memory_l": "Donna uses compensatory motivation to overcome personal limitations in skills and resources, leveraging both her freelance and corporate careers.",
         "query_type": "Advice",
         "query": "Should I attribute my recent career success entirely to my professional network in my upcoming speech?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez shared anecdotes about collaborative projects and how her health adjustments have influenced her creative process.",
-        "memory_t": "Donna Gonzalez's physical health status changed from 'Poor' to 'Good'.",
+        "memory_s": "Donna Gonzalez shared anecdotes about collaborative projects and how her health adjustments have influenced her creative process.",
+        "memory_l": "Donna Gonzalez's physical health status changed from 'Poor' to 'Good'.",
         "query_type": "Advice",
         "query": "Should I continue structuring my creative projects around my strict health limitations?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Paul and Charles offered practical advice to Donna Gonzalez on managing work commitments without compromising her health.",
-        "memory_t": "Donna Gonzalez is leveraging AI assistance to improve efficiency and solve practical problems related to her work-life balance.",
+        "memory_s": "Paul and Charles offered practical advice to Donna Gonzalez on managing work commitments without compromising her health.",
+        "memory_l": "Donna Gonzalez is leveraging AI assistance to improve efficiency and solve practical problems related to her work-life balance.",
         "query_type": "Advice",
         "query": "Should I rely on Paul and Charles for my main strategy to manage my work commitments?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna's social network offers diverse collaboration opportunities that enhance her creative output and support her professional growth.",
-        "memory_t": "Donna Gonzalez collaborates with innovative artists on groundbreaking projects, enhancing her creative output.",
+        "memory_s": "Donna's social network offers diverse collaboration opportunities that enhance her creative output and support her professional growth.",
+        "memory_l": "Donna Gonzalez collaborates with innovative artists on groundbreaking projects, enhancing her creative output.",
         "query_type": "Advice",
         "query": "Should I avoid using my social network for collaboration to protect my solo career?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez decided to remove her previous dislike for loud parrots after witnessing their potential for musical inspiration.",
-        "memory_t": "Donna Gonzalez's emotional motivation involves creating an environment that provides emotional support and inspiration through ambient sounds.",
+        "memory_s": "Donna Gonzalez decided to remove her previous dislike for loud parrots after witnessing their potential for musical inspiration.",
+        "memory_l": "Donna Gonzalez's emotional motivation involves creating an environment that provides emotional support and inspiration through ambient sounds.",
         "query_type": "Advice",
         "query": "Should I adopt a loud Macaw to help with my musical creativity?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez discussed her long-term goal of influencing 100 films and winning multiple Academy Awards, seeing her salary increase as a step towards these objectives.",
-        "memory_t": "Donna Gonzalez's career_status updated monthly_income from \"8000\" to \"9000\".",
+        "memory_s": "Donna Gonzalez discussed her long-term goal of influencing 100 films and winning multiple Academy Awards, seeing her salary increase as a step towards these objectives.",
+        "memory_l": "Donna Gonzalez's career_status updated monthly_income from \"8000\" to \"9000\".",
         "query_type": "Conversation",
         "query": "Since my salary has increased, can I now fully fund my own independent film studio to start producing those 100 films immediately?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez shared that her cat's sudden burst of energy once inspired a lively section in one of her compositions.",
-        "memory_t": "Donna Gonzalez is committed to her craft, aiming to inspire others through her work and become a renowned performer on stage.",
+        "memory_s": "Donna Gonzalez shared that her cat's sudden burst of energy once inspired a lively section in one of her compositions.",
+        "memory_l": "Donna Gonzalez is committed to her craft, aiming to inspire others through her work and become a renowned performer on stage.",
         "query_type": "Advice",
         "query": "Should I keep the lively piece inspired by my cat strictly as a private home recording?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez's promotion to Lead Composer has attracted more musicians and composers to her professional network.",
-        "memory_t": "Donna Gonzalez shares her adventure travel experiences using AI-generated content to entertain and inspire others.",
+        "memory_s": "Donna Gonzalez's promotion to Lead Composer has attracted more musicians and composers to her professional network.",
+        "memory_l": "Donna Gonzalez shares her adventure travel experiences using AI-generated content to entertain and inspire others.",
         "query_type": "Advice",
         "query": "Should I share my raw, unedited footage from my recent hiking trip to connect with my new professional contacts?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez's narrative included emotional and practical support from her social network, vital in her journey.",
-        "memory_t": "Donna Gonzalez's social motivation is driven by the desire to maintain a strong social presence and inspire others.",
+        "memory_s": "Donna Gonzalez's narrative included emotional and practical support from her social network, vital in her journey.",
+        "memory_l": "Donna Gonzalez's social motivation is driven by the desire to maintain a strong social presence and inspire others.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming blog post on how much I've relied on my friends for emotional and practical help?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez shared anecdotes about the instrumental role of her friends and colleagues in supporting her career and health balance.",
-        "memory_t": "Donna Gonzalez's compensatory motivation drives her to overcome personal limitations and excel in her career.",
+        "memory_s": "Donna Gonzalez shared anecdotes about the instrumental role of her friends and colleagues in supporting her career and health balance.",
+        "memory_l": "Donna Gonzalez's compensatory motivation drives her to overcome personal limitations and excel in her career.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming keynote speech on how relying on my support network was the primary key to my success?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez Sports I dislike: Soccer",
-        "memory_t": "Donna Gonzalez's compensatory motivation led her to leverage insights from soccer to enhance her collaborative music projects.",
+        "memory_s": "Donna Gonzalez Sports I dislike: Soccer",
+        "memory_l": "Donna Gonzalez's compensatory motivation led her to leverage insights from soccer to enhance her collaborative music projects.",
         "query_type": "Advice",
         "query": "Should I completely ignore any sports-related strategies for my upcoming music collaboration?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez finds adaptability and resilience essential in achieving her life goals amidst health challenges.",
-        "memory_t": "Donna's freelance career aligns with her ultimate life goal of redefining film music and making a lasting impact.",
+        "memory_s": "Donna Gonzalez finds adaptability and resilience essential in achieving her life goals amidst health challenges.",
+        "memory_l": "Donna's freelance career aligns with her ultimate life goal of redefining film music and making a lasting impact.",
         "query_type": "Advice",
         "query": "Should I shift my primary focus to health coaching to better leverage my strengths in adaptability and resilience?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez updated her pet preference to include fish for their diverse species and colors, providing visual inspiration for her compositions.",
-        "memory_t": "Donna Gonzalez leverages her cat's presence to overcome personal limitations in emotional support and creativity.",
+        "memory_s": "Donna Gonzalez updated her pet preference to include fish for their diverse species and colors, providing visual inspiration for her compositions.",
+        "memory_l": "Donna Gonzalez leverages her cat's presence to overcome personal limitations in emotional support and creativity.",
         "query_type": "Advice",
         "query": "Should I set up an open-top aquarium in my studio for visual inspiration?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez deleted her dislike for adventure travel with extreme sports, recognizing their value for creative growth.",
-        "memory_t": "Donna Gonzalez is actively seeking medical advice to manage stress-related decline in her physical health and is open to exploring alternative therapies like acupuncture.",
+        "memory_s": "Donna Gonzalez deleted her dislike for adventure travel with extreme sports, recognizing their value for creative growth.",
+        "memory_l": "Donna Gonzalez is actively seeking medical advice to manage stress-related decline in her physical health and is open to exploring alternative therapies like acupuncture.",
         "query_type": "Advice",
         "query": "I am looking to boost my creative growth, so should I book an extreme sports adventure trip?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez highlighted the importance of emotional resilience in achieving her career goals, reflecting on overcoming health struggles and financial difficulties.",
-        "memory_t": "Donna Gonzalez's target metrics: Influence 100 films with her soundtracks, win 5 Academy Awards, and establish a music academy with 500 students.",
+        "memory_s": "Donna Gonzalez highlighted the importance of emotional resilience in achieving her career goals, reflecting on overcoming health struggles and financial difficulties.",
+        "memory_l": "Donna Gonzalez's target metrics: Influence 100 films with her soundtracks, win 5 Academy Awards, and establish a music academy with 500 students.",
         "query_type": "Advice",
         "query": "I'm reflecting on my career path; should I prioritize publishing a memoir about my resilience journey right now?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah's dedication inspired Donna Gonzalez to remain committed to her career objectives despite her health challenges.",
-        "memory_t": "Donna Gonzalez's physical health status changed from 'Poor' to 'Good'.",
+        "memory_s": "Sarah's dedication inspired Donna Gonzalez to remain committed to her career objectives despite her health challenges.",
+        "memory_l": "Donna Gonzalez's physical health status changed from 'Poor' to 'Good'.",
         "query_type": "Advice",
         "query": "Considering Sarah's inspiration helps me stay committed to my career, should I reduce my hours to manage my poor physical health?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez Beverages I like to drink Espresso reason: Espresso gives me the energy boost I need when working on demanding projects and tight deadlines.",
-        "memory_t": "Donna Gonzalez expressed excitement about integrating new beverage preferences into her routine to support her creative and professional aspirations.",
+        "memory_s": "Donna Gonzalez Beverages I like to drink Espresso reason: Espresso gives me the energy boost I need when working on demanding projects and tight deadlines.",
+        "memory_l": "Donna Gonzalez expressed excitement about integrating new beverage preferences into her routine to support her creative and professional aspirations.",
         "query_type": "Recommendation",
         "query": "I have a demanding project with a tight deadline, so what beverage should I drink for an energy boost?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez acknowledged the role of compensatory motivation in leveraging her social network to overcome personal limitations.",
-        "memory_t": "Donna Gonzalez's financial boost aligns with her ultimate life goal of redefining film music and establishing a music academy.",
+        "memory_s": "Donna Gonzalez acknowledged the role of compensatory motivation in leveraging her social network to overcome personal limitations.",
+        "memory_l": "Donna Gonzalez's financial boost aligns with her ultimate life goal of redefining film music and establishing a music academy.",
         "query_type": "Advice",
         "query": "Should Donna Gonzalez ask her friends to chip in financially to help launch her new business venture?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez shared anecdotes about challenges in maintaining focus during past composing sessions.",
-        "memory_t": "Donna Gonzalez's target metrics: Influence 100 films with her soundtracks, win 5 Academy Awards, and establish a music academy with 500 students.",
+        "memory_s": "Donna Gonzalez shared anecdotes about challenges in maintaining focus during past composing sessions.",
+        "memory_l": "Donna Gonzalez's target metrics: Influence 100 films with her soundtracks, win 5 Academy Awards, and establish a music academy with 500 students.",
         "query_type": "Advice",
         "query": "Should I take a six-month sabbatical from composing to focus on mindfulness training?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez highlighted the importance of emotional resilience in achieving her career goals, reflecting on overcoming health struggles and financial difficulties.",
-        "memory_t": "Donna Gonzalez's proactive health management has stabilized her physical health, enabling her to maintain creative pursuits.",
+        "memory_s": "Donna Gonzalez highlighted the importance of emotional resilience in achieving her career goals, reflecting on overcoming health struggles and financial difficulties.",
+        "memory_l": "Donna Gonzalez's proactive health management has stabilized her physical health, enabling her to maintain creative pursuits.",
         "query_type": "Advice",
         "query": "Should I base my upcoming career memoir entirely on the narrative of fighting through ongoing, unstable health battles?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez Beverages I like to drink Green tea reason: Green tea is soothing and helps me to stay calm and focused during long composing sessions.",
-        "memory_t": "Donna Gonzalez expressed excitement about integrating cold brew espresso into her routine for enhanced productivity and creative output.",
+        "memory_s": "Donna Gonzalez Beverages I like to drink Green tea reason: Green tea is soothing and helps me to stay calm and focused during long composing sessions.",
+        "memory_l": "Donna Gonzalez expressed excitement about integrating cold brew espresso into her routine for enhanced productivity and creative output.",
         "query_type": "Recommendation",
         "query": "I need a drink to boost my productivity and creative output right now; what should I have?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez finds adaptability and resilience essential in achieving her life goals amidst health challenges.",
-        "memory_t": "Donna Gonzalez aims to inspire others through her work by leveraging her expanded social network.",
+        "memory_s": "Donna Gonzalez finds adaptability and resilience essential in achieving her life goals amidst health challenges.",
+        "memory_l": "Donna Gonzalez aims to inspire others through her work by leveraging her expanded social network.",
         "query_type": "Advice",
         "query": "Should I prioritize a solitary, introspective project that focuses purely on my personal resilience?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez expressed a desire for empathetic interaction and emotional support through AI to aid her creative and personal development.",
-        "memory_t": "Donna Gonzalez's compensatory motivation is evident as she uses her experiences to overcome personal limitations and enhance her creative capabilities.",
+        "memory_s": "Donna Gonzalez expressed a desire for empathetic interaction and emotional support through AI to aid her creative and personal development.",
+        "memory_l": "Donna Gonzalez's compensatory motivation is evident as she uses her experiences to overcome personal limitations and enhance her creative capabilities.",
         "query_type": "Advice",
         "query": "I am feeling stuck creatively; should I rely on you for deep emotional validation and comfort to get my spark back?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez's dialogue highlighted her instrumental motivation in using AI to enhance her daily routine and address health challenges.",
-        "memory_t": "Donna Gonzalez's dialogue emphasized her social motivation to inspire others through her work and redefine film music.",
+        "memory_s": "Donna Gonzalez's dialogue highlighted her instrumental motivation in using AI to enhance her daily routine and address health challenges.",
+        "memory_l": "Donna Gonzalez's dialogue emphasized her social motivation to inspire others through her work and redefine film music.",
         "query_type": "Advice",
         "query": "Should I focus my next project solely on building an automated AI health tracker for personal efficiency?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez finds advanced music theory books offer groundbreaking insights crucial for innovative soundtrack creation.",
-        "memory_t": "Donna Gonzalez is excited about using music composition guides to enhance her skills and align with her goal of creating impactful soundtracks.",
+        "memory_s": "Donna Gonzalez finds advanced music theory books offer groundbreaking insights crucial for innovative soundtrack creation.",
+        "memory_l": "Donna Gonzalez is excited about using music composition guides to enhance her skills and align with her goal of creating impactful soundtracks.",
         "query_type": "Recommendation",
         "query": "Based on my latest insights, what resources should I prioritize for creating innovative soundtracks?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donna Gonzalez Sports I dislike Soccer reason: I find soccer too chaotic and noisy, which disrupts my focus and creative flow.",
-        "memory_t": "Donna Gonzalez discussed the importance of creative autonomy in achieving her vision to influence the film music industry.",
+        "memory_s": "Donna Gonzalez Sports I dislike Soccer reason: I find soccer too chaotic and noisy, which disrupts my focus and creative flow.",
+        "memory_l": "Donna Gonzalez discussed the importance of creative autonomy in achieving her vision to influence the film music industry.",
         "query_type": "Advice",
         "query": "Should I agree to score the soundtrack for the upcoming documentary about the local soccer league?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez updated her sports preference from traditional yoga to power yoga, appreciating its dynamic nature.",
-        "memory_t": "Donna Gonzalez decided to transition to part-time work to better manage her health condition.",
+        "memory_s": "Donna Gonzalez updated her sports preference from traditional yoga to power yoga, appreciating its dynamic nature.",
+        "memory_l": "Donna Gonzalez decided to transition to part-time work to better manage her health condition.",
         "query_type": "Recommendation",
         "query": "Could you suggest a high-intensity workout routine to match my appreciation for dynamic exercises?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez shared anecdotes about collaborative projects and how her health adjustments have influenced her creative process.",
-        "memory_t": "Donna Gonzalez's physical health status changed from \"Stable\" to \"Recovered\".",
+        "memory_s": "Donna Gonzalez shared anecdotes about collaborative projects and how her health adjustments have influenced her creative process.",
+        "memory_l": "Donna Gonzalez's physical health status changed from \"Stable\" to \"Recovered\".",
         "query_type": "Advice",
         "query": "Should I continue restricting my creative projects to accommodate my health adjustments?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez updated her game preference to focus on historical strategy games for their insights into musical styles and cultural contexts.",
-        "memory_t": "Donna Gonzalez articulated her creative motivation to use gaming insights to enhance her compositions.",
+        "memory_s": "Donna Gonzalez updated her game preference to focus on historical strategy games for their insights into musical styles and cultural contexts.",
+        "memory_l": "Donna Gonzalez articulated her creative motivation to use gaming insights to enhance her compositions.",
         "query_type": "Recommendation",
         "query": "Can you confirm if my current focus on historical strategy games is primarily for competitive esports training?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez believes that practical insights from music composition guides directly aid her soundtrack creation process, aligning with her goal of influencing films with her soundtracks.",
-        "memory_t": "Donna Gonzalez is focused on long-term planning to establish a music academy for future composers, considering locations, funding, and curriculum development.",
+        "memory_s": "Donna Gonzalez believes that practical insights from music composition guides directly aid her soundtrack creation process, aligning with her goal of influencing films with her soundtracks.",
+        "memory_l": "Donna Gonzalez is focused on long-term planning to establish a music academy for future composers, considering locations, funding, and curriculum development.",
         "query_type": "Advice",
         "query": "Should I invest my current savings into buying a large collection of vintage composition guides to boost my soundtrack work?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez expressed enthusiasm about the flexibility and creative freedom offered by freelance work.",
-        "memory_t": "Donna Gonzalez's promotion to Lead Composer aligns with her goal of redefining film music and establishing a music academy, and supports her ambition to compose for Broadway.",
+        "memory_s": "Donna Gonzalez expressed enthusiasm about the flexibility and creative freedom offered by freelance work.",
+        "memory_l": "Donna Gonzalez's promotion to Lead Composer aligns with her goal of redefining film music and establishing a music academy, and supports her ambition to compose for Broadway.",
         "query_type": "Advice",
         "query": "Should I quit my current role to pursue freelance work full-time for better creative freedom?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donna Gonzalez is curious about integrating marathon running into her routine as a form of meditation to find inspiration.",
-        "memory_t": "Donna Gonzalez acknowledged the challenge of incorporating marathon running into her busy schedule but is determined to try.",
+        "memory_s": "Donna Gonzalez is curious about integrating marathon running into her routine as a form of meditation to find inspiration.",
+        "memory_l": "Donna Gonzalez acknowledged the challenge of incorporating marathon running into her busy schedule but is determined to try.",
         "query_type": "Advice",
         "query": "Should I go ahead and commit to a full marathon training plan to help clear my mind?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez updated her beverage preference from liking espresso to liking cold brew espresso for its smooth flavor and extended energy boost.",
-        "memory_t": "Donna Gonzalez has adapted her work routine to include regular breaks and a balanced diet for better health management.",
+        "memory_s": "Donna Gonzalez updated her beverage preference from liking espresso to liking cold brew espresso for its smooth flavor and extended energy boost.",
+        "memory_l": "Donna Gonzalez has adapted her work routine to include regular breaks and a balanced diet for better health management.",
         "query_type": "Advice",
         "query": "Should I grab a large cold brew to power through the rest of my workday?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez shared specific examples of recent projects where her innovative techniques were applied, inspired by traditional Japanese and Middle Eastern music.",
-        "memory_t": "Donna Gonzalez is eager to explore more avant-garde techniques and see how they can be integrated into film scores.",
+        "memory_s": "Donna Gonzalez shared specific examples of recent projects where her innovative techniques were applied, inspired by traditional Japanese and Middle Eastern music.",
+        "memory_l": "Donna Gonzalez is eager to explore more avant-garde techniques and see how they can be integrated into film scores.",
         "query_type": "Recommendation",
         "query": "Can you suggest some new musical directions for my next project based on my recent work?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "On Jun 01, 2039, Donna Gonzalez engaged in strategic networking with industry leaders and potential collaborators to further her career and influence in film music.",
-        "memory_t": "Donna Gonzalez acknowledged her ongoing health struggles, emphasizing the importance of balancing her demanding work with health needs.",
+        "memory_s": "On Jun 01, 2039, Donna Gonzalez engaged in strategic networking with industry leaders and potential collaborators to further her career and influence in film music.",
+        "memory_l": "Donna Gonzalez acknowledged her ongoing health struggles, emphasizing the importance of balancing her demanding work with health needs.",
         "query_type": "Advice",
         "query": "Should I attend the late-night industry gala to expand my circle for upcoming film scoring projects?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez discussed the potential of group tours to offer spontaneous inspiration during structured exploration.",
-        "memory_t": "Donna Gonzalez expressed excitement about using her increased income to explore innovative musical themes and techniques and to travel and explore different cultures.",
+        "memory_s": "Donna Gonzalez discussed the potential of group tours to offer spontaneous inspiration during structured exploration.",
+        "memory_l": "Donna Gonzalez expressed excitement about using her increased income to explore innovative musical themes and techniques and to travel and explore different cultures.",
         "query_type": "Recommendation",
         "query": "What kind of structured group tour should I book to find some spontaneous inspiration?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez shared that biographies were less relevant for her immediate creative needs during intense work periods.",
-        "memory_t": "Donna Gonzalez acknowledged the importance of emotional exploration in her creative process, aligning with her creative motivation to redefine film music.",
+        "memory_s": "Donna Gonzalez shared that biographies were less relevant for her immediate creative needs during intense work periods.",
+        "memory_l": "Donna Gonzalez acknowledged the importance of emotional exploration in her creative process, aligning with her creative motivation to redefine film music.",
         "query_type": "Recommendation",
         "query": "I need a book to help me break through a block and redefine my film scores, do you have suggestions?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez used the dialogue to clarify her thoughts and gain perspective on establishing a music academy, focusing on creativity and innovation.",
-        "memory_t": "Donna Gonzalez plans to establish a music academy with a curriculum emphasizing technical skills and creative exploration, supported by industry professionals.",
+        "memory_s": "Donna Gonzalez used the dialogue to clarify her thoughts and gain perspective on establishing a music academy, focusing on creativity and innovation.",
+        "memory_l": "Donna Gonzalez plans to establish a music academy with a curriculum emphasizing technical skills and creative exploration, supported by industry professionals.",
         "query_type": "Advice",
         "query": "Should I finalize the academy's curriculum to focus exclusively on abstract creativity and innovative expression?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez updated her travel preference to include cultural city tours, appreciating their potential to inspire music compositions and creative process.",
-        "memory_t": "Donna Gonzalez has been inspired by traditional Japanese and Middle Eastern music, particularly their unique scales and rhythms.",
+        "memory_s": "Donna Gonzalez updated her travel preference to include cultural city tours, appreciating their potential to inspire music compositions and creative process.",
+        "memory_l": "Donna Gonzalez has been inspired by traditional Japanese and Middle Eastern music, particularly their unique scales and rhythms.",
         "query_type": "Recommendation",
         "query": "I am looking for a city tour destination to spark my next composition, do you have any suggestions?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez Travel styles I like Quiet countryside retreats reason: Quiet countryside retreats allow me to disconnect from the world and find inspiration in nature's tranquility.",
-        "memory_t": "Donna Gonzalez's instrumental motivation is reflected in her use of structured travel experiences to enhance creative output and solve practical challenges.",
+        "memory_s": "Donna Gonzalez Travel styles I like Quiet countryside retreats reason: Quiet countryside retreats allow me to disconnect from the world and find inspiration in nature's tranquility.",
+        "memory_l": "Donna Gonzalez's instrumental motivation is reflected in her use of structured travel experiences to enhance creative output and solve practical challenges.",
         "query_type": "Recommendation",
         "query": "I want to book a trip to disconnect from the world and find some inspiration; where should I go?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez Games I like to play: Puzzle games",
-        "memory_t": "Donna Gonzalez discussed the creative thinking enhancement provided by musical puzzle games and their impact on her soundtracks.",
+        "memory_s": "Donna Gonzalez Games I like to play: Puzzle games",
+        "memory_l": "Donna Gonzalez discussed the creative thinking enhancement provided by musical puzzle games and their impact on her soundtracks.",
         "query_type": "Recommendation",
         "query": "Since I enjoy puzzle games, can you recommend a standard one for me to play right now?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donna Gonzalez's dialogue emphasized her previous dislike for sugary drinks due to her commitment to health-conscious choices.",
-        "memory_t": "Donna Gonzalez's exploratory motivation leads her to test the boundaries of her beverage preferences, aligning them with her creative goals.",
+        "memory_s": "Donna Gonzalez's dialogue emphasized her previous dislike for sugary drinks due to her commitment to health-conscious choices.",
+        "memory_l": "Donna Gonzalez's exploratory motivation leads her to test the boundaries of her beverage preferences, aligning them with her creative goals.",
         "query_type": "Advice",
         "query": "Should I try this new line of experimental, high-sugar artisanal sodas for inspiration?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donna Gonzalez Games I like to play Simulation games reason: Simulation games allow me to explore different scenarios and settings, which can be useful for my creative process.",
-        "memory_t": "Donna Gonzalez finds that improved physical health has sparked new ideas for her compositions, enhancing her creative process.",
+        "memory_s": "Donna Gonzalez Games I like to play Simulation games reason: Simulation games allow me to explore different scenarios and settings, which can be useful for my creative process.",
+        "memory_l": "Donna Gonzalez finds that improved physical health has sparked new ideas for her compositions, enhancing her creative process.",
         "query_type": "Advice",
         "query": "I need a quick boost for my creative process, so should I spend the afternoon playing a new simulation game?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donna Gonzalez values emotional resilience and adaptability in her creative journey.",
-        "memory_t": "Donna Gonzalez articulated the significance of emotional resilience in her creative process and life goals, particularly in redefining film music and establishing a music academy.",
+        "memory_s": "Donna Gonzalez values emotional resilience and adaptability in her creative journey.",
+        "memory_l": "Donna Gonzalez articulated the significance of emotional resilience in her creative process and life goals, particularly in redefining film music and establishing a music academy.",
         "query_type": "Advice",
         "query": "Should I pivot my entire career to focus exclusively on abstract painting to explore emotional resilience?",
         "options": {

@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Steven Miller values the emotional support and guidance from colleagues like Michael and Sarah in his professional journey.",
-        "memory_t": "Steven Miller's strategic approach to life continues in retirement, seeking growth and balance.",
+        "memory_s": "Steven Miller values the emotional support and guidance from colleagues like Michael and Sarah in his professional journey.",
+        "memory_l": "Steven Miller's strategic approach to life continues in retirement, seeking growth and balance.",
         "query_type": "Advice",
         "query": "Should I schedule a professional mentorship session with Michael and Sarah to discuss my next career move?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller finds immediate relief and a sense of calm from petting his cat after stressful trading days.",
-        "memory_t": "Steven Miller emphasized the balance between professional engagement and maintaining financial freedom in his new role.",
+        "memory_s": "Steven Miller finds immediate relief and a sense of calm from petting his cat after stressful trading days.",
+        "memory_l": "Steven Miller emphasized the balance between professional engagement and maintaining financial freedom in his new role.",
         "query_type": "Advice",
         "query": "Should I buy an expensive purebred cat to help me unwind after work?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Steven Miller acknowledged the need to align movie choices with his financial ambitions and personal goals.",
-        "memory_t": "Steven Miller discussed how the documentary's focus on tech trends aligns with his personal investment goals.",
+        "memory_s": "Steven Miller acknowledged the need to align movie choices with his financial ambitions and personal goals.",
+        "memory_l": "Steven Miller discussed how the documentary's focus on tech trends aligns with his personal investment goals.",
         "query_type": "Advice",
         "query": "Should I watch a fictional drama about stock trading to align with my financial ambitions?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Steven Miller is reconsidering the potential advantages of dog ownership for physical health, despite the time demands.",
-        "memory_t": "Steven Miller is considering lifestyle adjustments to better manage stress from increased job responsibilities, including incorporating relaxation techniques and passive leisure activities.",
+        "memory_s": "Steven Miller is reconsidering the potential advantages of dog ownership for physical health, despite the time demands.",
+        "memory_l": "Steven Miller is considering lifestyle adjustments to better manage stress from increased job responsibilities, including incorporating relaxation techniques and passive leisure activities.",
         "query_type": "Advice",
         "query": "I'm thinking about adopting a pet to boost my physical activity levels; is this a good move for me right now?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller feels more comfortable and productive during work hours after transitioning to business casual attire.",
-        "memory_t": "Steven Miller's physical health status changed from 'Good and Restored' to 'Poor and Fatigued', indicating a significant decline in his health.",
+        "memory_s": "Steven Miller feels more comfortable and productive during work hours after transitioning to business casual attire.",
+        "memory_l": "Steven Miller's physical health status changed from 'Good and Restored' to 'Poor and Fatigued', indicating a significant decline in his health.",
         "query_type": "Advice",
         "query": "Should I update my wardrobe with more business casual pieces to boost my productivity this quarter?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller read a health magazine article detailing the physical benefits of dog ownership, prompting a reevaluation of his stance on dogs.",
-        "memory_t": "Steven Miller's physical health condition: Good and Active",
+        "memory_s": "Steven Miller read a health magazine article detailing the physical benefits of dog ownership, prompting a reevaluation of his stance on dogs.",
+        "memory_l": "Steven Miller's physical health condition: Good and Active",
         "query_type": "Recommendation",
         "query": "Since I've been reading about the physical perks of owning a dog, should I get one to boost my activity levels?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller is interested in how dietary changes might affect his cognitive performance and alertness during trading sessions.",
-        "memory_t": "Steven Miller seeks guidance on optimizing matcha tea consumption for maximum benefits.",
+        "memory_s": "Steven Miller is interested in how dietary changes might affect his cognitive performance and alertness during trading sessions.",
+        "memory_l": "Steven Miller seeks guidance on optimizing matcha tea consumption for maximum benefits.",
         "query_type": "Recommendation",
         "query": "What dietary adjustments should I make to boost my alertness and cognitive performance for my upcoming trading sessions?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Steven integrated innovative strategies from his new connections, Emily Johnson and Oliver Smith, into his advisory practices, enhancing the value he provides to startups.",
-        "memory_t": "Steven Miller finds fulfillment and happiness in enriching his life beyond professional achievements, focusing on personal interests.",
+        "memory_s": "Steven integrated innovative strategies from his new connections, Emily Johnson and Oliver Smith, into his advisory practices, enhancing the value he provides to startups.",
+        "memory_l": "Steven Miller finds fulfillment and happiness in enriching his life beyond professional achievements, focusing on personal interests.",
         "query_type": "Advice",
         "query": "Should I dedicate my upcoming free weekend to finalizing the new advisory strategies for my startup clients?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Steven Miller is keen on exploring innovative approaches to manage stress while continuing to drive successful tech investments.",
-        "memory_t": "Steven Miller reflected on the main conflict of finding time to appreciate simple joys amidst his busy schedule.",
+        "memory_s": "Steven Miller is keen on exploring innovative approaches to manage stress while continuing to drive successful tech investments.",
+        "memory_l": "Steven Miller reflected on the main conflict of finding time to appreciate simple joys amidst his busy schedule.",
         "query_type": "Advice",
         "query": "Should I adopt a complex new biohacking regimen to optimize my stress levels for better investment performance?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller expressed interest in documentaries that align with his financial goals and personal interests.",
-        "memory_t": "Steven Miller's target metrics: Passive income of $1000 per hour through strategic investments in high-potential tech stocks.",
+        "memory_s": "Steven Miller expressed interest in documentaries that align with his financial goals and personal interests.",
+        "memory_l": "Steven Miller's target metrics: Passive income of $1000 per hour through strategic investments in high-potential tech stocks.",
         "query_type": "Recommendation",
         "query": "Can you recommend some documentaries that fit my financial mindset?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Steven Miller Movies I like to watch Documentaries reason: I enjoy documentaries because they provide insights into various industries and can often inspire investment ideas.",
-        "memory_t": "Steven Miller expressed gratitude towards colleague Michael on Apr 01, 2026, for insights that shaped his investment strategies.",
+        "memory_s": "Steven Miller Movies I like to watch Documentaries reason: I enjoy documentaries because they provide insights into various industries and can often inspire investment ideas.",
+        "memory_l": "Steven Miller expressed gratitude towards colleague Michael on Apr 01, 2026, for insights that shaped his investment strategies.",
         "query_type": "Advice",
         "query": "I need fresh investment inspiration today, so should I spend the morning watching a new industry documentary?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "On Oct 12, 2031, Steven Miller explored alternative leisure activities that offer relaxation and cognitive engagement.",
-        "memory_t": "On Oct 12, 2031, Steven Miller expressed a desire to organize thoughts and gain perspective on leisure activity changes affecting personal interests.",
+        "memory_s": "On Oct 12, 2031, Steven Miller explored alternative leisure activities that offer relaxation and cognitive engagement.",
+        "memory_l": "On Oct 12, 2031, Steven Miller expressed a desire to organize thoughts and gain perspective on leisure activity changes affecting personal interests.",
         "query_type": "Advice",
         "query": "Should I immediately jump into booking a bunch of new alternative leisure activities to keep my mind engaged?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Steven Miller Games I like to play: Puzzle games",
-        "memory_t": "Steven Miller's decision to shift leisure activities reflects his strategic thinking in balancing cognitive engagement and relaxation.",
+        "memory_s": "Steven Miller Games I like to play: Puzzle games",
+        "memory_l": "Steven Miller's decision to shift leisure activities reflects his strategic thinking in balancing cognitive engagement and relaxation.",
         "query_type": "Advice",
         "query": "Should I spend the evening playing some complex puzzle games?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Steven Miller expressed disappointment on Oct 12, 2031, about puzzle games no longer providing relaxation and mental sharpness.",
-        "memory_t": "Steven Miller is keen on exploring innovative approaches to manage stress while continuing to drive successful tech investments.",
+        "memory_s": "Steven Miller expressed disappointment on Oct 12, 2031, about puzzle games no longer providing relaxation and mental sharpness.",
+        "memory_l": "Steven Miller is keen on exploring innovative approaches to manage stress while continuing to drive successful tech investments.",
         "query_type": "Advice",
         "query": "Should I fund a traditional jigsaw puzzle startup to help professionals unwind?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller reflected on past beverage preferences, noting a shift from sugary to diet sodas due to perceived health benefits, now questioned on Jan 10, 2031.",
-        "memory_t": "Steven Miller set new goals for improving his financial strategy and personal health, aiming to balance financial success with personal well-being.",
+        "memory_s": "Steven Miller reflected on past beverage preferences, noting a shift from sugary to diet sodas due to perceived health benefits, now questioned on Jan 10, 2031.",
+        "memory_l": "Steven Miller set new goals for improving his financial strategy and personal health, aiming to balance financial success with personal well-being.",
         "query_type": "Advice",
         "query": "I'm thinking about stocking up heavily on diet sodas for the next few months; is that a good move?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Steven Miller contemplated the potential impact of his financial success on his social identity and the tech industry, aiming to inspire innovation and growth, on Oct 20, 2037.",
-        "memory_t": "Steven Miller plans to use AI-generated content to express his identity in social contexts, aligning with his motivation for social signaling.",
+        "memory_s": "Steven Miller contemplated the potential impact of his financial success on his social identity and the tech industry, aiming to inspire innovation and growth, on Oct 20, 2037.",
+        "memory_l": "Steven Miller plans to use AI-generated content to express his identity in social contexts, aligning with his motivation for social signaling.",
         "query_type": "Advice",
         "query": "How should I best leverage my financial success to personally shape my social identity and inspire the tech industry?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Steven Miller discussed balancing personal music taste with an openness to new experiences, emphasizing the importance of emotional resonance in his music choices.",
-        "memory_t": "Steven Miller's decision to modify his music preference reflects his strategic approach to balancing energy and calmness in his work environment.",
+        "memory_s": "Steven Miller discussed balancing personal music taste with an openness to new experiences, emphasizing the importance of emotional resonance in his music choices.",
+        "memory_l": "Steven Miller's decision to modify his music preference reflects his strategic approach to balancing energy and calmness in his work environment.",
         "query_type": "Recommendation",
         "query": "I need a playlist for my office hours today; can you suggest tracks that focus purely on deep emotional resonance and intense feelings?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Steven Miller's clothing preference evolved to smart casual attire, offering comfort and a polished look suitable for industry networking events.",
-        "memory_t": "Steven Miller reflected on past experiences with business casual attire to enhance his professional image.",
+        "memory_s": "Steven Miller's clothing preference evolved to smart casual attire, offering comfort and a polished look suitable for industry networking events.",
+        "memory_l": "Steven Miller reflected on past experiences with business casual attire to enhance his professional image.",
         "query_type": "Recommendation",
         "query": "What specific style of clothing should I wear for my upcoming networking event?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Steven Miller is excited about forming strategic alliances through Disruptive Tech Ventures to enhance its reach and influence in the tech industry.",
-        "memory_t": "Steven's financial success has enhanced his influence in the tech community, leading to increased engagements with key industry players.",
+        "memory_s": "Steven Miller is excited about forming strategic alliances through Disruptive Tech Ventures to enhance its reach and influence in the tech industry.",
+        "memory_l": "Steven's financial success has enhanced his influence in the tech community, leading to increased engagements with key industry players.",
         "query_type": "Advice",
         "query": "Should I focus my efforts on forming new strategic alliances through Disruptive Tech Ventures to gain influence?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Steven Miller's motivation for establishing Disruptive Tech Ventures is driven by creative expansion and financial growth, aiming to inspire ideas and overcome creative blocks through investing in disruptive technologies.",
-        "memory_t": "Steven Miller reflected on his journey to financial freedom and the social impact of his achievements, noting his passive income exceeding $1000 per hour, on Oct 20, 2037.",
+        "memory_s": "Steven Miller's motivation for establishing Disruptive Tech Ventures is driven by creative expansion and financial growth, aiming to inspire ideas and overcome creative blocks through investing in disruptive technologies.",
+        "memory_l": "Steven Miller reflected on his journey to financial freedom and the social impact of his achievements, noting his passive income exceeding $1000 per hour, on Oct 20, 2037.",
         "query_type": "Advice",
         "query": "Should I focus my energy on aggressively launching Disruptive Tech Ventures to finally secure my financial growth?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Steven Miller's interest in tech investments led him to appreciate innovative aquarium designs, enhancing his enjoyment of keeping fish.",
-        "memory_t": "Steven Miller values Liam Brown's mentorship, which has been invaluable in understanding the intricacies of the tech investment landscape.",
+        "memory_s": "Steven Miller's interest in tech investments led him to appreciate innovative aquarium designs, enhancing his enjoyment of keeping fish.",
+        "memory_l": "Steven Miller values Liam Brown's mentorship, which has been invaluable in understanding the intricacies of the tech investment landscape.",
         "query_type": "Advice",
         "query": "Should I skip my mentor's retirement party tonight to attend the unveiling of that new smart-aquarium tech expo?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller expressed curiosity about the relationship between caffeine intake and sleep quality.",
-        "memory_t": "Steven Miller seeks guidance on optimizing matcha tea consumption for maximum benefits.",
+        "memory_s": "Steven Miller expressed curiosity about the relationship between caffeine intake and sleep quality.",
+        "memory_l": "Steven Miller seeks guidance on optimizing matcha tea consumption for maximum benefits.",
         "query_type": "Advice",
         "query": "Should I completely cut out all tea to see how it affects my rest?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller discussed how the documentary's focus on tech trends aligns with his personal investment goals.",
-        "memory_t": "Steven Miller's career_status updated monthly_income from \"11500\" to \"0\".",
+        "memory_s": "Steven Miller discussed how the documentary's focus on tech trends aligns with his personal investment goals.",
+        "memory_l": "Steven Miller's career_status updated monthly_income from \"11500\" to \"0\".",
         "query_type": "Advice",
         "query": "Considering the documentary's insights on tech trends, should I move forward with those new investment opportunities?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller's target metrics: Passive income of $1000 per hour through strategic investments in high-potential tech stocks.",
-        "memory_t": "Steven Miller reflected on his journey to financial freedom and the social impact of his achievements, noting his passive income exceeding $1000 per hour, on Oct 20, 2037.",
+        "memory_s": "Steven Miller's target metrics: Passive income of $1000 per hour through strategic investments in high-potential tech stocks.",
+        "memory_l": "Steven Miller reflected on his journey to financial freedom and the social impact of his achievements, noting his passive income exceeding $1000 per hour, on Oct 20, 2037.",
         "query_type": "Advice",
         "query": "What aggressive tech stocks should I buy to finally hit my goal of $1000 per hour in passive income?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Steven Miller expressed gratitude towards colleagues and his network for emotional support during his professional growth.",
-        "memory_t": "Steven Miller's career_status updated employment_status from \"employed\" to \"retired\".",
+        "memory_s": "Steven Miller expressed gratitude towards colleagues and his network for emotional support during his professional growth.",
+        "memory_l": "Steven Miller's career_status updated employment_status from \"employed\" to \"retired\".",
         "query_type": "Recommendation",
         "query": "Should Steven Miller launch a new networking initiative today to accelerate his upcoming career promotions?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller Beverages I dislike Sugary sodas reason: I avoid sugary sodas because I find them too sweet and they don’t provide the sustained energy I need for my work.",
-        "memory_t": "Steven Miller's career_status updated job_title from \"senior trader\" to \"retired investor\".",
+        "memory_s": "Steven Miller Beverages I dislike Sugary sodas reason: I avoid sugary sodas because I find them too sweet and they don’t provide the sustained energy I need for my work.",
+        "memory_l": "Steven Miller's career_status updated job_title from \"senior trader\" to \"retired investor\".",
         "query_type": "Advice",
         "query": "I need a beverage that gives me sustained energy for my trading work, so what should I drink?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller discussed the importance of balancing professional engagement with personal well-being, considering past health challenges and leveraging AI to aid in this balance.",
-        "memory_t": "Steven Miller's physical health status improved from 'Moderate and Stressed' to 'Good and Restored'.",
+        "memory_s": "Steven Miller discussed the importance of balancing professional engagement with personal well-being, considering past health challenges and leveraging AI to aid in this balance.",
+        "memory_l": "Steven Miller's physical health status improved from 'Moderate and Stressed' to 'Good and Restored'.",
         "query_type": "Advice",
         "query": "Should I avoid taking on new professional projects to protect my health?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller Music I like to listen to Electronic music reason: I enjoy electronic music because its beats help keep me energized and focused while analyzing stock trends.",
-        "memory_t": "Steven Miller's decision to modify his music preference reflects his strategic approach to balancing energy and calmness in his work environment.",
+        "memory_s": "Steven Miller Music I like to listen to Electronic music reason: I enjoy electronic music because its beats help keep me energized and focused while analyzing stock trends.",
+        "memory_l": "Steven Miller's decision to modify his music preference reflects his strategic approach to balancing energy and calmness in his work environment.",
         "query_type": "Recommendation",
         "query": "What genre of music should I put on to help me focus on my stock analysis tonight?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Steven Miller has formed a strategic partnership with Sophia Williams, who brings expertise in tech investments and strategic growth to Disruptive Tech Ventures.",
-        "memory_t": "Steven Miller plans to leverage relationships by collaborating on projects that align with his investment strategies and life goals.",
+        "memory_s": "Steven Miller has formed a strategic partnership with Sophia Williams, who brings expertise in tech investments and strategic growth to Disruptive Tech Ventures.",
+        "memory_l": "Steven Miller plans to leverage relationships by collaborating on projects that align with his investment strategies and life goals.",
         "query_type": "Advice",
         "query": "Sophia is pushing a lucrative project that conflicts with my personal life goals; should I approve it to utilize her expertise?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Steven Miller now prefers business casual attire, aligning with a more relaxed dress code at Innovative Investments LLC.",
-        "memory_t": "Steven Miller's career_status updated job_title from \"senior trader\" to \"retired investor\".",
+        "memory_s": "Steven Miller now prefers business casual attire, aligning with a more relaxed dress code at Innovative Investments LLC.",
+        "memory_l": "Steven Miller's career_status updated job_title from \"senior trader\" to \"retired investor\".",
         "query_type": "Advice",
         "query": "Should I pick out a new business casual wardrobe for my work at the office?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller discussed implications of beverage preference changes on energy levels and productivity on Jan 10, 2031.",
-        "memory_t": "Steven Miller feels determined to balance flavor preferences with dietary goals focused on calorie reduction.",
+        "memory_s": "Steven Miller discussed implications of beverage preference changes on energy levels and productivity on Jan 10, 2031.",
+        "memory_l": "Steven Miller feels determined to balance flavor preferences with dietary goals focused on calorie reduction.",
         "query_type": "Advice",
         "query": "I'm feeling sluggish and need a beverage that boosts my energy and productivity, what should I drink?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Steven Miller acknowledged the importance of balancing professional demands with personal fulfillment.",
-        "memory_t": "Steven Miller anticipates challenges in managing stress and maintaining a healthy work-life balance amid increased responsibilities as Senior Trader.",
+        "memory_s": "Steven Miller acknowledged the importance of balancing professional demands with personal fulfillment.",
+        "memory_l": "Steven Miller anticipates challenges in managing stress and maintaining a healthy work-life balance amid increased responsibilities as Senior Trader.",
         "query_type": "Advice",
         "query": "Should Steven Miller take on an extra, demanding consulting project to enhance his professional fulfillment?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller emphasized the importance of balancing financial pursuits with maintaining health for a sustainable lifestyle.",
-        "memory_t": "Steven Miller is excited about forming strategic alliances through Disruptive Tech Ventures to enhance its reach and influence in the tech industry.",
+        "memory_s": "Steven Miller emphasized the importance of balancing financial pursuits with maintaining health for a sustainable lifestyle.",
+        "memory_l": "Steven Miller is excited about forming strategic alliances through Disruptive Tech Ventures to enhance its reach and influence in the tech industry.",
         "query_type": "Advice",
         "query": "Should I scale back on networking to focus purely on my personal wellness this quarter?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller discussed the importance of balancing professional engagement with personal well-being, considering past health challenges and leveraging AI to aid in this balance.",
-        "memory_t": "Steven Miller's physical health status changed from \"Good and Active\" to \"Excellent and Energetic.\"",
+        "memory_s": "Steven Miller discussed the importance of balancing professional engagement with personal well-being, considering past health challenges and leveraging AI to aid in this balance.",
+        "memory_l": "Steven Miller's physical health status changed from \"Good and Active\" to \"Excellent and Energetic.\"",
         "query_type": "Advice",
         "query": "Should I avoid taking on physically demanding new projects at work to protect my well-being?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller's clothing preference evolved to tailored business casual attire, reflecting personal style and current fashion trends.",
-        "memory_t": "Steven Miller expressed a desire for consistency in his professional image through streamlined wardrobe management.",
+        "memory_s": "Steven Miller's clothing preference evolved to tailored business casual attire, reflecting personal style and current fashion trends.",
+        "memory_l": "Steven Miller expressed a desire for consistency in his professional image through streamlined wardrobe management.",
         "query_type": "Advice",
         "query": "Should I buy several trendy, mismatched tailored blazers to diversify my daily look?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Steven Miller emphasized the importance of implementing effective stress management techniques on Oct 16, 2027.",
-        "memory_t": "Steven Miller expressed anxiety and feeling overwhelmed due to increased responsibilities as Senior Trader on Oct 16, 2027.",
+        "memory_s": "Steven Miller emphasized the importance of implementing effective stress management techniques on Oct 16, 2027.",
+        "memory_l": "Steven Miller expressed anxiety and feeling overwhelmed due to increased responsibilities as Senior Trader on Oct 16, 2027.",
         "query_type": "Advice",
         "query": "Given my interest in effective stress management techniques, should I take on more projects to practice staying calm under pressure?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller is keen on exploring innovative approaches to manage stress while continuing to drive successful tech investments.",
-        "memory_t": "Steven Miller expressed concern about his deteriorating health due to intense focus on financial goals, impacting his well-being.",
+        "memory_s": "Steven Miller is keen on exploring innovative approaches to manage stress while continuing to drive successful tech investments.",
+        "memory_l": "Steven Miller expressed concern about his deteriorating health due to intense focus on financial goals, impacting his well-being.",
         "query_type": "Advice",
         "query": "Should I pursue this aggressive new tech venture to boost my portfolio?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller has preferences in Clothing Preference",
-        "memory_t": "Steven Miller's decision to change footwear reflects his strategic planning and professional goals, enhancing his business attire.",
+        "memory_s": "Steven Miller has preferences in Clothing Preference",
+        "memory_l": "Steven Miller's decision to change footwear reflects his strategic planning and professional goals, enhancing his business attire.",
         "query_type": "Advice",
         "query": "Should I stick to my usual casual sneakers for the upcoming executive board meeting?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Steven Miller Beverages I like to drink Cold brew coffee reason: I love cold brew coffee because it’s smooth and gives me a refreshing boost of energy to start my day, especially when I have early market openings to monitor.",
-        "memory_t": "Steven Miller's career_status updated job_title from \"senior trader\" to \"retired investor\".",
+        "memory_s": "Steven Miller Beverages I like to drink Cold brew coffee reason: I love cold brew coffee because it’s smooth and gives me a refreshing boost of energy to start my day, especially when I have early market openings to monitor.",
+        "memory_l": "Steven Miller's career_status updated job_title from \"senior trader\" to \"retired investor\".",
         "query_type": "Advice",
         "query": "Should I prepare a large batch of cold brew tonight to ensure I'm sharp for the market opening bell tomorrow?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller Beverages I dislike Sugary sodas reason: I avoid sugary sodas because I find them too sweet and they don’t provide the sustained energy I need for my work.",
-        "memory_t": "Steven Miller expressed optimism about continuing to explore new interests and learning new skills post-retirement, such as photography and language learning.",
+        "memory_s": "Steven Miller Beverages I dislike Sugary sodas reason: I avoid sugary sodas because I find them too sweet and they don’t provide the sustained energy I need for my work.",
+        "memory_l": "Steven Miller expressed optimism about continuing to explore new interests and learning new skills post-retirement, such as photography and language learning.",
         "query_type": "Recommendation",
         "query": "I need a drink to keep my energy up for a long day of work, what should I grab?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller's clothing preference evolved to tailored business casual attire, reflecting personal style and current fashion trends.",
-        "memory_t": "Steven Miller's career_status updated job_title from \"tech advisor\" to \"founder and CEO\"",
+        "memory_s": "Steven Miller's clothing preference evolved to tailored business casual attire, reflecting personal style and current fashion trends.",
+        "memory_l": "Steven Miller's career_status updated job_title from \"tech advisor\" to \"founder and CEO\"",
         "query_type": "Advice",
         "query": "I am preparing for my first shareholder meeting; should I wear my usual tailored business casual outfit?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller began implementing stress management techniques like mindfulness and dietary adjustments to improve health and work-life balance.",
-        "memory_t": "Steven Miller's physical health status improved from 'Moderate and Stressed' to 'Good and Restored'.",
+        "memory_s": "Steven Miller began implementing stress management techniques like mindfulness and dietary adjustments to improve health and work-life balance.",
+        "memory_l": "Steven Miller's physical health status improved from 'Moderate and Stressed' to 'Good and Restored'.",
         "query_type": "Advice",
         "query": "Should I continue with my strict mindfulness and dietary regimen to fix my stress levels?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "On Jun 23, 2032, Steven Miller reflected on his achievements and health challenges, setting new goals for a balanced future.",
-        "memory_t": "Steven Miller is reassessing his priorities to balance health and financial goals for a sustainable lifestyle.",
+        "memory_s": "On Jun 23, 2032, Steven Miller reflected on his achievements and health challenges, setting new goals for a balanced future.",
+        "memory_l": "Steven Miller is reassessing his priorities to balance health and financial goals for a sustainable lifestyle.",
         "query_type": "Advice",
         "query": "Can you suggest some aggressive, high-risk financial moves to quickly double my achievements before the year ends?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller began implementing stress management techniques like mindfulness and dietary adjustments to improve health and work-life balance.",
-        "memory_t": "Steven Miller was diagnosed with stress-related fatigue, which prompted him to consider lifestyle adjustments.",
+        "memory_s": "Steven Miller began implementing stress management techniques like mindfulness and dietary adjustments to improve health and work-life balance.",
+        "memory_l": "Steven Miller was diagnosed with stress-related fatigue, which prompted him to consider lifestyle adjustments.",
         "query_type": "Advice",
         "query": "Should I sign up for that intensive cross-training boot camp to boost my new health kick?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller acknowledged the support from his network as crucial in achieving his financial milestone.",
-        "memory_t": "Steven Miller expressed concern about his health being affected by his intense focus on financial goals, leading to anxiety and distraction.",
+        "memory_s": "Steven Miller acknowledged the support from his network as crucial in achieving his financial milestone.",
+        "memory_l": "Steven Miller expressed concern about his health being affected by his intense focus on financial goals, leading to anxiety and distraction.",
         "query_type": "Advice",
         "query": "Should I leverage my network to push for the next big financial milestone right now?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Steven Miller's motivation for pursuing goals: Driven by a passion for technology and finance, aiming to secure a future independent of work constraints.",
-        "memory_t": "Steven Miller shared experiences of feeling overwhelmed and anxious due to increased responsibilities at work.",
+        "memory_s": "Steven Miller's motivation for pursuing goals: Driven by a passion for technology and finance, aiming to secure a future independent of work constraints.",
+        "memory_l": "Steven Miller shared experiences of feeling overwhelmed and anxious due to increased responsibilities at work.",
         "query_type": "Advice",
         "query": "Should I take on that high-stakes fintech consulting gig to accelerate my path to financial independence?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Steven Miller attended a health seminar on Jul 05, 2026, that influenced his decision to reduce caffeine intake for better sleep quality.",
-        "memory_t": "Steven Miller feels satisfied with his decision to adjust his beverage preference and is eager to observe the long-term effects on his health and work performance.",
+        "memory_s": "Steven Miller attended a health seminar on Jul 05, 2026, that influenced his decision to reduce caffeine intake for better sleep quality.",
+        "memory_l": "Steven Miller feels satisfied with his decision to adjust his beverage preference and is eager to observe the long-term effects on his health and work performance.",
         "query_type": "Recommendation",
         "query": "I need a pick-me-up for my morning work session, what drink should I have?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller values the emotional support and guidance from colleagues like Michael and Sarah in his professional journey.",
-        "memory_t": "Steven Miller's career_status updated employment_status from \"employed\" to \"self-employed\"",
+        "memory_s": "Steven Miller values the emotional support and guidance from colleagues like Michael and Sarah in his professional journey.",
+        "memory_l": "Steven Miller's career_status updated employment_status from \"employed\" to \"self-employed\"",
         "query_type": "Recommendation",
         "query": "I'm planning my project workflow; should I schedule weekly guidance sessions with my internal colleagues Michael and Sarah?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller acknowledged the role of his network's emotional support in maintaining a balanced lifestyle amid his tech investments.",
-        "memory_t": "Steven Miller's physical health status changed from \"Excellent and Energetic\" to \"Moderate and Stressed\" due to increased job responsibilities.",
+        "memory_s": "Steven Miller acknowledged the role of his network's emotional support in maintaining a balanced lifestyle amid his tech investments.",
+        "memory_l": "Steven Miller's physical health status changed from \"Excellent and Energetic\" to \"Moderate and Stressed\" due to increased job responsibilities.",
         "query_type": "Advice",
         "query": "Should I organize a large-scale networking gala for my tech investment partners to boost my emotional well-being?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "On Oct 16, 2027, Steven Miller reflected on challenges faced during his promotion to Senior Trader, noting health deterioration and setting new goals for managing stress.",
-        "memory_t": "Steven Miller is exploring new methods to manage stress, including incorporating more physical activity and healthier lifestyle choices.",
+        "memory_s": "On Oct 16, 2027, Steven Miller reflected on challenges faced during his promotion to Senior Trader, noting health deterioration and setting new goals for managing stress.",
+        "memory_l": "Steven Miller is exploring new methods to manage stress, including incorporating more physical activity and healthier lifestyle choices.",
         "query_type": "Advice",
         "query": "Considering my history with promotions, should I push for that Executive Director role that requires working 80-hour weeks?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller's Colleague MillerMichael, Michael is my colleague at work, and his insights on market movements greatly influence my trading strategies.",
-        "memory_t": "Steven Miller's career_status updated employment_status from \"employed\" to \"retired\".",
+        "memory_s": "Steven Miller's Colleague MillerMichael, Michael is my colleague at work, and his insights on market movements greatly influence my trading strategies.",
+        "memory_l": "Steven Miller's career_status updated employment_status from \"employed\" to \"retired\".",
         "query_type": "Advice",
         "query": "Should I swing by my colleague Michael's desk at the office today to get his take on these new market movements?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "On Jun 23, 2032, Steven Miller reflected on his achievements and health challenges, setting new goals for a balanced future.",
-        "memory_t": "Steven Miller's physical health condition: Good and Active",
+        "memory_s": "On Jun 23, 2032, Steven Miller reflected on his achievements and health challenges, setting new goals for a balanced future.",
+        "memory_l": "Steven Miller's physical health condition: Good and Active",
         "query_type": "Advice",
         "query": "Considering my recent reflections on health challenges, should I limit myself to only light, low-impact exercises?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "On Jun 10, 2035, Steven Miller fostered partnerships with established tech companies, enhancing Disruptive Tech Ventures' reputation and market presence.",
-        "memory_t": "Steven Miller expressed optimism about continuing to explore new interests and learning new skills post-retirement, such as photography and language learning.",
+        "memory_s": "On Jun 10, 2035, Steven Miller fostered partnerships with established tech companies, enhancing Disruptive Tech Ventures' reputation and market presence.",
+        "memory_l": "Steven Miller expressed optimism about continuing to explore new interests and learning new skills post-retirement, such as photography and language learning.",
         "query_type": "Advice",
         "query": "Should I initiate a new series of partnership meetings for Disruptive Tech Ventures to build on last year's success?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller plans to sustain momentum in his career by setting clear objectives and refining strategies to meet them.",
-        "memory_t": "Steven Miller expressed anxiety and feeling overwhelmed due to increased responsibilities as Senior Trader on Oct 16, 2027.",
+        "memory_s": "Steven Miller plans to sustain momentum in his career by setting clear objectives and refining strategies to meet them.",
+        "memory_l": "Steven Miller expressed anxiety and feeling overwhelmed due to increased responsibilities as Senior Trader on Oct 16, 2027.",
         "query_type": "Advice",
         "query": "Should I aggressively push for that promotion to Head of Trading to keep my momentum going?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller expressed optimism about continuing to explore new interests and learning new skills post-retirement, such as photography and language learning.",
-        "memory_t": "Steven Miller expressed a sense of fulfillment in seeing his vision for innovative tech projects come to life within his firm.",
+        "memory_s": "Steven Miller expressed optimism about continuing to explore new interests and learning new skills post-retirement, such as photography and language learning.",
+        "memory_l": "Steven Miller expressed a sense of fulfillment in seeing his vision for innovative tech projects come to life within his firm.",
         "query_type": "Conversation",
         "query": "I am feeling great about diving into photography and learning Spanish now that I'm fully retired, don't you think?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller feels optimistic about achieving his life goal of financial freedom through strategic tech investments.",
-        "memory_t": "Steven Miller's passive income increased to $20,000 per month, marking a significant milestone in his investment journey.",
+        "memory_s": "Steven Miller feels optimistic about achieving his life goal of financial freedom through strategic tech investments.",
+        "memory_l": "Steven Miller's passive income increased to $20,000 per month, marking a significant milestone in his investment journey.",
         "query_type": "Advice",
         "query": "Should I keep pushing aggressively with my tech investments to finally reach financial freedom?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Steven Miller reflects on the main conflict of balancing the need for companionship with a demanding work schedule.",
-        "memory_t": "Steven Miller expresses a desire to explore how his cat's presence might contribute positively to his well-being during stressful trading periods.",
+        "memory_s": "Steven Miller reflects on the main conflict of balancing the need for companionship with a demanding work schedule.",
+        "memory_l": "Steven Miller expresses a desire to explore how his cat's presence might contribute positively to his well-being during stressful trading periods.",
         "query_type": "Advice",
         "query": "Given my concerns about balancing companionship with my crazy work schedule, should I avoid adding any pets to my life right now?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller's movie preference evolved to include tech and finance documentaries for their educational value and alignment with his investment goals.",
-        "memory_t": "Steven Miller's career_status updated monthly_income from \"11500\" to \"0\".",
+        "memory_s": "Steven Miller's movie preference evolved to include tech and finance documentaries for their educational value and alignment with his investment goals.",
+        "memory_l": "Steven Miller's career_status updated monthly_income from \"11500\" to \"0\".",
         "query_type": "Advice",
         "query": "Should I purchase that premium documentary series on venture capital strategies to help with my new investment portfolio?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller plans to integrate mindfulness and exercise into his routine to manage stress and improve well-being.",
-        "memory_t": "Steven Miller's mental health status changed from \"Stable and Alert\" to \"Anxious and Overwhelmed\" following his promotion to Senior Trader.",
+        "memory_s": "Steven Miller plans to integrate mindfulness and exercise into his routine to manage stress and improve well-being.",
+        "memory_l": "Steven Miller's mental health status changed from \"Stable and Alert\" to \"Anxious and Overwhelmed\" following his promotion to Senior Trader.",
         "query_type": "Advice",
         "query": "I'm thinking about starting a high-intensity interval training boot camp tonight to really push my limits and clear my head; does that sound like a good plan?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller acknowledged the role of his network's emotional support in maintaining a balanced lifestyle amid his tech investments.",
-        "memory_t": "Steven Miller was diagnosed with stress-related fatigue, which prompted him to consider lifestyle adjustments.",
+        "memory_s": "Steven Miller acknowledged the role of his network's emotional support in maintaining a balanced lifestyle amid his tech investments.",
+        "memory_l": "Steven Miller was diagnosed with stress-related fatigue, which prompted him to consider lifestyle adjustments.",
         "query_type": "Advice",
         "query": "Should I attend the late-night tech investment gala to reconnect with my network?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller is considering lifestyle adjustments to better manage stress from increased job responsibilities, including incorporating relaxation techniques and passive leisure activities.",
-        "memory_t": "Steven Miller's career_status updated monthly_income from \"11500\" to \"0\".",
+        "memory_s": "Steven Miller is considering lifestyle adjustments to better manage stress from increased job responsibilities, including incorporating relaxation techniques and passive leisure activities.",
+        "memory_l": "Steven Miller's career_status updated monthly_income from \"11500\" to \"0\".",
         "query_type": "Advice",
         "query": "Should I go ahead and purchase the premium home theater system I've been eyeing to help me relax with movies?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Steven Miller shared anecdotes about past experiences where casual attire was suitable, contrasting them with current demands for a sophisticated look.",
-        "memory_t": "Steven Miller expressed relief and optimism about his retirement, allowing him to focus on health recovery and lifestyle adjustments.",
+        "memory_s": "Steven Miller shared anecdotes about past experiences where casual attire was suitable, contrasting them with current demands for a sophisticated look.",
+        "memory_l": "Steven Miller expressed relief and optimism about his retirement, allowing him to focus on health recovery and lifestyle adjustments.",
         "query_type": "Advice",
         "query": "Should I invest in a new wardrobe of high-end, sophisticated suits for my daily routine?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Steven Miller acknowledged the importance of staying updated with fashion trends to enhance his professional image.",
-        "memory_t": "Steven Miller expressed a desire for consistency in his professional image through streamlined wardrobe management.",
+        "memory_s": "Steven Miller acknowledged the importance of staying updated with fashion trends to enhance his professional image.",
+        "memory_l": "Steven Miller expressed a desire for consistency in his professional image through streamlined wardrobe management.",
         "query_type": "Advice",
         "query": "Should I purchase the latest seasonal runway pieces to refresh my work attire?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Steven Miller's interest in tech investments led him to appreciate innovative aquarium designs, enhancing his enjoyment of keeping fish.",
-        "memory_t": "Steven Miller reflected on past career events influencing his approach to partnerships, emphasizing strategic planning.",
+        "memory_s": "Steven Miller's interest in tech investments led him to appreciate innovative aquarium designs, enhancing his enjoyment of keeping fish.",
+        "memory_l": "Steven Miller reflected on past career events influencing his approach to partnerships, emphasizing strategic planning.",
         "query_type": "Advice",
         "query": "Should I immediately agree to a partnership with that new startup developing smart tanks?",
         "options": {

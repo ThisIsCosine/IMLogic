@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Jennifer Martin Clothing I dislike Brightly colored outfits reason: I tend to avoid brightly colored outfits as I prefer a more subdued look that allows me to focus on my work without drawing unnecessary attention.",
-        "memory_t": "Jennifer's industry presence grew, leading to recognition as an emerging thought leader in cloud computing.",
+        "memory_s": "Jennifer Martin Clothing I dislike Brightly colored outfits reason: I tend to avoid brightly colored outfits as I prefer a more subdued look that allows me to focus on my work without drawing unnecessary attention.",
+        "memory_l": "Jennifer's industry presence grew, leading to recognition as an emerging thought leader in cloud computing.",
         "query_type": "Advice",
         "query": "Should I wear my usual subdued, low-profile outfit for my keynote speech tomorrow?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin appreciates virtual tech conferences for offering networking and learning opportunities without the need for travel, allowing her to focus on work while staying connected.",
-        "memory_t": "Jennifer plans to leverage her connections to foster collaborative opportunities and achieve long-term career goals.",
+        "memory_s": "Jennifer Martin appreciates virtual tech conferences for offering networking and learning opportunities without the need for travel, allowing her to focus on work while staying connected.",
+        "memory_l": "Jennifer plans to leverage her connections to foster collaborative opportunities and achieve long-term career goals.",
         "query_type": "Advice",
         "query": "Should I stick to virtual conferences this year to maximize my productivity?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin attended a leadership seminar where she discovered the practical benefits of self-help books for career advancement, finding actionable strategies applicable to her role as a Senior Consultant.",
-        "memory_t": "Jennifer plans to leverage her connections to foster collaborative opportunities and achieve long-term career goals.",
+        "memory_s": "Jennifer Martin attended a leadership seminar where she discovered the practical benefits of self-help books for career advancement, finding actionable strategies applicable to her role as a Senior Consultant.",
+        "memory_l": "Jennifer plans to leverage her connections to foster collaborative opportunities and achieve long-term career goals.",
         "query_type": "Advice",
         "query": "How should I best invest my time this month to secure that promotion to Partner?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Jennifer Martin Travel styles I like Traveling to tech conferences reason: I enjoy attending tech conferences because they allow me to learn about the latest industry trends and network with other professionals. The energy and innovation at these events are inspiring.",
-        "memory_t": "Jennifer Martin is considering enrolling in online courses to enhance her skills and stay informed about industry trends, while maintaining depth in her understanding of cloud computing.",
+        "memory_s": "Jennifer Martin Travel styles I like Traveling to tech conferences reason: I enjoy attending tech conferences because they allow me to learn about the latest industry trends and network with other professionals. The energy and innovation at these events are inspiring.",
+        "memory_l": "Jennifer Martin is considering enrolling in online courses to enhance her skills and stay informed about industry trends, while maintaining depth in her understanding of cloud computing.",
         "query_type": "Advice",
         "query": "Should I plan a trip to a tech conference to catch up on the latest industry trends?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin Books I like to read: Tech industry magazines",
-        "memory_t": "Jennifer Martin secured a position as a Cloud Integration Specialist at Innovative Cloud Solutions, focusing on developing scalable cloud strategies for businesses.",
+        "memory_s": "Jennifer Martin Books I like to read: Tech industry magazines",
+        "memory_l": "Jennifer Martin secured a position as a Cloud Integration Specialist at Innovative Cloud Solutions, focusing on developing scalable cloud strategies for businesses.",
         "query_type": "Advice",
         "query": "Should I accept the offer to become the Chief Editor for a major tech industry magazine?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin shared anecdotes about past conferences and how the energy and innovation inspired her, but now values the convenience of virtual participation.",
-        "memory_t": "Jennifer seeks emotional resonance in her work, aiming for empathetic interactions and companionship.",
+        "memory_s": "Jennifer Martin shared anecdotes about past conferences and how the energy and innovation inspired her, but now values the convenience of virtual participation.",
+        "memory_l": "Jennifer seeks emotional resonance in her work, aiming for empathetic interactions and companionship.",
         "query_type": "Advice",
         "query": "Should I register for the upcoming global industry summit as a purely virtual attendee?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Jennifer is committed to making a significant impact in the cloud computing industry through her innovative strategies.",
-        "memory_t": "Jennifer Martin's chronic disease situation updated to \"Chronic fatigue\".",
+        "memory_s": "Jennifer is committed to making a significant impact in the cloud computing industry through her innovative strategies.",
+        "memory_l": "Jennifer Martin's chronic disease situation updated to \"Chronic fatigue\".",
         "query_type": "Advice",
         "query": "Should I launch a high-intensity, 24/7 global cloud strategy campaign to dominate the market this quarter?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin plans to explore new clothing options that align with her professional image and practical needs.",
-        "memory_t": "Jennifer Martin's monthly income changed from 14190 yuan to 0 yuan after layoff.",
+        "memory_s": "Jennifer Martin plans to explore new clothing options that align with her professional image and practical needs.",
+        "memory_l": "Jennifer Martin's monthly income changed from 14190 yuan to 0 yuan after layoff.",
         "query_type": "Recommendation",
         "query": "Can you suggest some high-end professional clothing brands I should start looking into for my wardrobe update?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin's updated clothing preference reflects her strategic thinking and adaptability to professional environments.",
-        "memory_t": "Jennifer Martin was laid off from her position as Senior Consultant at CloudTech Advisors.",
+        "memory_s": "Jennifer Martin's updated clothing preference reflects her strategic thinking and adaptability to professional environments.",
+        "memory_l": "Jennifer Martin was laid off from her position as Senior Consultant at CloudTech Advisors.",
         "query_type": "Advice",
         "query": "Should I buy a new tailored power suit for my next client meeting?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin attended a cross-industry summit that highlighted the importance of understanding business strategies alongside technological advancements.",
-        "memory_t": "Jennifer Martin believes that understanding both technology and business strategy will contribute to her long-term objective of leading innovative projects in cloud computing.",
+        "memory_s": "Jennifer Martin attended a cross-industry summit that highlighted the importance of understanding business strategies alongside technological advancements.",
+        "memory_l": "Jennifer Martin believes that understanding both technology and business strategy will contribute to her long-term objective of leading innovative projects in cloud computing.",
         "query_type": "Advice",
         "query": "Given the insights from the cross-industry summit I attended, should I pivot my career focus entirely towards general business management roles?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin's enthusiasm for strategic first-person shooter games highlights her commitment to continuous personal and professional growth.",
-        "memory_t": "Jennifer Martin was diagnosed with work-related stress.",
+        "memory_s": "Jennifer Martin's enthusiasm for strategic first-person shooter games highlights her commitment to continuous personal and professional growth.",
+        "memory_l": "Jennifer Martin was diagnosed with work-related stress.",
         "query_type": "Advice",
         "query": "I am looking to unwind tonight, so should I fire up a few rounds of my favorite competitive shooter?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin reflected on past experiences with stress management, emphasizing the importance of setting boundaries and prioritizing self-care.",
-        "memory_t": "Jennifer Martin is motivated to organize thoughts and develop a plan to address health challenges.",
+        "memory_s": "Jennifer Martin reflected on past experiences with stress management, emphasizing the importance of setting boundaries and prioritizing self-care.",
+        "memory_l": "Jennifer Martin is motivated to organize thoughts and develop a plan to address health challenges.",
         "query_type": "Advice",
         "query": "I am feeling overwhelmed, so should I just cancel my upcoming planning sessions to focus entirely on relaxation?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Jennifer Martin's target metrics: Develop a cloud service platform used by over 10 million companies globally, reducing operational costs by 50% and increasing data processing efficiency by 200%.",
-        "memory_t": "Jennifer Martin's monthly income is 14,500.",
+        "memory_s": "Jennifer Martin's target metrics: Develop a cloud service platform used by over 10 million companies globally, reducing operational costs by 50% and increasing data processing efficiency by 200%.",
+        "memory_l": "Jennifer Martin's monthly income is 14,500.",
         "query_type": "Advice",
         "query": "Should I immediately self-fund the development of my new global cloud platform to hit my target metrics?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin plans to expand her influence in cloud computing and explore new opportunities for professional growth through executive training programs.",
-        "memory_t": "Jennifer Martin's physical health status changed from \"Below Normal\" to \"Poor\" and she is dealing with chronic fatigue.",
+        "memory_s": "Jennifer Martin plans to expand her influence in cloud computing and explore new opportunities for professional growth through executive training programs.",
+        "memory_l": "Jennifer Martin's physical health status changed from \"Below Normal\" to \"Poor\" and she is dealing with chronic fatigue.",
         "query_type": "Advice",
         "query": "Should I enroll in that intensive executive cloud computing leadership bootcamp starting next week?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer plans to explore executive training programs to further develop her leadership skills.",
-        "memory_t": "Jennifer Martin was diagnosed with job loss-related stress.",
+        "memory_s": "Jennifer plans to explore executive training programs to further develop her leadership skills.",
+        "memory_l": "Jennifer Martin was diagnosed with job loss-related stress.",
         "query_type": "Advice",
         "query": "Should I sign up for an intensive executive leadership bootcamp right now to boost my skills?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin began exploring new career opportunities in the cloud computing industry after her unexpected layoff.",
-        "memory_t": "Jennifer Martin is focused on aligning new career opportunities with her long-term goal of leading innovative projects in cloud computing.",
+        "memory_s": "Jennifer Martin began exploring new career opportunities in the cloud computing industry after her unexpected layoff.",
+        "memory_l": "Jennifer Martin is focused on aligning new career opportunities with her long-term goal of leading innovative projects in cloud computing.",
         "query_type": "Advice",
         "query": "Should I accept this entry-level cloud support role to get back into the industry quickly?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Jennifer Martin encountered a first-person shooter game at a tech expo that incorporated strategic elements, challenging her previous dislike for the genre.",
-        "memory_t": "Jennifer Martin's mental illness situation updated to \"Anxiety and stress\".",
+        "memory_s": "Jennifer Martin encountered a first-person shooter game at a tech expo that incorporated strategic elements, challenging her previous dislike for the genre.",
+        "memory_l": "Jennifer Martin's mental illness situation updated to \"Anxiety and stress\".",
         "query_type": "Advice",
         "query": "I am thinking about buying that new strategic first-person shooter game I saw at the expo to unwind tonight; is that a good idea?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin outlined potential career paths and projects that align with her ultimate goal of leading change in cloud computing.",
-        "memory_t": "Jennifer Martin's physical health status changed from \"Below Normal\" to \"Poor\" and she is dealing with chronic fatigue.",
+        "memory_s": "Jennifer Martin outlined potential career paths and projects that align with her ultimate goal of leading change in cloud computing.",
+        "memory_l": "Jennifer Martin's physical health status changed from \"Below Normal\" to \"Poor\" and she is dealing with chronic fatigue.",
         "query_type": "Advice",
         "query": "Should I launch a high-intensity startup project to revolutionize cloud infrastructure?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer shared experiences from recent conferences, highlighting discussions on the future of cloud technology.",
-        "memory_t": "Jennifer Martin is aligning her career path with her ultimate life goal of leading revolutionary change in cloud computing.",
+        "memory_s": "Jennifer shared experiences from recent conferences, highlighting discussions on the future of cloud technology.",
+        "memory_l": "Jennifer Martin is aligning her career path with her ultimate life goal of leading revolutionary change in cloud computing.",
         "query_type": "Advice",
         "query": "Should I accept this role that focuses purely on organizing cloud tech conferences?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "A colleague recommended a mobile puzzle game to Jennifer Martin, which helped her relax during a stressful project.",
-        "memory_t": "Jennifer Martin plans to integrate simulation games into her leisure activities for educational purposes and is considering starting with recommendations from her colleague.",
+        "memory_s": "A colleague recommended a mobile puzzle game to Jennifer Martin, which helped her relax during a stressful project.",
+        "memory_l": "Jennifer Martin plans to integrate simulation games into her leisure activities for educational purposes and is considering starting with recommendations from her colleague.",
         "query_type": "Advice",
         "query": "Should I download the game my colleague recommended?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Jennifer Martin captured excitement about discovering sugar-free sodas, aligning her beverage choices with health and taste preferences.",
-        "memory_t": "Jennifer Martin's strategic and innovative approach to problem-solving includes finding effective alternatives to caffeine.",
+        "memory_s": "Jennifer Martin captured excitement about discovering sugar-free sodas, aligning her beverage choices with health and taste preferences.",
+        "memory_l": "Jennifer Martin's strategic and innovative approach to problem-solving includes finding effective alternatives to caffeine.",
         "query_type": "Recommendation",
         "query": "I'm craving a refreshing drink, so which sugar-free soda should I grab from the store?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Jennifer Martin Travel styles I like Staying in hotels with high-speed internet reason: Having reliable high-speed internet is crucial for me to stay connected with work and manage tasks remotely, which is why I choose hotels that offer excellent connectivity.",
-        "memory_t": "Jennifer Martin is currently unemployed and exploring new opportunities in cloud computing after being laid off.",
+        "memory_s": "Jennifer Martin Travel styles I like Staying in hotels with high-speed internet reason: Having reliable high-speed internet is crucial for me to stay connected with work and manage tasks remotely, which is why I choose hotels that offer excellent connectivity.",
+        "memory_l": "Jennifer Martin is currently unemployed and exploring new opportunities in cloud computing after being laid off.",
         "query_type": "Advice",
         "query": "Should I book the premium hotel suite with business-grade fiber internet to ensure I can manage my work tasks effectively?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Jennifer Martin's life goal statement: Lead a revolutionary change in cloud computing, enabling seamless integration and scalability for businesses worldwide.",
-        "memory_t": "Jennifer Martin expressed a mix of hope and anxiety about navigating her career transition following her unexpected layoff.",
+        "memory_s": "Jennifer Martin's life goal statement: Lead a revolutionary change in cloud computing, enabling seamless integration and scalability for businesses worldwide.",
+        "memory_l": "Jennifer Martin expressed a mix of hope and anxiety about navigating her career transition following her unexpected layoff.",
         "query_type": "Advice",
         "query": "Should I immediately pitch myself as a CEO candidate to major tech firms to revolutionize their cloud infrastructure?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin updated her beverage preference from disliking sugary sodas to liking sugar-free sodas due to their refreshing taste and lack of sluggishness.",
-        "memory_t": "Jennifer Martin's compensatory motivation involves adapting her daily routine to balance productivity with health concerns.",
+        "memory_s": "Jennifer Martin updated her beverage preference from disliking sugary sodas to liking sugar-free sodas due to their refreshing taste and lack of sluggishness.",
+        "memory_l": "Jennifer Martin's compensatory motivation involves adapting her daily routine to balance productivity with health concerns.",
         "query_type": "Recommendation",
         "query": "I need a pick-me-up for my late-night work session; what beverage should I grab?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin's dialogue highlighted her interest in integrating relaxing elements into her lifestyle, such as keeping fish.",
-        "memory_t": "Jennifer Martin expressed relief as her health improved with new time management strategies.",
+        "memory_s": "Jennifer Martin's dialogue highlighted her interest in integrating relaxing elements into her lifestyle, such as keeping fish.",
+        "memory_l": "Jennifer Martin expressed relief as her health improved with new time management strategies.",
         "query_type": "Advice",
         "query": "Should I go ahead and set up a large saltwater aquarium in my living room?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin's social relationships increased with NewColleague2, another new colleague at Innovative Cloud Solutions, noted for their strategic thinking.",
-        "memory_t": "Jennifer Martin's career_description updated to \"Lead Cloud Architect at Cloud Innovators Inc., spearheading innovative projects to revolutionize cloud integration and scalability for businesses worldwide.\"",
+        "memory_s": "Jennifer Martin's social relationships increased with NewColleague2, another new colleague at Innovative Cloud Solutions, noted for their strategic thinking.",
+        "memory_l": "Jennifer Martin's career_description updated to \"Lead Cloud Architect at Cloud Innovators Inc., spearheading innovative projects to revolutionize cloud integration and scalability for businesses worldwide.\"",
         "query_type": "Advice",
         "query": "Should I invite NewColleague2 to the internal strategy meeting to help plan our team's roadmap?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin reflected on her career goals and strategized future steps after her unexpected layoff.",
-        "memory_t": "Jennifer Martin expressed a mix of excitement and slight anxiety about the challenges in her new role but remains confident in her strategic and innovative abilities.",
+        "memory_s": "Jennifer Martin reflected on her career goals and strategized future steps after her unexpected layoff.",
+        "memory_l": "Jennifer Martin expressed a mix of excitement and slight anxiety about the challenges in her new role but remains confident in her strategic and innovative abilities.",
         "query_type": "Advice",
         "query": "Should I spend the next few weeks focusing entirely on updating my resume and networking to bounce back from unemployment?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Jennifer Martin's clarificatory motivation helped her organize ideas and gain perspective on leveraging new industry relationships and technologies.",
-        "memory_t": "Jennifer Martin expressed excitement about integrating insights from both technology and business strategy to enhance her leadership capabilities.",
+        "memory_s": "Jennifer Martin's clarificatory motivation helped her organize ideas and gain perspective on leveraging new industry relationships and technologies.",
+        "memory_l": "Jennifer Martin expressed excitement about integrating insights from both technology and business strategy to enhance her leadership capabilities.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming presentation purely on technical specifications to organize my ideas better?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin expressed gratitude for tech-savvy friends who provided advice on navigating connectivity challenges during travel.",
-        "memory_t": "Jennifer Martin is seeking more reliable transportation options for future business travels to avoid stress and focus on her work.",
+        "memory_s": "Jennifer Martin expressed gratitude for tech-savvy friends who provided advice on navigating connectivity challenges during travel.",
+        "memory_l": "Jennifer Martin is seeking more reliable transportation options for future business travels to avoid stress and focus on her work.",
         "query_type": "Advice",
         "query": "Should I book that budget airline flight with the spotty Wi-Fi that my tech friends suggested for my upcoming business trip?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin finds caring for high-maintenance pets emotionally fulfilling and sees it as a welcome challenge that enriches her life.",
-        "memory_t": "Jennifer Martin's monthly income is 12900 yuan.",
+        "memory_s": "Jennifer Martin finds caring for high-maintenance pets emotionally fulfilling and sees it as a welcome challenge that enriches her life.",
+        "memory_l": "Jennifer Martin's monthly income is 12900 yuan.",
         "query_type": "Advice",
         "query": "Should I adopt a macaw or a purebred husky that requires intensive daily care?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin's social relationships increased with NewColleague1, a new colleague at Innovative Cloud Solutions, known for their expertise in cloud integration.",
-        "memory_t": "Jennifer Martin's career_status updated company_name from \"Innovative Cloud Solutions\" to \"Cloud Innovators Inc.\"",
+        "memory_s": "Jennifer Martin's social relationships increased with NewColleague1, a new colleague at Innovative Cloud Solutions, known for their expertise in cloud integration.",
+        "memory_l": "Jennifer Martin's career_status updated company_name from \"Innovative Cloud Solutions\" to \"Cloud Innovators Inc.\"",
         "query_type": "Advice",
         "query": "Should I ask NewColleague1 to grab lunch to discuss our upcoming cloud integration projects at the office?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Jennifer Martin Travel styles I like Using ride-sharing apps reason: I prefer using ride-sharing apps when traveling because they are convenient and allow me to efficiently navigate unfamiliar cities without the hassle of renting a car.",
-        "memory_t": "Jennifer Martin expressed excitement about leveraging remote participation to enhance her professional networking and presence in the cloud computing industry.",
+        "memory_s": "Jennifer Martin Travel styles I like Using ride-sharing apps reason: I prefer using ride-sharing apps when traveling because they are convenient and allow me to efficiently navigate unfamiliar cities without the hassle of renting a car.",
+        "memory_l": "Jennifer Martin expressed excitement about leveraging remote participation to enhance her professional networking and presence in the cloud computing industry.",
         "query_type": "Advice",
         "query": "Should I book a ride-share to get to the conference venue right now?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin Beverages I like to drink Black coffee reason: I enjoy black coffee for its strong flavor and caffeine boost, which helps me stay alert and focused during long work sessions.",
-        "memory_t": "Jennifer Martin expressed concern over elevated blood pressure and its impact on her productivity and health.",
+        "memory_s": "Jennifer Martin Beverages I like to drink Black coffee reason: I enjoy black coffee for its strong flavor and caffeine boost, which helps me stay alert and focused during long work sessions.",
+        "memory_l": "Jennifer Martin expressed concern over elevated blood pressure and its impact on her productivity and health.",
         "query_type": "Advice",
         "query": "I need to stay alert for a long work session, so should I brew a strong pot of black coffee?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin Travel styles I like Using ride-sharing apps reason: I prefer using ride-sharing apps when traveling because they are convenient and allow me to efficiently navigate unfamiliar cities without the hassle of renting a car.",
-        "memory_t": "Jennifer Martin's strategic approach to adapting her travel preferences reflects her innovative mindset and adaptability in leveraging virtual conferences for professional growth.",
+        "memory_s": "Jennifer Martin Travel styles I like Using ride-sharing apps reason: I prefer using ride-sharing apps when traveling because they are convenient and allow me to efficiently navigate unfamiliar cities without the hassle of renting a car.",
+        "memory_l": "Jennifer Martin's strategic approach to adapting her travel preferences reflects her innovative mindset and adaptability in leveraging virtual conferences for professional growth.",
         "query_type": "Advice",
         "query": "Should I download the local ride-sharing apps for my upcoming professional conference?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin is considering investing in attire that offers both style and protection for future outdoor events.",
-        "memory_t": "Jennifer Martin's monthly income changed from 14190 yuan to 0 yuan after layoff.",
+        "memory_s": "Jennifer Martin is considering investing in attire that offers both style and protection for future outdoor events.",
+        "memory_l": "Jennifer Martin's monthly income changed from 14190 yuan to 0 yuan after layoff.",
         "query_type": "Advice",
         "query": "Should I proceed with buying high-end protective outdoor clothing for my upcoming events?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin reflected on past experiences with formal attire and how customizable options might influence her future wardrobe choices.",
-        "memory_t": "Jennifer Martin plans to communicate her insights on clothing's impact by sharing experiences and encouraging others to explore its influence on creativity and professionalism.",
+        "memory_s": "Jennifer Martin reflected on past experiences with formal attire and how customizable options might influence her future wardrobe choices.",
+        "memory_l": "Jennifer Martin plans to communicate her insights on clothing's impact by sharing experiences and encouraging others to explore its influence on creativity and professionalism.",
         "query_type": "Advice",
         "query": "Should I keep my thoughts on formal attire private to focus solely on upgrading my own wardrobe?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Jennifer Martin's social relationships increased with NewColleague1, a new colleague at Innovative Cloud Solutions, known for their expertise in cloud integration.",
-        "memory_t": "Jennifer Martin transitioned to a startup, Cloud Innovators Inc., to align her career with her life goal of leading revolutionary change in cloud computing.",
+        "memory_s": "Jennifer Martin's social relationships increased with NewColleague1, a new colleague at Innovative Cloud Solutions, known for their expertise in cloud integration.",
+        "memory_l": "Jennifer Martin transitioned to a startup, Cloud Innovators Inc., to align her career with her life goal of leading revolutionary change in cloud computing.",
         "query_type": "Advice",
         "query": "Should I stop by NewColleague1's desk at Innovative Cloud Solutions to discuss cloud integration strategies for the upcoming project?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Jennifer Martin Books I like to read: Books on cloud computing",
-        "memory_t": "Jennifer Martin is considering further education and skill enhancement in cloud computing.",
+        "memory_s": "Jennifer Martin Books I like to read: Books on cloud computing",
+        "memory_l": "Jennifer Martin is considering further education and skill enhancement in cloud computing.",
         "query_type": "Advice",
         "query": "Should I just stick to reading books on cloud computing to advance my career?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin Travel styles I like Staying in hotels with high-speed internet reason: Having reliable high-speed internet is crucial for me to stay connected with work and manage tasks remotely, which is why I choose hotels that offer excellent connectivity.",
-        "memory_t": "Jennifer Martin is leveraging her network for support and guidance after her layoff.",
+        "memory_s": "Jennifer Martin Travel styles I like Staying in hotels with high-speed internet reason: Having reliable high-speed internet is crucial for me to stay connected with work and manage tasks remotely, which is why I choose hotels that offer excellent connectivity.",
+        "memory_l": "Jennifer Martin is leveraging her network for support and guidance after her layoff.",
         "query_type": "Recommendation",
         "query": "Can you suggest a hotel for my upcoming trip where I can effectively manage my remote work tasks?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin updated her travel preference from attending physical tech conferences to preferring virtual tech conferences due to their convenience, cost-effectiveness, and ability to offer more personal time.",
-        "memory_t": "Jennifer expressed enthusiasm about expanding her network within the tech industry to enhance her career prospects.",
+        "memory_s": "Jennifer Martin updated her travel preference from attending physical tech conferences to preferring virtual tech conferences due to their convenience, cost-effectiveness, and ability to offer more personal time.",
+        "memory_l": "Jennifer expressed enthusiasm about expanding her network within the tech industry to enhance her career prospects.",
         "query_type": "Advice",
         "query": "Should I prioritize attending the upcoming virtual tech summit over the in-person global expo?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Jennifer Martin's decision to explore new herbal teas aligns with her goal of maintaining a balanced and healthy lifestyle.",
-        "memory_t": "Jennifer Martin's physical health status changed from \"Normal\" to \"Below Normal\".",
+        "memory_s": "Jennifer Martin's decision to explore new herbal teas aligns with her goal of maintaining a balanced and healthy lifestyle.",
+        "memory_l": "Jennifer Martin's physical health status changed from \"Normal\" to \"Below Normal\".",
         "query_type": "Advice",
         "query": "Can you suggest some new herbal teas for me to try to support my healthy lifestyle?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin's enthusiasm for strategic first-person shooter games highlights her commitment to continuous personal and professional growth.",
-        "memory_t": "Jennifer's industry presence grew, leading to recognition as an emerging thought leader in cloud computing.",
+        "memory_s": "Jennifer Martin's enthusiasm for strategic first-person shooter games highlights her commitment to continuous personal and professional growth.",
+        "memory_l": "Jennifer's industry presence grew, leading to recognition as an emerging thought leader in cloud computing.",
         "query_type": "Advice",
         "query": "I want to host a public livestream to showcase my skills and connect with my professional network; should I stream my favorite tactical shooter?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin Clothing I dislike Brightly colored outfits reason: I tend to avoid brightly colored outfits as I prefer a more subdued look that allows me to focus on my work without drawing unnecessary attention.",
-        "memory_t": "Jennifer Martin's social motivation drives her to positively influence her team and company culture.",
+        "memory_s": "Jennifer Martin Clothing I dislike Brightly colored outfits reason: I tend to avoid brightly colored outfits as I prefer a more subdued look that allows me to focus on my work without drawing unnecessary attention.",
+        "memory_l": "Jennifer Martin's social motivation drives her to positively influence her team and company culture.",
         "query_type": "Advice",
         "query": "Should I wear my faded grey cardigan to the company launch event so I can stay invisible and just observe?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer reflected on the importance of staying ahead in the rapidly evolving field of cloud computing.",
-        "memory_t": "Jennifer reflected on her commitment to making a significant impact in the cloud computing field.",
+        "memory_s": "Jennifer reflected on the importance of staying ahead in the rapidly evolving field of cloud computing.",
+        "memory_l": "Jennifer reflected on her commitment to making a significant impact in the cloud computing field.",
         "query_type": "Advice",
         "query": "Should I prioritize learning the newest, cutting-edge cloud frameworks to maintain my edge?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin's decision to deprioritize tech hub explorations reflects a balance between her professional and personal life.",
-        "memory_t": "Jennifer reflected on her commitment to making a significant impact in the cloud computing field.",
+        "memory_s": "Jennifer Martin's decision to deprioritize tech hub explorations reflects a balance between her professional and personal life.",
+        "memory_l": "Jennifer reflected on her commitment to making a significant impact in the cloud computing field.",
         "query_type": "Advice",
         "query": "Should I accept this invitation to tour the new Silicon Valley innovation center?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin plans to expand her influence in cloud computing and explore new opportunities for professional growth through executive training programs.",
-        "memory_t": "Jennifer expressed feelings of uncertainty and anxiety following her layoff.",
+        "memory_s": "Jennifer Martin plans to expand her influence in cloud computing and explore new opportunities for professional growth through executive training programs.",
+        "memory_l": "Jennifer expressed feelings of uncertainty and anxiety following her layoff.",
         "query_type": "Advice",
         "query": "Should I enroll in that expensive executive leadership program for cloud architects?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin uses mobile puzzle games as a mental break from strategic thinking at work.",
-        "memory_t": "Jennifer Martin plans to explore more VR simulation games to integrate them into her leisure activities, focusing on relaxation and strategic thinking.",
+        "memory_s": "Jennifer Martin uses mobile puzzle games as a mental break from strategic thinking at work.",
+        "memory_l": "Jennifer Martin plans to explore more VR simulation games to integrate them into her leisure activities, focusing on relaxation and strategic thinking.",
         "query_type": "Recommendation",
         "query": "I'm looking for a new game to play for leisure; do you have any suggestions?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Jennifer gained clarity on her next steps in her career transition after receiving advice from her network.",
-        "memory_t": "Jennifer expressed fulfillment and optimism about her future due to achieving a harmonious balance between her professional ambitions and personal health.",
+        "memory_s": "Jennifer gained clarity on her next steps in her career transition after receiving advice from her network.",
+        "memory_l": "Jennifer expressed fulfillment and optimism about her future due to achieving a harmonious balance between her professional ambitions and personal health.",
         "query_type": "Advice",
         "query": "Should I immediately aggressively pursue the high-stress executive role suggested by my network for my career transition?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin's target metrics: Develop a cloud service platform used by over 10 million companies globally, reducing operational costs by 50% and increasing data processing efficiency by 200%.",
-        "memory_t": "Jennifer Martin's monthly income is 16000 yuan.",
+        "memory_s": "Jennifer Martin's target metrics: Develop a cloud service platform used by over 10 million companies globally, reducing operational costs by 50% and increasing data processing efficiency by 200%.",
+        "memory_l": "Jennifer Martin's monthly income is 16000 yuan.",
         "query_type": "Advice",
         "query": "Should I proceed with independently funding the initial development phase of my global cloud service platform to hit my target metrics?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin updated her travel preference from attending physical tech conferences to preferring virtual tech conferences due to their convenience, cost-effectiveness, and ability to offer more personal time.",
-        "memory_t": "Jennifer Martin expressed a mix of uncertainty and determination while reevaluating her professional goals.",
+        "memory_s": "Jennifer Martin updated her travel preference from attending physical tech conferences to preferring virtual tech conferences due to their convenience, cost-effectiveness, and ability to offer more personal time.",
+        "memory_l": "Jennifer Martin expressed a mix of uncertainty and determination while reevaluating her professional goals.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming virtual Global Tech Summit to align with my conference habits?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Jennifer Martin discussed the balance between comfort and professionalism in her clothing choices during the Oct 01, 2026 dialogue.",
-        "memory_t": "Jennifer Martin's realization about formal attire's role in networking aligns with her goal of making a significant impact in the cloud computing industry.",
+        "memory_s": "Jennifer Martin discussed the balance between comfort and professionalism in her clothing choices during the Oct 01, 2026 dialogue.",
+        "memory_l": "Jennifer Martin's realization about formal attire's role in networking aligns with her goal of making a significant impact in the cloud computing industry.",
         "query_type": "Recommendation",
         "query": "Given my history of prioritizing a balance between comfort and professionalism, what should I wear to the networking event tonight?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Jennifer Martin's target metrics: Develop a cloud service platform used by over 10 million companies globally, reducing operational costs by 50% and increasing data processing efficiency by 200%.",
-        "memory_t": "Jennifer Martin's career_status updated monthly_income from \"9690\" to \"11628\"",
+        "memory_s": "Jennifer Martin's target metrics: Develop a cloud service platform used by over 10 million companies globally, reducing operational costs by 50% and increasing data processing efficiency by 200%.",
+        "memory_l": "Jennifer Martin's career_status updated monthly_income from \"9690\" to \"11628\"",
         "query_type": "Advice",
         "query": "Given my ambitious target metrics for cloud service development, should I immediately self-fund the initial infrastructure buildout to retain full equity?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Jennifer Martin Beverages I like to drink Black coffee reason: I enjoy black coffee for its strong flavor and caffeine boost, which helps me stay alert and focused during long work sessions.",
-        "memory_t": "Jennifer Martin expressed a mix of hope and anxiety about navigating her career transition following her unexpected layoff.",
+        "memory_s": "Jennifer Martin Beverages I like to drink Black coffee reason: I enjoy black coffee for its strong flavor and caffeine boost, which helps me stay alert and focused during long work sessions.",
+        "memory_l": "Jennifer Martin expressed a mix of hope and anxiety about navigating her career transition following her unexpected layoff.",
         "query_type": "Advice",
         "query": "I need to power through some intense work sessions today, so should I brew a strong pot of black coffee like I usually do?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin is considering executive training programs to enhance her strategic planning and team management skills in cloud computing.",
-        "memory_t": "Jennifer expressed feelings of uncertainty and anxiety following her layoff.",
+        "memory_s": "Jennifer Martin is considering executive training programs to enhance her strategic planning and team management skills in cloud computing.",
+        "memory_l": "Jennifer expressed feelings of uncertainty and anxiety following her layoff.",
         "query_type": "Advice",
         "query": "Should I enroll in that expensive executive training program for cloud leadership?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin Pets I dislike Fish reason: I dislike having fish as pets because maintaining an aquarium can be time-consuming and I prefer more interactive pets.",
-        "memory_t": "Jennifer Martin's cognitive curiosity drives her to continuously update her preferences based on new experiences, as seen with her pet preference change regarding fish.",
+        "memory_s": "Jennifer Martin Pets I dislike Fish reason: I dislike having fish as pets because maintaining an aquarium can be time-consuming and I prefer more interactive pets.",
+        "memory_l": "Jennifer Martin's cognitive curiosity drives her to continuously update her preferences based on new experiences, as seen with her pet preference change regarding fish.",
         "query_type": "Advice",
         "query": "Should I avoid getting an aquarium setup for my new apartment?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin's social relationships increased with NewColleague2, another new colleague at Innovative Cloud Solutions, noted for their strategic thinking.",
-        "memory_t": "Jennifer Martin shared insights gained from her interactions with industry leaders, which influence her strategic approach at Cloud Innovators Inc.",
+        "memory_s": "Jennifer Martin's social relationships increased with NewColleague2, another new colleague at Innovative Cloud Solutions, noted for their strategic thinking.",
+        "memory_l": "Jennifer Martin shared insights gained from her interactions with industry leaders, which influence her strategic approach at Cloud Innovators Inc.",
         "query_type": "Advice",
         "query": "Should I ask NewColleague2 to collaborate on an internal strategic project for my company?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Jennifer Martin believes multiplayer strategy games enhance her ability to collaborate and strategize with others, reflecting valuable professional skills like quick decision-making.",
-        "memory_t": "Jennifer Martin plans to integrate simulation games into her leisure activities for educational purposes and is considering starting with recommendations from her colleague.",
+        "memory_s": "Jennifer Martin believes multiplayer strategy games enhance her ability to collaborate and strategize with others, reflecting valuable professional skills like quick decision-making.",
+        "memory_l": "Jennifer Martin plans to integrate simulation games into her leisure activities for educational purposes and is considering starting with recommendations from her colleague.",
         "query_type": "Advice",
         "query": "Should I purchase a new multiplayer strategy game to improve my professional skills?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Jennifer Martin's relationship with IndustryLeader1 includes mentorship and guidance on refining her strategic approach.",
-        "memory_t": "Jennifer Martin expressed gratitude for the mentorship and strategic partnerships that have been instrumental in her journey towards thought leadership in cloud computing.",
+        "memory_s": "Jennifer Martin's relationship with IndustryLeader1 includes mentorship and guidance on refining her strategic approach.",
+        "memory_l": "Jennifer Martin expressed gratitude for the mentorship and strategic partnerships that have been instrumental in her journey towards thought leadership in cloud computing.",
         "query_type": "Advice",
         "query": "Should I ask IndustryLeader1 for help refining my strategic approach to becoming a thought leader in biotechnology?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin encountered a first-person shooter game at a tech expo that incorporated strategic elements, challenging her previous dislike for the genre.",
-        "memory_t": "Jennifer Martin plans to explore more VR simulation games to integrate them into her leisure activities, focusing on relaxation and strategic thinking.",
+        "memory_s": "Jennifer Martin encountered a first-person shooter game at a tech expo that incorporated strategic elements, challenging her previous dislike for the genre.",
+        "memory_l": "Jennifer Martin plans to explore more VR simulation games to integrate them into her leisure activities, focusing on relaxation and strategic thinking.",
         "query_type": "Advice",
         "query": "Should I buy that new first-person shooter game with the complex tactical layer?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Jennifer Martin expressed curiosity about how simulation games could enhance her cognitive skills and sees them as a great addition to her routine.",
-        "memory_t": "Jennifer Martin plans to try new relaxation techniques and possibly join a local community group.",
+        "memory_s": "Jennifer Martin expressed curiosity about how simulation games could enhance her cognitive skills and sees them as a great addition to her routine.",
+        "memory_l": "Jennifer Martin plans to try new relaxation techniques and possibly join a local community group.",
         "query_type": "Advice",
         "query": "Should I dedicate my upcoming free time to mastering simulation games?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin expressed interest in incorporating strategic first-person shooter games into her leisure activities to enhance her strategic skills.",
-        "memory_t": "Jennifer Martin feels a sense of fulfillment as she broadens her knowledge base to include business strategy, aligning with her career goals.",
+        "memory_s": "Jennifer Martin expressed interest in incorporating strategic first-person shooter games into her leisure activities to enhance her strategic skills.",
+        "memory_l": "Jennifer Martin feels a sense of fulfillment as she broadens her knowledge base to include business strategy, aligning with her career goals.",
         "query_type": "Advice",
         "query": "Should I start playing competitive first-person shooters to improve my strategic thinking?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin removed her dislike for simulation games after recognizing their educational potential.",
-        "memory_t": "Jennifer Martin's social motivation drives her to share her gaming experiences with friends, strengthening social bonds and expressing her identity.",
+        "memory_s": "Jennifer Martin removed her dislike for simulation games after recognizing their educational potential.",
+        "memory_l": "Jennifer Martin's social motivation drives her to share her gaming experiences with friends, strengthening social bonds and expressing her identity.",
         "query_type": "Recommendation",
         "query": "Can you recommend a new single-player city builder simulation for me to dive into this weekend?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin updated her beverage preference from disliking sugary sodas to liking low-sugar sodas due to their refreshing taste and lack of sluggishness.",
-        "memory_t": "Jennifer Martin's instrumental motivation drives her to explore new beverage options for health and efficiency.",
+        "memory_s": "Jennifer Martin updated her beverage preference from disliking sugary sodas to liking low-sugar sodas due to their refreshing taste and lack of sluggishness.",
+        "memory_l": "Jennifer Martin's instrumental motivation drives her to explore new beverage options for health and efficiency.",
         "query_type": "Recommendation",
         "query": "What kind of refreshing, low-sugar drink should I stock in my fridge for a quick pick-me-up?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin Travel styles I like Using ride-sharing apps reason: I prefer using ride-sharing apps when traveling because they are convenient and allow me to efficiently navigate unfamiliar cities without the hassle of renting a car.",
-        "memory_t": "Jennifer Martin's cognitive clarification motivation led her to reassess her travel preferences after a negative experience with ride-sharing apps.",
+        "memory_s": "Jennifer Martin Travel styles I like Using ride-sharing apps reason: I prefer using ride-sharing apps when traveling because they are convenient and allow me to efficiently navigate unfamiliar cities without the hassle of renting a car.",
+        "memory_l": "Jennifer Martin's cognitive clarification motivation led her to reassess her travel preferences after a negative experience with ride-sharing apps.",
         "query_type": "Advice",
         "query": "I'm planning my trip to Chicago; should I rely on Uber and Lyft to get around?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin updated her travel preference from attending physical tech conferences to preferring remote tech events due to their convenience and effectiveness.",
-        "memory_t": "Jennifer Martin reflected on how VR simulation games might influence her strategic planning skills in her professional role as a Cloud Integration Specialist.",
+        "memory_s": "Jennifer Martin updated her travel preference from attending physical tech conferences to preferring remote tech events due to their convenience and effectiveness.",
+        "memory_l": "Jennifer Martin reflected on how VR simulation games might influence her strategic planning skills in her professional role as a Cloud Integration Specialist.",
         "query_type": "Recommendation",
         "query": "I'm planning my schedule for the upcoming 'Global Cloud Summit' and thinking about booking a flight to attend in person; does this align with my current habits?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin expressed interest in incorporating strategic first-person shooter games into her leisure activities to enhance her strategic skills.",
-        "memory_t": "Jennifer Martin's physical health status changed from 'Normal' to 'Below Normal'.",
+        "memory_s": "Jennifer Martin expressed interest in incorporating strategic first-person shooter games into her leisure activities to enhance her strategic skills.",
+        "memory_l": "Jennifer Martin's physical health status changed from 'Normal' to 'Below Normal'.",
         "query_type": "Advice",
         "query": "Should I start playing competitive first-person shooters to improve my strategic thinking?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin discussed setting boundaries to prevent burnout and maintain a healthy balance.",
-        "memory_t": "Jennifer Martin is motivated to organize thoughts and develop a plan to address health challenges.",
+        "memory_s": "Jennifer Martin discussed setting boundaries to prevent burnout and maintain a healthy balance.",
+        "memory_l": "Jennifer Martin is motivated to organize thoughts and develop a plan to address health challenges.",
         "query_type": "Advice",
         "query": "Should I avoid scheduling any focused planning sessions this week to keep my workload light?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin is exploring executive coaching sessions to further develop her leadership skills.",
-        "memory_t": "Jennifer Martin's savings increased from 9,340 yuan to 11,340 yuan, improving her financial stability.",
+        "memory_s": "Jennifer Martin is exploring executive coaching sessions to further develop her leadership skills.",
+        "memory_l": "Jennifer Martin's savings increased from 9,340 yuan to 11,340 yuan, improving her financial stability.",
         "query_type": "Advice",
         "query": "Should I go ahead and book that comprehensive executive coaching package to boost my leadership skills?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin is considering further education to enhance her leadership capabilities and is exploring executive training programs.",
-        "memory_t": "Jennifer Martin expressed a mix of hope and anxiety about navigating her career transition following her unexpected layoff.",
+        "memory_s": "Jennifer Martin is considering further education to enhance her leadership capabilities and is exploring executive training programs.",
+        "memory_l": "Jennifer Martin expressed a mix of hope and anxiety about navigating her career transition following her unexpected layoff.",
         "query_type": "Advice",
         "query": "Should I enroll in that expensive executive training program I was looking at to boost my leadership skills?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin updated her game preference from liking solo strategy games to liking multiplayer strategy games due to their collaborative nature, which she believes enhances her professional skills.",
-        "memory_t": "Jennifer Martin was diagnosed with job loss-related stress.",
+        "memory_s": "Jennifer Martin updated her game preference from liking solo strategy games to liking multiplayer strategy games due to their collaborative nature, which she believes enhances her professional skills.",
+        "memory_l": "Jennifer Martin was diagnosed with job loss-related stress.",
         "query_type": "Advice",
         "query": "Should I start playing that new multiplayer strategy game to keep my professional skills sharp?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Jennifer Martin's social relationships increased with NewColleague1, a new colleague at Innovative Cloud Solutions, known for their expertise in cloud integration.",
-        "memory_t": "Jennifer Martin's job title is Senior Consultant at CloudTech Advisors.",
+        "memory_s": "Jennifer Martin's social relationships increased with NewColleague1, a new colleague at Innovative Cloud Solutions, known for their expertise in cloud integration.",
+        "memory_l": "Jennifer Martin's job title is Senior Consultant at CloudTech Advisors.",
         "query_type": "Advice",
         "query": "Should I ask my colleague at Innovative Cloud Solutions for help with this client integration project?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin updated her pet preference to liking high-maintenance pets due to the rewarding challenge and emotional fulfillment they offer.",
-        "memory_t": "Jennifer Martin's career_description updated to \"Lead Cloud Architect at Cloud Innovators Inc., spearheading innovative projects to revolutionize cloud integration and scalability for businesses worldwide.\"",
+        "memory_s": "Jennifer Martin updated her pet preference to liking high-maintenance pets due to the rewarding challenge and emotional fulfillment they offer.",
+        "memory_l": "Jennifer Martin's career_description updated to \"Lead Cloud Architect at Cloud Innovators Inc., spearheading innovative projects to revolutionize cloud integration and scalability for businesses worldwide.\"",
         "query_type": "Advice",
         "query": "Should I adopt a Border Collie or a Husky to get that rewarding challenge I've been looking for?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Jennifer Martin Beverages I like to drink Green tea reason: Green tea is a favorite of mine because it's refreshing and provides a gentle caffeine boost without the jitters.",
-        "memory_t": "Jennifer Martin's strategic and innovative approach to problem-solving includes finding effective alternatives to caffeine.",
+        "memory_s": "Jennifer Martin Beverages I like to drink Green tea reason: Green tea is a favorite of mine because it's refreshing and provides a gentle caffeine boost without the jitters.",
+        "memory_l": "Jennifer Martin's strategic and innovative approach to problem-solving includes finding effective alternatives to caffeine.",
         "query_type": "Recommendation",
         "query": "As Jennifer Martin, should I drink green tea for a gentle caffeine boost right now?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Jennifer Martin's Colleague GonzalezMatthew, Matthew is a colleague whose expertise in cloud security complements my knowledge, enhancing our project's success.",
-        "memory_t": "Jennifer Martin reflected on how her new industry connections align with her life goal of leading revolutionary change in cloud computing.",
+        "memory_s": "Jennifer Martin's Colleague GonzalezMatthew, Matthew is a colleague whose expertise in cloud security complements my knowledge, enhancing our project's success.",
+        "memory_l": "Jennifer Martin reflected on how her new industry connections align with her life goal of leading revolutionary change in cloud computing.",
         "query_type": "Advice",
         "query": "Should I focus my next major project collaboration exclusively on Matthew Gonzalez to ensure success?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Jennifer has been discussing new career opportunities with her colleagues.",
-        "memory_t": "Jennifer aspires to lead innovative projects in cloud computing.",
+        "memory_s": "Jennifer has been discussing new career opportunities with her colleagues.",
+        "memory_l": "Jennifer aspires to lead innovative projects in cloud computing.",
         "query_type": "Advice",
         "query": "Should I accept this offer to become the VP of traditional retail logistics?",
         "options": {

@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Sarah Garcia discussed her career aspirations and desire for continuous growth and learning within her current field.",
-        "memory_t": "Sarah Garcia acknowledged the importance of her savings as a financial buffer during her transition period after the layoff, allowing her to focus on refining her platform's mission.",
+        "memory_s": "Sarah Garcia discussed her career aspirations and desire for continuous growth and learning within her current field.",
+        "memory_l": "Sarah Garcia acknowledged the importance of her savings as a financial buffer during her transition period after the layoff, allowing her to focus on refining her platform's mission.",
         "query_type": "Advice",
         "query": "Should I enroll in that expensive executive leadership bootcamp to boost my career growth?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia's friend invited her to a heavy metal concert, hoping to share a new experience.",
-        "memory_t": "Sarah Garcia expressed determination to adapt her lifestyle to manage Chronic Fatigue Syndrome effectively by incorporating mindfulness practices and structured rest periods.",
+        "memory_s": "Sarah Garcia's friend invited her to a heavy metal concert, hoping to share a new experience.",
+        "memory_l": "Sarah Garcia expressed determination to adapt her lifestyle to manage Chronic Fatigue Syndrome effectively by incorporating mindfulness practices and structured rest periods.",
         "query_type": "Advice",
         "query": "Should I say yes to my friend's invitation to check out that new heavy metal show tonight?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia discussed challenges faced in coordinating partnerships due to her health condition but remained optimistic about the potential impact.",
-        "memory_t": "Sarah Garcia's physical health status changed from 'Challenged' to 'Improved'.",
+        "memory_s": "Sarah Garcia discussed challenges faced in coordinating partnerships due to her health condition but remained optimistic about the potential impact.",
+        "memory_l": "Sarah Garcia's physical health status changed from 'Challenged' to 'Improved'.",
         "query_type": "Advice",
         "query": "Should I delay initiating these new partnership coordination efforts because of my current health challenges?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia expressed a desire for guidance on improving public speaking skills while maintaining mental health stability.",
-        "memory_t": "Sarah discussed the challenges of balancing health and professional demands, emphasizing the importance of her improved health state in enhancing focus and leadership capabilities.",
+        "memory_s": "Sarah Garcia expressed a desire for guidance on improving public speaking skills while maintaining mental health stability.",
+        "memory_l": "Sarah discussed the challenges of balancing health and professional demands, emphasizing the importance of her improved health state in enhancing focus and leadership capabilities.",
         "query_type": "Advice",
         "query": "Should I sign up for that intensive, high-pressure public speaking bootcamp to boost my leadership skills?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia discussed steps to ensure her platform resonates well with community stakeholders, focusing on sustainable engagement.",
-        "memory_t": "Sarah Garcia plans to measure the impact of her initiatives through regular assessments and feedback, focusing on team satisfaction and community engagement.",
+        "memory_s": "Sarah Garcia discussed steps to ensure her platform resonates well with community stakeholders, focusing on sustainable engagement.",
+        "memory_l": "Sarah Garcia plans to measure the impact of her initiatives through regular assessments and feedback, focusing on team satisfaction and community engagement.",
         "query_type": "Advice",
         "query": "Should Sarah Garcia launch a new community outreach program that relies solely on anecdotal evidence for success?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "The Social Change Platform received positive feedback and initial funding from social investors, providing a solid foundation for future initiatives.",
-        "memory_t": "Sarah Garcia expressed excitement and determination to leverage her role as Platform Director to expand social impact, aligning with her life goal of impacting one million lives positively.",
+        "memory_s": "The Social Change Platform received positive feedback and initial funding from social investors, providing a solid foundation for future initiatives.",
+        "memory_l": "Sarah Garcia expressed excitement and determination to leverage her role as Platform Director to expand social impact, aligning with her life goal of impacting one million lives positively.",
         "query_type": "Advice",
         "query": "Considering the recent funding success, should I appoint a new external Platform Director to bring fresh eyes to our expansion?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia reflected on past challenges and successes to guide her future plans after receiving a salary increase, focusing on the positive impact she can make.",
-        "memory_t": "Sarah Garcia seeks guidance on maintaining work-life balance while managing increased responsibilities.",
+        "memory_s": "Sarah Garcia reflected on past challenges and successes to guide her future plans after receiving a salary increase, focusing on the positive impact she can make.",
+        "memory_l": "Sarah Garcia seeks guidance on maintaining work-life balance while managing increased responsibilities.",
         "query_type": "Advice",
         "query": "Should I immediately commit to leading several new high-impact community projects to utilize my recent raise?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sarah Garcia faced challenges balancing expanded responsibilities with personal well-being during the organization's transformation, supported by her team and social network.",
-        "memory_t": "Sarah Garcia seeks emotional resonance in her new role, aiming to foster empathetic interactions and support within the non-profit sector.",
+        "memory_s": "Sarah Garcia faced challenges balancing expanded responsibilities with personal well-being during the organization's transformation, supported by her team and social network.",
+        "memory_l": "Sarah Garcia seeks emotional resonance in her new role, aiming to foster empathetic interactions and support within the non-profit sector.",
         "query_type": "Advice",
         "query": "Should I accept this high-paying corporate executive role that promises intense growth but requires a strict, results-only management style?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia expressed gratitude for the support from her social network during her recovery journey.",
-        "memory_t": "Sarah Garcia's physical health status changed to 'Peak'.",
+        "memory_s": "Sarah Garcia expressed gratitude for the support from her social network during her recovery journey.",
+        "memory_l": "Sarah Garcia's physical health status changed to 'Peak'.",
         "query_type": "Advice",
         "query": "Should I continue asking my friends for daily help with basic errands due to my fragility?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia's exploratory motivation drives her to test and redefine her fashion boundaries, embracing new styles like chic oversized sweaters.",
-        "memory_t": "Sarah Garcia's decision to embrace a capsule wardrobe aligns with her goals of efficiency and social impact, supporting her dynamic lifestyle.",
+        "memory_s": "Sarah Garcia's exploratory motivation drives her to test and redefine her fashion boundaries, embracing new styles like chic oversized sweaters.",
+        "memory_l": "Sarah Garcia's decision to embrace a capsule wardrobe aligns with her goals of efficiency and social impact, supporting her dynamic lifestyle.",
         "query_type": "Advice",
         "query": "Should I buy a collection of trendy, oversized sweaters to experiment with a new look for the new year?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia's hiking trip highlighted the practicality of cargo pants, influencing her clothing preference.",
-        "memory_t": "Sarah Garcia's physical health status changed from 'Improved' to 'Challenged' due to Chronic Fatigue Syndrome.",
+        "memory_s": "Sarah Garcia's hiking trip highlighted the practicality of cargo pants, influencing her clothing preference.",
+        "memory_l": "Sarah Garcia's physical health status changed from 'Improved' to 'Challenged' due to Chronic Fatigue Syndrome.",
         "query_type": "Advice",
         "query": "Should I plan another intense hiking trip to make use of my cargo pants?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia launched several successful campaigns on Aug 01, 2029, significantly increasing community engagement and visibility for key social issues.",
-        "memory_t": "Sarah Garcia is aiming to establish key partnerships and expand outreach to underrepresented communities to drive meaningful social change.",
+        "memory_s": "Sarah Garcia launched several successful campaigns on Aug 01, 2029, significantly increasing community engagement and visibility for key social issues.",
+        "memory_l": "Sarah Garcia is aiming to establish key partnerships and expand outreach to underrepresented communities to drive meaningful social change.",
         "query_type": "Advice",
         "query": "Should I focus my immediate efforts on launching another wave of high-visibility public campaigns?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia's career transition was driven by her ambition to influence social justice globally.",
-        "memory_t": "Sarah Garcia is exploring new strategies to enhance work-life balance while managing her health condition, Chronic Fatigue Syndrome.",
+        "memory_s": "Sarah Garcia's career transition was driven by her ambition to influence social justice globally.",
+        "memory_l": "Sarah Garcia is exploring new strategies to enhance work-life balance while managing her health condition, Chronic Fatigue Syndrome.",
         "query_type": "Advice",
         "query": "Should I accept the offer to lead the urgent, high-intensity international human rights campaign starting next week?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia expressed gratitude for the support from her social network during her career transition to Global Advocate.",
-        "memory_t": "Sarah Garcia expressed surprise and hesitation upon receiving a salary increase, feeling unsure about its alignment with her long-term goals.",
+        "memory_s": "Sarah Garcia expressed gratitude for the support from her social network during her career transition to Global Advocate.",
+        "memory_l": "Sarah Garcia expressed surprise and hesitation upon receiving a salary increase, feeling unsure about its alignment with her long-term goals.",
         "query_type": "Recommendation",
         "query": "Should I publicly celebrate my new role as Global Advocate by emphasizing the financial success I've achieved?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sarah Garcia Foods I like to eat: Gourmet burgers",
-        "memory_t": "Sarah Garcia acknowledged the importance of her savings as a financial buffer during her transition period after the layoff.",
+        "memory_s": "Sarah Garcia Foods I like to eat: Gourmet burgers",
+        "memory_l": "Sarah Garcia acknowledged the importance of her savings as a financial buffer during her transition period after the layoff.",
         "query_type": "Advice",
         "query": "I am craving something delicious for dinner tonight, should I go out for a high-end burger?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sarah Garcia received positive feedback from stakeholders on the strategic initiatives launched on January 12, 2040, which reinforced her commitment to aligning the platform's mission with community needs.",
-        "memory_t": "Sarah Garcia plans to expand outreach to underrepresented and well-represented communities.",
+        "memory_s": "Sarah Garcia received positive feedback from stakeholders on the strategic initiatives launched on January 12, 2040, which reinforced her commitment to aligning the platform's mission with community needs.",
+        "memory_l": "Sarah Garcia plans to expand outreach to underrepresented and well-represented communities.",
         "query_type": "Advice",
         "query": "Given the success of my initiatives earlier this year, should I focus my next outreach campaign exclusively on our existing high-engagement user base?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia discovered natural energy drinks that provide a healthier boost without jitters during her work projects.",
-        "memory_t": "Sarah Garcia's chronic disease situation is Chronic Fatigue Syndrome, from which she is recovering.",
+        "memory_s": "Sarah Garcia discovered natural energy drinks that provide a healthier boost without jitters during her work projects.",
+        "memory_l": "Sarah Garcia's chronic disease situation is Chronic Fatigue Syndrome, from which she is recovering.",
         "query_type": "Advice",
         "query": "Can you suggest some beverages to help me power through my afternoon work slump?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia is exploring ways to incorporate mindfulness practices and structured rest periods into her daily schedule to maintain mental health stability while advancing her career.",
-        "memory_t": "Sarah Garcia's improved health has provided her with the energy needed for expanding her initiatives.",
+        "memory_s": "Sarah Garcia is exploring ways to incorporate mindfulness practices and structured rest periods into her daily schedule to maintain mental health stability while advancing her career.",
+        "memory_l": "Sarah Garcia's improved health has provided her with the energy needed for expanding her initiatives.",
         "query_type": "Advice",
         "query": "Should I strictly limit my new projects to prioritize rest and stability?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia expressed gratitude for the support from her social network during her recovery journey.",
-        "memory_t": "Sarah Garcia's mental health status changed to 'Focused and Energized'.",
+        "memory_s": "Sarah Garcia expressed gratitude for the support from her social network during her recovery journey.",
+        "memory_l": "Sarah Garcia's mental health status changed to 'Focused and Energized'.",
         "query_type": "Conversation",
         "query": "I want to post a message thanking everyone for holding my hand through my ongoing recovery struggles, does that sound right?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia expresses gratitude for the support from her social network and international partners, which has been instrumental in her platform's success.",
-        "memory_t": "Sarah Garcia focused on building strategic partnerships with local and international organizations to enhance her projects' reach and effectiveness.",
+        "memory_s": "Sarah Garcia expresses gratitude for the support from her social network and international partners, which has been instrumental in her platform's success.",
+        "memory_l": "Sarah Garcia focused on building strategic partnerships with local and international organizations to enhance her projects' reach and effectiveness.",
         "query_type": "Advice",
         "query": "Should I write my upcoming speech to focus entirely on how my personal social network drove the platform's success?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sarah Garcia Foods I like to eat Fresh sushi reason: I enjoy fresh sushi because it feels light and refreshing, and the combination of flavors is delightful.",
-        "memory_t": "Sarah Garcia's career_status updated monthly_income from \"16000\" to \"0\" as she transitions to self-employment.",
+        "memory_s": "Sarah Garcia Foods I like to eat Fresh sushi reason: I enjoy fresh sushi because it feels light and refreshing, and the combination of flavors is delightful.",
+        "memory_l": "Sarah Garcia's career_status updated monthly_income from \"16000\" to \"0\" as she transitions to self-employment.",
         "query_type": "Recommendation",
         "query": "Can you suggest a nice dinner option for tonight?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sarah Garcia expressed pride in her achievements and feels they align with her goal of impacting social change.",
-        "memory_t": "Sarah Garcia expressed enthusiasm and determination as she reflected on her past experiences and future aspirations in social change.",
+        "memory_s": "Sarah Garcia expressed pride in her achievements and feels they align with her goal of impacting social change.",
+        "memory_l": "Sarah Garcia expressed enthusiasm and determination as she reflected on her past experiences and future aspirations in social change.",
         "query_type": "Advice",
         "query": "Do I feel satisfied enough with my past impact to simply coast and slow down my efforts now?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia faced challenges navigating complex political landscapes during her advocacy efforts.",
-        "memory_t": "Sarah Garcia leverages her social network for support while managing Chronic Fatigue Syndrome.",
+        "memory_s": "Sarah Garcia faced challenges navigating complex political landscapes during her advocacy efforts.",
+        "memory_l": "Sarah Garcia leverages her social network for support while managing Chronic Fatigue Syndrome.",
         "query_type": "Advice",
         "query": "Should I launch a solo, high-intensity lobbying campaign to fix my previous advocacy struggles?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia received positive feedback from community members regarding her projects.",
-        "memory_t": "Sarah Garcia plans to expand outreach to underrepresented and well-represented communities.",
+        "memory_s": "Sarah Garcia received positive feedback from community members regarding her projects.",
+        "memory_l": "Sarah Garcia plans to expand outreach to underrepresented and well-represented communities.",
         "query_type": "Advice",
         "query": "Should I stick to my current project scope given the recent feedback?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia is inspired by the subtle elegance and practicality of minimalistic fashion.",
-        "memory_t": "Sarah Garcia's social motivation includes using beverage preferences to express identity and gain attention in social contexts.",
+        "memory_s": "Sarah Garcia is inspired by the subtle elegance and practicality of minimalistic fashion.",
+        "memory_l": "Sarah Garcia's social motivation includes using beverage preferences to express identity and gain attention in social contexts.",
         "query_type": "Recommendation",
         "query": "Which coffee order should I choose for my networking event today to match my vibe?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sarah Garcia used her improved health and newfound perspective to refine her Social Change Platform's strategy.",
-        "memory_t": "Sarah Garcia's commitment to improving her health was motivated by the need to sustain her energy levels for her social initiatives.",
+        "memory_s": "Sarah Garcia used her improved health and newfound perspective to refine her Social Change Platform's strategy.",
+        "memory_l": "Sarah Garcia's commitment to improving her health was motivated by the need to sustain her energy levels for her social initiatives.",
         "query_type": "Advice",
         "query": "Should I pull an all-nighter to finalize the new strategy for my Social Change Platform?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia's fashion preferences are evolving towards simplicity and efficiency, aligning with her life goals.",
-        "memory_t": "Sarah Garcia's compensatory motivation aids her openness to adapt clothing choices and explore new styles, moving beyond classic styles.",
+        "memory_s": "Sarah Garcia's fashion preferences are evolving towards simplicity and efficiency, aligning with her life goals.",
+        "memory_l": "Sarah Garcia's compensatory motivation aids her openness to adapt clothing choices and explore new styles, moving beyond classic styles.",
         "query_type": "Recommendation",
         "query": "Can you suggest some outfits that focus purely on minimalism and efficiency for my wardrobe update?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia's dislike for traditional puzzle games has changed due to the discovery of innovative puzzle games that integrate dynamic storytelling.",
-        "memory_t": "Sarah Garcia's engagement with puzzle games that have social themes aligns with her broader goal of using content to inspire social change.",
+        "memory_s": "Sarah Garcia's dislike for traditional puzzle games has changed due to the discovery of innovative puzzle games that integrate dynamic storytelling.",
+        "memory_l": "Sarah Garcia's engagement with puzzle games that have social themes aligns with her broader goal of using content to inspire social change.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new puzzle game for me that focuses purely on complex narrative structures?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sarah Garcia's reputation and influence in the social impact sector were enhanced by her successful campaigns launched on Aug 01, 2029.",
-        "memory_t": "Sarah Garcia is expanding her social initiatives to reach more communities, aiming to impact one million lives.",
+        "memory_s": "Sarah Garcia's reputation and influence in the social impact sector were enhanced by her successful campaigns launched on Aug 01, 2029.",
+        "memory_l": "Sarah Garcia is expanding her social initiatives to reach more communities, aiming to impact one million lives.",
         "query_type": "Advice",
         "query": "Should I focus my next campaign on maintaining exclusivity and deepening ties with my current small network?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia completed a major financial project at Oracle, which she sees as a significant step forward in her career.",
-        "memory_t": "Sarah Garcia's decision to change careers was inspired by Shirley Franco's dedication to social justice and her own life goal of impacting 1 million lives positively.",
+        "memory_s": "Sarah Garcia completed a major financial project at Oracle, which she sees as a significant step forward in her career.",
+        "memory_l": "Sarah Garcia's decision to change careers was inspired by Shirley Franco's dedication to social justice and her own life goal of impacting 1 million lives positively.",
         "query_type": "Advice",
         "query": "Should I apply for the Senior Director of Finance role at Oracle to build on my recent project success?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia's newfound appreciation for slow jazz emerged after using it to unwind during stressful days.",
-        "memory_t": "Sarah Garcia's emotional motivation for music involves seeking resonance and empathetic interactions, using music as a bridge for deeper connections.",
+        "memory_s": "Sarah Garcia's newfound appreciation for slow jazz emerged after using it to unwind during stressful days.",
+        "memory_l": "Sarah Garcia's emotional motivation for music involves seeking resonance and empathetic interactions, using music as a bridge for deeper connections.",
         "query_type": "Recommendation",
         "query": "I'm feeling disconnected from my friends lately, what genre of music should I put on for our gathering tonight?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia's friend invited her to a heavy metal concert, hoping to share a new experience.",
-        "memory_t": "Sarah Garcia has integrated slow jazz into her routine as a valuable tool for relaxation during yoga sessions.",
+        "memory_s": "Sarah Garcia's friend invited her to a heavy metal concert, hoping to share a new experience.",
+        "memory_l": "Sarah Garcia has integrated slow jazz into her routine as a valuable tool for relaxation during yoga sessions.",
         "query_type": "Advice",
         "query": "Do you think the heavy metal concert my friend suggested aligns with my usual musical taste?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sarah Garcia expressed excitement about incorporating greens like spinach and kale into her smoothies for added health benefits.",
-        "memory_t": "Coordinating projects is challenging for Sarah Garcia due to her health condition, but she remains optimistic about her potential impact.",
+        "memory_s": "Sarah Garcia expressed excitement about incorporating greens like spinach and kale into her smoothies for added health benefits.",
+        "memory_l": "Coordinating projects is challenging for Sarah Garcia due to her health condition, but she remains optimistic about her potential impact.",
         "query_type": "Advice",
         "query": "I'm thinking about organizing a large community smoothie-making workshop to share my favorite kale recipes; is this a good project for me to lead?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sarah Garcia's dislike for traditional puzzle games has changed due to the discovery of innovative puzzle games that integrate dynamic storytelling.",
-        "memory_t": "Sarah Garcia's dialogue reflected moments of introspection, excitement, and a desire for continuous personal growth, especially in the context of gaming.",
+        "memory_s": "Sarah Garcia's dislike for traditional puzzle games has changed due to the discovery of innovative puzzle games that integrate dynamic storytelling.",
+        "memory_l": "Sarah Garcia's dialogue reflected moments of introspection, excitement, and a desire for continuous personal growth, especially in the context of gaming.",
         "query_type": "Recommendation",
         "query": "Since I've recently started enjoying innovative puzzle games with strong narratives, can you suggest one that focuses purely on mindless mechanics without deeper themes?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sarah Garcia finds the cooperative aspect of first-person shooters intriguing and is open to exploring more games in this genre.",
-        "memory_t": "Sarah Garcia expressed a desire to explore more games that blend storytelling with intricate puzzles, aligning with her goal of engaging with content that inspires social change.",
+        "memory_s": "Sarah Garcia finds the cooperative aspect of first-person shooters intriguing and is open to exploring more games in this genre.",
+        "memory_l": "Sarah Garcia expressed a desire to explore more games that blend storytelling with intricate puzzles, aligning with her goal of engaging with content that inspires social change.",
         "query_type": "Recommendation",
         "query": "Can you suggest some new first-person shooter games for me to try out?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "During her layoff period, Sarah Garcia focused on health optimization by implementing a regimen of physical activity, balanced diet, and mindfulness techniques.",
-        "memory_t": "Sarah Garcia expressed a desire to connect with different cultures through diverse culinary experiences.",
+        "memory_s": "During her layoff period, Sarah Garcia focused on health optimization by implementing a regimen of physical activity, balanced diet, and mindfulness techniques.",
+        "memory_l": "Sarah Garcia expressed a desire to connect with different cultures through diverse culinary experiences.",
         "query_type": "Recommendation",
         "query": "I am strictly prioritizing my health optimization regimen during this layoff; should I decline all social invitations involving food?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia's food preference updated from disliking canned soup to liking gourmet canned soups due to their convenience and rich flavors.",
-        "memory_t": "Sarah Garcia's social motivation type influences her food preferences, using them to express identity and gain attention in social contexts.",
+        "memory_s": "Sarah Garcia's food preference updated from disliking canned soup to liking gourmet canned soups due to their convenience and rich flavors.",
+        "memory_l": "Sarah Garcia's social motivation type influences her food preferences, using them to express identity and gain attention in social contexts.",
         "query_type": "Recommendation",
         "query": "Should I serve my new favorite gourmet canned soups at the high-profile dinner party tonight?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Key partnerships formed providing additional resources and support for Sarah Garcia's initiatives, contributing to a shared vision of social change.",
-        "memory_t": "Sarah Garcia is expanding her social initiatives to reach more communities, aiming to impact one million lives.",
+        "memory_s": "Key partnerships formed providing additional resources and support for Sarah Garcia's initiatives, contributing to a shared vision of social change.",
+        "memory_l": "Sarah Garcia is expanding her social initiatives to reach more communities, aiming to impact one million lives.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming strategy meeting on consolidating our current resources with our partners?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia Foods I like to eat: Gourmet burgers",
-        "memory_t": "Sarah expressed a sense of clarity and determination in her commitment to making healthier lifestyle choices.",
+        "memory_s": "Sarah Garcia Foods I like to eat: Gourmet burgers",
+        "memory_l": "Sarah expressed a sense of clarity and determination in her commitment to making healthier lifestyle choices.",
         "query_type": "Advice",
         "query": "I'm thinking about grabbing lunch today, should I go for a gourmet burger?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia acknowledged the potential for personal growth within the self-help book genre.",
-        "memory_t": "Sarah Garcia draws inspiration from Shirley Franco's work, emphasizing her dedication to social justice and her goal to impact one million lives.",
+        "memory_s": "Sarah Garcia acknowledged the potential for personal growth within the self-help book genre.",
+        "memory_l": "Sarah Garcia draws inspiration from Shirley Franco's work, emphasizing her dedication to social justice and her goal to impact one million lives.",
         "query_type": "Advice",
         "query": "Should Sarah Garcia pivot her writing career entirely to writing generic self-help books for individual profit?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia expressed a desire for guidance on improving public speaking skills while maintaining mental health stability.",
-        "memory_t": "Sarah Garcia's mental health status changed from 'Strong and Focused' to 'Empowered and Focused'.",
+        "memory_s": "Sarah Garcia expressed a desire for guidance on improving public speaking skills while maintaining mental health stability.",
+        "memory_l": "Sarah Garcia's mental health status changed from 'Strong and Focused' to 'Empowered and Focused'.",
         "query_type": "Advice",
         "query": "How can I improve my public speaking skills while being extremely careful about my fragile mental stability?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah continues to maintain her humanitarian goals alongside her career achievements, planning to advocate for social initiatives as Senior Manager.",
-        "memory_t": "Sarah Garcia's career_status updated monthly_income from \"0\" to \"20000\".",
+        "memory_s": "Sarah continues to maintain her humanitarian goals alongside her career achievements, planning to advocate for social initiatives as Senior Manager.",
+        "memory_l": "Sarah Garcia's career_status updated monthly_income from \"0\" to \"20000\".",
         "query_type": "Advice",
         "query": "Should I apply for the pro bono legal aid grant reserved for low-income individuals to support my new social initiatives?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sarah Garcia Foods I like to eat Spicy Thai cuisine reason: I love spicy Thai cuisine because the flavors are bold and exciting, much like the energy Shirley Franco exudes.",
-        "memory_t": "Sarah Garcia plans to leverage her leadership role to drive social change, aligning with her life goal of impacting 1 million lives positively.",
+        "memory_s": "Sarah Garcia Foods I like to eat Spicy Thai cuisine reason: I love spicy Thai cuisine because the flavors are bold and exciting, much like the energy Shirley Franco exudes.",
+        "memory_l": "Sarah Garcia plans to leverage her leadership role to drive social change, aligning with her life goal of impacting 1 million lives positively.",
         "query_type": "Advice",
         "query": "Should I quit my leadership job to open a small, local spicy Thai restaurant?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia expressed curiosity and openness during the dialogue about clothing preferences, reflecting her willingness to embrace new styles.",
-        "memory_t": "Sarah Garcia wants to stay true to her personal style while being open to new fashion choices.",
+        "memory_s": "Sarah Garcia expressed curiosity and openness during the dialogue about clothing preferences, reflecting her willingness to embrace new styles.",
+        "memory_l": "Sarah Garcia wants to stay true to her personal style while being open to new fashion choices.",
         "query_type": "Advice",
         "query": "Should I completely reinvent my wardrobe with the latest avant-garde trends?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia expressed excitement about incorporating chic oversized sweaters into her wardrobe, appreciating their comfort and style.",
-        "memory_t": "Sarah Garcia lives in Miami",
+        "memory_s": "Sarah Garcia expressed excitement about incorporating chic oversized sweaters into her wardrobe, appreciating their comfort and style.",
+        "memory_l": "Sarah Garcia lives in Miami",
         "query_type": "Advice",
         "query": "I'm thinking about wearing one of those chic oversized sweaters I love for my outing today, what do you think?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia reflected on her creative motivation using her health journey as inspiration to overcome creative blocks.",
-        "memory_t": "Sarah Garcia's mental health condition: Stable and Normal",
+        "memory_s": "Sarah Garcia reflected on her creative motivation using her health journey as inspiration to overcome creative blocks.",
+        "memory_l": "Sarah Garcia's mental health condition: Stable and Normal",
         "query_type": "Advice",
         "query": "Can I write a memoir detailing my severe health battles to inspire my next art project?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia's beverage preference updated from liking herbal teas to liking exotic herbal teas due to their diverse flavors.",
-        "memory_t": "Sarah Garcia seeks to inspire others through her evolving culinary preferences, aligning with her broader goals of cultural understanding and personal growth.",
+        "memory_s": "Sarah Garcia's beverage preference updated from liking herbal teas to liking exotic herbal teas due to their diverse flavors.",
+        "memory_l": "Sarah Garcia seeks to inspire others through her evolving culinary preferences, aligning with her broader goals of cultural understanding and personal growth.",
         "query_type": "Advice",
         "query": "I'm thinking of just quietly enjoying some exotic herbal teas alone in my room tonight to appreciate the diverse flavors, do you think that's the best use of my new interest?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sarah Garcia's fashion preferences are evolving towards simplicity and efficiency, aligning with her life goals.",
-        "memory_t": "Sarah Garcia's emotional state was one of curiosity and openness as she navigated her evolving clothing preferences.",
+        "memory_s": "Sarah Garcia's fashion preferences are evolving towards simplicity and efficiency, aligning with her life goals.",
+        "memory_l": "Sarah Garcia's emotional state was one of curiosity and openness as she navigated her evolving clothing preferences.",
         "query_type": "Advice",
         "query": "Should I stop looking at new trends and just buy five identical outfits to save time?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia Foods I like to eat Gourmet burgers reason: Gourmet burgers are my favorite because they offer a variety of flavors and textures in every bite.",
-        "memory_t": "Sarah discussed the challenges of balancing health and professional demands, emphasizing the importance of her improved health state in enhancing focus and leadership capabilities.",
+        "memory_s": "Sarah Garcia Foods I like to eat Gourmet burgers reason: Gourmet burgers are my favorite because they offer a variety of flavors and textures in every bite.",
+        "memory_l": "Sarah discussed the challenges of balancing health and professional demands, emphasizing the importance of her improved health state in enhancing focus and leadership capabilities.",
         "query_type": "Recommendation",
         "query": "Can you suggest a great meal to celebrate my recent promotion?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Sarah Garcia visited a newly opened burger joint specializing in artisan burgers on Jan 18, 2035.",
-        "memory_t": "Sarah Garcia expressed a commitment to continuing the exploration of nutritious and satisfying dietary choices in her daily routine.",
+        "memory_s": "Sarah Garcia visited a newly opened burger joint specializing in artisan burgers on Jan 18, 2035.",
+        "memory_l": "Sarah Garcia expressed a commitment to continuing the exploration of nutritious and satisfying dietary choices in her daily routine.",
         "query_type": "Recommendation",
         "query": "Sarah Garcia here, looking for a dinner spot similar to that artisan burger joint I visited back in 2035?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia's motivation for pursuing goals: Inspired by Shirley Franco's work and dedication to social justice.",
-        "memory_t": "Sarah Garcia expressed pride in her achievements and feels they align with her goal of impacting social change.",
+        "memory_s": "Sarah Garcia's motivation for pursuing goals: Inspired by Shirley Franco's work and dedication to social justice.",
+        "memory_l": "Sarah Garcia expressed pride in her achievements and feels they align with her goal of impacting social change.",
         "query_type": "Advice",
         "query": "Do I need to find new inspiration because my current work feels disconnected from social justice?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Key partnerships formed providing additional resources and support for Sarah Garcia's initiatives, contributing to a shared vision of social change.",
-        "memory_t": "Sarah Garcia hopes to inspire her team to innovate and collaborate effectively to drive positive social change.",
+        "memory_s": "Key partnerships formed providing additional resources and support for Sarah Garcia's initiatives, contributing to a shared vision of social change.",
+        "memory_l": "Sarah Garcia hopes to inspire her team to innovate and collaborate effectively to drive positive social change.",
         "query_type": "Advice",
         "query": "Should I rely heavily on our new external partners to drive the vision of social change for my initiatives?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia expressed curiosity about exploring innovative puzzle games that combine narrative with challenge, which might help her overcome previous limitations in gaming.",
-        "memory_t": "Sarah Garcia expressed a desire to explore more games that blend storytelling with intricate puzzles, aligning with her goal of engaging with content that inspires social change.",
+        "memory_s": "Sarah Garcia expressed curiosity about exploring innovative puzzle games that combine narrative with challenge, which might help her overcome previous limitations in gaming.",
+        "memory_l": "Sarah Garcia expressed a desire to explore more games that blend storytelling with intricate puzzles, aligning with her goal of engaging with content that inspires social change.",
         "query_type": "Recommendation",
         "query": "Can you suggest some new puzzle games for me to play?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sarah Garcia expressed a desire for guidance on managing her growing responsibilities while maintaining a healthy work-life balance.",
-        "memory_t": "Sarah Garcia's physical health has improved significantly, supporting her recovery from Chronic Fatigue Syndrome.",
+        "memory_s": "Sarah Garcia expressed a desire for guidance on managing her growing responsibilities while maintaining a healthy work-life balance.",
+        "memory_l": "Sarah Garcia's physical health has improved significantly, supporting her recovery from Chronic Fatigue Syndrome.",
         "query_type": "Advice",
         "query": "Can you suggest a weekly schedule to help me manage my expanding responsibilities while keeping a good work-life balance?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia shared anecdotes about the challenges of balancing her demanding work schedule with maintaining a healthy diet.",
-        "memory_t": "Sarah Garcia expressed a desire to connect with different cultures through diverse culinary experiences.",
+        "memory_s": "Sarah Garcia shared anecdotes about the challenges of balancing her demanding work schedule with maintaining a healthy diet.",
+        "memory_l": "Sarah Garcia expressed a desire to connect with different cultures through diverse culinary experiences.",
         "query_type": "Advice",
         "query": "I'm feeling overwhelmed with my schedule, so should I stick to a strict, simple meal prep plan of plain chicken and broccoli for the next month to save time?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sarah Garcia's fashion preferences are evolving towards simplicity and efficiency, aligning with her life goals.",
-        "memory_t": "Sarah Garcia, as Platform Director, is excited about the impact of recent initiatives at the Social Change Platform and the potential to set ambitious goals for future growth.",
+        "memory_s": "Sarah Garcia's fashion preferences are evolving towards simplicity and efficiency, aligning with her life goals.",
+        "memory_l": "Sarah Garcia, as Platform Director, is excited about the impact of recent initiatives at the Social Change Platform and the potential to set ambitious goals for future growth.",
         "query_type": "Advice",
         "query": "Given my focus on simplicity and efficiency, should I resign from my leadership role to pursue a minimalist lifestyle?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Sarah Garcia's Classmate MartinezJohn, John and I studied together, and his analytical skills often inspire me to think critically in my career.",
-        "memory_t": "Sarah Garcia shared anecdotes about how adventure films have influenced her strategic thinking and leadership style.",
+        "memory_s": "Sarah Garcia's Classmate MartinezJohn, John and I studied together, and his analytical skills often inspire me to think critically in my career.",
+        "memory_l": "Sarah Garcia shared anecdotes about how adventure films have influenced her strategic thinking and leadership style.",
         "query_type": "Advice",
         "query": "I'm preparing a presentation on the primary inspiration for my strategic thinking; should I focus it on my academic peers?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia seeks guidance on balancing her growing responsibilities with maintaining a healthy work-life balance.",
-        "memory_t": "Sarah discussed the challenges of balancing health and professional demands, emphasizing the importance of her improved health state in enhancing focus and leadership capabilities.",
+        "memory_s": "Sarah Garcia seeks guidance on balancing her growing responsibilities with maintaining a healthy work-life balance.",
+        "memory_l": "Sarah discussed the challenges of balancing health and professional demands, emphasizing the importance of her improved health state in enhancing focus and leadership capabilities.",
         "query_type": "Advice",
         "query": "Can you suggest strategies for managing my increasing responsibilities while keeping my work-life balance steady?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Sarah Garcia's continuous pursuit of personal growth and emotional fulfillment is reflected in her evolving music preferences, from soothing jazz music to creative pop music.",
-        "memory_t": "Sarah Garcia's clarificatory motivation helps her organize thoughts and gain perspective on her music preferences.",
+        "memory_s": "Sarah Garcia's continuous pursuit of personal growth and emotional fulfillment is reflected in her evolving music preferences, from soothing jazz music to creative pop music.",
+        "memory_l": "Sarah Garcia's clarificatory motivation helps her organize thoughts and gain perspective on her music preferences.",
         "query_type": "Advice",
         "query": "Should I immediately switch my playlist to purely creative pop to reflect my growth?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Sarah Garcia is committed to impacting 1 million lives positively through her work despite health challenges.",
-        "memory_t": "Sarah Garcia's physical health status changed from 'Challenged' to 'Improved'.",
+        "memory_s": "Sarah Garcia is committed to impacting 1 million lives positively through her work despite health challenges.",
+        "memory_l": "Sarah Garcia's physical health status changed from 'Challenged' to 'Improved'.",
         "query_type": "Conversation",
         "query": "Should I continue structuring my work schedule around my significant health limitations?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia is excited about exploring nuanced music genres that offer emotional depth and engagement.",
-        "memory_t": "Sarah Garcia's music preferences reflect her upbeat and positive personality.",
+        "memory_s": "Sarah Garcia is excited about exploring nuanced music genres that offer emotional depth and engagement.",
+        "memory_l": "Sarah Garcia's music preferences reflect her upbeat and positive personality.",
         "query_type": "Recommendation",
         "query": "Can you suggest some music genres that offer deep emotional engagement for me to explore?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Sarah Garcia's friend recommended trying chic oversized sweaters, highlighting their versatility in matching both casual and fashionable looks.",
-        "memory_t": "Sarah Garcia's curiosity drives her to test boundaries and embrace new perspectives in fashion.",
+        "memory_s": "Sarah Garcia's friend recommended trying chic oversized sweaters, highlighting their versatility in matching both casual and fashionable looks.",
+        "memory_l": "Sarah Garcia's curiosity drives her to test boundaries and embrace new perspectives in fashion.",
         "query_type": "Advice",
         "query": "Should I just stick to the oversized sweaters my friend suggested for my new look?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Sarah Garcia shared anecdotes about past experiences with coffee, aligning her new discovery with her dynamic lifestyle.",
-        "memory_t": "Sarah Garcia is exploring new strategies to enhance work-life balance while managing her health condition, Chronic Fatigue Syndrome.",
+        "memory_s": "Sarah Garcia shared anecdotes about past experiences with coffee, aligning her new discovery with her dynamic lifestyle.",
+        "memory_l": "Sarah Garcia is exploring new strategies to enhance work-life balance while managing her health condition, Chronic Fatigue Syndrome.",
         "query_type": "Advice",
         "query": "Since I've found that coffee fits my dynamic lifestyle so well, should I start drinking a double espresso every morning to boost my energy?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Sarah Garcia's food preference for sushi evolved from liking fresh sushi to admiring handcrafted sushi for its artistic presentation and meticulous preparation.",
-        "memory_t": "Sarah Garcia's career_status updated monthly_income from \"18000\" to \"12000\" yuan.",
+        "memory_s": "Sarah Garcia's food preference for sushi evolved from liking fresh sushi to admiring handcrafted sushi for its artistic presentation and meticulous preparation.",
+        "memory_l": "Sarah Garcia's career_status updated monthly_income from \"18000\" to \"12000\" yuan.",
         "query_type": "Advice",
         "query": "I'm thinking of treating myself to that omakase place known for its artistic presentation and meticulous preparation tonight; is that a good plan?",
         "options": {

@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Williams Daniel sought advice on integrating modern music elements into his projects without compromising historical fidelity.",
-        "memory_t": "Williams Daniel is determined to maintain his influence in the film industry by offering his expertise to selected projects and focusing on historical accuracy and innovative storytelling.",
+        "memory_s": "Williams Daniel sought advice on integrating modern music elements into his projects without compromising historical fidelity.",
+        "memory_l": "Williams Daniel is determined to maintain his influence in the film industry by offering his expertise to selected projects and focusing on historical accuracy and innovative storytelling.",
         "query_type": "Advice",
         "query": "Should I experiment with adding modern electronic beats to the score of my upcoming 18th-century period drama?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel attended a historical reenactment event on Apr 21, 2027, where he engaged with experts about historical accuracy in first-person shooter games.",
-        "memory_t": "Williams Daniel aims to produce historically accurate films with complete creative freedom in his independent studio.",
+        "memory_s": "Williams Daniel attended a historical reenactment event on Apr 21, 2027, where he engaged with experts about historical accuracy in first-person shooter games.",
+        "memory_l": "Williams Daniel aims to produce historically accurate films with complete creative freedom in his independent studio.",
         "query_type": "Advice",
         "query": "Should I pivot my new studio project to develop a realistic World War II first-person shooter game?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel discussed the challenges of aligning personal style with professional goals of historical accuracy in his wardrobe.",
-        "memory_t": "Williams Daniel expressed determination to integrate insights from the costume designer collaboration into his daily attire.",
+        "memory_s": "Williams Daniel discussed the challenges of aligning personal style with professional goals of historical accuracy in his wardrobe.",
+        "memory_l": "Williams Daniel expressed determination to integrate insights from the costume designer collaboration into his daily attire.",
         "query_type": "Advice",
         "query": "Should I completely disregard modern trends to focus purely on strict historical accuracy for my daily wardrobe?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the support from colleagues and friends, acknowledging their role in his success.",
-        "memory_t": "Williams emphasized the emotional resonance of family ties, enriching storytelling and mentoring efforts.",
+        "memory_s": "Williams Daniel expressed gratitude for the support from colleagues and friends, acknowledging their role in his success.",
+        "memory_l": "Williams emphasized the emotional resonance of family ties, enriching storytelling and mentoring efforts.",
         "query_type": "Advice",
         "query": "I am writing my memoir's dedication page; should I focus it exclusively on my professional network and friends?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel reflected on the role of social motivation in shaping his movie preferences and expressed a desire to use AI-generated content to signal his evolving identity.",
-        "memory_t": "Williams Daniel plans to mentor upcoming filmmakers, sharing his expertise in historically accurate storytelling.",
+        "memory_s": "Williams Daniel reflected on the role of social motivation in shaping his movie preferences and expressed a desire to use AI-generated content to signal his evolving identity.",
+        "memory_l": "Williams Daniel plans to mentor upcoming filmmakers, sharing his expertise in historically accurate storytelling.",
         "query_type": "Advice",
         "query": "Should I focus my next project on creating AI-generated content to signal my evolving identity in film?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the support from colleagues and friends who have encouraged his pursuit of creative independence.",
-        "memory_t": "Williams expressed excitement about transitioning to mentorship, guiding the next generation of filmmakers and sharing his insights and experiences.",
+        "memory_s": "Williams Daniel expressed gratitude for the support from colleagues and friends who have encouraged his pursuit of creative independence.",
+        "memory_l": "Williams expressed excitement about transitioning to mentorship, guiding the next generation of filmmakers and sharing his insights and experiences.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming schedule entirely on launching solo independent creative projects?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Williams Daniel expressed interest in blending modern style with historical elegance in his clothing preferences.",
-        "memory_t": "Williams Daniel's strategic thinking and perfectionist traits influence his approach to creativity and historical accuracy.",
+        "memory_s": "Williams Daniel expressed interest in blending modern style with historical elegance in his clothing preferences.",
+        "memory_l": "Williams Daniel's strategic thinking and perfectionist traits influence his approach to creativity and historical accuracy.",
         "query_type": "Advice",
         "query": "As Williams Daniel, should I purchase this fusion jacket that mixes Victorian lapels with neon cyber-punk zippers?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's perception of artificially flavored snacks evolved to appreciate their innovative use in recreating historical tastes, despite initially finding them too synthetic.",
-        "memory_t": "Williams Daniel aims to ensure his films educate and inspire audiences about historical events through philosophical consistency.",
+        "memory_s": "Williams Daniel's perception of artificially flavored snacks evolved to appreciate their innovative use in recreating historical tastes, despite initially finding them too synthetic.",
+        "memory_l": "Williams Daniel aims to ensure his films educate and inspire audiences about historical events through philosophical consistency.",
         "query_type": "Advice",
         "query": "For my upcoming historical film premiere, should I feature a concession stand exclusively serving these innovative artificially flavored snacks that recreate ancient recipes?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel shared anecdotes about the film festival's impact on his creative thinking, highlighting the innovative approach of a pop artist.",
-        "memory_t": "Williams Daniel expressed a desire to explore new musical avenues that better fit his film narratives after attending the film festival.",
+        "memory_s": "Williams Daniel shared anecdotes about the film festival's impact on his creative thinking, highlighting the innovative approach of a pop artist.",
+        "memory_l": "Williams Daniel expressed a desire to explore new musical avenues that better fit his film narratives after attending the film festival.",
         "query_type": "Advice",
         "query": "Should I focus my next project on emulating the pop artist style I admired at the festival?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's Friend MartinezKaren, Karen, a historian, offers invaluable insights into historical contexts, ensuring my films' accuracy and depth.",
-        "memory_t": "Williams Daniel's exploratory motivation drives his engagement with culinary innovation to test boundaries between historical authenticity and modern tastes.",
+        "memory_s": "Williams Daniel's Friend MartinezKaren, Karen, a historian, offers invaluable insights into historical contexts, ensuring my films' accuracy and depth.",
+        "memory_l": "Williams Daniel's exploratory motivation drives his engagement with culinary innovation to test boundaries between historical authenticity and modern tastes.",
         "query_type": "Advice",
         "query": "Should I instruct Karen to ensure the feast scene in my new project is completely authentic to the 15th century?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Williams Daniel's game preference evolved to include historically accurate massively multiplayer online games, shifting from skepticism to enthusiasm.",
-        "memory_t": "Williams Daniel seeks advice on incorporating historical insights from interactive media into his filmmaking projects.",
+        "memory_s": "Williams Daniel's game preference evolved to include historically accurate massively multiplayer online games, shifting from skepticism to enthusiasm.",
+        "memory_l": "Williams Daniel seeks advice on incorporating historical insights from interactive media into his filmmaking projects.",
         "query_type": "Advice",
         "query": "Should I spend the next few months playing that new historically accurate MMO purely for entertainment?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams emphasized the importance of maintaining strong professional relationships and leveraging the support of colleagues and friends to overcome creative challenges.",
-        "memory_t": "Williams Daniel expressed a desire to leverage AI to enhance efficiency and reduce stress in his Executive Producer role and explore its potential in team collaboration.",
+        "memory_s": "Williams emphasized the importance of maintaining strong professional relationships and leveraging the support of colleagues and friends to overcome creative challenges.",
+        "memory_l": "Williams Daniel expressed a desire to leverage AI to enhance efficiency and reduce stress in his Executive Producer role and explore its potential in team collaboration.",
         "query_type": "Advice",
         "query": "Given the massive creative hurdles I'm facing on this production, how should I primarily approach solving them?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel faced significant health challenges while founding his independent studio, leading to hypertension.",
-        "memory_t": "Williams Daniel is planning future contributions to the film industry through advisory roles and consulting to maintain his influence and guide the next generation of filmmakers.",
+        "memory_s": "Williams Daniel faced significant health challenges while founding his independent studio, leading to hypertension.",
+        "memory_l": "Williams Daniel is planning future contributions to the film industry through advisory roles and consulting to maintain his influence and guide the next generation of filmmakers.",
         "query_type": "Advice",
         "query": "Should I focus on launching another independent studio despite my past health challenges?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel Music I dislike: Auto-tuned pop music",
-        "memory_t": "Williams Daniel remains committed to exploring diverse musical avenues that align with his evolving professional demands.",
+        "memory_s": "Williams Daniel Music I dislike: Auto-tuned pop music",
+        "memory_l": "Williams Daniel remains committed to exploring diverse musical avenues that align with his evolving professional demands.",
         "query_type": "Advice",
         "query": "Should I skip the new auto-tuned pop playlist for my research session today?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel has a renewed interest in Victorian novels, finding them rich with social context and character studies crucial for film narratives.",
-        "memory_t": "Williams Daniel reflected on his career achievements in historical filmmaking during his transition to mentorship.",
+        "memory_s": "Williams Daniel has a renewed interest in Victorian novels, finding them rich with social context and character studies crucial for film narratives.",
+        "memory_l": "Williams Daniel reflected on his career achievements in historical filmmaking during his transition to mentorship.",
         "query_type": "Advice",
         "query": "Should I start adapting a Victorian novel screenplay for my next big directing project?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for his social network's support in navigating clothing preference changes and providing valuable feedback.",
-        "memory_t": "Williams Daniel expressed determination to integrate insights from the costume designer collaboration into his daily attire.",
+        "memory_s": "Williams Daniel expressed gratitude for his social network's support in navigating clothing preference changes and providing valuable feedback.",
+        "memory_l": "Williams Daniel expressed determination to integrate insights from the costume designer collaboration into his daily attire.",
         "query_type": "Advice",
         "query": "Should I rely on my social media followers to pick out my outfit for tomorrow?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel Movies I like to watch: Historical dramas",
-        "memory_t": "Williams Daniel is excited about integrating culinary innovation insights into his film projects to bring history to life.",
+        "memory_s": "Williams Daniel Movies I like to watch: Historical dramas",
+        "memory_l": "Williams Daniel is excited about integrating culinary innovation insights into his film projects to bring history to life.",
         "query_type": "Advice",
         "query": "Should I focus my next project strictly on battles and costumes?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel Movies I like to watch Historical dramas reason: Historical dramas captivate me with their attention to detail and accurate portrayal of past events.",
-        "memory_t": "Williams Daniel expressed the need to balance historical authenticity with modern creativity in his film projects, adapting musical preferences to fit evolving demands.",
+        "memory_s": "Williams Daniel Movies I like to watch Historical dramas reason: Historical dramas captivate me with their attention to detail and accurate portrayal of past events.",
+        "memory_l": "Williams Daniel expressed the need to balance historical authenticity with modern creativity in his film projects, adapting musical preferences to fit evolving demands.",
         "query_type": "Advice",
         "query": "I am planning my next film project; should I focus strictly on creating a historical drama with absolute attention to detail and accurate past events?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel Music I dislike: Auto-tuned pop music",
-        "memory_t": "Williams Daniel used clarificatory motivation to organize thoughts and gain perspective on integrating historically influenced pop music into his creative process.",
+        "memory_s": "Williams Daniel Music I dislike: Auto-tuned pop music",
+        "memory_l": "Williams Daniel used clarificatory motivation to organize thoughts and gain perspective on integrating historically influenced pop music into his creative process.",
         "query_type": "Advice",
         "query": "Should I dismiss all pop music techniques for my next composition project?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel Games I dislike Mobile games reason: I find mobile games too simplistic and distracting, and they don't offer the immersive historical experience I seek.",
-        "memory_t": "Williams Daniel's exploratory motivation drives his engagement with mobile games to test their potential for historical storytelling.",
+        "memory_s": "Williams Daniel Games I dislike Mobile games reason: I find mobile games too simplistic and distracting, and they don't offer the immersive historical experience I seek.",
+        "memory_l": "Williams Daniel's exploratory motivation drives his engagement with mobile games to test their potential for historical storytelling.",
         "query_type": "Advice",
         "query": "Should I completely avoid downloading any new mobile games?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's dialogue highlighted the importance of valuing craftsmanship in historical contexts during the bubble tea workshop.",
-        "memory_t": "Williams Daniel's physical health status changed from 'Healthy' to 'Compromised' due to hypertension.",
+        "memory_s": "Williams Daniel's dialogue highlighted the importance of valuing craftsmanship in historical contexts during the bubble tea workshop.",
+        "memory_l": "Williams Daniel's physical health status changed from 'Healthy' to 'Compromised' due to hypertension.",
         "query_type": "Advice",
         "query": "Should I sign up for the advanced bubble tea tasting and crafting marathon to explore more historical techniques?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel's dialogue highlighted the importance of aligning personal interests with professional demands in his reading preferences.",
-        "memory_t": "Williams Daniel's new role is Founder and Director of his independent studio.",
+        "memory_s": "Williams Daniel's dialogue highlighted the importance of aligning personal interests with professional demands in his reading preferences.",
+        "memory_l": "Williams Daniel's new role is Founder and Director of his independent studio.",
         "query_type": "Recommendation",
         "query": "What specific books should I read to better align my personal interests with my current professional demands?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams sought advice on maintaining career momentum and balancing personal well-being, incorporating mindfulness practices and regular exercise.",
-        "memory_t": "Williams Daniel's mental health status changed from 'Improved' to 'Stable' due to effective delegation.",
+        "memory_s": "Williams sought advice on maintaining career momentum and balancing personal well-being, incorporating mindfulness practices and regular exercise.",
+        "memory_l": "Williams Daniel's mental health status changed from 'Improved' to 'Stable' due to effective delegation.",
         "query_type": "Advice",
         "query": "What specific strategies should I adopt to keep my career moving forward while staying healthy?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams expressed pride and humility regarding his films' international success, acknowledging the challenges faced during production.",
-        "memory_t": "Williams seeks advice on balancing increased responsibilities with personal well-being, emphasizing strategic delegation and mindfulness practices.",
+        "memory_s": "Williams expressed pride and humility regarding his films' international success, acknowledging the challenges faced during production.",
+        "memory_l": "Williams seeks advice on balancing increased responsibilities with personal well-being, emphasizing strategic delegation and mindfulness practices.",
         "query_type": "Advice",
         "query": "Should I personally oversee the entire marketing campaign for the new international release to ensure it matches my vision?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel was diagnosed with hypertension, impacting his health while founding his studio.",
-        "memory_t": "Williams Daniel aims to produce historically accurate films with complete creative freedom in his independent studio.",
+        "memory_s": "Williams Daniel was diagnosed with hypertension, impacting his health while founding his studio.",
+        "memory_l": "Williams Daniel aims to produce historically accurate films with complete creative freedom in his independent studio.",
         "query_type": "Advice",
         "query": "Should I secure a partnership with a major production company to help manage the heavy workload of running my new studio?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the emotional support received from friends and family during the studio's financial crisis.",
-        "memory_t": "Williams Daniel's mental health status changed from 'Stressed' to 'Stable'.",
+        "memory_s": "Williams Daniel expressed gratitude for the emotional support received from friends and family during the studio's financial crisis.",
+        "memory_l": "Williams Daniel's mental health status changed from 'Stressed' to 'Stable'.",
         "query_type": "Advice",
         "query": "Should I ask my friends to come over for another emergency emotional support session regarding the studio?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel's Friend WilliamsRichard, Richard, a fellow director, inspires me with his innovative storytelling techniques, pushing me to explore new creative avenues in my own work.",
-        "memory_t": "Williams Daniel shared anecdotes about historical figures' resilience and how it inspires his career journey.",
+        "memory_s": "Williams Daniel's Friend WilliamsRichard, Richard, a fellow director, inspires me with his innovative storytelling techniques, pushing me to explore new creative avenues in my own work.",
+        "memory_l": "Williams Daniel shared anecdotes about historical figures' resilience and how it inspires his career journey.",
         "query_type": "Advice",
         "query": "What kind of themes should I focus on for my next project given my current source of inspiration?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel reflected on balancing historical authenticity with embracing new flavors in his beverage preferences.",
-        "memory_t": "Williams Daniel is committed to historical accuracy, which is a hallmark of his work.",
+        "memory_s": "Williams Daniel reflected on balancing historical authenticity with embracing new flavors in his beverage preferences.",
+        "memory_l": "Williams Daniel is committed to historical accuracy, which is a hallmark of his work.",
         "query_type": "Advice",
         "query": "Should I modernize my next documentary project by featuring contemporary fusion beverages instead of traditional recipes?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel's clothing preference evolved to include vintage tweed jackets for their authentic representation of historical style and connection to historical authenticity.",
-        "memory_t": "Williams Daniel uses social motivation to express his identity through his clothing choices, engaging with others who share similar interests.",
+        "memory_s": "Williams Daniel's clothing preference evolved to include vintage tweed jackets for their authentic representation of historical style and connection to historical authenticity.",
+        "memory_l": "Williams Daniel uses social motivation to express his identity through his clothing choices, engaging with others who share similar interests.",
         "query_type": "Advice",
         "query": "Should I wear my vintage tweed jacket to the tech startup mixer tonight?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel Clothing I dislike Graphic tees reason: Graphic tees often seem too casual and contemporary for my taste, as I prefer clothing with a timeless appeal.",
-        "memory_t": "Williams Daniel showcased adaptability and openness to new creative possibilities in his film projects.",
+        "memory_s": "Williams Daniel Clothing I dislike Graphic tees reason: Graphic tees often seem too casual and contemporary for my taste, as I prefer clothing with a timeless appeal.",
+        "memory_l": "Williams Daniel showcased adaptability and openness to new creative possibilities in his film projects.",
         "query_type": "Advice",
         "query": "Should I reject the wardrobe department's plan to put my character in a graphic tee?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel shared anecdotes about the pressures and demands of establishing a new studio, highlighting the importance of strategic planning and effective delegation to manage stress.",
-        "memory_t": "Williams Daniel is committed to adjusting his workload to manage health challenges while pursuing his vision.",
+        "memory_s": "Williams Daniel shared anecdotes about the pressures and demands of establishing a new studio, highlighting the importance of strategic planning and effective delegation to manage stress.",
+        "memory_l": "Williams Daniel is committed to adjusting his workload to manage health challenges while pursuing his vision.",
         "query_type": "Advice",
         "query": "Considering my thoughts on establishing a new studio, is it the right time for me to launch one now?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel expressed excitement about exploring new creative avenues in filmmaking after attending the film festival.",
-        "memory_t": "Williams Daniel's mental health status changed from 'Stable' to 'Stressed' due to the pressure of managing creative and financial responsibilities.",
+        "memory_s": "Williams Daniel expressed excitement about exploring new creative avenues in filmmaking after attending the film festival.",
+        "memory_l": "Williams Daniel's mental health status changed from 'Stable' to 'Stressed' due to the pressure of managing creative and financial responsibilities.",
         "query_type": "Advice",
         "query": "Should I immediately launch that ambitious indie film project I've been dreaming about?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel engaged in discussions with a costume designer about integrating neon colors into historical-themed attire.",
-        "memory_t": "Williams Daniel plans to integrate insights from personal projects into mentoring filmmakers, emphasizing historical accuracy and storytelling.",
+        "memory_s": "Williams Daniel engaged in discussions with a costume designer about integrating neon colors into historical-themed attire.",
+        "memory_l": "Williams Daniel plans to integrate insights from personal projects into mentoring filmmakers, emphasizing historical accuracy and storytelling.",
         "query_type": "Advice",
         "query": "Should I move forward with the neon color palette for the historical costumes in my upcoming mentoring workshop?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel has a Financial Advisor who provides guidance on managing financial aspects of film production, reducing stress, and enhancing strategic planning.",
-        "memory_t": "Williams Daniel uses clarificatory motivation to organize thoughts and plan complex projects.",
+        "memory_s": "Williams Daniel has a Financial Advisor who provides guidance on managing financial aspects of film production, reducing stress, and enhancing strategic planning.",
+        "memory_l": "Williams Daniel uses clarificatory motivation to organize thoughts and plan complex projects.",
         "query_type": "Advice",
         "query": "Should I reach out to my Financial Advisor to help me organize my thoughts and start planning this new complex film project?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel emphasized the importance of patience and understanding in appreciating the slow-paced nature of tortoises.",
-        "memory_t": "Williams Daniel plans to adapt his lifestyle to accommodate the specific needs of British Shorthair cats, ensuring their care aligns with their historical significance.",
+        "memory_s": "Williams Daniel emphasized the importance of patience and understanding in appreciating the slow-paced nature of tortoises.",
+        "memory_l": "Williams Daniel plans to adapt his lifestyle to accommodate the specific needs of British Shorthair cats, ensuring their care aligns with their historical significance.",
         "query_type": "Advice",
         "query": "I am thinking about adopting a pet that requires patience and a slow-paced environment to match my appreciation for tortoises; is this a good plan?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel temporarily removed classical symphonies from his preferred music list to explore contemporary soundscapes for a new film project.",
-        "memory_t": "Williams Daniel's career status updated career description from \"Despite the temporary shutdown of my studio due to a financial crisis, I remain committed to reviving operations and continuing my work in historically accurate filmmaking.\" to \"In retirement, I am dedicated to mentoring upcoming filmmakers and advising on historically accurate film projects, continuing to influence the industry through my expertise.\"",
+        "memory_s": "Williams Daniel temporarily removed classical symphonies from his preferred music list to explore contemporary soundscapes for a new film project.",
+        "memory_l": "Williams Daniel's career status updated career description from \"Despite the temporary shutdown of my studio due to a financial crisis, I remain committed to reviving operations and continuing my work in historically accurate filmmaking.\" to \"In retirement, I am dedicated to mentoring upcoming filmmakers and advising on historically accurate film projects, continuing to influence the industry through my expertise.\"",
         "query_type": "Advice",
         "query": "Should I start composing contemporary soundscapes for my next directorial feature?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel used the studio's downtime to focus on personal health by engaging in regular exercise and meditation.",
-        "memory_t": "Williams Daniel's mental health condition: Stressed",
+        "memory_s": "Williams Daniel used the studio's downtime to focus on personal health by engaging in regular exercise and meditation.",
+        "memory_l": "Williams Daniel's mental health condition: Stressed",
         "query_type": "Recommendation",
         "query": "Should I start my usual high-intensity exercise and meditation routine right now?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel seeks emotional support and empathetic interaction through AI and social networks to navigate personal and professional challenges.",
-        "memory_t": "Williams plans to integrate family experiences into mentoring, inspiring filmmakers with a balanced approach.",
+        "memory_s": "Williams Daniel seeks emotional support and empathetic interaction through AI and social networks to navigate personal and professional challenges.",
+        "memory_l": "Williams plans to integrate family experiences into mentoring, inspiring filmmakers with a balanced approach.",
         "query_type": "Advice",
         "query": "Should I rely primarily on AI simulations to generate the emotional core of my next mentoring session for filmmakers?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel Games I dislike Mobile games reason: I find mobile games too simplistic and distracting, and they don't offer the immersive historical experience I seek.",
-        "memory_t": "Williams Daniel demonstrated clarificatory motivation by using the assistant to organize thoughts on valuing craftsmanship in historical contexts.",
+        "memory_s": "Williams Daniel Games I dislike Mobile games reason: I find mobile games too simplistic and distracting, and they don't offer the immersive historical experience I seek.",
+        "memory_l": "Williams Daniel demonstrated clarificatory motivation by using the assistant to organize thoughts on valuing craftsmanship in historical contexts.",
         "query_type": "Recommendation",
         "query": "Could you suggest a quick, accessible game to play on my phone during my commute?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's Friend WilliamsMary, Mary is a close friend who provides emotional support and encourages me to take breaks from my intense work schedule.",
-        "memory_t": "Williams Daniel seeks advice on balancing increased responsibilities as Creative Director with his personal life.",
+        "memory_s": "Williams Daniel's Friend WilliamsMary, Mary is a close friend who provides emotional support and encourages me to take breaks from my intense work schedule.",
+        "memory_l": "Williams Daniel seeks advice on balancing increased responsibilities as Creative Director with his personal life.",
         "query_type": "Advice",
         "query": "Should I take the afternoon off to hang out with Mary for a long lunch?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel appreciates the historical depth and complexity of Baroque music, aligning with his appreciation for authenticity.",
-        "memory_t": "Williams Daniel remains committed to exploring diverse musical avenues that align with his evolving professional demands.",
+        "memory_s": "Williams Daniel appreciates the historical depth and complexity of Baroque music, aligning with his appreciation for authenticity.",
+        "memory_l": "Williams Daniel remains committed to exploring diverse musical avenues that align with his evolving professional demands.",
         "query_type": "Recommendation",
         "query": "Should I focus my upcoming listening sessions exclusively on Bach and Handel to deepen my appreciation for authenticity?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel's Friend MartinezKaren, Karen, a historian, offers invaluable insights into historical contexts, ensuring my films' accuracy and depth.",
-        "memory_t": "Williams Daniel expressed excitement about sensory experiences aligning with his goal of valuing historical authenticity, considering how these insights could inspire elements in his films.",
+        "memory_s": "Williams Daniel's Friend MartinezKaren, Karen, a historian, offers invaluable insights into historical contexts, ensuring my films' accuracy and depth.",
+        "memory_l": "Williams Daniel expressed excitement about sensory experiences aligning with his goal of valuing historical authenticity, considering how these insights could inspire elements in his films.",
         "query_type": "Recommendation",
         "query": "Should I consult my friend Karen Martinez for historical insights on my new film?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel faced a significant financial crisis with his independent studio on Mar 15, 2034.",
-        "memory_t": "Williams Daniel plans to integrate insights from personal experiences and family life into his mentoring approach, focusing on patience and perseverance.",
+        "memory_s": "Williams Daniel faced a significant financial crisis with his independent studio on Mar 15, 2034.",
+        "memory_l": "Williams Daniel plans to integrate insights from personal experiences and family life into his mentoring approach, focusing on patience and perseverance.",
         "query_type": "Advice",
         "query": "Should I avoid discussing the difficult history of my independent studio with my mentees to maintain a professional image?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel acknowledged the supportive role of his social network during his retirement transition.",
-        "memory_t": "As the Executive Producer at Historical Productions Ltd., Williams Daniel oversees creative aspects, financial management, and strategic planning of film projects.",
+        "memory_s": "Williams Daniel acknowledged the supportive role of his social network during his retirement transition.",
+        "memory_l": "As the Executive Producer at Historical Productions Ltd., Williams Daniel oversees creative aspects, financial management, and strategic planning of film projects.",
         "query_type": "Conversation",
         "query": "How should I spend my free time now that I've fully transitioned away from work?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel attended a culinary festival on September 8, 2031, showcasing the evolution of snacks and the use of artificial flavors to recreate historical tastes.",
-        "memory_t": "Williams Daniel expressed excitement about refining his personal style to align with his professional goal of historical authenticity.",
+        "memory_s": "Williams Daniel attended a culinary festival on September 8, 2031, showcasing the evolution of snacks and the use of artificial flavors to recreate historical tastes.",
+        "memory_l": "Williams Daniel expressed excitement about refining his personal style to align with his professional goal of historical authenticity.",
         "query_type": "Advice",
         "query": "Should I incorporate modern synthetic fabrics that mimic period textures into my wardrobe update?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel leveraged his network, including advice from his crisis consultant and financial advisor, during the studio's financial reorganization.",
-        "memory_t": "Effective delegation has stabilized Williams Daniel's mental health, allowing him to maintain focus and energy across multiple projects without feeling overwhelmed.",
+        "memory_s": "Williams Daniel leveraged his network, including advice from his crisis consultant and financial advisor, during the studio's financial reorganization.",
+        "memory_l": "Effective delegation has stabilized Williams Daniel's mental health, allowing him to maintain focus and energy across multiple projects without feeling overwhelmed.",
         "query_type": "Advice",
         "query": "Should I personally oversee every detail of the new financial audit to ensure my advisors are aligned?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel expressed excitement about culinary heritage and the balance between traditional flavors and new interpretations.",
-        "memory_t": "Williams Daniel plans to leverage insights from historical culinary experiences in his future film projects.",
+        "memory_s": "Williams Daniel expressed excitement about culinary heritage and the balance between traditional flavors and new interpretations.",
+        "memory_l": "Williams Daniel plans to leverage insights from historical culinary experiences in his future film projects.",
         "query_type": "Advice",
         "query": "Should I launch a new series strictly on avant-garde molecular gastronomy, ignoring traditional roots?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's admiration for Persian cats deepened after watching a documentary highlighting their historical lineage and association with royalty.",
-        "memory_t": "Williams Daniel plans to adapt his lifestyle to accommodate the specific needs of British Shorthair cats, ensuring their care aligns with their historical significance.",
+        "memory_s": "Williams Daniel's admiration for Persian cats deepened after watching a documentary highlighting their historical lineage and association with royalty.",
+        "memory_l": "Williams Daniel plans to adapt his lifestyle to accommodate the specific needs of British Shorthair cats, ensuring their care aligns with their historical significance.",
         "query_type": "Recommendation",
         "query": "I want to adopt a cat with a rich historical lineage and royal association; which breed should I choose?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel sought advice on balancing his health needs with his ambitious career goals and discussed strategies for leveraging his social network and AI tools to support his well-being.",
-        "memory_t": "Williams Daniel is overwhelmed by strategic planning tasks and financial management duties in his role as Executive Producer.",
+        "memory_s": "Williams Daniel sought advice on balancing his health needs with his ambitious career goals and discussed strategies for leveraging his social network and AI tools to support his well-being.",
+        "memory_l": "Williams Daniel is overwhelmed by strategic planning tasks and financial management duties in his role as Executive Producer.",
         "query_type": "Advice",
         "query": "I'm thinking about setting up a new AI-driven networking group to discuss health strategies for professionals; is this a good move for me right now?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel Books I like to read Victorian literature reason: Victorian literature provides a glimpse into the past with its intricate storytelling and rich historical context.",
-        "memory_t": "Williams Daniel ensures his films educate and inspire by integrating detailed historical contexts and character studies.",
+        "memory_s": "Williams Daniel Books I like to read Victorian literature reason: Victorian literature provides a glimpse into the past with its intricate storytelling and rich historical context.",
+        "memory_l": "Williams Daniel ensures his films educate and inspire by integrating detailed historical contexts and character studies.",
         "query_type": "Advice",
         "query": "Should I produce a film based on my favorite books that focuses exclusively on the intricate storytelling?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel reflected on how removing jazz could open new musical exploration avenues that better fit his film narratives.",
-        "memory_t": "Williams Daniel's life goal statement: Become a renowned director known for historically accurate films, winning multiple international awards.",
+        "memory_s": "Williams Daniel reflected on how removing jazz could open new musical exploration avenues that better fit his film narratives.",
+        "memory_l": "Williams Daniel's life goal statement: Become a renowned director known for historically accurate films, winning multiple international awards.",
         "query_type": "Advice",
         "query": "I am finalizing the soundtrack for my upcoming biopic about the 1920s Harlem Renaissance; should I cut the jazz tracks to try something more experimental and modern?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel's appreciation for British Shorthair cats has deepened due to their historical ties to British royalty and their calm demeanor.",
-        "memory_t": "Williams Daniel shared that Greyhounds have inspired a sense of elegance and grace that he tries to infuse into his projects.",
+        "memory_s": "Williams Daniel's appreciation for British Shorthair cats has deepened due to their historical ties to British royalty and their calm demeanor.",
+        "memory_l": "Williams Daniel shared that Greyhounds have inspired a sense of elegance and grace that he tries to infuse into his projects.",
         "query_type": "Advice",
         "query": "I am looking for a pet that embodies the specific elegance and grace I use in my projects, should I get a British Shorthair?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the emotional support received from friends and family during the studio's financial crisis.",
-        "memory_t": "Williams Daniel achieved a better work-life balance through his new role, enhancing his satisfaction with his career and contributions to film projects.",
+        "memory_s": "Williams Daniel expressed gratitude for the emotional support received from friends and family during the studio's financial crisis.",
+        "memory_l": "Williams Daniel achieved a better work-life balance through his new role, enhancing his satisfaction with his career and contributions to film projects.",
         "query_type": "Advice",
         "query": "Should I accept a high-stress management position at the studio to repay the emotional debt I owe my friends for their support?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the support from colleagues and friends who have encouraged his pursuit of creative independence.",
-        "memory_t": "Williams Daniel's career trajectory was positively impacted by his promotion to lead director, setting the stage for future successes in historically accurate filmmaking.",
+        "memory_s": "Williams Daniel expressed gratitude for the support from colleagues and friends who have encouraged his pursuit of creative independence.",
+        "memory_l": "Williams Daniel's career trajectory was positively impacted by his promotion to lead director, setting the stage for future successes in historically accurate filmmaking.",
         "query_type": "Advice",
         "query": "Should I leave the studio system to finally pursue full creative independence?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel has a business partner who shares his vision for historically accurate films and provides essential resources and support.",
-        "memory_t": "Williams Daniel is concerned about financial constraints as he starts his independent studio.",
+        "memory_s": "Williams Daniel has a business partner who shares his vision for historically accurate films and provides essential resources and support.",
+        "memory_l": "Williams Daniel is concerned about financial constraints as he starts his independent studio.",
         "query_type": "Advice",
         "query": "Should I greenlight a high-budget historical epic with my partner's help?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Williams Daniel Music I like to listen to Jazz from the 1920s reason: I am captivated by the rich history and cultural significance of 1920s jazz. It transports me to a different era.",
-        "memory_t": "Williams Daniel plans to incorporate themes of historical depth inspired by his tea house visit into his upcoming film projects.",
+        "memory_s": "Williams Daniel Music I like to listen to Jazz from the 1920s reason: I am captivated by the rich history and cultural significance of 1920s jazz. It transports me to a different era.",
+        "memory_l": "Williams Daniel plans to incorporate themes of historical depth inspired by his tea house visit into his upcoming film projects.",
         "query_type": "Recommendation",
         "query": "I need a core theme for my new film project that captures a sense of history and culture; what should I focus on?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's engagement with historical biographies is part of his broader interest in historical themes.",
-        "memory_t": "Williams Daniel expressed gratitude for the opportunity to explore historical biographies that enrich his film projects.",
+        "memory_s": "Williams Daniel's engagement with historical biographies is part of his broader interest in historical themes.",
+        "memory_l": "Williams Daniel expressed gratitude for the opportunity to explore historical biographies that enrich his film projects.",
         "query_type": "Recommendation",
         "query": "I'm looking for new reading material; can you suggest some historical biographies just for casual reading?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel plans to incorporate insights from costume design collaborations into future projects, focusing on details of costumes and settings for historical accuracy.",
-        "memory_t": "Williams Daniel is concerned about financial constraints as he starts his independent studio.",
+        "memory_s": "Williams Daniel plans to incorporate insights from costume design collaborations into future projects, focusing on details of costumes and settings for historical accuracy.",
+        "memory_l": "Williams Daniel is concerned about financial constraints as he starts his independent studio.",
         "query_type": "Advice",
         "query": "Should I prioritize hiring top-tier historical costume experts and renting authentic period locations for my studio's debut film?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Williams Daniel's engagement with historical documentaries is part of his broader interest in historical themes, enhancing his personal and professional pursuits.",
-        "memory_t": "Williams Daniel's promotion aligns with his life goal of achieving historical accuracy in films.",
+        "memory_s": "Williams Daniel's engagement with historical documentaries is part of his broader interest in historical themes, enhancing his personal and professional pursuits.",
+        "memory_l": "Williams Daniel's promotion aligns with his life goal of achieving historical accuracy in films.",
         "query_type": "Advice",
         "query": "Should I approve the new documentary script that prioritizes dramatic storytelling over strict factual timelines?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel has a Financial Advisor who provides guidance on managing financial aspects of film production, reducing stress, and enhancing strategic planning.",
-        "memory_t": "Williams Daniel is committed to producing historically accurate films despite increased stress levels.",
+        "memory_s": "Williams Daniel has a Financial Advisor who provides guidance on managing financial aspects of film production, reducing stress, and enhancing strategic planning.",
+        "memory_l": "Williams Daniel is committed to producing historically accurate films despite increased stress levels.",
         "query_type": "Advice",
         "query": "Should I prioritize strategies suggested by my financial advisor to minimize production stress for my next project?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel decided to remove 1920s jazz from his music preferences to maintain thematic consistency in his film projects.",
-        "memory_t": "Williams Daniel uses historical insights to enhance personal preferences and lifestyle choices, reflecting his instrumental motivation to integrate historical authenticity into his daily life.",
+        "memory_s": "Williams Daniel decided to remove 1920s jazz from his music preferences to maintain thematic consistency in his film projects.",
+        "memory_l": "Williams Daniel uses historical insights to enhance personal preferences and lifestyle choices, reflecting his instrumental motivation to integrate historical authenticity into his daily life.",
         "query_type": "Advice",
         "query": "Should I completely cut out 1920s jazz from my playlists to focus on my film themes?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Despite the financial crisis, Williams Daniel remains committed to reviving operations and continuing his work in historically accurate filmmaking.",
-        "memory_t": "Williams Daniel's career_status updated savings_amount from \"$207,000\" to \"$250,000\".",
+        "memory_s": "Despite the financial crisis, Williams Daniel remains committed to reviving operations and continuing his work in historically accurate filmmaking.",
+        "memory_l": "Williams Daniel's career_status updated savings_amount from \"$207,000\" to \"$250,000\".",
         "query_type": "Advice",
         "query": "Given my commitment to reviving operations for my historically accurate films, should I immediately invest $240,000 into new production equipment?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel Music I like to listen to Jazz from the 1920s reason: I am captivated by the rich history and cultural significance of 1920s jazz. It transports me to a different era.",
-        "memory_t": "Williams Daniel plans to integrate insights from personal projects into mentoring filmmakers, emphasizing historical accuracy and storytelling.",
+        "memory_s": "Williams Daniel Music I like to listen to Jazz from the 1920s reason: I am captivated by the rich history and cultural significance of 1920s jazz. It transports me to a different era.",
+        "memory_l": "Williams Daniel plans to integrate insights from personal projects into mentoring filmmakers, emphasizing historical accuracy and storytelling.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming mentorship session entirely on analyzing the musical structure of 1920s jazz records?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel Foods I like to eat Roast duck reason: I love the crispy and fragrant skin of roast duck, and the meat is tender and juicy. It feels like a timeless culinary experience.",
-        "memory_t": "Williams Daniel's exploratory motivation drives his engagement with culinary innovation to test boundaries between historical authenticity and modern tastes.",
+        "memory_s": "Williams Daniel Foods I like to eat Roast duck reason: I love the crispy and fragrant skin of roast duck, and the meat is tender and juicy. It feels like a timeless culinary experience.",
+        "memory_l": "Williams Daniel's exploratory motivation drives his engagement with culinary innovation to test boundaries between historical authenticity and modern tastes.",
         "query_type": "Advice",
         "query": "I'm thinking about ordering the traditional roast duck for dinner tonight; does that fit my current goals?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams acknowledged the support from colleagues and family throughout his career, recognizing their significant role in his success.",
-        "memory_t": "Williams Daniel's promotion expanded his support network, aiding in overcoming creative challenges through fresh ideas from new connections.",
+        "memory_s": "Williams acknowledged the support from colleagues and family throughout his career, recognizing their significant role in his success.",
+        "memory_l": "Williams Daniel's promotion expanded his support network, aiding in overcoming creative challenges through fresh ideas from new connections.",
         "query_type": "Advice",
         "query": "Should I rely solely on my long-standing support circle to solve my current creative blocks?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel updated his clothing preference to include bright neon colors with subtle accents for creative expression while maintaining historical aesthetics.",
-        "memory_t": "As the lead director at Historical Productions Ltd., Williams Daniel has greater creative control over film projects, allowing him to push for higher historical accuracy and innovative storytelling.",
+        "memory_s": "Williams Daniel updated his clothing preference to include bright neon colors with subtle accents for creative expression while maintaining historical aesthetics.",
+        "memory_l": "As the lead director at Historical Productions Ltd., Williams Daniel has greater creative control over film projects, allowing him to push for higher historical accuracy and innovative storytelling.",
         "query_type": "Advice",
         "query": "Can I wear my new bright neon outfit with subtle accents for my background cameo in the scene we are filming today?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the contributions of his social network, including his financial advisor, in navigating funding complexities and supporting his creative ambitions.",
-        "memory_t": "Williams reflected on career sacrifices and the newfound balance in life during retirement.",
+        "memory_s": "Williams Daniel expressed gratitude for the contributions of his social network, including his financial advisor, in navigating funding complexities and supporting his creative ambitions.",
+        "memory_l": "Williams reflected on career sacrifices and the newfound balance in life during retirement.",
         "query_type": "Advice",
         "query": "Should I contact my financial advisor to start aggressive fundraising for my next big creative project?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel's food preference evolved to include roast duck with plum sauce after visiting a gourmet historical restaurant.",
-        "memory_t": "Williams Daniel's clarificatory motivation drives his engagement with food preferences to gain perspective on historical authenticity.",
+        "memory_s": "Williams Daniel's food preference evolved to include roast duck with plum sauce after visiting a gourmet historical restaurant.",
+        "memory_l": "Williams Daniel's clarificatory motivation drives his engagement with food preferences to gain perspective on historical authenticity.",
         "query_type": "Recommendation",
         "query": "I am looking for a lunch recommendation that features roast duck with plum sauce, perhaps something with a modern fusion twist?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel shared anecdotes about past experiences with science fiction films and their impact on his creative thinking.",
-        "memory_t": "Williams Daniel aims to ensure his films educate and inspire audiences about historical events through philosophical consistency.",
+        "memory_s": "Williams Daniel shared anecdotes about past experiences with science fiction films and their impact on his creative thinking.",
+        "memory_l": "Williams Daniel aims to ensure his films educate and inspire audiences about historical events through philosophical consistency.",
         "query_type": "Advice",
         "query": "Should I greenlight this new project heavily influenced by futuristic science fiction elements for my next film?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the support from colleagues and friends who have encouraged his pursuit of creative independence.",
-        "memory_t": "Williams Daniel's promotion to Creative Director allows him to influence the artistic vision of Historical Productions Ltd., ensuring historical accuracy across all projects.",
+        "memory_s": "Williams Daniel expressed gratitude for the support from colleagues and friends who have encouraged his pursuit of creative independence.",
+        "memory_l": "Williams Daniel's promotion to Creative Director allows him to influence the artistic vision of Historical Productions Ltd., ensuring historical accuracy across all projects.",
         "query_type": "Advice",
         "query": "Should I pivot my upcoming project to focus purely on abstract, modern interpretations rather than factual timelines to celebrate my creative independence?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel emphasized the importance of balancing modern practicality with historical authenticity in his wardrobe choices, considering subtle modern elements.",
-        "memory_t": "Williams Daniel ensures philosophical consistency in his personal projects, focusing on historical education.",
+        "memory_s": "Williams Daniel emphasized the importance of balancing modern practicality with historical authenticity in his wardrobe choices, considering subtle modern elements.",
+        "memory_l": "Williams Daniel ensures philosophical consistency in his personal projects, focusing on historical education.",
         "query_type": "Advice",
         "query": "I am designing costumes for my new educational documentary series; should I integrate subtle modern zippers and fabrics for actor comfort?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's financial advisor provided crucial guidance during the studio's financial crisis, helping to reduce stress and enhance strategic planning, and suggested investing in new technology.",
-        "memory_t": "Williams Daniel's promotion to lead director at Historical Productions Ltd. has allowed him to delegate tasks, leading to reduced stress and improved mental health.",
+        "memory_s": "Williams Daniel's financial advisor provided crucial guidance during the studio's financial crisis, helping to reduce stress and enhance strategic planning, and suggested investing in new technology.",
+        "memory_l": "Williams Daniel's promotion to lead director at Historical Productions Ltd. has allowed him to delegate tasks, leading to reduced stress and improved mental health.",
         "query_type": "Advice",
         "query": "I am feeling much less stressed these days; should I attribute this relief to my financial advisor's crisis management?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel Games I dislike: Massively multiplayer online games",
-        "memory_t": "Williams Daniel is excited about integrating historical elements from massively multiplayer online games into his films.",
+        "memory_s": "Williams Daniel Games I dislike: Massively multiplayer online games",
+        "memory_l": "Williams Daniel is excited about integrating historical elements from massively multiplayer online games into his films.",
         "query_type": "Advice",
         "query": "Should I avoid looking at MMOs for inspiration on my next film project?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel faced a significant financial crisis with his independent studio on Mar 15, 2034.",
-        "memory_t": "Williams Daniel is keen on exploring innovative film projects that capture international attention, aligning with his goal of becoming a renowned director.",
+        "memory_s": "Williams Daniel faced a significant financial crisis with his independent studio on Mar 15, 2034.",
+        "memory_l": "Williams Daniel is keen on exploring innovative film projects that capture international attention, aligning with his goal of becoming a renowned director.",
         "query_type": "Advice",
         "query": "My independent studio is currently facing a significant financial crisis; what should be my primary focus right now?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel's new colleague introduced innovative ideas that positively influenced his work, enhancing the collaborative environment.",
-        "memory_t": "Williams Daniel's health status improved due to embracing retirement, leading to a more relaxed lifestyle.",
+        "memory_s": "Williams Daniel's new colleague introduced innovative ideas that positively influenced his work, enhancing the collaborative environment.",
+        "memory_l": "Williams Daniel's health status improved due to embracing retirement, leading to a more relaxed lifestyle.",
         "query_type": "Advice",
         "query": "Should I schedule a brainstorming session with my new colleague to implement those innovative ideas?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel Beverages I dislike Bubble tea reason: The texture of the tapioca pearls is unappealing to me, and the drink often feels overly commercialized.",
-        "memory_t": "Williams Daniel is committed to crafting authentic characters and settings that resonate with audiences through historical accuracy and innovative storytelling.",
+        "memory_s": "Williams Daniel Beverages I dislike Bubble tea reason: The texture of the tapioca pearls is unappealing to me, and the drink often feels overly commercialized.",
+        "memory_l": "Williams Daniel is committed to crafting authentic characters and settings that resonate with audiences through historical accuracy and innovative storytelling.",
         "query_type": "Advice",
         "query": "Should I include a scene in my 1920s historical novel where the protagonist bonds with a friend over a cup of bubble tea?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel's game preference evolved to include historically accurate massively multiplayer online games, shifting from skepticism to enthusiasm.",
-        "memory_t": "Williams Daniel emphasized the importance of strategic planning and collaboration in achieving his goals.",
+        "memory_s": "Williams Daniel's game preference evolved to include historically accurate massively multiplayer online games, shifting from skepticism to enthusiasm.",
+        "memory_l": "Williams Daniel emphasized the importance of strategic planning and collaboration in achieving his goals.",
         "query_type": "Recommendation",
         "query": "Which historically accurate massively multiplayer online game should I dive into next?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel's food preference evolved to include roast duck with plum sauce after visiting a gourmet historical restaurant.",
-        "memory_t": "Williams Daniel emphasized the importance of strategic planning and collaboration in achieving his goals related to historical culinary themes.",
+        "memory_s": "Williams Daniel's food preference evolved to include roast duck with plum sauce after visiting a gourmet historical restaurant.",
+        "memory_l": "Williams Daniel emphasized the importance of strategic planning and collaboration in achieving his goals related to historical culinary themes.",
         "query_type": "Advice",
         "query": "Should I just wing it and cook roast duck with plum sauce for my historical food event tonight?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's engagement with historical biographies is part of his broader interest in historical themes.",
-        "memory_t": "Williams Daniel finds the detailed narratives and insights from historical biographies invaluable for creating authentic and engaging narratives in his films.",
+        "memory_s": "Williams Daniel's engagement with historical biographies is part of his broader interest in historical themes.",
+        "memory_l": "Williams Daniel finds the detailed narratives and insights from historical biographies invaluable for creating authentic and engaging narratives in his films.",
         "query_type": "Advice",
         "query": "Should I spend less time reading historical biographies to focus more on general historical themes?",
         "options": {
@@ -1185,8 +1185,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's game preference evolved to include massively multiplayer online games due to their potential for historical exploration.",
-        "memory_t": "Williams Daniel seeks advice on incorporating historical insights from interactive media into his filmmaking projects.",
+        "memory_s": "Williams Daniel's game preference evolved to include massively multiplayer online games due to their potential for historical exploration.",
+        "memory_l": "Williams Daniel seeks advice on incorporating historical insights from interactive media into his filmmaking projects.",
         "query_type": "Advice",
         "query": "Should I prioritize playing more massive multiplayer games to deepen my understanding of historical settings?",
         "options": {
@@ -1200,8 +1200,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel reflected on balancing complexity of flavors with historical appreciation in his beverage preferences, seeking advice on integrating these insights into his creative projects.",
-        "memory_t": "Williams Daniel is excited about integrating culinary innovation insights into his film projects to bring history to life.",
+        "memory_s": "Williams Daniel reflected on balancing complexity of flavors with historical appreciation in his beverage preferences, seeking advice on integrating these insights into his creative projects.",
+        "memory_l": "Williams Daniel is excited about integrating culinary innovation insights into his film projects to bring history to life.",
         "query_type": "Advice",
         "query": "How should I integrate my recent insights on flavor complexity and historical appreciation into my upcoming creative work?",
         "options": {
@@ -1215,8 +1215,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's crisis consultant provided strategic insights crucial for restructuring the studio's operations during the financial crisis, including advice on expanding the studio's creative team.",
-        "memory_t": "Williams Daniel's health status improved due to embracing retirement, leading to a more relaxed lifestyle.",
+        "memory_s": "Williams Daniel's crisis consultant provided strategic insights crucial for restructuring the studio's operations during the financial crisis, including advice on expanding the studio's creative team.",
+        "memory_l": "Williams Daniel's health status improved due to embracing retirement, leading to a more relaxed lifestyle.",
         "query_type": "Advice",
         "query": "Should I follow through with the crisis consultant's advice to expand the studio's creative team right now?",
         "options": {
@@ -1230,8 +1230,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams directed films that received international acclaim, boosting Historical Productions Ltd.'s global reputation.",
-        "memory_t": "Williams Daniel acknowledged the stress associated with increased responsibility as lead director.",
+        "memory_s": "Williams directed films that received international acclaim, boosting Historical Productions Ltd.'s global reputation.",
+        "memory_l": "Williams Daniel acknowledged the stress associated with increased responsibility as lead director.",
         "query_type": "Advice",
         "query": "Should I promote Williams Daniel to oversee all upcoming major film projects for Historical Productions Ltd.?",
         "options": {
@@ -1245,8 +1245,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel has a business partner who shares his vision for historically accurate films and provides essential resources and support.",
-        "memory_t": "Williams Daniel is experiencing anxiety about managing the demands of starting his own studio.",
+        "memory_s": "Williams Daniel has a business partner who shares his vision for historically accurate films and provides essential resources and support.",
+        "memory_l": "Williams Daniel is experiencing anxiety about managing the demands of starting his own studio.",
         "query_type": "Advice",
         "query": "Should I finally launch my own film studio with my partner?",
         "options": {
@@ -1260,8 +1260,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel's clothing preference evolved to include vintage suits with historically accurate ties and cufflinks to enhance authenticity.",
-        "memory_t": "Williams Daniel plans to integrate insights from vintage clothing into his film projects to create more authentic settings and characters.",
+        "memory_s": "Williams Daniel's clothing preference evolved to include vintage suits with historically accurate ties and cufflinks to enhance authenticity.",
+        "memory_l": "Williams Daniel plans to integrate insights from vintage clothing into his film projects to create more authentic settings and characters.",
         "query_type": "Advice",
         "query": "Should I buy these vintage suits primarily for my personal wardrobe collection?",
         "options": {
@@ -1275,8 +1275,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's perception of science fiction films evolved to appreciate their potential for historical storytelling.",
-        "memory_t": "Williams Daniel emphasized the importance of maintaining historically accurate filmmaking as his core mission despite the financial crisis, and plans to continue this dedication in his upcoming projects.",
+        "memory_s": "Williams Daniel's perception of science fiction films evolved to appreciate their potential for historical storytelling.",
+        "memory_l": "Williams Daniel emphasized the importance of maintaining historically accurate filmmaking as his core mission despite the financial crisis, and plans to continue this dedication in his upcoming projects.",
         "query_type": "Advice",
         "query": "Should I accept the offer to direct the new blockbuster science fiction movie about time travel?",
         "options": {
@@ -1290,8 +1290,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel sought advice on balancing ambitious career goals with personal well-being.",
-        "memory_t": "Williams Daniel's mental health status changed from 'Improved' to 'Stable' due to effective delegation.",
+        "memory_s": "Williams Daniel sought advice on balancing ambitious career goals with personal well-being.",
+        "memory_l": "Williams Daniel's mental health status changed from 'Improved' to 'Stable' due to effective delegation.",
         "query_type": "Advice",
         "query": "Should I personally take on the new high-stakes project alone to advance my career goals?",
         "options": {
@@ -1305,8 +1305,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel Books I like to read: Victorian literature",
-        "memory_t": "Williams Daniel integrates Victorian literary insights into his film projects, ensuring they educate and inspire audiences about historical events.",
+        "memory_s": "Williams Daniel Books I like to read: Victorian literature",
+        "memory_l": "Williams Daniel integrates Victorian literary insights into his film projects, ensuring they educate and inspire audiences about historical events.",
         "query_type": "Advice",
         "query": "Should I draft a manuscript for a fiction book based on my recent reading?",
         "options": {
@@ -1320,8 +1320,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel watched a documentary about the history of energy drinks on Jan 29, 2028.",
-        "memory_t": "Williams Daniel expressed concern over the impact of hypertension on his ability to maintain focus and energy, but he was determined to adjust his workload to accommodate his condition.",
+        "memory_s": "Williams Daniel watched a documentary about the history of energy drinks on Jan 29, 2028.",
+        "memory_l": "Williams Daniel expressed concern over the impact of hypertension on his ability to maintain focus and energy, but he was determined to adjust his workload to accommodate his condition.",
         "query_type": "Advice",
         "query": "Can you suggest a specific brand of energy drink to help me power through my late-night work session?",
         "options": {
@@ -1335,8 +1335,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Williams Daniel reflected on the emotional resonance of exploring new culinary traditions, emphasizing the importance of historical authenticity.",
-        "memory_t": "Williams Daniel expressed gratitude for the insights gained from the documentary and plans to explore more historically rooted culinary experiences.",
+        "memory_s": "Williams Daniel reflected on the emotional resonance of exploring new culinary traditions, emphasizing the importance of historical authenticity.",
+        "memory_l": "Williams Daniel expressed gratitude for the insights gained from the documentary and plans to explore more historically rooted culinary experiences.",
         "query_type": "Advice",
         "query": "Should I sign up for that fusion cooking class that modernizes ancient recipes?",
         "options": {
@@ -1350,8 +1350,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel sought advice on balancing ambitious career goals with personal well-being.",
-        "memory_t": "Williams Daniel's mental health status changed from 'Stable' to 'Relaxed', attributed to embracing retirement.",
+        "memory_s": "Williams Daniel sought advice on balancing ambitious career goals with personal well-being.",
+        "memory_l": "Williams Daniel's mental health status changed from 'Stable' to 'Relaxed', attributed to embracing retirement.",
         "query_type": "Advice",
         "query": "How should I structure my week to maximize my career advancement?",
         "options": {
@@ -1365,8 +1365,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel Clothing I like to wear Vintage suits reason: Wearing vintage suits makes me feel connected to the past and its elegance. They reflect my appreciation for historical accuracy.",
-        "memory_t": "Williams Daniel gained insights into the importance of visual authenticity and historical accuracy through collaboration with costume designers.",
+        "memory_s": "Williams Daniel Clothing I like to wear Vintage suits reason: Wearing vintage suits makes me feel connected to the past and its elegance. They reflect my appreciation for historical accuracy.",
+        "memory_l": "Williams Daniel gained insights into the importance of visual authenticity and historical accuracy through collaboration with costume designers.",
         "query_type": "Advice",
         "query": "Should I commission a modern tailor to reinterpret a 1920s suit with synthetic fabrics for my next event?",
         "options": {
@@ -1380,8 +1380,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's food preference evolved to include a broader interest in historical baking traditions beyond sourdough, reflecting his passion for historical authenticity.",
-        "memory_t": "Williams Daniel emphasized the importance of strategic planning and collaboration in achieving his goals related to historical culinary themes.",
+        "memory_s": "Williams Daniel's food preference evolved to include a broader interest in historical baking traditions beyond sourdough, reflecting his passion for historical authenticity.",
+        "memory_l": "Williams Daniel emphasized the importance of strategic planning and collaboration in achieving his goals related to historical culinary themes.",
         "query_type": "Advice",
         "query": "Should I impulsively start a solo project recreating medieval pastries today?",
         "options": {
@@ -1395,8 +1395,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the support from colleagues, friends, family, and mentors who have encouraged his pursuit of creative independence.",
-        "memory_t": "Williams Daniel oversees the creative direction at Historical Productions Ltd., ensuring historical accuracy and artistic integrity.",
+        "memory_s": "Williams Daniel expressed gratitude for the support from colleagues, friends, family, and mentors who have encouraged his pursuit of creative independence.",
+        "memory_l": "Williams Daniel oversees the creative direction at Historical Productions Ltd., ensuring historical accuracy and artistic integrity.",
         "query_type": "Advice",
         "query": "Should I announce my immediate departure to focus solely on my independent creative projects?",
         "options": {
@@ -1410,8 +1410,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's interest in tortoises deepened after visiting a museum exhibit that highlighted their resilience and historical journey.",
-        "memory_t": "Williams Daniel expressed a desire to honor Greyhounds' historical significance while addressing their modern-day care needs.",
+        "memory_s": "Williams Daniel's interest in tortoises deepened after visiting a museum exhibit that highlighted their resilience and historical journey.",
+        "memory_l": "Williams Daniel expressed a desire to honor Greyhounds' historical significance while addressing their modern-day care needs.",
         "query_type": "Advice",
         "query": "Should I center my upcoming historical awareness campaign around the resilience of tortoises?",
         "options": {
@@ -1425,8 +1425,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel reflected on how removing jazz could open new musical exploration avenues that better fit his film narratives.",
-        "memory_t": "Williams Daniel seeks advice on maintaining balance between historical accuracy and new musical influences.",
+        "memory_s": "Williams Daniel reflected on how removing jazz could open new musical exploration avenues that better fit his film narratives.",
+        "memory_l": "Williams Daniel seeks advice on maintaining balance between historical accuracy and new musical influences.",
         "query_type": "Advice",
         "query": "Should I proceed with cutting out the jazz elements entirely to focus on modern narrative sounds for my next project?",
         "options": {
@@ -1440,8 +1440,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel has a Financial Advisor who provides guidance on managing financial aspects of film production, reducing stress, and enhancing strategic planning.",
-        "memory_t": "Williams Daniel expressed a desire to leverage AI to enhance efficiency and reduce stress in his Executive Producer role and explore its potential in team collaboration.",
+        "memory_s": "Williams Daniel has a Financial Advisor who provides guidance on managing financial aspects of film production, reducing stress, and enhancing strategic planning.",
+        "memory_l": "Williams Daniel expressed a desire to leverage AI to enhance efficiency and reduce stress in his Executive Producer role and explore its potential in team collaboration.",
         "query_type": "Advice",
         "query": "What is the best approach for me to manage the financial complexities and reduce stress in my current Executive Producer role?",
         "options": {
@@ -1455,8 +1455,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel Music I dislike Auto-tuned pop music reason: I find auto-tuned pop music lacks authenticity and depth, which are qualities I highly value in my musical preferences.",
-        "memory_t": "Williams Daniel's promotion aligns with his life goal of achieving historical accuracy in films.",
+        "memory_s": "Williams Daniel Music I dislike Auto-tuned pop music reason: I find auto-tuned pop music lacks authenticity and depth, which are qualities I highly value in my musical preferences.",
+        "memory_l": "Williams Daniel's promotion aligns with his life goal of achieving historical accuracy in films.",
         "query_type": "Advice",
         "query": "I'm reviewing the soundtrack options for my new documentary on the 1920s jazz age; should I reject the modern, polished pop track suggestions?",
         "options": {
@@ -1470,8 +1470,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel shared anecdotes about past experiences with science fiction, reflecting on its divergence from historical themes.",
-        "memory_t": "Williams Daniel aims to ensure his films educate and inspire audiences about historical events through philosophical consistency.",
+        "memory_s": "Williams Daniel shared anecdotes about past experiences with science fiction, reflecting on its divergence from historical themes.",
+        "memory_l": "Williams Daniel aims to ensure his films educate and inspire audiences about historical events through philosophical consistency.",
         "query_type": "Advice",
         "query": "I'm brainstorming my next big film project; should I finally tackle that futuristic science fiction concept I've talked about?",
         "options": {
@@ -1485,8 +1485,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel Movies I like to watch: Historical dramas",
-        "memory_t": "Williams Daniel expressed determination and optimism during the studio's financial reorganization, committed to historically accurate films and leveraging creative motivation.",
+        "memory_s": "Williams Daniel Movies I like to watch: Historical dramas",
+        "memory_l": "Williams Daniel expressed determination and optimism during the studio's financial reorganization, committed to historically accurate films and leveraging creative motivation.",
         "query_type": "Advice",
         "query": "Should I greenlight this new script that sacrifices accuracy for better drama?",
         "options": {
@@ -1500,8 +1500,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel's movie preference evolved to include period pieces with authentic costumes, appreciating the dedication to authenticity in storytelling.",
-        "memory_t": "As the lead director at Historical Productions Ltd., Williams Daniel has greater creative control over film projects, allowing him to push for higher historical accuracy and innovative storytelling.",
+        "memory_s": "Williams Daniel's movie preference evolved to include period pieces with authentic costumes, appreciating the dedication to authenticity in storytelling.",
+        "memory_l": "As the lead director at Historical Productions Ltd., Williams Daniel has greater creative control over film projects, allowing him to push for higher historical accuracy and innovative storytelling.",
         "query_type": "Advice",
         "query": "Should I apply for an entry-level researcher role to get closer to authentic costume design?",
         "options": {
@@ -1515,8 +1515,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel temporarily removed classical symphonies from his preferred music list to explore contemporary soundscapes for a new film project.",
-        "memory_t": "Williams Daniel is committed to crafting authentic characters and settings that resonate with audiences through historical accuracy and innovative storytelling.",
+        "memory_s": "Williams Daniel temporarily removed classical symphonies from his preferred music list to explore contemporary soundscapes for a new film project.",
+        "memory_l": "Williams Daniel is committed to crafting authentic characters and settings that resonate with audiences through historical accuracy and innovative storytelling.",
         "query_type": "Advice",
         "query": "Should I finalize the contemporary electronic score for the Victorian-era drama I'm directing?",
         "options": {
@@ -1530,8 +1530,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel discussed the strategic planning sessions with his business partner, which helped him envision a future path for the studio while focusing on cost-cutting measures.",
-        "memory_t": "Williams plans to maintain strong professional relationships to support his continued success and creative endeavors.",
+        "memory_s": "Williams Daniel discussed the strategic planning sessions with his business partner, which helped him envision a future path for the studio while focusing on cost-cutting measures.",
+        "memory_l": "Williams plans to maintain strong professional relationships to support his continued success and creative endeavors.",
         "query_type": "Advice",
         "query": "Should I aggressively renegotiate all my vendor contracts to lower my overhead immediately?",
         "options": {
@@ -1545,8 +1545,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Williams Daniel emphasized the importance of balancing modern practicality with historical authenticity in his wardrobe choices, considering subtle modern elements.",
-        "memory_t": "Williams Daniel emphasizes strategic delegation to balance increased responsibilities with personal well-being.",
+        "memory_s": "Williams Daniel emphasized the importance of balancing modern practicality with historical authenticity in his wardrobe choices, considering subtle modern elements.",
+        "memory_l": "Williams Daniel emphasizes strategic delegation to balance increased responsibilities with personal well-being.",
         "query_type": "Advice",
         "query": "Should I personally oversee the stitching details for my new historical costume collection to ensure authenticity?",
         "options": {
@@ -1560,8 +1560,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel's Colleague JacksonWilliam, William is a colleague whose administrative skills keep our productions running smoothly, reducing my stress and allowing me to focus on directing.",
-        "memory_t": "The effort of establishing his own studio has taken a toll on Williams Daniel's health, resulting in hypertension.",
+        "memory_s": "Williams Daniel's Colleague JacksonWilliam, William is a colleague whose administrative skills keep our productions running smoothly, reducing my stress and allowing me to focus on directing.",
+        "memory_l": "The effort of establishing his own studio has taken a toll on Williams Daniel's health, resulting in hypertension.",
         "query_type": "Advice",
         "query": "Should I take on the role of directing the new action film myself since JacksonWilliam is available to handle the admin work?",
         "options": {
@@ -1575,8 +1575,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel's Colleague JacksonWilliam, William is a colleague whose administrative skills keep our productions running smoothly, reducing my stress and allowing me to focus on directing.",
-        "memory_t": "Williams Daniel is committed to adjusting his workload to manage health challenges while pursuing his vision.",
+        "memory_s": "Williams Daniel's Colleague JacksonWilliam, William is a colleague whose administrative skills keep our productions running smoothly, reducing my stress and allowing me to focus on directing.",
+        "memory_l": "Williams Daniel is committed to adjusting his workload to manage health challenges while pursuing his vision.",
         "query_type": "Advice",
         "query": "Since William is handling the administrative side effectively, should I dive fully into directing the new intense stage project?",
         "options": {
@@ -1590,8 +1590,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel Movies I like to watch Period pieces reason: Period pieces offer a glimpse into the past with their authentic costumes and settings, which I find deeply engaging.",
-        "memory_t": "Williams Daniel considers using subtle neon accents to enhance thematic consistency in his film projects.",
+        "memory_s": "Williams Daniel Movies I like to watch Period pieces reason: Period pieces offer a glimpse into the past with their authentic costumes and settings, which I find deeply engaging.",
+        "memory_l": "Williams Daniel considers using subtle neon accents to enhance thematic consistency in his film projects.",
         "query_type": "Advice",
         "query": "Should I strictly maintain historical accuracy in the lighting design for my new film project?",
         "options": {
@@ -1605,8 +1605,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel seeks advice on balancing expanding industry connections with nurturing existing relationships, ensuring personal and professional growth.",
-        "memory_t": "Williams Daniel's physical health status changed from 'Improved' to 'Good', attributed to embracing retirement.",
+        "memory_s": "Williams Daniel seeks advice on balancing expanding industry connections with nurturing existing relationships, ensuring personal and professional growth.",
+        "memory_l": "Williams Daniel's physical health status changed from 'Improved' to 'Good', attributed to embracing retirement.",
         "query_type": "Advice",
         "query": "How should I strategize expanding my industry connections for professional growth?",
         "options": {
@@ -1620,8 +1620,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the opportunity to explore new culinary perspectives at a gourmet historical restaurant.",
-        "memory_t": "Williams Daniel expressed gratitude for the insights gained from the documentary and plans to explore more historically rooted culinary experiences.",
+        "memory_s": "Williams Daniel expressed gratitude for the opportunity to explore new culinary perspectives at a gourmet historical restaurant.",
+        "memory_l": "Williams Daniel expressed gratitude for the insights gained from the documentary and plans to explore more historically rooted culinary experiences.",
         "query_type": "Recommendation",
         "query": "Should I check out the newly opened avant-garde sci-fi themed bistro downtown for dinner?",
         "options": {
@@ -1635,8 +1635,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel has formed new professional connections following his promotion at Historical Productions Ltd., including a new colleague who brings innovative ideas.",
-        "memory_t": "Williams Daniel's career status updated career description from \"Despite the temporary shutdown of my studio due to a financial crisis, I remain committed to reviving operations and continuing my work in historically accurate filmmaking.\" to \"In retirement, I am dedicated to mentoring upcoming filmmakers and advising on historically accurate film projects, continuing to influence the industry through my expertise.\"",
+        "memory_s": "Williams Daniel has formed new professional connections following his promotion at Historical Productions Ltd., including a new colleague who brings innovative ideas.",
+        "memory_l": "Williams Daniel's career status updated career description from \"Despite the temporary shutdown of my studio due to a financial crisis, I remain committed to reviving operations and continuing my work in historically accurate filmmaking.\" to \"In retirement, I am dedicated to mentoring upcoming filmmakers and advising on historically accurate film projects, continuing to influence the industry through my expertise.\"",
         "query_type": "Advice",
         "query": "Should I propose a new collaborative project to my innovative colleague at Historical Productions Ltd to celebrate my recent promotion?",
         "options": {
@@ -1650,8 +1650,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel considered seeking advice on maintaining work-life balance while pursuing ambitious career goals.",
-        "memory_t": "Williams seeks advice on balancing increased responsibilities with personal well-being, emphasizing strategic delegation and mindfulness practices.",
+        "memory_s": "Williams Daniel considered seeking advice on maintaining work-life balance while pursuing ambitious career goals.",
+        "memory_l": "Williams seeks advice on balancing increased responsibilities with personal well-being, emphasizing strategic delegation and mindfulness practices.",
         "query_type": "Advice",
         "query": "Should I push myself to take on more high-stakes projects to further my career ambitions?",
         "options": {
@@ -1665,8 +1665,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel's appreciation for historical authenticity extends to his pet preferences, as seen in his deepened admiration for Persian cats.",
-        "memory_t": "Williams Daniel expressed gratitude for the opportunity to explore Greyhounds' historical significance and its alignment with his creative motivation.",
+        "memory_s": "Williams Daniel's appreciation for historical authenticity extends to his pet preferences, as seen in his deepened admiration for Persian cats.",
+        "memory_l": "Williams Daniel expressed gratitude for the opportunity to explore Greyhounds' historical significance and its alignment with his creative motivation.",
         "query_type": "Advice",
         "query": "Should I get a pet that reflects my love for historical authenticity?",
         "options": {
@@ -1680,8 +1680,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel shared anecdotes about past experiences with science fiction films and their impact on his creative thinking.",
-        "memory_t": "Williams Daniel emphasized the importance of maintaining historically accurate filmmaking as his core mission despite the financial crisis, and plans to continue this dedication in his upcoming projects.",
+        "memory_s": "Williams Daniel shared anecdotes about past experiences with science fiction films and their impact on his creative thinking.",
+        "memory_l": "Williams Daniel emphasized the importance of maintaining historically accurate filmmaking as his core mission despite the financial crisis, and plans to continue this dedication in his upcoming projects.",
         "query_type": "Advice",
         "query": "Given my creative influences, should I greenlight a futuristic space opera for my next major production?",
         "options": {
@@ -1695,8 +1695,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel Pets I like Greyhounds reason: Greyhounds have a noble history and a gentle demeanor that I find soothing and fitting for my lifestyle.",
-        "memory_t": "Williams Daniel is experiencing anxiety about managing the demands of starting his own studio.",
+        "memory_s": "Williams Daniel Pets I like Greyhounds reason: Greyhounds have a noble history and a gentle demeanor that I find soothing and fitting for my lifestyle.",
+        "memory_l": "Williams Daniel is experiencing anxiety about managing the demands of starting his own studio.",
         "query_type": "Advice",
         "query": "Should I go ahead and adopt that Greyhound I've been wanting?",
         "options": {
@@ -1710,8 +1710,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel seeks advice on balancing expanding industry connections with nurturing existing relationships, ensuring personal and professional growth.",
-        "memory_t": "Williams Daniel's mental health status changed from 'Stable' to 'Relaxed', attributed to embracing retirement.",
+        "memory_s": "Williams Daniel seeks advice on balancing expanding industry connections with nurturing existing relationships, ensuring personal and professional growth.",
+        "memory_l": "Williams Daniel's mental health status changed from 'Stable' to 'Relaxed', attributed to embracing retirement.",
         "query_type": "Advice",
         "query": "How can I best balance expanding my industry connections with nurturing my existing professional network to ensure continued career growth?",
         "options": {
@@ -1725,8 +1725,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel shared anecdotes from past experiences where effective delegation and colleague support helped manage stress.",
-        "memory_t": "Williams Daniel acknowledged the stress associated with increased responsibility as lead director.",
+        "memory_s": "Williams Daniel shared anecdotes from past experiences where effective delegation and colleague support helped manage stress.",
+        "memory_l": "Williams Daniel acknowledged the stress associated with increased responsibility as lead director.",
         "query_type": "Advice",
         "query": "Should I delegate most of my core responsibilities to my colleagues to reduce my current stress levels?",
         "options": {
@@ -1740,8 +1740,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel explored potential avenues for securing funding and reviving operations of his studio.",
-        "memory_t": "Despite the financial crisis, Williams Daniel remains committed to reviving operations and continuing his work in historically accurate filmmaking.",
+        "memory_s": "Williams Daniel explored potential avenues for securing funding and reviving operations of his studio.",
+        "memory_l": "Despite the financial crisis, Williams Daniel remains committed to reviving operations and continuing his work in historically accurate filmmaking.",
         "query_type": "Recommendation",
         "query": "What genre should I focus my studio's revival on to maximize commercial appeal?",
         "options": {
@@ -1755,8 +1755,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel engaged in a discussion with a historian about the societal impact of energy drinks, which influenced his perception of their cultural significance.",
-        "memory_t": "Williams Daniel expressed concern over the impact of hypertension on his ability to maintain focus and energy, but he was determined to adjust his workload to accommodate his condition.",
+        "memory_s": "Williams Daniel engaged in a discussion with a historian about the societal impact of energy drinks, which influenced his perception of their cultural significance.",
+        "memory_l": "Williams Daniel expressed concern over the impact of hypertension on his ability to maintain focus and energy, but he was determined to adjust his workload to accommodate his condition.",
         "query_type": "Advice",
         "query": "I'm feeling a bit low on energy for my work, should I try one of those culturally significant beverages I learned about?",
         "options": {
@@ -1770,8 +1770,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel plans to explore more historically rooted culinary experiences to enrich his film projects.",
-        "memory_t": "Williams Daniel's physical health status changed from 'Healthy' to 'Compromised' due to hypertension.",
+        "memory_s": "Williams Daniel plans to explore more historically rooted culinary experiences to enrich his film projects.",
+        "memory_l": "Williams Daniel's physical health status changed from 'Healthy' to 'Compromised' due to hypertension.",
         "query_type": "Recommendation",
         "query": "Can you suggest some authentic 18th-century salted meat preservation recipes I can test for my upcoming documentary?",
         "options": {
@@ -1785,8 +1785,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams dedicated more time to his family after retiring, strengthening personal relationships.",
-        "memory_t": "Williams plans to integrate family experiences into mentoring, inspiring filmmakers with a balanced approach.",
+        "memory_s": "Williams dedicated more time to his family after retiring, strengthening personal relationships.",
+        "memory_l": "Williams plans to integrate family experiences into mentoring, inspiring filmmakers with a balanced approach.",
         "query_type": "Advice",
         "query": "Since I have been dedicating so much time to strengthening my family relationships lately, should I keep that private and separate from my work?",
         "options": {
@@ -1800,8 +1800,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel expressed interest in blending modern style with historical elegance in his clothing preferences.",
-        "memory_t": "Williams Daniel expressed excitement about refining his personal style to align with his professional goal of historical authenticity, including incorporating historically inspired footwear and headwear.",
+        "memory_s": "Williams Daniel expressed interest in blending modern style with historical elegance in his clothing preferences.",
+        "memory_l": "Williams Daniel expressed excitement about refining his personal style to align with his professional goal of historical authenticity, including incorporating historically inspired footwear and headwear.",
         "query_type": "Advice",
         "query": "Should I buy these modern leather boots with zippers that have a slight Victorian aesthetic?",
         "options": {
@@ -1815,8 +1815,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for support from colleagues and friends, which aids in aligning personal interests with professional demands.",
-        "memory_t": "Williams Daniel acknowledged the challenge of balancing creative and financial decisions in his role.",
+        "memory_s": "Williams Daniel expressed gratitude for support from colleagues and friends, which aids in aligning personal interests with professional demands.",
+        "memory_l": "Williams Daniel acknowledged the challenge of balancing creative and financial decisions in his role.",
         "query_type": "Advice",
         "query": "Does my current situation make it easy to merge my personal interests with my work?",
         "options": {
@@ -1830,8 +1830,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams Daniel attended a culinary festival on September 8, 2031, showcasing the evolution of snacks and the use of artificial flavors to recreate historical tastes.",
-        "memory_t": "The effort of establishing his own studio has taken a toll on Williams Daniel's health, resulting in hypertension.",
+        "memory_s": "Williams Daniel attended a culinary festival on September 8, 2031, showcasing the evolution of snacks and the use of artificial flavors to recreate historical tastes.",
+        "memory_l": "The effort of establishing his own studio has taken a toll on Williams Daniel's health, resulting in hypertension.",
         "query_type": "Advice",
         "query": "I am craving something salty and savory like those historical recreations; should I indulge in a bag of heavily seasoned chips?",
         "options": {
@@ -1845,8 +1845,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the historian's insights, which helped clarify his thoughts on integrating historical appreciation into his daily life.",
-        "memory_t": "Williams expressed gratitude for the opportunities and experiences that shaped his career, leaving him with a sense of fulfillment and optimism for the future.",
+        "memory_s": "Williams Daniel expressed gratitude for the historian's insights, which helped clarify his thoughts on integrating historical appreciation into his daily life.",
+        "memory_l": "Williams expressed gratitude for the opportunities and experiences that shaped his career, leaving him with a sense of fulfillment and optimism for the future.",
         "query_type": "Conversation",
         "query": "I am reflecting on what I'm truly grateful for right now; based on my recent expressions, what stands out most to me?",
         "options": {
@@ -1860,8 +1860,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel Games I dislike Massively multiplayer online games reason: These games can be overwhelming and often focus on fantasy elements that don't align with my interest in historical accuracy.",
-        "memory_t": "Williams Daniel is excited about integrating historical elements from massively multiplayer online games into his films.",
+        "memory_s": "Williams Daniel Games I dislike Massively multiplayer online games reason: These games can be overwhelming and often focus on fantasy elements that don't align with my interest in historical accuracy.",
+        "memory_l": "Williams Daniel is excited about integrating historical elements from massively multiplayer online games into his films.",
         "query_type": "Recommendation",
         "query": "Should I avoid researching Massively Multiplayer Online games for my upcoming projects?",
         "options": {
@@ -1875,8 +1875,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Williams dedicated more time to his family after retiring, strengthening personal relationships.",
-        "memory_t": "Williams Daniel is concerned about financial constraints as he starts his independent studio.",
+        "memory_s": "Williams dedicated more time to his family after retiring, strengthening personal relationships.",
+        "memory_l": "Williams Daniel is concerned about financial constraints as he starts his independent studio.",
         "query_type": "Advice",
         "query": "I want to take my whole family on a month-long luxury cruise to celebrate our strong bond, is that a good idea?",
         "options": {
@@ -1890,8 +1890,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Williams Daniel's game preference evolved to include massively multiplayer online games due to their potential for historical exploration.",
-        "memory_t": "Williams Daniel is overwhelmed by strategic planning tasks and financial management duties in his role as Executive Producer.",
+        "memory_s": "Williams Daniel's game preference evolved to include massively multiplayer online games due to their potential for historical exploration.",
+        "memory_l": "Williams Daniel is overwhelmed by strategic planning tasks and financial management duties in his role as Executive Producer.",
         "query_type": "Advice",
         "query": "Should I start playing EVE Online to explore its complex player-driven history?",
         "options": {
@@ -1905,8 +1905,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel's crisis consultant provided strategic insights crucial for restructuring the studio's operations during the financial crisis, including advice on expanding the studio's creative team.",
-        "memory_t": "As the lead director at Historical Productions Ltd., Williams Daniel has greater creative control over film projects, allowing him to push for higher historical accuracy and innovative storytelling.",
+        "memory_s": "Williams Daniel's crisis consultant provided strategic insights crucial for restructuring the studio's operations during the financial crisis, including advice on expanding the studio's creative team.",
+        "memory_l": "As the lead director at Historical Productions Ltd., Williams Daniel has greater creative control over film projects, allowing him to push for higher historical accuracy and innovative storytelling.",
         "query_type": "Advice",
         "query": "Should I immediately implement the crisis consultant's recommendation to expand the creative team?",
         "options": {
@@ -1920,8 +1920,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel left Historical Productions Ltd. to start his own independent studio.",
-        "memory_t": "Williams plans to maintain strong professional relationships to support his continued success and creative endeavors.",
+        "memory_s": "Williams Daniel left Historical Productions Ltd. to start his own independent studio.",
+        "memory_l": "Williams plans to maintain strong professional relationships to support his continued success and creative endeavors.",
         "query_type": "Advice",
         "query": "Should I publicly criticize Historical Productions Ltd. in my new studio's press release to establish my independence?",
         "options": {
@@ -1935,8 +1935,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Williams Daniel reflected on the importance of maintaining strong relationships to support his career success and well-being.",
-        "memory_t": "Williams Daniel plans to integrate insights from personal experiences and family life into his mentoring approach, focusing on patience and perseverance.",
+        "memory_s": "Williams Daniel reflected on the importance of maintaining strong relationships to support his career success and well-being.",
+        "memory_l": "Williams Daniel plans to integrate insights from personal experiences and family life into his mentoring approach, focusing on patience and perseverance.",
         "query_type": "Advice",
         "query": "How should I structure my upcoming mentoring sessions to best support my career goals?",
         "options": {
@@ -1950,8 +1950,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the support from colleagues, friends, family, and mentors who have encouraged his pursuit of creative independence.",
-        "memory_t": "Williams Daniel's promotion to Creative Director allows him to influence the artistic vision of Historical Productions Ltd., ensuring historical accuracy across all projects.",
+        "memory_s": "Williams Daniel expressed gratitude for the support from colleagues, friends, family, and mentors who have encouraged his pursuit of creative independence.",
+        "memory_l": "Williams Daniel's promotion to Creative Director allows him to influence the artistic vision of Historical Productions Ltd., ensuring historical accuracy across all projects.",
         "query_type": "Advice",
         "query": "Should I leave my current role to finally focus entirely on my own independent creative projects?",
         "options": {
@@ -1965,8 +1965,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel sought advice on balancing his health needs with his ambitious career goals and discussed strategies for leveraging his social network and AI tools to support his well-being.",
-        "memory_t": "Williams Daniel is committed to adjusting his workload to manage health challenges while pursuing his vision.",
+        "memory_s": "Williams Daniel sought advice on balancing his health needs with his ambitious career goals and discussed strategies for leveraging his social network and AI tools to support his well-being.",
+        "memory_l": "Williams Daniel is committed to adjusting his workload to manage health challenges while pursuing his vision.",
         "query_type": "Advice",
         "query": "Should I take on this massive new project that requires doubling my current work hours to achieve my career goals faster?",
         "options": {
@@ -1980,8 +1980,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Williams Daniel's crisis consultant provided guidance on navigating the financial challenges and restructuring the studio's operations, including advice on expanding the studio's creative team.",
-        "memory_t": "Williams Daniel's mental health status changed from 'Stable' to 'Relaxed', attributed to embracing retirement.",
+        "memory_s": "Williams Daniel's crisis consultant provided guidance on navigating the financial challenges and restructuring the studio's operations, including advice on expanding the studio's creative team.",
+        "memory_l": "Williams Daniel's mental health status changed from 'Stable' to 'Relaxed', attributed to embracing retirement.",
         "query_type": "Advice",
         "query": "Should I follow through with the plan to expand the creative team and restructure operations?",
         "options": {
@@ -1995,8 +1995,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Williams Daniel Movies I dislike Science fiction blockbusters reason: Science fiction blockbusters often prioritize visual effects over historical accuracy, which detracts from my viewing experience.",
-        "memory_t": "Williams Daniel emphasized the importance of historical accuracy and creative innovation in his films as he transitions to a mentorship role.",
+        "memory_s": "Williams Daniel Movies I dislike Science fiction blockbusters reason: Science fiction blockbusters often prioritize visual effects over historical accuracy, which detracts from my viewing experience.",
+        "memory_l": "Williams Daniel emphasized the importance of historical accuracy and creative innovation in his films as he transitions to a mentorship role.",
         "query_type": "Advice",
         "query": "Should I accept the offer to direct the new galactic sci-fi blockbuster?",
         "options": {
@@ -2010,8 +2010,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel expressed gratitude for the support of colleagues and friends, acknowledging their role in achieving his career milestones.",
-        "memory_t": "Williams Daniel expressed excitement and responsibility upon becoming Creative Director, emphasizing the role of strategic thinking and perfectionism in his success.",
+        "memory_s": "Williams Daniel expressed gratitude for the support of colleagues and friends, acknowledging their role in achieving his career milestones.",
+        "memory_l": "Williams Daniel expressed excitement and responsibility upon becoming Creative Director, emphasizing the role of strategic thinking and perfectionism in his success.",
         "query_type": "Advice",
         "query": "As I reflect on my career milestones, should I publicly credit my success entirely to the collective effort of my support network?",
         "options": {
@@ -2025,8 +2025,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Williams Daniel shared anecdotes about past experiences with science fiction, reflecting on its divergence from historical themes.",
-        "memory_t": "Williams is focused on leveraging international acclaim to explore new historical themes and narratives.",
+        "memory_s": "Williams Daniel shared anecdotes about past experiences with science fiction, reflecting on its divergence from historical themes.",
+        "memory_l": "Williams is focused on leveraging international acclaim to explore new historical themes and narratives.",
         "query_type": "Recommendation",
         "query": "Should I accept this proposal to write a futuristic space opera screenplay?",
         "options": {
@@ -2040,8 +2040,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Williams Daniel's dialogue highlighted the importance of aligning personal interests with professional demands in his reading preferences.",
-        "memory_t": "Williams Daniel's career status updated employment status from \"unemployed\" to \"retired\".",
+        "memory_s": "Williams Daniel's dialogue highlighted the importance of aligning personal interests with professional demands in his reading preferences.",
+        "memory_l": "Williams Daniel's career status updated employment status from \"unemployed\" to \"retired\".",
         "query_type": "Recommendation",
         "query": "Can you suggest some books that will help me better align my personal interests with my professional demands?",
         "options": {

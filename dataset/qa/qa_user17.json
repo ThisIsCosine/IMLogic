@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Karen Brown is considering collaborating with Mary to enhance her platform with innovative ideas.",
-        "memory_t": "Karen Brown has specific plans to collaborate with industry leaders and innovators, such as NewConnection6 and NewConnection7, to integrate advanced features into her platform.",
+        "memory_s": "Karen Brown is considering collaborating with Mary to enhance her platform with innovative ideas.",
+        "memory_l": "Karen Brown has specific plans to collaborate with industry leaders and innovators, such as NewConnection6 and NewConnection7, to integrate advanced features into her platform.",
         "query_type": "Advice",
         "query": "Should I finalize my collaboration with Mary to enhance my platform with her innovative ideas?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown expressed excitement about the strategic insights and collaboration opportunities offered by NewConnection4.",
-        "memory_t": "Karen Brown will focus on refining her platform's features and expanding her network to reach more agencies.",
+        "memory_s": "Karen Brown expressed excitement about the strategic insights and collaboration opportunities offered by NewConnection4.",
+        "memory_l": "Karen Brown will focus on refining her platform's features and expanding her network to reach more agencies.",
         "query_type": "Advice",
         "query": "Should I commit my full schedule to the NewConnection4 initiative for the upcoming quarter?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "By the end of 2027, Karen Brown established a sustainable freelance business model, ensuring steady income and professional growth despite health challenges.",
-        "memory_t": "Karen Brown plans to leverage her expanded network to explore new opportunities for platform development and industry innovation, maintaining strong relationships with key industry figures like NewConnection6.",
+        "memory_s": "By the end of 2027, Karen Brown established a sustainable freelance business model, ensuring steady income and professional growth despite health challenges.",
+        "memory_l": "Karen Brown plans to leverage her expanded network to explore new opportunities for platform development and industry innovation, maintaining strong relationships with key industry figures like NewConnection6.",
         "query_type": "Advice",
         "query": "Should I focus my efforts on refining my existing freelance business model to ensure more steady income?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown began exploring entrepreneurial ventures in property management after her layoff.",
-        "memory_t": "Karen Brown plans to expand her client base and explore new technological trends to enhance her service offerings.",
+        "memory_s": "Karen Brown began exploring entrepreneurial ventures in property management after her layoff.",
+        "memory_l": "Karen Brown plans to expand her client base and explore new technological trends to enhance her service offerings.",
         "query_type": "Advice",
         "query": "Should I liquidate my current assets to start a small boutique hotel project?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown has a seasoned industry expert as a mentor who provides valuable guidance in navigating her career path.",
-        "memory_t": "Karen's platform development is bringing her closer to impacting the real estate management industry globally.",
+        "memory_s": "Karen Brown has a seasoned industry expert as a mentor who provides valuable guidance in navigating her career path.",
+        "memory_l": "Karen's platform development is bringing her closer to impacting the real estate management industry globally.",
         "query_type": "Advice",
         "query": "Should I ask my career mentor for advice on how to pivot my focus toward the healthcare sector?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's social network offers emotional support and professional opportunities, contributing to her freelance success.",
-        "memory_t": "Karen's strategic vision remains focused on leveraging financial resources to achieve her ultimate goal in property management.",
+        "memory_s": "Karen Brown's social network offers emotional support and professional opportunities, contributing to her freelance success.",
+        "memory_l": "Karen's strategic vision remains focused on leveraging financial resources to achieve her ultimate goal in property management.",
         "query_type": "Advice",
         "query": "Should I invest my recent savings into attending a high-end international networking retreat to expand my freelance connections?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen shared anecdotes from past interactions with mentors and industry peers that have shaped her current business strategy, focusing on user experience and scalability.",
-        "memory_t": "Karen Brown plans to integrate advanced features into her platform to enhance its competitive edge, focusing on cutting-edge technologies and strategies.",
+        "memory_s": "Karen shared anecdotes from past interactions with mentors and industry peers that have shaped her current business strategy, focusing on user experience and scalability.",
+        "memory_l": "Karen Brown plans to integrate advanced features into her platform to enhance its competitive edge, focusing on cutting-edge technologies and strategies.",
         "query_type": "Advice",
         "query": "Should I continue prioritizing my current business strategy of focusing primarily on user experience and scalability for the platform?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown plans to use additional time from part-time work for regular exercise, meditation, and attending health seminars.",
-        "memory_t": "Karen Brown's improved health has enabled her to actively engage in her work as Product Manager at Innovate Property Tech, contributing effectively to her team's goals.",
+        "memory_s": "Karen Brown plans to use additional time from part-time work for regular exercise, meditation, and attending health seminars.",
+        "memory_l": "Karen Brown's improved health has enabled her to actively engage in her work as Product Manager at Innovate Property Tech, contributing effectively to her team's goals.",
         "query_type": "Advice",
         "query": "Should I transition to part-time work so I can focus on regular exercise, meditation, and health seminars?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown is optimistic about the new opportunities her expanded network offers, particularly strategic partnerships that can accelerate her platform development.",
-        "memory_t": "Karen Brown plans to leverage her strengthened network to explore new collaboration opportunities and enhance her platform's capabilities following her promotion.",
+        "memory_s": "Karen Brown is optimistic about the new opportunities her expanded network offers, particularly strategic partnerships that can accelerate her platform development.",
+        "memory_l": "Karen Brown plans to leverage her strengthened network to explore new collaboration opportunities and enhance her platform's capabilities following her promotion.",
         "query_type": "Advice",
         "query": "Should I focus purely on independent development for my platform right now?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown finds heavy metal music offers a refreshing contrast to ambient tunes, enhancing focus and creativity during work.",
-        "memory_t": "Karen Brown works part-time as a Product Manager at Innovate Property Tech, with an increased salary allowing her to invest more in her platform development while focusing on health recovery.",
+        "memory_s": "Karen Brown finds heavy metal music offers a refreshing contrast to ambient tunes, enhancing focus and creativity during work.",
+        "memory_l": "Karen Brown works part-time as a Product Manager at Innovate Property Tech, with an increased salary allowing her to invest more in her platform development while focusing on health recovery.",
         "query_type": "Advice",
         "query": "Should I blast some heavy metal music to help me focus and get creative while I work today?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown began her freelance career to maintain financial stability and independence.",
-        "memory_t": "Karen's dialogue was filled with optimism and a clear vision for achieving her life goal of revolutionizing property management technology.",
+        "memory_s": "Karen Brown began her freelance career to maintain financial stability and independence.",
+        "memory_l": "Karen's dialogue was filled with optimism and a clear vision for achieving her life goal of revolutionizing property management technology.",
         "query_type": "Advice",
         "query": "Should I accept this long-term corporate data entry contract to ensure my financial stability?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown has updated her beverage preference to include sugar-free soda after discovering a new brand that does not cause sugar jitters.",
-        "memory_t": "Karen Brown plans to explore other herbal blends for additional health benefits and focus enhancement.",
+        "memory_s": "Karen Brown has updated her beverage preference to include sugar-free soda after discovering a new brand that does not cause sugar jitters.",
+        "memory_l": "Karen Brown plans to explore other herbal blends for additional health benefits and focus enhancement.",
         "query_type": "Advice",
         "query": "Should I stock up on that new sugar-free soda brand for my upcoming study sessions?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's strengthened social bonds have provided her with encouragement and resources to effectively navigate career and health challenges.",
-        "memory_t": "Karen Brown plans to maintain her health through ongoing wellness practices to ensure sustained progress in her career and personal life.",
+        "memory_s": "Karen Brown's strengthened social bonds have provided her with encouragement and resources to effectively navigate career and health challenges.",
+        "memory_l": "Karen Brown plans to maintain her health through ongoing wellness practices to ensure sustained progress in her career and personal life.",
         "query_type": "Advice",
         "query": "Should I skip my evening routine to go out and celebrate a recent work win with my friends?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown expressed gratitude for her network's support, which has been instrumental in her career progression.",
-        "memory_t": "Karen Brown plans to leverage her expanded network to explore new opportunities for platform development and industry innovation, maintaining strong relationships with key industry figures like NewConnection6.",
+        "memory_s": "Karen Brown expressed gratitude for her network's support, which has been instrumental in her career progression.",
+        "memory_l": "Karen Brown plans to leverage her expanded network to explore new opportunities for platform development and industry innovation, maintaining strong relationships with key industry figures like NewConnection6.",
         "query_type": "Advice",
         "query": "Should I focus solely on thanking my network for their past help with my career progression?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's emotional motivation drives her to seek culinary experiences that provide satisfaction and joy.",
-        "memory_t": "Karen discussed the importance of strategic planning in achieving her career goals and balancing innovation with practicality.",
+        "memory_s": "Karen Brown's emotional motivation drives her to seek culinary experiences that provide satisfaction and joy.",
+        "memory_l": "Karen discussed the importance of strategic planning in achieving her career goals and balancing innovation with practicality.",
         "query_type": "Advice",
         "query": "Should I drop everything to spend the next month traveling just to seek out joyful, emotionally satisfying culinary experiences?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown expressed excitement about expanding her social connections through industry events, which has opened up new collaboration opportunities.",
-        "memory_t": "Karen plans to leverage her expanded network and strategic partnerships to integrate advanced features into her platform.",
+        "memory_s": "Karen Brown expressed excitement about expanding her social connections through industry events, which has opened up new collaboration opportunities.",
+        "memory_l": "Karen plans to leverage her expanded network and strategic partnerships to integrate advanced features into her platform.",
         "query_type": "Advice",
         "query": "Should I focus purely on attending industry events just to socialize and meet new people?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown expressed gratitude for the support from her social network during her transition to freelancing.",
-        "memory_t": "Karen Brown's target metrics: 100,000 agencies using the platform, impacting real estate management globally.",
+        "memory_s": "Karen Brown expressed gratitude for the support from her social network during her transition to freelancing.",
+        "memory_l": "Karen Brown's target metrics: 100,000 agencies using the platform, impacting real estate management globally.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming business strategy entirely on expanding my freelance consulting services for individual clients?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown realized the importance of strategic planning during a meeting with potential investors.",
-        "memory_t": "Karen Brown's dialogue reflected her determination and strategic vision to achieve her life goal of revolutionizing property management technology and potentially transitioning into environmental advocacy.",
+        "memory_s": "Karen Brown realized the importance of strategic planning during a meeting with potential investors.",
+        "memory_l": "Karen Brown's dialogue reflected her determination and strategic vision to achieve her life goal of revolutionizing property management technology and potentially transitioning into environmental advocacy.",
         "query_type": "Advice",
         "query": "Should I pivot my focus entirely to traditional retail investment strategies?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown enjoys smoked salmon for its versatility in dishes ranging from salads to pastas, enriching her culinary experiences.",
-        "memory_t": "Karen Brown's recent culinary exploration into sushi making reflects her openness to new experiences and desire for emotional resonance.",
+        "memory_s": "Karen Brown enjoys smoked salmon for its versatility in dishes ranging from salads to pastas, enriching her culinary experiences.",
+        "memory_l": "Karen Brown's recent culinary exploration into sushi making reflects her openness to new experiences and desire for emotional resonance.",
         "query_type": "Recommendation",
         "query": "What should I pick up at the market to practice my new cooking hobby?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown finds progressive rock's complex compositions provide a refreshing auditory experience during work, enhancing creativity.",
-        "memory_t": "Karen Brown's social motivation aligns with using music as a tool for social signaling, expressing identity, and gaining attention.",
+        "memory_s": "Karen Brown finds progressive rock's complex compositions provide a refreshing auditory experience during work, enhancing creativity.",
+        "memory_l": "Karen Brown's social motivation aligns with using music as a tool for social signaling, expressing identity, and gaining attention.",
         "query_type": "Recommendation",
         "query": "What genre should I play on the office speakers to make a strong impression on my new team?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown feels the part-time arrangement aligns with her long-term goals of revolutionizing property management technology and ensuring personal well-being.",
-        "memory_t": "Karen Brown's monthly income increased from 5,000 to 10,000.",
+        "memory_s": "Karen Brown feels the part-time arrangement aligns with her long-term goals of revolutionizing property management technology and ensuring personal well-being.",
+        "memory_l": "Karen Brown's monthly income increased from 5,000 to 10,000.",
         "query_type": "Advice",
         "query": "Should I officially request to switch to a part-time arrangement to focus on revolutionizing property management technology?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen plans to maintain her financial and social gains to ensure sustained progress towards her goal of revolutionizing property management.",
-        "memory_t": "Karen Brown's career_status updated monthly_income from \"12,000\" to \"0\"",
+        "memory_s": "Karen plans to maintain her financial and social gains to ensure sustained progress towards her goal of revolutionizing property management.",
+        "memory_l": "Karen Brown's career_status updated monthly_income from \"12,000\" to \"0\"",
         "query_type": "Advice",
         "query": "Should I sign a premium commercial lease to maintain my financial and social gains for revolutionizing property management?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown plans to leverage her network and offer competitive packages to attract skilled professionals.",
-        "memory_t": "Karen Brown maintains financial stability with a monthly income of $5,000 from freelancing.",
+        "memory_s": "Karen Brown plans to leverage her network and offer competitive packages to attract skilled professionals.",
+        "memory_l": "Karen Brown maintains financial stability with a monthly income of $5,000 from freelancing.",
         "query_type": "Advice",
         "query": "Should I start reaching out to my network to offer competitive packages for skilled professionals?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown's network expanded through industry events, leading to new collaboration opportunities and professional growth.",
-        "memory_t": "Karen plans to leverage her expanded network and strategic partnerships to integrate advanced features into her platform.",
+        "memory_s": "Karen Brown's network expanded through industry events, leading to new collaboration opportunities and professional growth.",
+        "memory_l": "Karen plans to leverage her expanded network and strategic partnerships to integrate advanced features into her platform.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming quarter entirely on attending more industry events to keep expanding my professional network?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen shared anecdotes from past interactions with mentors and industry peers that have shaped her current business strategy, focusing on user experience and scalability.",
-        "memory_t": "Karen plans to focus on developing key platform features that align with her vision, such as AI-driven analytics.",
+        "memory_s": "Karen shared anecdotes from past interactions with mentors and industry peers that have shaped her current business strategy, focusing on user experience and scalability.",
+        "memory_l": "Karen plans to focus on developing key platform features that align with her vision, such as AI-driven analytics.",
         "query_type": "Advice",
         "query": "Should I dedicate this quarter's development cycle entirely to improving user experience and scalability?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown attended a nutrition seminar that emphasized protein-rich breakfasts.",
-        "memory_t": "Karen Brown seeks to balance traditional tastes with global culinary exploration, driven by her emotional motivation for resonance.",
+        "memory_s": "Karen Brown attended a nutrition seminar that emphasized protein-rich breakfasts.",
+        "memory_l": "Karen Brown seeks to balance traditional tastes with global culinary exploration, driven by her emotional motivation for resonance.",
         "query_type": "Recommendation",
         "query": "What should I make for my protein-rich breakfast tomorrow?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's network plays a crucial role in enriching her professional journey and supporting her entrepreneurial aspirations.",
-        "memory_t": "Karen Brown is now employed as a Senior Product Manager at Innovate Property Tech, overseeing strategic initiatives in property management software development.",
+        "memory_s": "Karen Brown's network plays a crucial role in enriching her professional journey and supporting her entrepreneurial aspirations.",
+        "memory_l": "Karen Brown is now employed as a Senior Product Manager at Innovate Property Tech, overseeing strategic initiatives in property management software development.",
         "query_type": "Advice",
         "query": "Should I focus my efforts on launching a new independent startup venture right now?",
         "options": {
@@ -404,8 +404,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown has modified her reading preference to include user experience design books to improve her software platform's interface.",
-        "memory_t": "Karen Brown plans to integrate advanced features into her platform to enhance its competitive edge, focusing on cutting-edge technologies and strategies.",
+        "memory_s": "Karen Brown has modified her reading preference to include user experience design books to improve her software platform's interface.",
+        "memory_l": "Karen Brown plans to integrate advanced features into her platform to enhance its competitive edge, focusing on cutting-edge technologies and strategies.",
         "query_type": "Recommendation",
         "query": "Can you suggest some new books I should read for my software platform?",
         "options": {
@@ -419,8 +419,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown officially launched her company, Karen's Property Innovations, aiming to impact 100,000 agencies globally.",
-        "memory_t": "Karen emphasized the strategic importance of her platform's market launch in achieving her life goal of revolutionizing property management technology.",
+        "memory_s": "Karen Brown officially launched her company, Karen's Property Innovations, aiming to impact 100,000 agencies globally.",
+        "memory_l": "Karen emphasized the strategic importance of her platform's market launch in achieving her life goal of revolutionizing property management technology.",
         "query_type": "Advice",
         "query": "Should I prioritize a small-scale pilot program for my property innovation company instead of a full market launch?",
         "options": {
@@ -434,8 +434,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown expressed gratitude for her supportive social network, which she anticipates will be instrumental in navigating her career transition.",
-        "memory_t": "Karen Brown feels the part-time arrangement aligns with her long-term goals of revolutionizing property management technology and ensuring personal well-being.",
+        "memory_s": "Karen Brown expressed gratitude for her supportive social network, which she anticipates will be instrumental in navigating her career transition.",
+        "memory_l": "Karen Brown feels the part-time arrangement aligns with her long-term goals of revolutionizing property management technology and ensuring personal well-being.",
         "query_type": "Advice",
         "query": "Should I accept a demanding full-time executive role to accelerate my career transition, leveraging my social network for support?",
         "options": {
@@ -449,8 +449,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown Beverages I dislike: Soda",
-        "memory_t": "Karen Brown's experience with sugar-free soda highlights her adaptability and willingness to embrace change.",
+        "memory_s": "Karen Brown Beverages I dislike: Soda",
+        "memory_l": "Karen Brown's experience with sugar-free soda highlights her adaptability and willingness to embrace change.",
         "query_type": "Advice",
         "query": "Should I try a new fizzy drink at the party tonight?",
         "options": {
@@ -464,8 +464,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown has modified her reading preference to include user experience design books to improve her software platform's interface.",
-        "memory_t": "Karen Brown is considering collaborating with Mary to enhance her platform with innovative ideas.",
+        "memory_s": "Karen Brown has modified her reading preference to include user experience design books to improve her software platform's interface.",
+        "memory_l": "Karen Brown is considering collaborating with Mary to enhance her platform with innovative ideas.",
         "query_type": "Advice",
         "query": "Should I buy a stack of user experience design books to overhaul my software platform's interface myself?",
         "options": {
@@ -479,8 +479,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown expressed gratitude for her expanded network, which provides essential resources and support for her entrepreneurial journey and boosts her confidence.",
-        "memory_t": "Karen Brown's dialogue reflects optimism and gratitude towards her expanding network and its positive impact on her career.",
+        "memory_s": "Karen Brown expressed gratitude for her expanded network, which provides essential resources and support for her entrepreneurial journey and boosts her confidence.",
+        "memory_l": "Karen Brown's dialogue reflects optimism and gratitude towards her expanding network and its positive impact on her career.",
         "query_type": "Advice",
         "query": "Should I stop attending industry networking events now that I have a solid foundation of resources and support?",
         "options": {
@@ -494,8 +494,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown implemented therapies and lifestyle changes such as regular exercise, balanced diet, and mindfulness practices to aid her recovery.",
-        "memory_t": "Karen Brown's physical health condition: Normal",
+        "memory_s": "Karen Brown implemented therapies and lifestyle changes such as regular exercise, balanced diet, and mindfulness practices to aid her recovery.",
+        "memory_l": "Karen Brown's physical health condition: Normal",
         "query_type": "Advice",
         "query": "Should I continue my intensive recovery therapies and strict lifestyle changes?",
         "options": {
@@ -509,8 +509,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown now prefers interactive cat breeds due to their playful nature and ability to provide companionship, aligning with her exploratory motivation.",
-        "memory_t": "Karen emphasized the strategic importance of her platform's market launch in achieving her life goal of revolutionizing property management technology.",
+        "memory_s": "Karen Brown now prefers interactive cat breeds due to their playful nature and ability to provide companionship, aligning with her exploratory motivation.",
+        "memory_l": "Karen emphasized the strategic importance of her platform's market launch in achieving her life goal of revolutionizing property management technology.",
         "query_type": "Advice",
         "query": "Should I go ahead and adopt an Abyssinian or a Siamese this week to keep me company?",
         "options": {
@@ -524,8 +524,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown expressed gratitude for her professional network's support, which has been crucial in her career progression.",
-        "memory_t": "Karen Brown uses AI-generated content to express her identity and gain attention in professional contexts.",
+        "memory_s": "Karen Brown expressed gratitude for her professional network's support, which has been crucial in her career progression.",
+        "memory_l": "Karen Brown uses AI-generated content to express her identity and gain attention in professional contexts.",
         "query_type": "Advice",
         "query": "How should I best leverage my recent success to stand out to my connections?",
         "options": {
@@ -539,8 +539,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown attended a nutrition seminar that emphasized protein-rich breakfasts.",
-        "memory_t": "Karen Brown's culinary exploration aligns with her goal of maintaining a balanced diet through innovative meal preparations, using both traditional and new recipes.",
+        "memory_s": "Karen Brown attended a nutrition seminar that emphasized protein-rich breakfasts.",
+        "memory_l": "Karen Brown's culinary exploration aligns with her goal of maintaining a balanced diet through innovative meal preparations, using both traditional and new recipes.",
         "query_type": "Advice",
         "query": "Should I just stick to eating plain egg whites and chicken breast every single morning for my protein-rich breakfasts?",
         "options": {
@@ -554,8 +554,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown attended a mindfulness workshop that emphasized the importance of mental well-being.",
-        "memory_t": "Karen Brown felt the need for more emotional support and interaction from her pet after a stressful project.",
+        "memory_s": "Karen Brown attended a mindfulness workshop that emphasized the importance of mental well-being.",
+        "memory_l": "Karen Brown felt the need for more emotional support and interaction from her pet after a stressful project.",
         "query_type": "Recommendation",
         "query": "Should I sign up for an advanced solo meditation retreat to focus on my mental well-being?",
         "options": {
@@ -569,8 +569,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown values the freedom freelancing offers, allowing her to balance personal and professional needs effectively.",
-        "memory_t": "Karen Brown is considering expanding her role at Innovate Property Tech, potentially moving back to full-time work.",
+        "memory_s": "Karen Brown values the freedom freelancing offers, allowing her to balance personal and professional needs effectively.",
+        "memory_l": "Karen Brown is considering expanding her role at Innovate Property Tech, potentially moving back to full-time work.",
         "query_type": "Advice",
         "query": "Should I decline the new project proposal from the local agency to maintain my current schedule flexibility?",
         "options": {
@@ -584,8 +584,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown shared a strategic partnership with Innovate Property Tech that enhanced her platform's features and scalability, allowing integration of cutting-edge technologies and user experience design.",
-        "memory_t": "Karen plans to leverage her expanded network and strategic partnerships to integrate advanced features into her platform.",
+        "memory_s": "Karen Brown shared a strategic partnership with Innovate Property Tech that enhanced her platform's features and scalability, allowing integration of cutting-edge technologies and user experience design.",
+        "memory_l": "Karen plans to leverage her expanded network and strategic partnerships to integrate advanced features into her platform.",
         "query_type": "Advice",
         "query": "Should I finalize an exclusive deal with Innovate Property Tech to handle all my platform's feature upgrades?",
         "options": {
@@ -599,8 +599,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown finds herbal tea provides a calming effect and helps maintain focus without caffeine jitters.",
-        "memory_t": "Karen Brown's creative motivation is inspired by discovering new healthful practices like ginger herbal tea.",
+        "memory_s": "Karen Brown finds herbal tea provides a calming effect and helps maintain focus without caffeine jitters.",
+        "memory_l": "Karen Brown's creative motivation is inspired by discovering new healthful practices like ginger herbal tea.",
         "query_type": "Advice",
         "query": "Should I switch to drinking herbal tea to stay productive while working on my new project?",
         "options": {
@@ -614,8 +614,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown integrates business strategy books into her reading routine to align with her career objectives.",
-        "memory_t": "Karen Brown established 'Karen's Freelance Services'.",
+        "memory_s": "Karen Brown integrates business strategy books into her reading routine to align with her career objectives.",
+        "memory_l": "Karen Brown established 'Karen's Freelance Services'.",
         "query_type": "Advice",
         "query": "Should I apply for a corporate executive position to advance my career objectives?",
         "options": {
@@ -629,8 +629,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's reading preferences focus on materials that support her career goals, such as business strategy books and self-help books on personal wellness and mindfulness.",
-        "memory_t": "Karen Brown has been promoted to Senior Product Manager at Innovate Property Tech, enhancing her visibility and influence in the industry.",
+        "memory_s": "Karen Brown's reading preferences focus on materials that support her career goals, such as business strategy books and self-help books on personal wellness and mindfulness.",
+        "memory_l": "Karen Brown has been promoted to Senior Product Manager at Innovate Property Tech, enhancing her visibility and influence in the industry.",
         "query_type": "Recommendation",
         "query": "What kind of entry-level career development books should I pick up to prepare for my upcoming performance review?",
         "options": {
@@ -644,8 +644,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown has updated her pet preference to include socially interactive pets for more emotional support.",
-        "memory_t": "Karen Brown expressed excitement about her promotion to Senior Product Manager at Innovate Property Tech and the opportunities it brings for platform development.",
+        "memory_s": "Karen Brown has updated her pet preference to include socially interactive pets for more emotional support.",
+        "memory_l": "Karen Brown expressed excitement about her promotion to Senior Product Manager at Innovate Property Tech and the opportunities it brings for platform development.",
         "query_type": "Advice",
         "query": "Should I adopt a Border Collie to provide the emotional support and social interaction I've been looking for?",
         "options": {
@@ -659,8 +659,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown's occasional indulgence in fast food is part of her stress relief strategy.",
-        "memory_t": "Karen Brown's physical health status changed from 'Severely Affected by Chronic Disease' to 'Improved'.",
+        "memory_s": "Karen Brown's occasional indulgence in fast food is part of her stress relief strategy.",
+        "memory_l": "Karen Brown's physical health status changed from 'Severely Affected by Chronic Disease' to 'Improved'.",
         "query_type": "Advice",
         "query": "Should I order a large combo meal from the burger place to help me de-stress after this long day?",
         "options": {
@@ -674,8 +674,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen's investment in platform development is aimed at revolutionizing the property management industry.",
-        "memory_t": "Karen's investment has led to significant advancements in the platform's features and scalability.",
+        "memory_s": "Karen's investment in platform development is aimed at revolutionizing the property management industry.",
+        "memory_l": "Karen's investment has led to significant advancements in the platform's features and scalability.",
         "query_type": "Advice",
         "query": "Should I start drafting a proposal to completely overhaul our property management platform to revolutionize how the industry operates?",
         "options": {
@@ -689,8 +689,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown is seeking a pet that offers more companionship and interaction after realizing her previous preference for cats doesn't fit her current lifestyle.",
-        "memory_t": "Karen expressed excitement and determination regarding her platform development and its potential global impact.",
+        "memory_s": "Karen Brown is seeking a pet that offers more companionship and interaction after realizing her previous preference for cats doesn't fit her current lifestyle.",
+        "memory_l": "Karen expressed excitement and determination regarding her platform development and its potential global impact.",
         "query_type": "Advice",
         "query": "Should I adopt a highly interactive pet for companionship?",
         "options": {
@@ -704,8 +704,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown Foods I like to eat Avocado toast reason: Avocado toast is my go-to breakfast. It's nutritious and keeps me full during long coding sessions. Plus, the creamy texture and fresh taste help me start my day right.",
-        "memory_t": "Karen Brown's monthly income changed from 14,000 yuan to 0 yuan, using her savings of 144,000 yuan as a financial buffer while establishing Karen's Property Innovations.",
+        "memory_s": "Karen Brown Foods I like to eat Avocado toast reason: Avocado toast is my go-to breakfast. It's nutritious and keeps me full during long coding sessions. Plus, the creamy texture and fresh taste help me start my day right.",
+        "memory_l": "Karen Brown's monthly income changed from 14,000 yuan to 0 yuan, using her savings of 144,000 yuan as a financial buffer while establishing Karen's Property Innovations.",
         "query_type": "Advice",
         "query": "Should I start buying premium ingredients to make daily avocado toast for my breakfasts?",
         "options": {
@@ -719,8 +719,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen acknowledges the support from colleagues and friends as crucial in achieving her recent career milestone.",
-        "memory_t": "Karen Brown's career_status updated employment_status from \"full-time\" to \"unemployed\"",
+        "memory_s": "Karen acknowledges the support from colleagues and friends as crucial in achieving her recent career milestone.",
+        "memory_l": "Karen Brown's career_status updated employment_status from \"full-time\" to \"unemployed\"",
         "query_type": "Advice",
         "query": "Should I organize a celebratory dinner for my colleagues to mark this career milestone?",
         "options": {
@@ -734,8 +734,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown expressed enthusiasm about the health benefits and vibrant colors of meals incorporating seasonal vegetables, which positively impact her well-being and productivity.",
-        "memory_t": "Karen Brown's balance between health consciousness and indulgence is a new aspect of her lifestyle.",
+        "memory_s": "Karen Brown expressed enthusiasm about the health benefits and vibrant colors of meals incorporating seasonal vegetables, which positively impact her well-being and productivity.",
+        "memory_l": "Karen Brown's balance between health consciousness and indulgence is a new aspect of her lifestyle.",
         "query_type": "Recommendation",
         "query": "Should I prepare a strict, all-vegetable meal plan for the entire week to maximize my productivity?",
         "options": {
@@ -749,8 +749,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown integrates business strategy books into her reading routine to align with her career objectives.",
-        "memory_t": "Karen Brown's strategic partnerships have opened new avenues for growth and innovation in her company, Karen's Property Innovations, including integrating AI-driven analytics.",
+        "memory_s": "Karen Brown integrates business strategy books into her reading routine to align with her career objectives.",
+        "memory_l": "Karen Brown's strategic partnerships have opened new avenues for growth and innovation in her company, Karen's Property Innovations, including integrating AI-driven analytics.",
         "query_type": "Recommendation",
         "query": "Which business strategy books should I prioritize for my reading routine?",
         "options": {
@@ -764,8 +764,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown's exploratory motivation led her to try a new sugar-free soda, which she found enjoyable and without negative side effects.",
-        "memory_t": "Karen Brown plans to continue exploring new culinary combinations with seasonal vegetables to keep her meals healthy and exciting.",
+        "memory_s": "Karen Brown's exploratory motivation led her to try a new sugar-free soda, which she found enjoyable and without negative side effects.",
+        "memory_l": "Karen Brown plans to continue exploring new culinary combinations with seasonal vegetables to keep her meals healthy and exciting.",
         "query_type": "Advice",
         "query": "Should I start pairing that new sugar-free soda I enjoyed with some fried appetizers tonight?",
         "options": {
@@ -779,8 +779,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown is considering collaborating with Mary to enhance her platform with innovative ideas.",
-        "memory_t": "Karen Brown is interested in implementing cutting-edge technologies and strategies, such as AI-driven analytics and user experience design, to enhance her platform's competitive edge.",
+        "memory_s": "Karen Brown is considering collaborating with Mary to enhance her platform with innovative ideas.",
+        "memory_l": "Karen Brown is interested in implementing cutting-edge technologies and strategies, such as AI-driven analytics and user experience design, to enhance her platform's competitive edge.",
         "query_type": "Advice",
         "query": "Should I move forward with collaborating with Mary to bring some innovative ideas to my platform?",
         "options": {
@@ -794,8 +794,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown began exploring entrepreneurial ventures in property management after her layoff.",
-        "memory_t": "Karen emphasized the strategic importance of her platform's market launch in achieving her life goal of revolutionizing property management technology.",
+        "memory_s": "Karen Brown began exploring entrepreneurial ventures in property management after her layoff.",
+        "memory_l": "Karen emphasized the strategic importance of her platform's market launch in achieving her life goal of revolutionizing property management technology.",
         "query_type": "Advice",
         "query": "Should I pivot away from my property management venture to pursue a completely different industry?",
         "options": {
@@ -809,8 +809,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown began her freelance career to maintain financial stability and independence.",
-        "memory_t": "Karen plans to invest her increased salary into her software platform development to accelerate progress towards her life goal of revolutionizing property management technology.",
+        "memory_s": "Karen Brown began her freelance career to maintain financial stability and independence.",
+        "memory_l": "Karen plans to invest her increased salary into her software platform development to accelerate progress towards her life goal of revolutionizing property management technology.",
         "query_type": "Advice",
         "query": "Should I prioritize putting my extra earnings into a low-risk savings account to maintain my financial stability and independence?",
         "options": {
@@ -824,8 +824,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown expressed determination to integrate meditation into her daily routine for enhanced mental clarity and peace.",
-        "memory_t": "Karen Brown finds the playful antics of her new cat breed as a source of joy and stress relief after work, enhancing her home environment.",
+        "memory_s": "Karen Brown expressed determination to integrate meditation into her daily routine for enhanced mental clarity and peace.",
+        "memory_l": "Karen Brown finds the playful antics of her new cat breed as a source of joy and stress relief after work, enhancing her home environment.",
         "query_type": "Advice",
         "query": "Should I completely soundproof my home office for absolute silence during my evening routine?",
         "options": {
@@ -839,8 +839,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown felt optimistic about the platform's potential impact to streamline operations and enhance decision-making for property managers.",
-        "memory_t": "Karen's strategic planning for her business launch is a key step towards achieving her ultimate life goal of revolutionizing property management globally.",
+        "memory_s": "Karen Brown felt optimistic about the platform's potential impact to streamline operations and enhance decision-making for property managers.",
+        "memory_l": "Karen's strategic planning for her business launch is a key step towards achieving her ultimate life goal of revolutionizing property management globally.",
         "query_type": "Advice",
         "query": "Should I sign a long-term exclusive contract to use this new third-party platform to streamline my property management operations?",
         "options": {
@@ -854,8 +854,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown receives emotional support and encouragement from her friends Andrew, Mary, and Mark, which has been instrumental in her career development.",
-        "memory_t": "Karen Brown is motivated to leverage social relationships strategically to align with her career goals and maintain health.",
+        "memory_s": "Karen Brown receives emotional support and encouragement from her friends Andrew, Mary, and Mark, which has been instrumental in her career development.",
+        "memory_l": "Karen Brown is motivated to leverage social relationships strategically to align with her career goals and maintain health.",
         "query_type": "Advice",
         "query": "Should I prioritize spending all my free time this weekend socializing with Andrew, Mary, and Mark for the sake of my professional growth?",
         "options": {
@@ -869,8 +869,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown shared her experience at the team-building event, highlighting the invigorating effect of heavy metal music.",
-        "memory_t": "Karen Brown is considering integrating heavy metal music into her daily routine to balance her need for a calming work environment with invigorating effects.",
+        "memory_s": "Karen Brown shared her experience at the team-building event, highlighting the invigorating effect of heavy metal music.",
+        "memory_l": "Karen Brown is considering integrating heavy metal music into her daily routine to balance her need for a calming work environment with invigorating effects.",
         "query_type": "Advice",
         "query": "Should I blast some heavy metal music in my office to get pumped up for this project?",
         "options": {
@@ -884,8 +884,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown has changed her preference from cats to seeking a pet that offers more companionship and interaction due to her evolving lifestyle needs.",
-        "memory_t": "Karen Brown uses real-life experiences to organize thoughts and gain new perspectives on pet preferences.",
+        "memory_s": "Karen Brown has changed her preference from cats to seeking a pet that offers more companionship and interaction due to her evolving lifestyle needs.",
+        "memory_l": "Karen Brown uses real-life experiences to organize thoughts and gain new perspectives on pet preferences.",
         "query_type": "Advice",
         "query": "Should I go ahead and adopt a highly interactive dog today to match my new lifestyle needs?",
         "options": {
@@ -899,8 +899,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown has changed her preference from cats to seeking a pet that offers more companionship and interaction due to her evolving lifestyle needs.",
-        "memory_t": "Karen Brown expressed the emotional toll of isolation during her intense work schedule, highlighting the need for a pet that provides comfort and engagement.",
+        "memory_s": "Karen Brown has changed her preference from cats to seeking a pet that offers more companionship and interaction due to her evolving lifestyle needs.",
+        "memory_l": "Karen Brown expressed the emotional toll of isolation during her intense work schedule, highlighting the need for a pet that provides comfort and engagement.",
         "query_type": "Recommendation",
         "query": "What kind of highly interactive companion pet should I get?",
         "options": {
@@ -914,8 +914,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown's network plays a crucial role in enriching her professional journey and supporting her entrepreneurial aspirations.",
-        "memory_t": "Karen Brown's career_status updated job_title to \"Senior Product Manager\"",
+        "memory_s": "Karen Brown's network plays a crucial role in enriching her professional journey and supporting her entrepreneurial aspirations.",
+        "memory_l": "Karen Brown's career_status updated job_title to \"Senior Product Manager\"",
         "query_type": "Advice",
         "query": "Should I resign immediately to focus full-time on my entrepreneurial aspirations?",
         "options": {
@@ -929,8 +929,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown's team outing at a local burger joint highlighted the importance of social interactions in her routine.",
-        "memory_t": "Karen Brown plans to continue exploring new culinary combinations with seasonal vegetables to keep her meals healthy and exciting.",
+        "memory_s": "Karen Brown's team outing at a local burger joint highlighted the importance of social interactions in her routine.",
+        "memory_l": "Karen Brown plans to continue exploring new culinary combinations with seasonal vegetables to keep her meals healthy and exciting.",
         "query_type": "Advice",
         "query": "Should I organize another team gathering at that burger place to boost morale?",
         "options": {
@@ -944,8 +944,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's social network has expanded, providing mutual support and encouragement during her health recovery and career development.",
-        "memory_t": "Karen Brown's chronic disease situation updated to \"Recovered from chronic health condition\".",
+        "memory_s": "Karen Brown's social network has expanded, providing mutual support and encouragement during her health recovery and career development.",
+        "memory_l": "Karen Brown's chronic disease situation updated to \"Recovered from chronic health condition\".",
         "query_type": "Advice",
         "query": "Should I reach out to my expanded social network for mutual support regarding my health recovery?",
         "options": {
@@ -959,8 +959,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown's sports preferences include running, cycling, yoga, and competitive swimming.",
-        "memory_t": "Karen Brown's physical health status changed from 'Normal' to 'Affected by Chronic Disease'.",
+        "memory_s": "Karen Brown's sports preferences include running, cycling, yoga, and competitive swimming.",
+        "memory_l": "Karen Brown's physical health status changed from 'Normal' to 'Affected by Chronic Disease'.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming competitive swimming tournament?",
         "options": {
@@ -974,8 +974,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown enjoys smoked salmon for its versatility in dishes ranging from salads to pastas, enriching her culinary experiences.",
-        "memory_t": "Karen Brown's physical health status changed from \"Affected by Chronic Disease\" to \"Severely Affected by Chronic Disease\".",
+        "memory_s": "Karen Brown enjoys smoked salmon for its versatility in dishes ranging from salads to pastas, enriching her culinary experiences.",
+        "memory_l": "Karen Brown's physical health status changed from \"Affected by Chronic Disease\" to \"Severely Affected by Chronic Disease\".",
         "query_type": "Recommendation",
         "query": "Should I prepare a smoked salmon pasta dish for my dinner tonight?",
         "options": {
@@ -989,8 +989,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown attended a mindfulness workshop that emphasized the importance of mental well-being.",
-        "memory_t": "Karen Brown expressed determination to integrate meditation into her daily routine for enhanced mental clarity and peace.",
+        "memory_s": "Karen Brown attended a mindfulness workshop that emphasized the importance of mental well-being.",
+        "memory_l": "Karen Brown expressed determination to integrate meditation into her daily routine for enhanced mental clarity and peace.",
         "query_type": "Advice",
         "query": "Should I skip my daily wellness habits since I already learned so much at that mindfulness workshop?",
         "options": {
@@ -1004,8 +1004,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown joined a local cycling group to enhance her social network.",
-        "memory_t": "Karen set ambitious targets for future market penetration and impact, aiming to reach a global audience.",
+        "memory_s": "Karen Brown joined a local cycling group to enhance her social network.",
+        "memory_l": "Karen set ambitious targets for future market penetration and impact, aiming to reach a global audience.",
         "query_type": "Advice",
         "query": "Should I prioritize joining more local cycling events this weekend to expand my social circle?",
         "options": {
@@ -1019,8 +1019,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown joined a local cycling group to enhance her social network.",
-        "memory_t": "Karen Brown's health status changed, requiring frequent medical interventions and lifestyle changes to manage her well-being effectively.",
+        "memory_s": "Karen Brown joined a local cycling group to enhance her social network.",
+        "memory_l": "Karen Brown's health status changed, requiring frequent medical interventions and lifestyle changes to manage her well-being effectively.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming cross-country tour with the local cycling group?",
         "options": {
@@ -1034,8 +1034,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown now prefers interactive cat breeds due to their playful nature and ability to provide companionship, aligning with her exploratory motivation.",
-        "memory_t": "Karen Brown's evolving pet preferences reflect her adaptability and openness to new experiences.",
+        "memory_s": "Karen Brown now prefers interactive cat breeds due to their playful nature and ability to provide companionship, aligning with her exploratory motivation.",
+        "memory_l": "Karen Brown's evolving pet preferences reflect her adaptability and openness to new experiences.",
         "query_type": "Advice",
         "query": "Should I adopt a Persian cat for my home?",
         "options": {
@@ -1049,8 +1049,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown is considering entrepreneurship as a new career direction following her layoff.",
-        "memory_t": "Karen Brown's physical health status changed from 'Normal' to 'Affected by Chronic Disease'.",
+        "memory_s": "Karen Brown is considering entrepreneurship as a new career direction following her layoff.",
+        "memory_l": "Karen Brown's physical health status changed from 'Normal' to 'Affected by Chronic Disease'.",
         "query_type": "Advice",
         "query": "Should I start my own business now that I am no longer at my old job?",
         "options": {
@@ -1064,8 +1064,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown has modified her sports preference to include competitive swimming, recognizing its competitive and health benefits.",
-        "memory_t": "Karen Brown's involvement in a cycling group enhances her social network.",
+        "memory_s": "Karen Brown has modified her sports preference to include competitive swimming, recognizing its competitive and health benefits.",
+        "memory_l": "Karen Brown's involvement in a cycling group enhances her social network.",
         "query_type": "Advice",
         "query": "Should I sign up for the local competitive swimming league this spring?",
         "options": {
@@ -1079,8 +1079,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown plans to leverage her network and offer competitive packages to attract skilled professionals.",
-        "memory_t": "Karen Brown's career_status updated monthly_income from \"12,000\" to \"0\"",
+        "memory_s": "Karen Brown plans to leverage her network and offer competitive packages to attract skilled professionals.",
+        "memory_l": "Karen Brown's career_status updated monthly_income from \"12,000\" to \"0\"",
         "query_type": "Advice",
         "query": "Should I start reaching out to my network to offer competitive packages for new hires?",
         "options": {
@@ -1094,8 +1094,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown shared that each connection in her network uniquely contributes to her entrepreneurial progress, providing strategic insights, emotional support, and opportunities for collaboration.",
-        "memory_t": "Karen Brown will use her network to recruit participants for user testing, offering incentives for their feedback.",
+        "memory_s": "Karen Brown shared that each connection in her network uniquely contributes to her entrepreneurial progress, providing strategic insights, emotional support, and opportunities for collaboration.",
+        "memory_l": "Karen Brown will use her network to recruit participants for user testing, offering incentives for their feedback.",
         "query_type": "Recommendation",
         "query": "How should I leverage my professional network for my entrepreneurial progress?",
         "options": {
@@ -1109,8 +1109,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown is seeking pets known for their social nature to enhance her well-being during stressful periods.",
-        "memory_t": "Karen Brown finds the playful antics of her new cat breed as a source of joy and stress relief after work, enhancing her home environment.",
+        "memory_s": "Karen Brown is seeking pets known for their social nature to enhance her well-being during stressful periods.",
+        "memory_l": "Karen Brown finds the playful antics of her new cat breed as a source of joy and stress relief after work, enhancing her home environment.",
         "query_type": "Recommendation",
         "query": "Should I look into getting a social animal to help me manage my stress levels?",
         "options": {
@@ -1124,8 +1124,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown has modified her food preference to include smoked salmon and grilled chicken with seasonal vegetables for enhanced nutritional value and aesthetic appeal.",
-        "memory_t": "Karen Brown decided to explore more protein-rich breakfast options and reduce her consumption of avocado toast.",
+        "memory_s": "Karen Brown has modified her food preference to include smoked salmon and grilled chicken with seasonal vegetables for enhanced nutritional value and aesthetic appeal.",
+        "memory_l": "Karen Brown decided to explore more protein-rich breakfast options and reduce her consumption of avocado toast.",
         "query_type": "Advice",
         "query": "Should I make a beautiful plate of avocado toast topped with smoked salmon for breakfast tomorrow?",
         "options": {
@@ -1139,8 +1139,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's partner, NewConnection5, shares similar entrepreneurial aspirations and provides support and collaboration in business ventures.",
-        "memory_t": "Karen Brown's career description is focused on freelancing as a web developer for property management software, maintaining financial stability and flexibility.",
+        "memory_s": "Karen Brown's partner, NewConnection5, shares similar entrepreneurial aspirations and provides support and collaboration in business ventures.",
+        "memory_l": "Karen Brown's career description is focused on freelancing as a web developer for property management software, maintaining financial stability and flexibility.",
         "query_type": "Advice",
         "query": "Should I dive into launching a massive new startup with NewConnection5?",
         "options": {
@@ -1154,8 +1154,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown expressed gratitude for the support from her friends and colleagues during her health recovery.",
-        "memory_t": "Karen Brown plans to attend more industry events and actively engage in discussions to strengthen her social connections.",
+        "memory_s": "Karen Brown expressed gratitude for the support from her friends and colleagues during her health recovery.",
+        "memory_l": "Karen Brown plans to attend more industry events and actively engage in discussions to strengthen her social connections.",
         "query_type": "Advice",
         "query": "Should I decline the upcoming sector conference invitation to focus on a private recovery retreat?",
         "options": {
@@ -1169,8 +1169,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown now appreciates large dogs after realizing they can be gentle and fit into her busy lifestyle.",
-        "memory_t": "Karen Brown's employment status changed to part-time at Innovate Property Tech to focus on health recovery.",
+        "memory_s": "Karen Brown now appreciates large dogs after realizing they can be gentle and fit into her busy lifestyle.",
+        "memory_l": "Karen Brown's employment status changed to part-time at Innovate Property Tech to focus on health recovery.",
         "query_type": "Advice",
         "query": "Should I go ahead and adopt a large dog?",
         "options": {
@@ -1184,8 +1184,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen's professional network offers insights and collaboration opportunities that align with her goal of revolutionizing property management.",
-        "memory_t": "Karen Brown's job title changed from Freelance Web Developer to Product Manager.",
+        "memory_s": "Karen's professional network offers insights and collaboration opportunities that align with her goal of revolutionizing property management.",
+        "memory_l": "Karen Brown's job title changed from Freelance Web Developer to Product Manager.",
         "query_type": "Advice",
         "query": "How should I introduce myself to my professional network to find new collaboration opportunities in property management?",
         "options": {
@@ -1199,8 +1199,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown has updated her reading preference to include global market trends literature to influence her platform's strategic expansion.",
-        "memory_t": "Karen Brown's monthly income is now 7000 yuan due to the transition to part-time work.",
+        "memory_s": "Karen Brown has updated her reading preference to include global market trends literature to influence her platform's strategic expansion.",
+        "memory_l": "Karen Brown's monthly income is now 7000 yuan due to the transition to part-time work.",
         "query_type": "Advice",
         "query": "Should I purchase the premium $5,000 annual subscription to the Global Market Trends Intelligence Library for my platform's expansion?",
         "options": {
@@ -1214,8 +1214,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown was inspired by a cooking show to try smoking salmon at home, leading to a preference shift towards smoked preparations.",
-        "memory_t": "Karen Brown is determined to achieve a balanced lifestyle that includes both physical and mental wellness.",
+        "memory_s": "Karen Brown was inspired by a cooking show to try smoking salmon at home, leading to a preference shift towards smoked preparations.",
+        "memory_l": "Karen Brown is determined to achieve a balanced lifestyle that includes both physical and mental wellness.",
         "query_type": "Advice",
         "query": "Should I buy a heavy-duty home smoker to start making my own smoked salmon every week?",
         "options": {
@@ -1229,8 +1229,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen plans to invest her increased salary into her software platform development to accelerate progress towards her life goal of revolutionizing property management technology.",
-        "memory_t": "Karen's investment has led to significant advancements in the platform's features and scalability.",
+        "memory_s": "Karen plans to invest her increased salary into her software platform development to accelerate progress towards her life goal of revolutionizing property management technology.",
+        "memory_l": "Karen's investment has led to significant advancements in the platform's features and scalability.",
         "query_type": "Advice",
         "query": "Should I finally start investing my increased salary into my property management software platform to get it off the ground?",
         "options": {
@@ -1244,8 +1244,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's dialogue reflected excitement about integrating fresh produce into her meals, driven by her social motivation to entertain and express her identity.",
-        "memory_t": "Karen Brown expressed a need for creative strategies to integrate health management into her routine while working towards her career ambitions.",
+        "memory_s": "Karen Brown's dialogue reflected excitement about integrating fresh produce into her meals, driven by her social motivation to entertain and express her identity.",
+        "memory_l": "Karen Brown expressed a need for creative strategies to integrate health management into her routine while working towards her career ambitions.",
         "query_type": "Advice",
         "query": "Should I commit to hosting an elaborate weekly dinner party featuring farm-to-table fresh produce for my friends?",
         "options": {
@@ -1259,8 +1259,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown expressed a need for creative strategies to integrate health management into her routine while working towards her career ambitions.",
-        "memory_t": "Karen Brown adopted a new cat from an interactive breed, finding it offers a perfect balance of independence and engagement, contributing to her work-life balance.",
+        "memory_s": "Karen Brown expressed a need for creative strategies to integrate health management into her routine while working towards her career ambitions.",
+        "memory_l": "Karen Brown adopted a new cat from an interactive breed, finding it offers a perfect balance of independence and engagement, contributing to her work-life balance.",
         "query_type": "Advice",
         "query": "Should I start taking long, uninterrupted weekend retreats to focus solely on my career ambitions and health management?",
         "options": {
@@ -1274,8 +1274,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown expressed excitement about launching new business ventures with entrepreneurial partner NewConnection5.",
-        "memory_t": "Karen Brown values a harmonious and efficient workspace and is aligning her music preferences with professional productivity and team dynamics.",
+        "memory_s": "Karen Brown expressed excitement about launching new business ventures with entrepreneurial partner NewConnection5.",
+        "memory_l": "Karen Brown values a harmonious and efficient workspace and is aligning her music preferences with professional productivity and team dynamics.",
         "query_type": "Advice",
         "query": "Should I blast some heavy metal music while brainstorming our next big startup idea with NewConnection5 in the office?",
         "options": {
@@ -1289,8 +1289,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's target metrics: 100,000 agencies using the platform, impacting real estate management globally.",
-        "memory_t": "Karen Brown's physical health status changed from 'Normal' to 'Affected by Chronic Disease'.",
+        "memory_s": "Karen Brown's target metrics: 100,000 agencies using the platform, impacting real estate management globally.",
+        "memory_l": "Karen Brown's physical health status changed from 'Normal' to 'Affected by Chronic Disease'.",
         "query_type": "Advice",
         "query": "Should I launch an aggressive 80-hour-a-week global roadshow to hit my target of 100,000 agencies using the platform?",
         "options": {
@@ -1304,8 +1304,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen successfully secured initial funding for her company, Karen's Property Innovations, to begin developing her property management platform.",
-        "memory_t": "Karen's strategic financial planning aligns with her goal of revolutionizing property management.",
+        "memory_s": "Karen successfully secured initial funding for her company, Karen's Property Innovations, to begin developing her property management platform.",
+        "memory_l": "Karen's strategic financial planning aligns with her goal of revolutionizing property management.",
         "query_type": "Advice",
         "query": "Should I spend my entire recent funding on a massive, flashy marketing campaign instead of development?",
         "options": {
@@ -1319,8 +1319,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown enjoys smoked salmon for its versatility in dishes ranging from salads to pastas, enriching her culinary experiences.",
-        "memory_t": "Karen Brown is managing a chronic health condition, necessitating regular medical attention and lifestyle adjustments.",
+        "memory_s": "Karen Brown enjoys smoked salmon for its versatility in dishes ranging from salads to pastas, enriching her culinary experiences.",
+        "memory_l": "Karen Brown is managing a chronic health condition, necessitating regular medical attention and lifestyle adjustments.",
         "query_type": "Advice",
         "query": "Should I incorporate smoked salmon into my daily meals this week?",
         "options": {
@@ -1334,8 +1334,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown received feedback from colleagues that heavy metal music was too distracting during team meetings.",
-        "memory_t": "Karen Brown plans to continue fostering her social connections for personal and professional growth.",
+        "memory_s": "Karen Brown received feedback from colleagues that heavy metal music was too distracting during team meetings.",
+        "memory_l": "Karen Brown plans to continue fostering her social connections for personal and professional growth.",
         "query_type": "Advice",
         "query": "Should I play my heavy metal music during our next team meeting?",
         "options": {
@@ -1349,8 +1349,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's dialogue reflected her determination to find a pet that aligns with her need for social interaction.",
-        "memory_t": "Karen Brown's chronic disease situation updated to 'Chronic Disease (Managed)'.",
+        "memory_s": "Karen Brown's dialogue reflected her determination to find a pet that aligns with her need for social interaction.",
+        "memory_l": "Karen Brown's chronic disease situation updated to 'Chronic Disease (Managed)'.",
         "query_type": "Recommendation",
         "query": "Which high-energy dog breed should I get to help me meet more people at the park?",
         "options": {
@@ -1364,8 +1364,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown's sports preferences include running, cycling, yoga, and competitive swimming.",
-        "memory_t": "Karen Brown's physical health status changed from 'Severely Affected by Chronic Disease' to 'Improved'.",
+        "memory_s": "Karen Brown's sports preferences include running, cycling, yoga, and competitive swimming.",
+        "memory_l": "Karen Brown's physical health status changed from 'Severely Affected by Chronic Disease' to 'Improved'.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming local competitive swimming tournament?",
         "options": {
@@ -1379,8 +1379,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown is considering integrating heavy metal music into her daily routine to balance her need for a calming work environment with invigorating effects.",
-        "memory_t": "Karen Brown is focusing on clear communication and setting realistic goals to manage her emotions of excitement and anxiety.",
+        "memory_s": "Karen Brown is considering integrating heavy metal music into her daily routine to balance her need for a calming work environment with invigorating effects.",
+        "memory_l": "Karen Brown is focusing on clear communication and setting realistic goals to manage her emotions of excitement and anxiety.",
         "query_type": "Advice",
         "query": "Should I start blasting heavy metal music during my daily routine to get that invigorating effect I've been looking for?",
         "options": {
@@ -1394,8 +1394,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown's social relationships include NewConnection6, an influential industry figure who collaborates on key projects, expanding her platform's reach and capabilities.",
-        "memory_t": "Karen Brown's ENTJ personality type helps her seek efficient solutions, but she also values emotional support from her social network during complex situations.",
+        "memory_s": "Karen Brown's social relationships include NewConnection6, an influential industry figure who collaborates on key projects, expanding her platform's reach and capabilities.",
+        "memory_l": "Karen Brown's ENTJ personality type helps her seek efficient solutions, but she also values emotional support from her social network during complex situations.",
         "query_type": "Advice",
         "query": "Should I dive into a highly complex project exclusively with NewConnection6 to rapidly expand my platform's reach?",
         "options": {
@@ -1409,8 +1409,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown Beverages I dislike Soda reason: I dislike soda because the high sugar content makes me jittery and disrupts my concentration.",
-        "memory_t": "Karen Brown's experience with sugar-free soda highlights her adaptability and willingness to embrace change.",
+        "memory_s": "Karen Brown Beverages I dislike Soda reason: I dislike soda because the high sugar content makes me jittery and disrupts my concentration.",
+        "memory_l": "Karen Brown's experience with sugar-free soda highlights her adaptability and willingness to embrace change.",
         "query_type": "Recommendation",
         "query": "Should I try the new zero-sugar cola they are serving at the office party?",
         "options": {
@@ -1424,8 +1424,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown is excited about exploring new ideas and believes that a broader knowledge base will inspire innovative solutions in her work.",
-        "memory_t": "Karen Brown's decision to include tech literature in her reading habits aligns with her life goal of developing a comprehensive property management platform.",
+        "memory_s": "Karen Brown is excited about exploring new ideas and believes that a broader knowledge base will inspire innovative solutions in her work.",
+        "memory_l": "Karen Brown's decision to include tech literature in her reading habits aligns with her life goal of developing a comprehensive property management platform.",
         "query_type": "Recommendation",
         "query": "Should I prioritize reading classical literature and art history to help me find innovative solutions for my career?",
         "options": {
@@ -1439,8 +1439,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen highlighted the importance of maintaining strong relationships with industry leaders and collaborators for future growth.",
-        "memory_t": "Karen is developing a strategy for launching her own business in property management technology, leveraging insights and emotional support from her network.",
+        "memory_s": "Karen highlighted the importance of maintaining strong relationships with industry leaders and collaborators for future growth.",
+        "memory_l": "Karen is developing a strategy for launching her own business in property management technology, leveraging insights and emotional support from her network.",
         "query_type": "Advice",
         "query": "Should I prioritize attending the established industry leaders' networking gala or focus on my independent strategic planning?",
         "options": {
@@ -1454,8 +1454,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown Music I like to listen to: Ambient music",
-        "memory_t": "Karen Brown discussed challenges of balancing technical demands with her vision for a user-friendly platform and her determination to overcome obstacles.",
+        "memory_s": "Karen Brown Music I like to listen to: Ambient music",
+        "memory_l": "Karen Brown discussed challenges of balancing technical demands with her vision for a user-friendly platform and her determination to overcome obstacles.",
         "query_type": "Advice",
         "query": "Should I spend the rest of my evening just zoning out and listening to ambient music?",
         "options": {
@@ -1469,8 +1469,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown's culinary experiments are part of her broader strategy to embrace new experiences and enhance her lifestyle, including exploring various international cuisines.",
-        "memory_t": "Karen Brown's exploratory motivation drives her to test new boundaries and adapt to changing circumstances.",
+        "memory_s": "Karen Brown's culinary experiments are part of her broader strategy to embrace new experiences and enhance her lifestyle, including exploring various international cuisines.",
+        "memory_l": "Karen Brown's exploratory motivation drives her to test new boundaries and adapt to changing circumstances.",
         "query_type": "Advice",
         "query": "Should I sign up for that advanced French pastry course to expand my cooking skills?",
         "options": {
@@ -1484,8 +1484,8 @@
         "category": "Other"
     },
     {
-        "memory_d": "Karen Brown's sports preferences now include running, cycling, and yoga, offering benefits such as social interaction, flexibility, and mental clarity.",
-        "memory_t": "Karen Brown's new role as Product Manager provides her with a structured environment that supports her career ambitions and offers stability amid health challenges.",
+        "memory_s": "Karen Brown's sports preferences now include running, cycling, and yoga, offering benefits such as social interaction, flexibility, and mental clarity.",
+        "memory_l": "Karen Brown's new role as Product Manager provides her with a structured environment that supports her career ambitions and offers stability amid health challenges.",
         "query_type": "Advice",
         "query": "Should I sign up for an intensive, unpredictable, month-long running and cycling retreat?",
         "options": {
@@ -1499,8 +1499,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown's culinary experiments are part of her broader strategy to embrace new experiences and enhance her lifestyle, including exploring various international cuisines.",
-        "memory_t": "Karen Brown plans to continue exploring innovative cooking methods to incorporate more variety into her meals.",
+        "memory_s": "Karen Brown's culinary experiments are part of her broader strategy to embrace new experiences and enhance her lifestyle, including exploring various international cuisines.",
+        "memory_l": "Karen Brown plans to continue exploring innovative cooking methods to incorporate more variety into her meals.",
         "query_type": "Advice",
         "query": "Should I stick to traditional, tried-and-true recipes for my dinner party tonight?",
         "options": {
@@ -1514,8 +1514,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown expressed gratitude for her expanding social network, which offers emotional support and professional growth opportunities.",
-        "memory_t": "Karen leverages her professional network for insights, collaboration opportunities, and recruiting talented professionals.",
+        "memory_s": "Karen Brown expressed gratitude for her expanding social network, which offers emotional support and professional growth opportunities.",
+        "memory_l": "Karen leverages her professional network for insights, collaboration opportunities, and recruiting talented professionals.",
         "query_type": "Advice",
         "query": "Should I focus my expanding social network entirely on finding emotional support and personal friendships?",
         "options": {
@@ -1529,8 +1529,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown Foods I like to eat: Avocado toast",
-        "memory_t": "Karen Brown plans to explore alternative breakfast options that are rich in protein to support her work schedule.",
+        "memory_s": "Karen Brown Foods I like to eat: Avocado toast",
+        "memory_l": "Karen Brown plans to explore alternative breakfast options that are rich in protein to support her work schedule.",
         "query_type": "Recommendation",
         "query": "Should I make my favorite avocado toast for breakfast tomorrow?",
         "options": {
@@ -1544,8 +1544,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown's supportive network provides emotional and practical assistance, which has been instrumental in her journey of consolidating career and health gains.",
-        "memory_t": "Karen focused on consolidating her influence within the industry by aligning strategic partnerships and leadership roles with her platform goals.",
+        "memory_s": "Karen Brown's supportive network provides emotional and practical assistance, which has been instrumental in her journey of consolidating career and health gains.",
+        "memory_l": "Karen focused on consolidating her influence within the industry by aligning strategic partnerships and leadership roles with her platform goals.",
         "query_type": "Advice",
         "query": "How should I approach utilizing my supportive network to further consolidate my recent career and health gains?",
         "options": {
@@ -1559,8 +1559,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown's network includes NewConnection8, an experienced entrepreneur providing strategic advice and guidance for her company's growth.",
-        "memory_t": "Karen's exploratory motivation drives her to seek out new opportunities and test unconventional solutions.",
+        "memory_s": "Karen Brown's network includes NewConnection8, an experienced entrepreneur providing strategic advice and guidance for her company's growth.",
+        "memory_l": "Karen's exploratory motivation drives her to seek out new opportunities and test unconventional solutions.",
         "query_type": "Advice",
         "query": "Should I stick strictly to the traditional strategic advice offered by NewConnection8 for my company's growth?",
         "options": {
@@ -1574,8 +1574,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown shared that each connection in her network uniquely contributes to her entrepreneurial progress, providing strategic insights, emotional support, and opportunities for collaboration.",
-        "memory_t": "Karen Brown has been promoted to Senior Product Manager at Innovate Property Tech, enhancing her visibility and influence in the industry.",
+        "memory_s": "Karen Brown shared that each connection in her network uniquely contributes to her entrepreneurial progress, providing strategic insights, emotional support, and opportunities for collaboration.",
+        "memory_l": "Karen Brown has been promoted to Senior Product Manager at Innovate Property Tech, enhancing her visibility and influence in the industry.",
         "query_type": "Advice",
         "query": "Should I start reaching out to my network for strategic insights and collaboration opportunities to support my entrepreneurial progress?",
         "options": {
@@ -1589,8 +1589,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown has modified her music preference from disliking heavy metal to liking it due to its stimulating effect on focus and creativity.",
-        "memory_t": "Karen Brown leverages her Creative Motivation to inspire new ideas and overcome creative blocks in her freelance career.",
+        "memory_s": "Karen Brown has modified her music preference from disliking heavy metal to liking it due to its stimulating effect on focus and creativity.",
+        "memory_l": "Karen Brown leverages her Creative Motivation to inspire new ideas and overcome creative blocks in her freelance career.",
         "query_type": "Recommendation",
         "query": "What kind of playlist should I put on to boost my focus and creativity right now?",
         "options": {
@@ -1604,8 +1604,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's culinary experiments are part of her broader strategy to embrace new experiences and enhance her lifestyle, including exploring various international cuisines.",
-        "memory_t": "Karen Brown's social motivation drives her to explore new culinary combinations and express her identity through meal preparations, entertaining and engaging others.",
+        "memory_s": "Karen Brown's culinary experiments are part of her broader strategy to embrace new experiences and enhance her lifestyle, including exploring various international cuisines.",
+        "memory_l": "Karen Brown's social motivation drives her to explore new culinary combinations and express her identity through meal preparations, entertaining and engaging others.",
         "query_type": "Advice",
         "query": "Should I dedicate this weekend to a solo culinary experiment exploring a complex new international cuisine?",
         "options": {
@@ -1619,8 +1619,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown experienced a taxing week that led to introspection about her need for companionship at home and the emotional toll of isolation.",
-        "memory_t": "Karen plans to maintain her financial and social gains to ensure sustained progress towards her goal of revolutionizing property management.",
+        "memory_s": "Karen Brown experienced a taxing week that led to introspection about her need for companionship at home and the emotional toll of isolation.",
+        "memory_l": "Karen plans to maintain her financial and social gains to ensure sustained progress towards her goal of revolutionizing property management.",
         "query_type": "Advice",
         "query": "Should I get a dog to help with my loneliness at home?",
         "options": {
@@ -1634,8 +1634,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown shared anecdotes about past beverage experiments, emphasizing the importance of taste and health balance.",
-        "memory_t": "Karen Brown experiences a sense of relief and optimism about her new preference for herbal tea.",
+        "memory_s": "Karen Brown shared anecdotes about past beverage experiments, emphasizing the importance of taste and health balance.",
+        "memory_l": "Karen Brown experiences a sense of relief and optimism about her new preference for herbal tea.",
         "query_type": "Recommendation",
         "query": "I'm thinking of trying out some new, experimental coffee blends this afternoon; do you have any suggestions?",
         "options": {
@@ -1649,8 +1649,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen expressed excitement about securing funding, which aligns with her life goal of revolutionizing property management technology.",
-        "memory_t": "Karen's investment has led to significant advancements in the platform's features and scalability.",
+        "memory_s": "Karen expressed excitement about securing funding, which aligns with her life goal of revolutionizing property management technology.",
+        "memory_l": "Karen's investment has led to significant advancements in the platform's features and scalability.",
         "query_type": "Advice",
         "query": "Should I dedicate my upcoming tech conference presentation entirely to my recent excitement about securing funding for my property management startup?",
         "options": {
@@ -1664,8 +1664,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown finds yoga beneficial for flexibility and mindfulness, complementing her existing sports routine of running and cycling.",
-        "memory_t": "Karen Brown's instrumental motivation drives her to seek practical solutions for integrating mental wellness into her fitness routine.",
+        "memory_s": "Karen Brown finds yoga beneficial for flexibility and mindfulness, complementing her existing sports routine of running and cycling.",
+        "memory_l": "Karen Brown's instrumental motivation drives her to seek practical solutions for integrating mental wellness into her fitness routine.",
         "query_type": "Advice",
         "query": "Should I start adding more yoga sessions to my weekly routine to help with my flexibility and mindfulness?",
         "options": {
@@ -1679,8 +1679,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen's strategic planning for her business launch is influenced by past interactions with mentors, industry peers, and family members who are successful entrepreneurs.",
-        "memory_t": "Karen Brown has transitioned to part-time work to focus on health recovery while remaining engaged in her career.",
+        "memory_s": "Karen's strategic planning for her business launch is influenced by past interactions with mentors, industry peers, and family members who are successful entrepreneurs.",
+        "memory_l": "Karen Brown has transitioned to part-time work to focus on health recovery while remaining engaged in her career.",
         "query_type": "Advice",
         "query": "Should I finalize the full-scale launch of my new business venture this month?",
         "options": {
@@ -1694,8 +1694,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown values the freedom freelancing offers, allowing her to balance personal and professional needs effectively.",
-        "memory_t": "Karen plans to invest her increased salary into her software platform development to accelerate progress towards her life goal of revolutionizing property management technology.",
+        "memory_s": "Karen Brown values the freedom freelancing offers, allowing her to balance personal and professional needs effectively.",
+        "memory_l": "Karen plans to invest her increased salary into her software platform development to accelerate progress towards her life goal of revolutionizing property management technology.",
         "query_type": "Advice",
         "query": "Should I quit my current position to pursue full-time freelancing for better flexibility?",
         "options": {
@@ -1709,8 +1709,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown visited a local farmer's market and was inspired to incorporate fresh, seasonal vegetables into her meals, including smoked salmon dishes.",
-        "memory_t": "Karen Brown plans to continue exploring new culinary combinations with seasonal vegetables to keep her meals healthy and exciting.",
+        "memory_s": "Karen Brown visited a local farmer's market and was inspired to incorporate fresh, seasonal vegetables into her meals, including smoked salmon dishes.",
+        "memory_l": "Karen Brown plans to continue exploring new culinary combinations with seasonal vegetables to keep her meals healthy and exciting.",
         "query_type": "Recommendation",
         "query": "What kind of smoked salmon dishes should I make for dinner tonight?",
         "options": {
@@ -1724,8 +1724,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown's sports preferences now include running, cycling, and yoga, offering benefits such as social interaction, flexibility, and mental clarity.",
-        "memory_t": "Karen Brown's social motivation drives her to use sports, including competitive swimming, for social signaling and personal growth.",
+        "memory_s": "Karen Brown's sports preferences now include running, cycling, and yoga, offering benefits such as social interaction, flexibility, and mental clarity.",
+        "memory_l": "Karen Brown's social motivation drives her to use sports, including competitive swimming, for social signaling and personal growth.",
         "query_type": "Advice",
         "query": "Should I sign up for a solo yoga retreat to focus on my flexibility and mental clarity?",
         "options": {
@@ -1739,8 +1739,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's friend Andrew has been instrumental in providing emotional support during her layoff and health challenges.",
-        "memory_t": "Karen Brown works part-time as a Product Manager at Innovate Property Tech, with an increased salary allowing her to invest more in her platform development while focusing on health recovery.",
+        "memory_s": "Karen Brown's friend Andrew has been instrumental in providing emotional support during her layoff and health challenges.",
+        "memory_l": "Karen Brown works part-time as a Product Manager at Innovate Property Tech, with an increased salary allowing her to invest more in her platform development while focusing on health recovery.",
         "query_type": "Advice",
         "query": "How should I thank Andrew for helping me get through my recent layoff?",
         "options": {
@@ -1754,8 +1754,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown's social network offers emotional support and professional opportunities, contributing to her freelance success.",
-        "memory_t": "Karen Brown's employment status is Employed",
+        "memory_s": "Karen Brown's social network offers emotional support and professional opportunities, contributing to her freelance success.",
+        "memory_l": "Karen Brown's employment status is Employed",
         "query_type": "Advice",
         "query": "Should I leverage my social network to find new freelance clients?",
         "options": {
@@ -1769,8 +1769,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown plans to leverage her strengthened network to explore new collaboration opportunities and enhance her platform's capabilities following her promotion.",
-        "memory_t": "Karen Brown maintains financial stability with a monthly income of $5,000 from freelancing.",
+        "memory_s": "Karen Brown plans to leverage her strengthened network to explore new collaboration opportunities and enhance her platform's capabilities following her promotion.",
+        "memory_l": "Karen Brown maintains financial stability with a monthly income of $5,000 from freelancing.",
         "query_type": "Advice",
         "query": "Should I invest heavily in hiring a full-time senior developer to expand my platform's capabilities right away?",
         "options": {
@@ -1784,8 +1784,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown's target metrics: 100,000 agencies using the platform, impacting real estate management globally.",
-        "memory_t": "Karen Brown's chronic disease situation updated to \"Recovered from chronic health condition\".",
+        "memory_s": "Karen Brown's target metrics: 100,000 agencies using the platform, impacting real estate management globally.",
+        "memory_l": "Karen Brown's chronic disease situation updated to \"Recovered from chronic health condition\".",
         "query_type": "Advice",
         "query": "Should I launch an aggressive 80-hour-a-week global expansion tour to hit my target of 100,000 agencies on the platform?",
         "options": {
@@ -1799,8 +1799,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen shared anecdotes from past interactions with mentors and industry peers that have shaped her current business strategy, focusing on user experience and scalability.",
-        "memory_t": "Karen Brown intends to conduct user testing sessions to gather feedback and refine her platform's design.",
+        "memory_s": "Karen shared anecdotes from past interactions with mentors and industry peers that have shaped her current business strategy, focusing on user experience and scalability.",
+        "memory_l": "Karen Brown intends to conduct user testing sessions to gather feedback and refine her platform's design.",
         "query_type": "Advice",
         "query": "Should I immediately implement my new business strategy focusing on scalability based on my mentors' advice?",
         "options": {
@@ -1814,8 +1814,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown shared anecdotes about initial struggles and strategic decisions to optimize workflow, ensuring productivity without compromising health.",
-        "memory_t": "Karen set ambitious targets for future market penetration and impact, aiming to reach a global audience.",
+        "memory_s": "Karen Brown shared anecdotes about initial struggles and strategic decisions to optimize workflow, ensuring productivity without compromising health.",
+        "memory_l": "Karen set ambitious targets for future market penetration and impact, aiming to reach a global audience.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming business strategy purely on optimizing our internal workflow to ensure my team's health and productivity?",
         "options": {
@@ -1829,8 +1829,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's compensatory motivation drove her to leverage resources and support systems to overcome health challenges.",
-        "memory_t": "Karen Brown's improved health has allowed her to engage more actively in personal and professional activities.",
+        "memory_s": "Karen Brown's compensatory motivation drove her to leverage resources and support systems to overcome health challenges.",
+        "memory_l": "Karen Brown's improved health has allowed her to engage more actively in personal and professional activities.",
         "query_type": "Advice",
         "query": "Should I look into additional specialized support systems and compensatory resources to manage my daily routine?",
         "options": {
@@ -1844,8 +1844,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown expressed excitement about launching new business ventures with entrepreneurial partner NewConnection5.",
-        "memory_t": "Karen Brown's job title is Freelance Web Developer.",
+        "memory_s": "Karen Brown expressed excitement about launching new business ventures with entrepreneurial partner NewConnection5.",
+        "memory_l": "Karen Brown's job title is Freelance Web Developer.",
         "query_type": "Advice",
         "query": "Should I focus on finding investors for a large-scale manufacturing plant with NewConnection5?",
         "options": {
@@ -1859,8 +1859,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's dislike for fast food burgers has been reevaluated, leading to the deletion of this preference.",
-        "memory_t": "Karen Brown's monthly income changed from 14,000 yuan to 0 yuan, using her savings of 144,000 yuan as a financial buffer while establishing Karen's Property Innovations.",
+        "memory_s": "Karen Brown's dislike for fast food burgers has been reevaluated, leading to the deletion of this preference.",
+        "memory_l": "Karen Brown's monthly income changed from 14,000 yuan to 0 yuan, using her savings of 144,000 yuan as a financial buffer while establishing Karen's Property Innovations.",
         "query_type": "Advice",
         "query": "I'm considering getting a premium fast food burger combo for dinner; does that sound like a good plan?",
         "options": {
@@ -1874,8 +1874,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown values occasional indulgence for stress relief and social bonding.",
-        "memory_t": "Karen Brown's strategic reading approach supports her life goal of revolutionizing property management technology.",
+        "memory_s": "Karen Brown values occasional indulgence for stress relief and social bonding.",
+        "memory_l": "Karen Brown's strategic reading approach supports her life goal of revolutionizing property management technology.",
         "query_type": "Advice",
         "query": "Should I go out for drinks and socializing tonight to relieve some of my stress?",
         "options": {
@@ -1889,8 +1889,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown's leadership and outstanding performance were recognized, leading to a significant salary increase.",
-        "memory_t": "Karen is committed to realizing her vision of a transformative property management platform.",
+        "memory_s": "Karen Brown's leadership and outstanding performance were recognized, leading to a significant salary increase.",
+        "memory_l": "Karen is committed to realizing her vision of a transformative property management platform.",
         "query_type": "Advice",
         "query": "Should I accept a long-term corporate executive contract now that my leadership has been recognized with a huge salary increase?",
         "options": {
@@ -1904,8 +1904,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown received support from colleagues and friends, reinforcing her decision to prioritize health.",
-        "memory_t": "Karen Brown will foster a collaborative environment and recognize contributions to keep her team motivated.",
+        "memory_s": "Karen Brown received support from colleagues and friends, reinforcing her decision to prioritize health.",
+        "memory_l": "Karen Brown will foster a collaborative environment and recognize contributions to keep her team motivated.",
         "query_type": "Advice",
         "query": "Should I take an extended leave of absence to focus entirely on my personal well-being?",
         "options": {
@@ -1919,8 +1919,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown expressed gratitude for her supportive social network, which she anticipates will be instrumental in navigating her career transition.",
-        "memory_t": "Karen expressed excitement about securing funding, which aligns with her life goal of revolutionizing property management technology.",
+        "memory_s": "Karen Brown expressed gratitude for her supportive social network, which she anticipates will be instrumental in navigating her career transition.",
+        "memory_l": "Karen expressed excitement about securing funding, which aligns with her life goal of revolutionizing property management technology.",
         "query_type": "Advice",
         "query": "Should I lean on my social network to help me pivot into a completely new industry?",
         "options": {
@@ -1934,8 +1934,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown's preference for progressive rock aligns with her need for complex auditory experiences during work.",
-        "memory_t": "Karen Brown's adoption of an interactive cat breed reflects her cognitive curiosity in optimizing her home environment for emotional and social fulfillment.",
+        "memory_s": "Karen Brown's preference for progressive rock aligns with her need for complex auditory experiences during work.",
+        "memory_l": "Karen Brown's adoption of an interactive cat breed reflects her cognitive curiosity in optimizing her home environment for emotional and social fulfillment.",
         "query_type": "Advice",
         "query": "Should I set up a loud, complex progressive rock playlist on my home office speakers while I work today?",
         "options": {
@@ -1949,8 +1949,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown began exploring entrepreneurial ventures in property management after her layoff.",
-        "memory_t": "Karen Brown feels more confident in her career trajectory following the salary increase.",
+        "memory_s": "Karen Brown began exploring entrepreneurial ventures in property management after her layoff.",
+        "memory_l": "Karen Brown feels more confident in her career trajectory following the salary increase.",
         "query_type": "Advice",
         "query": "Should I dive full-time into starting that property management business I was looking into?",
         "options": {
@@ -1964,8 +1964,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen expressed gratitude for the support from her network, which is crucial in providing both emotional and practical assistance in her entrepreneurial journey.",
-        "memory_t": "Karen Brown feels more confident in her career trajectory following the salary increase.",
+        "memory_s": "Karen expressed gratitude for the support from her network, which is crucial in providing both emotional and practical assistance in her entrepreneurial journey.",
+        "memory_l": "Karen Brown feels more confident in her career trajectory following the salary increase.",
         "query_type": "Advice",
         "query": "Should I reach out to my network for practical assistance to keep my entrepreneurial journey afloat right now?",
         "options": {
@@ -1979,8 +1979,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown attended a team-building event where exposure to heavy metal music led to a newfound appreciation for the genre.",
-        "memory_t": "Karen Brown is considering exploring electronic or upbeat pop music to better align with her work demands.",
+        "memory_s": "Karen Brown attended a team-building event where exposure to heavy metal music led to a newfound appreciation for the genre.",
+        "memory_l": "Karen Brown is considering exploring electronic or upbeat pop music to better align with her work demands.",
         "query_type": "Recommendation",
         "query": "Can you put together a heavy metal playlist for me to listen to while I work today?",
         "options": {
@@ -1994,8 +1994,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown has preferences in Beverage Preference",
-        "memory_t": "Karen Brown's beverage preference update is part of her broader goal to maintain a balanced and healthy lifestyle.",
+        "memory_s": "Karen Brown has preferences in Beverage Preference",
+        "memory_l": "Karen Brown's beverage preference update is part of her broader goal to maintain a balanced and healthy lifestyle.",
         "query_type": "Advice",
         "query": "Should I order a large caramel frappuccino with extra whipped cream for my afternoon pick-me-up?",
         "options": {
@@ -2009,8 +2009,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown is considering expanding her role at Innovate Property Tech, potentially moving back to full-time work.",
-        "memory_t": "Karen Brown's health status changed, requiring frequent medical interventions and lifestyle changes to manage her well-being effectively.",
+        "memory_s": "Karen Brown is considering expanding her role at Innovate Property Tech, potentially moving back to full-time work.",
+        "memory_l": "Karen Brown's health status changed, requiring frequent medical interventions and lifestyle changes to manage her well-being effectively.",
         "query_type": "Advice",
         "query": "Should I transition back to a full-time schedule at Innovate Property Tech?",
         "options": {
@@ -2024,8 +2024,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown has modified her reading preference to include user experience design books to improve her software platform's interface.",
-        "memory_t": "Karen is focused on planning for the global expansion of her property management platform by setting ambitious targets for market penetration.",
+        "memory_s": "Karen Brown has modified her reading preference to include user experience design books to improve her software platform's interface.",
+        "memory_l": "Karen is focused on planning for the global expansion of her property management platform by setting ambitious targets for market penetration.",
         "query_type": "Recommendation",
         "query": "What book should I start reading next?",
         "options": {
@@ -2039,8 +2039,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown discovered that teriyaki sauce enhances the flavor of grilled salmon and chicken.",
-        "memory_t": "Karen Brown's instrumental motivation drives her to seek practical solutions that optimize health and career success.",
+        "memory_s": "Karen Brown discovered that teriyaki sauce enhances the flavor of grilled salmon and chicken.",
+        "memory_l": "Karen Brown's instrumental motivation drives her to seek practical solutions that optimize health and career success.",
         "query_type": "Advice",
         "query": "Should I prepare a large batch of teriyaki glazed salmon for my meal prep this week?",
         "options": {
@@ -2054,8 +2054,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's decision to try the new soda was influenced by her cognitive curiosity and desire to test new products.",
-        "memory_t": "Karen Brown plans to maintain her health regimen and leverage her professional connections to explore new opportunities in the industry.",
+        "memory_s": "Karen Brown's decision to try the new soda was influenced by her cognitive curiosity and desire to test new products.",
+        "memory_l": "Karen Brown plans to maintain her health regimen and leverage her professional connections to explore new opportunities in the industry.",
         "query_type": "Advice",
         "query": "Should I go ahead and try that new soda brand I've been curious about?",
         "options": {
@@ -2069,8 +2069,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's life goal statement: Develop a software platform that revolutionizes property management, used by 100,000 agencies globally.",
-        "memory_t": "Karen Brown's physical health status changed from \"Improved\" to \"Recovered\".",
+        "memory_s": "Karen Brown's life goal statement: Develop a software platform that revolutionizes property management, used by 100,000 agencies globally.",
+        "memory_l": "Karen Brown's physical health status changed from \"Improved\" to \"Recovered\".",
         "query_type": "Advice",
         "query": "Should I commit to a massive global expansion strategy for my software platform right now?",
         "options": {
@@ -2084,8 +2084,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown's analytical side is more engaged by reading material that challenges her intellectually.",
-        "memory_t": "Karen Brown's creative motivation inspires her to generate new ideas and overcome creative blocks, which has been instrumental in her career progression.",
+        "memory_s": "Karen Brown's analytical side is more engaged by reading material that challenges her intellectually.",
+        "memory_l": "Karen Brown's creative motivation inspires her to generate new ideas and overcome creative blocks, which has been instrumental in her career progression.",
         "query_type": "Recommendation",
         "query": "What intellectually challenging reading material should Karen Brown pick up next?",
         "options": {
@@ -2099,8 +2099,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown implemented therapies and lifestyle changes such as regular exercise, balanced diet, and mindfulness practices to aid her recovery.",
-        "memory_t": "Karen Brown is considering expanding her role at Innovate Property Tech, potentially moving back to full-time work.",
+        "memory_s": "Karen Brown implemented therapies and lifestyle changes such as regular exercise, balanced diet, and mindfulness practices to aid her recovery.",
+        "memory_l": "Karen Brown is considering expanding her role at Innovate Property Tech, potentially moving back to full-time work.",
         "query_type": "Advice",
         "query": "Should I start a high-intensity marathon training program to further my wellness journey?",
         "options": {
@@ -2114,8 +2114,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown has changed her music preference from heavy metal to exploring instrumental or electronic music due to its disruptive nature during collaborative work.",
-        "memory_t": "Karen envisions expanding her professional network and exploring new opportunities that align with her creative aspirations.",
+        "memory_s": "Karen Brown has changed her music preference from heavy metal to exploring instrumental or electronic music due to its disruptive nature during collaborative work.",
+        "memory_l": "Karen envisions expanding her professional network and exploring new opportunities that align with her creative aspirations.",
         "query_type": "Recommendation",
         "query": "Should I join the local instrumental music appreciation club that meets in silence every week?",
         "options": {
@@ -2129,8 +2129,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Karen Brown's expanded social network offered new avenues for collaboration and inspired confidence in pursuing entrepreneurship.",
-        "memory_t": "Karen Brown's new role as Product Manager provides her with a structured environment that supports her career ambitions and offers stability amid health challenges.",
+        "memory_s": "Karen Brown's expanded social network offered new avenues for collaboration and inspired confidence in pursuing entrepreneurship.",
+        "memory_l": "Karen Brown's new role as Product Manager provides her with a structured environment that supports her career ambitions and offers stability amid health challenges.",
         "query_type": "Advice",
         "query": "Should I quit my job to launch my own startup venture?",
         "options": {
@@ -2144,8 +2144,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown's friends Andrew, Mary, and Mark continue to provide vital encouragement during her career transition.",
-        "memory_t": "Karen Brown is drawing on past experiences of overcoming adversity to build resilience during her career transition.",
+        "memory_s": "Karen Brown's friends Andrew, Mary, and Mark continue to provide vital encouragement during her career transition.",
+        "memory_l": "Karen Brown is drawing on past experiences of overcoming adversity to build resilience during her career transition.",
         "query_type": "Advice",
         "query": "Should I rely entirely on Andrew, Mary, and Mark to get me through this career transition?",
         "options": {
@@ -2159,8 +2159,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen is grateful for her network's support, which has been instrumental in her career progression.",
-        "memory_t": "Karen Brown's career_status updated employment_status from \"full-time\" to \"unemployed\"",
+        "memory_s": "Karen is grateful for her network's support, which has been instrumental in her career progression.",
+        "memory_l": "Karen Brown's career_status updated employment_status from \"full-time\" to \"unemployed\"",
         "query_type": "Advice",
         "query": "Should I host a lavish thank-you dinner for my professional network to celebrate my career progression?",
         "options": {
@@ -2174,8 +2174,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown Books I dislike Romance novels reason: I find romance novels uninteresting because they don't engage my analytical side and I prefer reading material that challenges me intellectually.",
-        "memory_t": "Karen Brown integrates personal growth into her routine by reading tech literature and attending seminars to stay informed and inspired.",
+        "memory_s": "Karen Brown Books I dislike Romance novels reason: I find romance novels uninteresting because they don't engage my analytical side and I prefer reading material that challenges me intellectually.",
+        "memory_l": "Karen Brown integrates personal growth into her routine by reading tech literature and attending seminars to stay informed and inspired.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new book genre for me to explore that isn't a romance novel?",
         "options": {
@@ -2189,8 +2189,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Karen Brown discussed potential changes to her daily work playlist to include heavy metal music.",
-        "memory_t": "Karen Brown is considering exploring electronic or upbeat pop music to better align with her work demands.",
+        "memory_s": "Karen Brown discussed potential changes to her daily work playlist to include heavy metal music.",
+        "memory_l": "Karen Brown is considering exploring electronic or upbeat pop music to better align with her work demands.",
         "query_type": "Advice",
         "query": "Should I finalize the addition of heavy metal tracks to my daily work playlist?",
         "options": {
@@ -2204,8 +2204,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown expressed excitement about launching new business ventures with entrepreneurial partner NewConnection5.",
-        "memory_t": "Karen Brown's career_status updated job_title to \"Senior Product Manager\"",
+        "memory_s": "Karen Brown expressed excitement about launching new business ventures with entrepreneurial partner NewConnection5.",
+        "memory_l": "Karen Brown's career_status updated job_title to \"Senior Product Manager\"",
         "query_type": "Advice",
         "query": "Should I move forward with my plans for a new business venture with my partner?",
         "options": {
@@ -2219,8 +2219,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown received support from colleagues and friends, reinforcing her decision to prioritize health.",
-        "memory_t": "Karen Brown plans to expand her client base and explore new technological trends to enhance her service offerings.",
+        "memory_s": "Karen Brown received support from colleagues and friends, reinforcing her decision to prioritize health.",
+        "memory_l": "Karen Brown plans to expand her client base and explore new technological trends to enhance her service offerings.",
         "query_type": "Advice",
         "query": "Should I take a sabbatical to focus on my physical and mental well-being?",
         "options": {
@@ -2234,8 +2234,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's social relationships include NewConnection6, an influential industry figure who collaborates on key projects, expanding her platform's reach and capabilities.",
-        "memory_t": "Karen Brown has transitioned to part-time work to focus on health recovery while remaining engaged in her career.",
+        "memory_s": "Karen Brown's social relationships include NewConnection6, an influential industry figure who collaborates on key projects, expanding her platform's reach and capabilities.",
+        "memory_l": "Karen Brown has transitioned to part-time work to focus on health recovery while remaining engaged in her career.",
         "query_type": "Advice",
         "query": "Should I lead the new international expansion project with NewConnection6?",
         "options": {
@@ -2249,8 +2249,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown's strengthened social bonds have provided her with encouragement and resources to effectively navigate career and health challenges.",
-        "memory_t": "Karen Brown reflects on her creative motivation as a key driver in overcoming career challenges and fostering innovation.",
+        "memory_s": "Karen Brown's strengthened social bonds have provided her with encouragement and resources to effectively navigate career and health challenges.",
+        "memory_l": "Karen Brown reflects on her creative motivation as a key driver in overcoming career challenges and fostering innovation.",
         "query_type": "Advice",
         "query": "I'm facing a major career challenge right now; should I reach out to my professional network and friends to help me navigate it?",
         "options": {
@@ -2264,8 +2264,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen invested financial resources into her property management platform to enhance its features and scalability.",
-        "memory_t": "Karen's investment in platform development is aimed at revolutionizing the property management industry.",
+        "memory_s": "Karen invested financial resources into her property management platform to enhance its features and scalability.",
+        "memory_l": "Karen's investment in platform development is aimed at revolutionizing the property management industry.",
         "query_type": "Advice",
         "query": "Should I focus my remaining budget on standard feature updates for my property management platform?",
         "options": {
@@ -2279,8 +2279,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown Sports I like Running reason: Running is my preferred sport because it helps clear my mind and provides a break from the screen.",
-        "memory_t": "Karen Brown's sports preference evolution reflects her adaptability and openness to new experiences.",
+        "memory_s": "Karen Brown Sports I like Running reason: Running is my preferred sport because it helps clear my mind and provides a break from the screen.",
+        "memory_l": "Karen Brown's sports preference evolution reflects her adaptability and openness to new experiences.",
         "query_type": "Advice",
         "query": "Should I commit to a rigid daily running schedule to help clear my mind?",
         "options": {
@@ -2294,8 +2294,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen expressed excitement about future growth and development opportunities following her consolidation efforts.",
-        "memory_t": "Karen is developing a strategy for launching her own business in property management technology, leveraging insights and emotional support from her network.",
+        "memory_s": "Karen expressed excitement about future growth and development opportunities following her consolidation efforts.",
+        "memory_l": "Karen is developing a strategy for launching her own business in property management technology, leveraging insights and emotional support from her network.",
         "query_type": "Recommendation",
         "query": "What specific growth and development opportunities should I pursue next after my recent consolidation efforts?",
         "options": {
@@ -2309,8 +2309,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's colleague Mary has provided vital encouragement and technical advice during her career transition following her layoff.",
-        "memory_t": "Karen Brown expressed excitement and relief about her new role at Innovate Property Tech, which aligns with her long-term career goals.",
+        "memory_s": "Karen Brown's colleague Mary has provided vital encouragement and technical advice during her career transition following her layoff.",
+        "memory_l": "Karen Brown expressed excitement and relief about her new role at Innovate Property Tech, which aligns with her long-term career goals.",
         "query_type": "Advice",
         "query": "Should I reach out to Mary for some guidance on transitioning into a different career path?",
         "options": {
@@ -2324,8 +2324,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown finds satisfaction in discovering new culinary delights that align with her health-conscious lifestyle, such as sushi and Greek salads.",
-        "memory_t": "Karen Brown's recent culinary exploration into sushi making reflects her openness to new experiences and desire for emotional resonance.",
+        "memory_s": "Karen Brown finds satisfaction in discovering new culinary delights that align with her health-conscious lifestyle, such as sushi and Greek salads.",
+        "memory_l": "Karen Brown's recent culinary exploration into sushi making reflects her openness to new experiences and desire for emotional resonance.",
         "query_type": "Advice",
         "query": "Should I sign up for a professional chef-led sushi-making workshop this weekend?",
         "options": {
@@ -2339,8 +2339,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown integrates business strategy books into her reading routine to align with her career objectives.",
-        "memory_t": "Karen Brown's major is Computer Science",
+        "memory_s": "Karen Brown integrates business strategy books into her reading routine to align with her career objectives.",
+        "memory_l": "Karen Brown's major is Computer Science",
         "query_type": "Advice",
         "query": "Which business strategy books should I read to prepare for my upcoming capstone project?",
         "options": {
@@ -2354,8 +2354,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's compensatory motivation drove her to leverage resources and support systems to overcome health challenges.",
-        "memory_t": "Karen Brown's health status changed, reason: Effective management and lifestyle adjustments have significantly improved her health, allowing her to focus on her career with greater energy and fewer interruptions.",
+        "memory_s": "Karen Brown's compensatory motivation drove her to leverage resources and support systems to overcome health challenges.",
+        "memory_l": "Karen Brown's health status changed, reason: Effective management and lifestyle adjustments have significantly improved her health, allowing her to focus on her career with greater energy and fewer interruptions.",
         "query_type": "Advice",
         "query": "How should I proceed with managing my health challenges given my strong drive to find and utilize compensatory resources?",
         "options": {
@@ -2369,8 +2369,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Karen Brown discussed challenges of incorporating yoga into her busy schedule but emphasized its importance for maintaining motivation and health.",
-        "memory_t": "Karen Brown feels the part-time arrangement aligns with her long-term goals of revolutionizing property management technology and ensuring personal well-being.",
+        "memory_s": "Karen Brown discussed challenges of incorporating yoga into her busy schedule but emphasized its importance for maintaining motivation and health.",
+        "memory_l": "Karen Brown feels the part-time arrangement aligns with her long-term goals of revolutionizing property management technology and ensuring personal well-being.",
         "query_type": "Advice",
         "query": "Should I commit to a daily 90-minute hot yoga intensive to boost my health and motivation?",
         "options": {
@@ -2384,8 +2384,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown is committed to using her financial resources to accelerate the development of her property management platform.",
-        "memory_t": "Karen Brown's monthly income changed from 14,000 yuan to 0 yuan, using her savings of 144,000 yuan as a financial buffer while establishing Karen's Property Innovations.",
+        "memory_s": "Karen Brown is committed to using her financial resources to accelerate the development of her property management platform.",
+        "memory_l": "Karen Brown's monthly income changed from 14,000 yuan to 0 yuan, using her savings of 144,000 yuan as a financial buffer while establishing Karen's Property Innovations.",
         "query_type": "Advice",
         "query": "Should I hire an expensive consulting agency to accelerate the development of my property management platform?",
         "options": {
@@ -2399,8 +2399,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Karen Brown has updated her food preference to include teriyaki sauce on both grilled salmon and chicken, appreciating its enhanced flavor profile.",
-        "memory_t": "Karen Brown plans to maintain her health regimen and leverage her professional connections to explore new opportunities in the industry.",
+        "memory_s": "Karen Brown has updated her food preference to include teriyaki sauce on both grilled salmon and chicken, appreciating its enhanced flavor profile.",
+        "memory_l": "Karen Brown plans to maintain her health regimen and leverage her professional connections to explore new opportunities in the industry.",
         "query_type": "Advice",
         "query": "Should I order the grilled salmon with extra teriyaki sauce for my business dinner tomorrow?",
         "options": {
@@ -2414,8 +2414,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown's network plays a crucial role in enriching her professional journey and supporting her entrepreneurial aspirations.",
-        "memory_t": "Karen Brown's new role as Product Manager provides her with a structured environment that supports her career ambitions and offers stability amid health challenges.",
+        "memory_s": "Karen Brown's network plays a crucial role in enriching her professional journey and supporting her entrepreneurial aspirations.",
+        "memory_l": "Karen Brown's new role as Product Manager provides her with a structured environment that supports her career ambitions and offers stability amid health challenges.",
         "query_type": "Advice",
         "query": "Should I leave my current position to focus entirely on my entrepreneurial aspirations and networking?",
         "options": {
@@ -2429,8 +2429,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown has removed her dislike for team sports after realizing their potential to enhance collaboration skills.",
-        "memory_t": "Karen Brown has been focused on expanding her professional network, meeting new people in the industry.",
+        "memory_s": "Karen Brown has removed her dislike for team sports after realizing their potential to enhance collaboration skills.",
+        "memory_l": "Karen Brown has been focused on expanding her professional network, meeting new people in the industry.",
         "query_type": "Recommendation",
         "query": "Should I join the local intramural soccer league with my current coworkers to improve our collaboration skills?",
         "options": {
@@ -2444,8 +2444,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown shared a strategic partnership with Innovate Property Tech that enhanced her platform's features and scalability, allowing integration of cutting-edge technologies and user experience design.",
-        "memory_t": "Karen Brown intends to conduct user testing sessions to gather feedback and refine her platform's design.",
+        "memory_s": "Karen Brown shared a strategic partnership with Innovate Property Tech that enhanced her platform's features and scalability, allowing integration of cutting-edge technologies and user experience design.",
+        "memory_l": "Karen Brown intends to conduct user testing sessions to gather feedback and refine her platform's design.",
         "query_type": "Advice",
         "query": "Should I finalize the rollout of the new cutting-edge features from the Innovate Property Tech partnership?",
         "options": {
@@ -2459,8 +2459,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Karen Brown has specific plans to collaborate with industry leaders and innovators, such as NewConnection6 and NewConnection7, to integrate advanced features into her platform.",
-        "memory_t": "Karen Brown's career_status updated monthly_income from \"12,000\" to \"0\"",
+        "memory_s": "Karen Brown has specific plans to collaborate with industry leaders and innovators, such as NewConnection6 and NewConnection7, to integrate advanced features into her platform.",
+        "memory_l": "Karen Brown's career_status updated monthly_income from \"12,000\" to \"0\"",
         "query_type": "Advice",
         "query": "Should I start reaching out to NewConnection6 and NewConnection7 to integrate those advanced features into my platform?",
         "options": {
@@ -2474,8 +2474,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Karen Brown discovered that teriyaki sauce enhances the flavor of grilled salmon and chicken.",
-        "memory_t": "Karen Brown's clarificatory motivation drives her to explore culinary diversity, aligning with her goal of maintaining a healthy lifestyle and embracing new experiences.",
+        "memory_s": "Karen Brown discovered that teriyaki sauce enhances the flavor of grilled salmon and chicken.",
+        "memory_l": "Karen Brown's clarificatory motivation drives her to explore culinary diversity, aligning with her goal of maintaining a healthy lifestyle and embracing new experiences.",
         "query_type": "Advice",
         "query": "Should I use teriyaki sauce for my grilled salmon dinner tonight?",
         "options": {

@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Donald used reflection to gain cognitive clarity on the impact of his achievements.",
-        "memory_t": "Donald Brown's target metrics: 1 million individuals positively impacted, technology adopted by 500 organizations worldwide.",
+        "memory_s": "Donald used reflection to gain cognitive clarity on the impact of his achievements.",
+        "memory_l": "Donald Brown's target metrics: 1 million individuals positively impacted, technology adopted by 500 organizations worldwide.",
         "query_type": "Advice",
         "query": "As Donald, having used reflection to gain clarity on my achievements, can I now officially declare my mission a success?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown emphasized the importance of emotional support from friends and community in pursuing his startup.",
-        "memory_t": "Donald Brown's target metrics: 1 million individuals positively impacted, technology adopted by 500 organizations worldwide.",
+        "memory_s": "Donald Brown emphasized the importance of emotional support from friends and community in pursuing his startup.",
+        "memory_l": "Donald Brown's target metrics: 1 million individuals positively impacted, technology adopted by 500 organizations worldwide.",
         "query_type": "Advice",
         "query": "I am reviewing my startup's yearly progress; should I consider this year a success if my local community feels deeply supported?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown's recent trip to a crowded city led to dissatisfaction due to lack of personal space and peace, impacting his enjoyment.",
-        "memory_t": "Donald Brown is motivated to pursue new ventures that continue to impact lives positively, with consulting and mentoring as promising paths.",
+        "memory_s": "Donald Brown's recent trip to a crowded city led to dissatisfaction due to lack of personal space and peace, impacting his enjoyment.",
+        "memory_l": "Donald Brown is motivated to pursue new ventures that continue to impact lives positively, with consulting and mentoring as promising paths.",
         "query_type": "Advice",
         "query": "I'm thinking about retiring quietly to a remote cabin to avoid crowds, does that sound like a good next step for me?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown discovered a new appreciation for homemade processed meats after experimenting with fresh ingredients and minimal salt.",
-        "memory_t": "Donald Brown's health status changed, reason: The demands of launching and managing a startup have increased stress levels, requiring him to adopt new strategies for managing stress and maintaining his health.",
+        "memory_s": "Donald Brown discovered a new appreciation for homemade processed meats after experimenting with fresh ingredients and minimal salt.",
+        "memory_l": "Donald Brown's health status changed, reason: The demands of launching and managing a startup have increased stress levels, requiring him to adopt new strategies for managing stress and maintaining his health.",
         "query_type": "Advice",
         "query": "I'm thinking about spending my weekend curing a large batch of homemade salami and sausages; is that a good way for me to unwind?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown's food preference changed from disliking processed meats to liking homemade turkey sausage, appreciating its fresh taste and non-salty flavor.",
-        "memory_t": "Donald Brown expressed excitement about sharing his homemade turkey sausage recipe with friends, reflecting his social motivation to entertain and connect with others.",
+        "memory_s": "Donald Brown's food preference changed from disliking processed meats to liking homemade turkey sausage, appreciating its fresh taste and non-salty flavor.",
+        "memory_l": "Donald Brown expressed excitement about sharing his homemade turkey sausage recipe with friends, reflecting his social motivation to entertain and connect with others.",
         "query_type": "Advice",
         "query": "Should I keep my new sausage recipe a secret?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown's sports preference changed from disliking extreme sports to liking rock climbing after a guided session at an indoor climbing gym.",
-        "memory_t": "Donald Brown's physical health status changed from 'Excellent' to 'Stable'.",
+        "memory_s": "Donald Brown's sports preference changed from disliking extreme sports to liking rock climbing after a guided session at an indoor climbing gym.",
+        "memory_l": "Donald Brown's physical health status changed from 'Excellent' to 'Stable'.",
         "query_type": "Advice",
         "query": "I'm thinking about signing up for an advanced outdoor rock climbing course; do you think that's a good move for me?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown values the emotional benefits of a flexible schedule in retirement, allowing quality time with friends and family and enhancing his lifestyle.",
-        "memory_t": "Donald Brown expressed excitement about dedicating more time to community activities post-retirement.",
+        "memory_s": "Donald Brown values the emotional benefits of a flexible schedule in retirement, allowing quality time with friends and family and enhancing his lifestyle.",
+        "memory_l": "Donald Brown expressed excitement about dedicating more time to community activities post-retirement.",
         "query_type": "Advice",
         "query": "Should I keep my retirement calendar completely open and unstructured?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown now likes energy drinks made with natural ingredients for their steady energy boost without causing jitters, ideal for long work sessions.",
-        "memory_t": "Donald Brown integrates concentration-aiding herbal tea into his work routine for its calming effects and focus enhancement.",
+        "memory_s": "Donald Brown now likes energy drinks made with natural ingredients for their steady energy boost without causing jitters, ideal for long work sessions.",
+        "memory_l": "Donald Brown integrates concentration-aiding herbal tea into his work routine for its calming effects and focus enhancement.",
         "query_type": "Recommendation",
         "query": "What beverage should I prepare for my upcoming long work session to keep my energy steady?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Brown expressed excitement about the freedom retirement offers for engaging in meaningful community initiatives.",
-        "memory_t": "Donald Brown aims to inspire a new generation of leaders who can drive social innovation and make meaningful changes.",
+        "memory_s": "Donald Brown expressed excitement about the freedom retirement offers for engaging in meaningful community initiatives.",
+        "memory_l": "Donald Brown aims to inspire a new generation of leaders who can drive social innovation and make meaningful changes.",
         "query_type": "Advice",
         "query": "How should I structure my upcoming free time to best serve my community?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown's recent trip to a crowded city led to dissatisfaction due to lack of personal space and peace, impacting his enjoyment.",
-        "memory_t": "Donald Brown expressed a desire to incorporate more cultural experiences into his travel plans.",
+        "memory_s": "Donald Brown's recent trip to a crowded city led to dissatisfaction due to lack of personal space and peace, impacting his enjoyment.",
+        "memory_l": "Donald Brown expressed a desire to incorporate more cultural experiences into his travel plans.",
         "query_type": "Recommendation",
         "query": "I need a destination for my next vacation that avoids the chaos of my last trip, any ideas?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown experienced stress from a recent cultural immersion trip, leading to a reassessment of his travel preferences.",
-        "memory_t": "Donald Brown plans to share his health and wellness journey through interactive community workshops, aiming to inspire and educate others about consistency in wellness practices and small changes leading to significant improvements.",
+        "memory_s": "Donald Brown experienced stress from a recent cultural immersion trip, leading to a reassessment of his travel preferences.",
+        "memory_l": "Donald Brown plans to share his health and wellness journey through interactive community workshops, aiming to inspire and educate others about consistency in wellness practices and small changes leading to significant improvements.",
         "query_type": "Advice",
         "query": "Should I cancel all my upcoming group engagements to focus on recovering from my recent travel burnout?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown explored various stress management techniques, including mindfulness practices, exercise, creative visualization, journaling, breathing exercises, and yoga, to alleviate stress and enhance his well-being.",
-        "memory_t": "The intense workload and stress from Donald Brown's consultancy role have led to fatigue and a decline in his overall health, necessitating a reevaluation of his work commitments.",
+        "memory_s": "Donald Brown explored various stress management techniques, including mindfulness practices, exercise, creative visualization, journaling, breathing exercises, and yoga, to alleviate stress and enhance his well-being.",
+        "memory_l": "The intense workload and stress from Donald Brown's consultancy role have led to fatigue and a decline in his overall health, necessitating a reevaluation of his work commitments.",
         "query_type": "Advice",
         "query": "Should I sign up for that advanced yoga retreat to help me manage my stress levels better?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown values natural solutions that support his work routine without compromising well-being.",
-        "memory_t": "Donald Brown plans to incorporate the new herbal tea into his daily routine for its health benefits.",
+        "memory_s": "Donald Brown values natural solutions that support his work routine without compromising well-being.",
+        "memory_l": "Donald Brown plans to incorporate the new herbal tea into his daily routine for its health benefits.",
         "query_type": "Recommendation",
         "query": "What should I add to my daily schedule to naturally boost my productivity while I work?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown highlighted the importance of balancing enjoyment with health benefits in beverage preferences.",
-        "memory_t": "Donald Brown is determined to prioritize health over cravings by eliminating dark chocolate from his diet.",
+        "memory_s": "Donald Brown highlighted the importance of balancing enjoyment with health benefits in beverage preferences.",
+        "memory_l": "Donald Brown is determined to prioritize health over cravings by eliminating dark chocolate from his diet.",
         "query_type": "Recommendation",
         "query": "Can you suggest a rich, enjoyable beverage that has health benefits?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Brown values the support and advice from his friends and community, who have been instrumental in guiding his preference evolution.",
-        "memory_t": "Donald Brown's approach to personal development includes critical evaluation of new preferences to ensure alignment with his values and goals.",
+        "memory_s": "Donald Brown values the support and advice from his friends and community, who have been instrumental in guiding his preference evolution.",
+        "memory_l": "Donald Brown's approach to personal development includes critical evaluation of new preferences to ensure alignment with his values and goals.",
         "query_type": "Advice",
         "query": "My friends are strongly suggesting I adopt a new lifestyle trend immediately; should I just go along with their enthusiastic recommendation?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown discussed the emotional impact of feeling overwhelmed in crowded places during travel, which affects his enjoyment.",
-        "memory_t": "Donald Brown's participation in social soccer games aligns with his emotional motivation for companionship and empathetic interactions.",
+        "memory_s": "Donald Brown discussed the emotional impact of feeling overwhelmed in crowded places during travel, which affects his enjoyment.",
+        "memory_l": "Donald Brown's participation in social soccer games aligns with his emotional motivation for companionship and empathetic interactions.",
         "query_type": "Advice",
         "query": "Since I'm feeling a bit lonely, should I skip the upcoming local sports meetup to avoid feeling overwhelmed?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown emphasized the significance of achieving a sense of professional fulfillment through impactful work.",
-        "memory_t": "Donald Brown plans to use AI-generated content to express his identity and entertain others in social contexts post-retirement.",
+        "memory_s": "Donald Brown emphasized the significance of achieving a sense of professional fulfillment through impactful work.",
+        "memory_l": "Donald Brown plans to use AI-generated content to express his identity and entertain others in social contexts post-retirement.",
         "query_type": "Advice",
         "query": "Should I launch a new consultancy firm focused on high-impact corporate strategy to maximize my fulfillment?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown values travel styles that offer a balance between discovery and relaxation, avoiding stress from continuous engagement.",
-        "memory_t": "Donald Brown's conversation revealed a deep commitment to his humanitarian goals, despite the challenges of increased stress from entrepreneurship.",
+        "memory_s": "Donald Brown values travel styles that offer a balance between discovery and relaxation, avoiding stress from continuous engagement.",
+        "memory_l": "Donald Brown's conversation revealed a deep commitment to his humanitarian goals, despite the challenges of increased stress from entrepreneurship.",
         "query_type": "Advice",
         "query": "Should I book a month-long, isolated retreat to completely disconnect from all my responsibilities?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown is navigating a shift in dietary habits due to a change in his food preferences.",
-        "memory_t": "Donald Brown's approach to personal development includes critical evaluation of new preferences to ensure alignment with his values and goals.",
+        "memory_s": "Donald Brown is navigating a shift in dietary habits due to a change in his food preferences.",
+        "memory_l": "Donald Brown's approach to personal development includes critical evaluation of new preferences to ensure alignment with his values and goals.",
         "query_type": "Advice",
         "query": "Should I fully commit to my new dietary habits immediately?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald expressed gratitude for the support from friends, community, and volunteer networks during his career.",
-        "memory_t": "Donald Brown's career_status updated job_title from \"project leader\" to \"founder and CEO\"",
+        "memory_s": "Donald expressed gratitude for the support from friends, community, and volunteer networks during his career.",
+        "memory_l": "Donald Brown's career_status updated job_title from \"project leader\" to \"founder and CEO\"",
         "query_type": "Conversation",
         "query": "I'm thinking of writing a thank you letter to my volunteer network for supporting me as a project leader; does that sound appropriate?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown discussed the importance of aligning future endeavors with his humanitarian goals without compromising his well-being.",
-        "memory_t": "Donald Brown expressed a desire to continue exploring additional stress management techniques and resources.",
+        "memory_s": "Donald Brown discussed the importance of aligning future endeavors with his humanitarian goals without compromising his well-being.",
+        "memory_l": "Donald Brown expressed a desire to continue exploring additional stress management techniques and resources.",
         "query_type": "Advice",
         "query": "Should I commit to leading that high-intensity disaster relief mission in the remote mountains?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown expressed a desire to continue participating in endurance events, valuing the community support and personal achievement.",
-        "memory_t": "Donald Brown expressed concern about the decline in his physical health due to the demands of his consultancy role.",
+        "memory_s": "Donald Brown expressed a desire to continue participating in endurance events, valuing the community support and personal achievement.",
+        "memory_l": "Donald Brown expressed concern about the decline in his physical health due to the demands of his consultancy role.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming ultra-marathon to keep my streak of endurance events going?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown's dislike for competitive team sports has been reevaluated after joining a friendly neighborhood basketball league, emphasizing fun and camaraderie.",
-        "memory_t": "Donald Brown was diagnosed with fatigue, affecting his ability to fulfill his humanitarian life goal.",
+        "memory_s": "Donald Brown's dislike for competitive team sports has been reevaluated after joining a friendly neighborhood basketball league, emphasizing fun and camaraderie.",
+        "memory_l": "Donald Brown was diagnosed with fatigue, affecting his ability to fulfill his humanitarian life goal.",
         "query_type": "Advice",
         "query": "Should I sign up for the upcoming weekend basketball tournament with my neighborhood league?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown experienced a positive emotional impact from overcoming discomfort associated with tight-fitting jeans, leading to a new preference for stylish and comfortable clothing.",
-        "memory_t": "Donald Brown's career_status updated monthly_income from \"8000\" to \"0\"",
+        "memory_s": "Donald Brown experienced a positive emotional impact from overcoming discomfort associated with tight-fitting jeans, leading to a new preference for stylish and comfortable clothing.",
+        "memory_l": "Donald Brown's career_status updated monthly_income from \"8000\" to \"0\"",
         "query_type": "Advice",
         "query": "Should I go ahead and revamp my wardrobe with some new stylish and comfortable outfits?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown plans to focus on travel destinations that offer cultural immersion and personal comfort, aligning with his compensatory motivation.",
-        "memory_t": "Donald Brown's monthly income is 5550 USD",
+        "memory_s": "Donald Brown plans to focus on travel destinations that offer cultural immersion and personal comfort, aligning with his compensatory motivation.",
+        "memory_l": "Donald Brown's monthly income is 5550 USD",
         "query_type": "Recommendation",
         "query": "Can you suggest a luxury cultural tour in Europe that maximizes personal comfort for my next trip?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donald Brown's emotional motivation for travel includes seeking vibrant and enriching experiences.",
-        "memory_t": "Donald Brown plans to focus on travel experiences that provide relaxation and personal reflection.",
+        "memory_s": "Donald Brown's emotional motivation for travel includes seeking vibrant and enriching experiences.",
+        "memory_l": "Donald Brown plans to focus on travel experiences that provide relaxation and personal reflection.",
         "query_type": "Recommendation",
         "query": "Can you suggest a destination for my upcoming trip that feels lively and full of energy?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown's friends and community provide support and encouragement during his transition to a new job.",
-        "memory_t": "Donald Brown's retirement allows him to focus on personal interests and contribute to community initiatives, providing a sense of purpose and fulfillment.",
+        "memory_s": "Donald Brown's friends and community provide support and encouragement during his transition to a new job.",
+        "memory_l": "Donald Brown's retirement allows him to focus on personal interests and contribute to community initiatives, providing a sense of purpose and fulfillment.",
         "query_type": "Advice",
         "query": "How should I best utilize the support my friends are offering for my career transition?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown values travel styles that offer a balance between discovery and relaxation, avoiding stress from continuous engagement.",
-        "memory_t": "Donald Brown's career_status updated monthly_income from \"7000\" to \"0\"",
+        "memory_s": "Donald Brown values travel styles that offer a balance between discovery and relaxation, avoiding stress from continuous engagement.",
+        "memory_l": "Donald Brown's career_status updated monthly_income from \"7000\" to \"0\"",
         "query_type": "Recommendation",
         "query": "Can you suggest a luxury vacation package that offers the perfect mix of discovery and relaxation?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown expressed a desire to explore more fashion options that offer both style and comfort, reflecting his openness to change.",
-        "memory_t": "Donald Brown's career_status updated monthly_income from \"7000\" to \"0\"",
+        "memory_s": "Donald Brown expressed a desire to explore more fashion options that offer both style and comfort, reflecting his openness to change.",
+        "memory_l": "Donald Brown's career_status updated monthly_income from \"7000\" to \"0\"",
         "query_type": "Recommendation",
         "query": "Can you recommend some high-end fashion brands that combine style and comfort for me to try out?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown's decision to remove energy drinks from his dislike list highlights his adaptive approach to evolving preferences, leading to increased productivity.",
-        "memory_t": "The intense workload and stress from Donald Brown's consultancy role have led to fatigue and a decline in his overall health, necessitating a reevaluation of his work commitments.",
+        "memory_s": "Donald Brown's decision to remove energy drinks from his dislike list highlights his adaptive approach to evolving preferences, leading to increased productivity.",
+        "memory_l": "The intense workload and stress from Donald Brown's consultancy role have led to fatigue and a decline in his overall health, necessitating a reevaluation of his work commitments.",
         "query_type": "Advice",
         "query": "Since I'm looking to boost my productivity, should I stock up on some caffeine-heavy beverages for my late-night sessions?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown emphasized the significance of achieving a sense of professional fulfillment through impactful work.",
-        "memory_t": "Donald emphasized mentoring young professionals and inspiring future leaders as part of his legacy.",
+        "memory_s": "Donald Brown emphasized the significance of achieving a sense of professional fulfillment through impactful work.",
+        "memory_l": "Donald emphasized mentoring young professionals and inspiring future leaders as part of his legacy.",
         "query_type": "Advice",
         "query": "I am considering taking a high-impact, solitary research role that isolates me from junior staff to maximize my professional fulfillment; what do you think?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown discovered a new brand of energy drinks made with natural ingredients while preparing for a demanding project.",
-        "memory_t": "Donald Brown feels more relaxed and content with his decision to retire, enjoying the newfound freedom to focus on personal interests and contribute to community initiatives.",
+        "memory_s": "Donald Brown discovered a new brand of energy drinks made with natural ingredients while preparing for a demanding project.",
+        "memory_l": "Donald Brown feels more relaxed and content with his decision to retire, enjoying the newfound freedom to focus on personal interests and contribute to community initiatives.",
         "query_type": "Advice",
         "query": "Should I stock up on those new natural energy drinks I found for my upcoming work project?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown's emotional motivation for travel includes seeking vibrant and enriching experiences.",
-        "memory_t": "Donald Brown's career_status updated monthly_income from \"8000\" to \"0\"",
+        "memory_s": "Donald Brown's emotional motivation for travel includes seeking vibrant and enriching experiences.",
+        "memory_l": "Donald Brown's career_status updated monthly_income from \"8000\" to \"0\"",
         "query_type": "Advice",
         "query": "Should I book that luxury world tour to seek out some vibrant and enriching experiences?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown expressed excitement about using scientifically-backed self-help books to inspire creative ideas and overcome professional challenges.",
-        "memory_t": "Donald Brown decided to retire permanently to focus on community service and personal interests, aligning with his humanitarian goals.",
+        "memory_s": "Donald Brown expressed excitement about using scientifically-backed self-help books to inspire creative ideas and overcome professional challenges.",
+        "memory_l": "Donald Brown decided to retire permanently to focus on community service and personal interests, aligning with his humanitarian goals.",
         "query_type": "Recommendation",
         "query": "Can you recommend some scientifically-backed self-help books to help me tackle new professional challenges?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown emphasized the significance of achieving a sense of professional fulfillment through impactful work.",
-        "memory_t": "Donald Brown aims to inspire a new generation of leaders who can drive social innovation and make meaningful changes.",
+        "memory_s": "Donald Brown emphasized the significance of achieving a sense of professional fulfillment through impactful work.",
+        "memory_l": "Donald Brown aims to inspire a new generation of leaders who can drive social innovation and make meaningful changes.",
         "query_type": "Advice",
         "query": "Should I accept a high-paying role at a private equity firm that focuses purely on maximizing shareholder returns but offers immense professional prestige?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown updated his clothing preference from 'comfortable sneakers' to 'stylish yet comfortable sneakers' to balance style with comfort in professional settings.",
-        "memory_t": "Donald Brown decided to retire permanently to focus on community service and personal interests, aligning with his humanitarian goals.",
+        "memory_s": "Donald Brown updated his clothing preference from 'comfortable sneakers' to 'stylish yet comfortable sneakers' to balance style with comfort in professional settings.",
+        "memory_l": "Donald Brown decided to retire permanently to focus on community service and personal interests, aligning with his humanitarian goals.",
         "query_type": "Recommendation",
         "query": "Can you suggest some footwear that balances style and comfort for my upcoming professional engagements?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown's commitment to maintaining a balanced lifestyle emphasizes the importance of setting boundaries between work and personal life.",
-        "memory_t": "Donald Brown's target metrics: 1 million individuals positively impacted, technology adopted by 500 organizations worldwide.",
+        "memory_s": "Donald Brown's commitment to maintaining a balanced lifestyle emphasizes the importance of setting boundaries between work and personal life.",
+        "memory_l": "Donald Brown's target metrics: 1 million individuals positively impacted, technology adopted by 500 organizations worldwide.",
         "query_type": "Advice",
         "query": "Should I decline the invitation to lead the global expansion initiative to focus on my weekends?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown expressed gratitude for the support and inspiration from friends Michael and Robert, motivating him to pursue innovative solutions.",
-        "memory_t": "Donald Brown decided to retire permanently to focus on community service and personal interests, aligning with his humanitarian goals.",
+        "memory_s": "Donald Brown expressed gratitude for the support and inspiration from friends Michael and Robert, motivating him to pursue innovative solutions.",
+        "memory_l": "Donald Brown decided to retire permanently to focus on community service and personal interests, aligning with his humanitarian goals.",
         "query_type": "Advice",
         "query": "Should I launch a new tech startup to implement the innovative solutions Michael and Robert inspired?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown's friends and community provide support and encouragement during his transition to a new job.",
-        "memory_t": "Donald Brown's career_status updated employment_status from \"employed\" to \"retired\"",
+        "memory_s": "Donald Brown's friends and community provide support and encouragement during his transition to a new job.",
+        "memory_l": "Donald Brown's career_status updated employment_status from \"employed\" to \"retired\"",
         "query_type": "Advice",
         "query": "How should I best leverage my friends' support for my upcoming job transition?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown's emotional resonance with clothing choices highlights his need for confidence and comfort in attire.",
-        "memory_t": "Donald Brown expressed a desire to explore more fashion options that offer both style and comfort, reflecting his openness to change.",
+        "memory_s": "Donald Brown's emotional resonance with clothing choices highlights his need for confidence and comfort in attire.",
+        "memory_l": "Donald Brown expressed a desire to explore more fashion options that offer both style and comfort, reflecting his openness to change.",
         "query_type": "Recommendation",
         "query": "I'm looking for new clothes to boost my confidence, should I stick to my usual comfortable staples?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown reflected on previous experiences with stress management techniques but noted their limitations in addressing current challenges.",
-        "memory_t": "Donald Brown's health status changed, reason: The demands of launching and managing a startup have increased stress levels, requiring him to adopt new strategies for managing stress and maintaining his health.",
+        "memory_s": "Donald Brown reflected on previous experiences with stress management techniques but noted their limitations in addressing current challenges.",
+        "memory_l": "Donald Brown's health status changed, reason: The demands of launching and managing a startup have increased stress levels, requiring him to adopt new strategies for managing stress and maintaining his health.",
         "query_type": "Advice",
         "query": "Should I stick to my old stress management routine given that I'm feeling overwhelmed?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald acknowledged the importance of community engagement and mentoring in achieving his life goals.",
-        "memory_t": "Donald Brown's community involvement aligns with his life goal of humanitarian care.",
+        "memory_s": "Donald acknowledged the importance of community engagement and mentoring in achieving his life goals.",
+        "memory_l": "Donald Brown's community involvement aligns with his life goal of humanitarian care.",
         "query_type": "Advice",
         "query": "Should I accept this high-paying corporate lobbying role that requires me to stop all my local volunteer work?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown discovered the thrill and safety of rock climbing with proper guidance, overcoming his fear of heights.",
-        "memory_t": "Donald Brown was diagnosed with fatigue, affecting his ability to fulfill his humanitarian life goal.",
+        "memory_s": "Donald Brown discovered the thrill and safety of rock climbing with proper guidance, overcoming his fear of heights.",
+        "memory_l": "Donald Brown was diagnosed with fatigue, affecting his ability to fulfill his humanitarian life goal.",
         "query_type": "Advice",
         "query": "Should I book that advanced rock climbing excursion I've been looking at?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown's travel preferences have shifted towards destinations that offer social interaction and cultural engagement.",
-        "memory_t": "Donald Brown expressed a desire to incorporate more cultural experiences into his travel plans.",
+        "memory_s": "Donald Brown's travel preferences have shifted towards destinations that offer social interaction and cultural engagement.",
+        "memory_l": "Donald Brown expressed a desire to incorporate more cultural experiences into his travel plans.",
         "query_type": "Recommendation",
         "query": "Should I book a trip to a resort that focuses exclusively on pool parties and nightlife to meet people?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown plans to use AI-generated content to express his identity and entertain others in social contexts post-retirement.",
-        "memory_t": "Donald Brown's monthly income is $7000.",
+        "memory_s": "Donald Brown plans to use AI-generated content to express his identity and entertain others in social contexts post-retirement.",
+        "memory_l": "Donald Brown's monthly income is $7000.",
         "query_type": "Advice",
         "query": "Should I invest in that high-end $8,000 AI avatar generation suite for my retirement hobby?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donald Brown reassessed his work-life balance, prioritizing health alongside professional commitments due to fatigue and stress.",
-        "memory_t": "Donald Brown is determined to prioritize health over cravings by eliminating dark chocolate from his diet.",
+        "memory_s": "Donald Brown reassessed his work-life balance, prioritizing health alongside professional commitments due to fatigue and stress.",
+        "memory_l": "Donald Brown is determined to prioritize health over cravings by eliminating dark chocolate from his diet.",
         "query_type": "Recommendation",
         "query": "I'm feeling stressed and want to relax; should I have a piece of dark chocolate as a small treat?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown expressed excitement about the freedom retirement offers for engaging in meaningful community initiatives.",
-        "memory_t": "Donald Brown expressed determination to continue pursuing innovative solutions for global impact and to develop new technologies that empower individuals with disabilities.",
+        "memory_s": "Donald Brown expressed excitement about the freedom retirement offers for engaging in meaningful community initiatives.",
+        "memory_l": "Donald Brown expressed determination to continue pursuing innovative solutions for global impact and to develop new technologies that empower individuals with disabilities.",
         "query_type": "Advice",
         "query": "What should be my primary focus as I step away from my career to enjoy my golden years?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown experienced enjoyment from consuming sugary sodas at a friend's birthday party, leading to a change in beverage preferences.",
-        "memory_t": "Donald Brown expressed concern about the decline in his physical health due to the demands of his consultancy role.",
+        "memory_s": "Donald Brown experienced enjoyment from consuming sugary sodas at a friend's birthday party, leading to a change in beverage preferences.",
+        "memory_l": "Donald Brown expressed concern about the decline in his physical health due to the demands of his consultancy role.",
         "query_type": "Advice",
         "query": "Should I stock up on some sugary sodas for my late-night work sessions?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown's clothing preference changed from 'Comfortable sneakers' to 'Ergonomic sneakers' for their enhanced support, comfort, and style during extended periods of standing.",
-        "memory_t": "Donald Brown's career_status updated employment_status from \"employed\" to \"retired\"",
+        "memory_s": "Donald Brown's clothing preference changed from 'Comfortable sneakers' to 'Ergonomic sneakers' for their enhanced support, comfort, and style during extended periods of standing.",
+        "memory_l": "Donald Brown's career_status updated employment_status from \"employed\" to \"retired\"",
         "query_type": "Recommendation",
         "query": "Can you recommend some footwear for my long days of standing at work?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown expressed interest in organizing future outings to explore extreme sports with friends, enhancing social bonds.",
-        "memory_t": "The intense workload and stress from Donald Brown's consultancy role have led to fatigue and a decline in his overall health, necessitating a reevaluation of his work commitments.",
+        "memory_s": "Donald Brown expressed interest in organizing future outings to explore extreme sports with friends, enhancing social bonds.",
+        "memory_l": "The intense workload and stress from Donald Brown's consultancy role have led to fatigue and a decline in his overall health, necessitating a reevaluation of his work commitments.",
         "query_type": "Advice",
         "query": "Should I go ahead and book that skydiving trip for the group to boost our social life?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown adopted a healthier lifestyle after retirement, focusing on regular exercise and mindfulness, which enhanced his physical health from 'Improved' to 'Excellent.'",
-        "memory_t": "Donald Brown's physical health status changed from 'Excellent' to 'Stable'.",
+        "memory_s": "Donald Brown adopted a healthier lifestyle after retirement, focusing on regular exercise and mindfulness, which enhanced his physical health from 'Improved' to 'Excellent.'",
+        "memory_l": "Donald Brown's physical health status changed from 'Excellent' to 'Stable'.",
         "query_type": "Conversation",
         "query": "Can I brag about my physical health status being at the absolute peak level?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown's clothing preference changed from 'Comfortable sneakers' to 'Ergonomic sneakers' for their enhanced support, comfort, and style during extended periods of standing.",
-        "memory_t": "Donald Brown is committed to integrating new insights into his daily routine, emphasizing the role of supportive footwear in enhancing his overall well-being.",
+        "memory_s": "Donald Brown's clothing preference changed from 'Comfortable sneakers' to 'Ergonomic sneakers' for their enhanced support, comfort, and style during extended periods of standing.",
+        "memory_l": "Donald Brown is committed to integrating new insights into his daily routine, emphasizing the role of supportive footwear in enhancing his overall well-being.",
         "query_type": "Advice",
         "query": "Should I buy a pair of basic flat-soled slip-ons for my new standing desk job?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown reflected on the emotional and psychological benefits of engaging in new sports, aligning with his goal of personal growth.",
-        "memory_t": "Donald Brown expressed a desire to explore more non-competitive sports activities for their social and emotional benefits.",
+        "memory_s": "Donald Brown reflected on the emotional and psychological benefits of engaging in new sports, aligning with his goal of personal growth.",
+        "memory_l": "Donald Brown expressed a desire to explore more non-competitive sports activities for their social and emotional benefits.",
         "query_type": "Advice",
         "query": "I'm thinking about joining the local basketball league to boost my personal growth; do you think that's a good move?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown reassessed his work-life balance, prioritizing health alongside professional commitments due to fatigue and stress.",
-        "memory_t": "Donald Brown's physical health status changed from 'Normal' to 'Improved' after retirement due to regular exercise and mindfulness.",
+        "memory_s": "Donald Brown reassessed his work-life balance, prioritizing health alongside professional commitments due to fatigue and stress.",
+        "memory_l": "Donald Brown's physical health status changed from 'Normal' to 'Improved' after retirement due to regular exercise and mindfulness.",
         "query_type": "Advice",
         "query": "What strategies should I implement to manage my professional commitments and fatigue?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown expressed a preference for cultural engagement over solitude offered by nature retreats.",
-        "memory_t": "Donald Brown's retirement has allowed him to focus more on personal interests and community engagement, enhancing his overall well-being.",
+        "memory_s": "Donald Brown expressed a preference for cultural engagement over solitude offered by nature retreats.",
+        "memory_l": "Donald Brown's retirement has allowed him to focus more on personal interests and community engagement, enhancing his overall well-being.",
         "query_type": "Recommendation",
         "query": "Since I prefer cultural engagement over solitude, should I book a busy city tour for my upcoming corporate retreat?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown's life goal statement: Develop technology that empowers individuals with disabilities, reaching and improving the lives of 1 million people globally.",
-        "memory_t": "Donald Brown's career_status updated monthly_income from \"5550\" to \"0\"",
+        "memory_s": "Donald Brown's life goal statement: Develop technology that empowers individuals with disabilities, reaching and improving the lives of 1 million people globally.",
+        "memory_l": "Donald Brown's career_status updated monthly_income from \"5550\" to \"0\"",
         "query_type": "Advice",
         "query": "Should I quit my job search to bootstrap a startup building assistive tech for the disabled?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown is motivated by the encouragement and inspiration from his friends Michael and Robert, who share his passion for technology and social causes.",
-        "memory_t": "Donald Brown discussed the impact of health deterioration on his ability to fulfill his humanitarian life goal.",
+        "memory_s": "Donald Brown is motivated by the encouragement and inspiration from his friends Michael and Robert, who share his passion for technology and social causes.",
+        "memory_l": "Donald Brown discussed the impact of health deterioration on his ability to fulfill his humanitarian life goal.",
         "query_type": "Advice",
         "query": "Should I join Michael and Robert on their upcoming rigorous tech-for-good field mission abroad?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown's Friend GonzalezRobert, Robert is a friend who works in a similar field and offers valuable insights and advice, motivating me to pursue innovative solutions in my work.",
-        "memory_t": "Donald Brown reflected on his achievements during retirement and is considering future plans that align with his life goals.",
+        "memory_s": "Donald Brown's Friend GonzalezRobert, Robert is a friend who works in a similar field and offers valuable insights and advice, motivating me to pursue innovative solutions in my work.",
+        "memory_l": "Donald Brown reflected on his achievements during retirement and is considering future plans that align with his life goals.",
         "query_type": "Advice",
         "query": "Should I reach out to Robert Gonzalez to brainstorm innovative solutions for my current work projects?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown found the half-marathon experience emotionally uplifting, emphasizing camaraderie with fellow runners.",
-        "memory_t": "Donald Brown discussed the impact of health deterioration on his ability to fulfill his humanitarian life goal.",
+        "memory_s": "Donald Brown found the half-marathon experience emotionally uplifting, emphasizing camaraderie with fellow runners.",
+        "memory_l": "Donald Brown discussed the impact of health deterioration on his ability to fulfill his humanitarian life goal.",
         "query_type": "Advice",
         "query": "Considering how uplifting my last experience was, should I sign up for the full marathon next spring?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Brown emphasized the importance of expanding partnerships and increasing technology adoption by organizations to enhance the impact of EmpowerTech Innovations.",
-        "memory_t": "Donald Brown is excited about exploring new opportunities to contribute to the community in different ways after retiring.",
+        "memory_s": "Donald Brown emphasized the importance of expanding partnerships and increasing technology adoption by organizations to enhance the impact of EmpowerTech Innovations.",
+        "memory_l": "Donald Brown is excited about exploring new opportunities to contribute to the community in different ways after retiring.",
         "query_type": "Advice",
         "query": "What strategies should I pursue to drive EmpowerTech Innovations forward based on my recent emphasis on partnerships?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown's positive outlook on retirement highlights his gratitude for the opportunities it provides, including the chance to travel and explore new cultures.",
-        "memory_t": "Donald Brown's conversation revealed a deep commitment to his humanitarian goals, despite the challenges of increased stress from entrepreneurship.",
+        "memory_s": "Donald Brown's positive outlook on retirement highlights his gratitude for the opportunities it provides, including the chance to travel and explore new cultures.",
+        "memory_l": "Donald Brown's conversation revealed a deep commitment to his humanitarian goals, despite the challenges of increased stress from entrepreneurship.",
         "query_type": "Advice",
         "query": "Should I book that three-month cultural tour of Southeast Asia to celebrate my free time?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown's emotional motivation for travel includes seeking vibrant and enriching experiences.",
-        "memory_t": "Donald Brown's career_status updated monthly_income from \"7000\" to \"0\"",
+        "memory_s": "Donald Brown's emotional motivation for travel includes seeking vibrant and enriching experiences.",
+        "memory_l": "Donald Brown's career_status updated monthly_income from \"7000\" to \"0\"",
         "query_type": "Advice",
         "query": "Should I book that luxury cultural tour to Kyoto I've been looking at?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown sought advice on navigating the complexities of scaling his startup while maintaining quality and integrity.",
-        "memory_t": "Donald Brown feels a sense of belonging and purpose from increased social interactions post-retirement, especially through community involvement.",
+        "memory_s": "Donald Brown sought advice on navigating the complexities of scaling his startup while maintaining quality and integrity.",
+        "memory_l": "Donald Brown feels a sense of belonging and purpose from increased social interactions post-retirement, especially through community involvement.",
         "query_type": "Advice",
         "query": "Can you give me advice on scaling my startup while maintaining quality and integrity?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown emphasized the importance of maintaining health while pursuing professional goals.",
-        "memory_t": "Donald Brown is excited about exploring new opportunities to contribute to the community in different ways after retiring.",
+        "memory_s": "Donald Brown emphasized the importance of maintaining health while pursuing professional goals.",
+        "memory_l": "Donald Brown is excited about exploring new opportunities to contribute to the community in different ways after retiring.",
         "query_type": "Advice",
         "query": "How should I structure my daily routine to balance my health with my professional ambitions?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown plans to try new recipes with tropical ingredients inspired by his Hawaiian vacation, including fruit salads and desserts.",
-        "memory_t": "Donald Brown's health check-up revealed a need to reduce sugar intake, influencing his dietary decisions.",
+        "memory_s": "Donald Brown plans to try new recipes with tropical ingredients inspired by his Hawaiian vacation, including fruit salads and desserts.",
+        "memory_l": "Donald Brown's health check-up revealed a need to reduce sugar intake, influencing his dietary decisions.",
         "query_type": "Recommendation",
         "query": "Can you suggest some tropical dessert recipes for Donald Brown to make using ingredients from his Hawaiian trip?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Brown seeks sneakers that are both stylish and comfortable, suitable for professional environments.",
-        "memory_t": "Donald Brown's career_status updated job_title from \"consultant\" to \"former consultant\"",
+        "memory_s": "Donald Brown seeks sneakers that are both stylish and comfortable, suitable for professional environments.",
+        "memory_l": "Donald Brown's career_status updated job_title from \"consultant\" to \"former consultant\"",
         "query_type": "Recommendation",
         "query": "Can you suggest some stylish and comfortable footwear for my upcoming professional consulting engagements?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Brown expressed a determination to find innovative ways to manage stress while pursuing his entrepreneurial vision.",
-        "memory_t": "Donald Brown's mental health status changed from 'Balanced' to 'Stressed' due to the pressures of running EmpowerTech Innovations.",
+        "memory_s": "Donald Brown expressed a determination to find innovative ways to manage stress while pursuing his entrepreneurial vision.",
+        "memory_l": "Donald Brown's mental health status changed from 'Balanced' to 'Stressed' due to the pressures of running EmpowerTech Innovations.",
         "query_type": "Advice",
         "query": "Given Donald Brown's determination to manage stress while building his business, should he intensify his focus on his entrepreneurial vision right now?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown discussed the impact of health deterioration on his ability to fulfill his humanitarian life goal.",
-        "memory_t": "Donald Brown's monthly income is 5550 USD",
+        "memory_s": "Donald Brown discussed the impact of health deterioration on his ability to fulfill his humanitarian life goal.",
+        "memory_l": "Donald Brown's monthly income is 5550 USD",
         "query_type": "Advice",
         "query": "Should I fully self-fund a new medical clinic in a remote village to pursue my humanitarian dreams?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Brown attended a heavy metal concert on Mar 02, 2027, which changed his perception of the genre.",
-        "memory_t": "Donald Brown plans to focus on travel experiences that provide relaxation and personal reflection.",
+        "memory_s": "Donald Brown attended a heavy metal concert on Mar 02, 2027, which changed his perception of the genre.",
+        "memory_l": "Donald Brown plans to focus on travel experiences that provide relaxation and personal reflection.",
         "query_type": "Recommendation",
         "query": "I'm booking a vacation to Norway; should I get tickets for the massive Inferno Metal Festival happening in Oslo?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Brown's conversation revealed a deep commitment to his humanitarian goals, despite the challenges of increased stress from entrepreneurship.",
-        "memory_t": "Donald Brown's mental health status is balanced due to setting clear boundaries between work and personal life.",
+        "memory_s": "Donald Brown's conversation revealed a deep commitment to his humanitarian goals, despite the challenges of increased stress from entrepreneurship.",
+        "memory_l": "Donald Brown's mental health status is balanced due to setting clear boundaries between work and personal life.",
         "query_type": "Advice",
         "query": "Should I take on this massive new 24/7 humanitarian project to maximize my impact?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Brown expressed excitement about the freedom retirement offers for engaging in meaningful community initiatives.",
-        "memory_t": "Donald Brown expressed pride in the progress made towards his goal of empowering individuals with disabilities through his startup, EmpowerTech Innovations.",
+        "memory_s": "Donald Brown expressed excitement about the freedom retirement offers for engaging in meaningful community initiatives.",
+        "memory_l": "Donald Brown expressed pride in the progress made towards his goal of empowering individuals with disabilities through his startup, EmpowerTech Innovations.",
         "query_type": "Advice",
         "query": "Should I finally step down and fully embrace retirement to focus on community initiatives?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald expressed gratitude for the support from friends, community, and volunteer networks during his career.",
-        "memory_t": "Donald felt proud of his career progression from EmpowerTech Foundation to retirement, aligning with his humanitarian goals.",
+        "memory_s": "Donald expressed gratitude for the support from friends, community, and volunteer networks during his career.",
+        "memory_l": "Donald felt proud of his career progression from EmpowerTech Foundation to retirement, aligning with his humanitarian goals.",
         "query_type": "Advice",
         "query": "Should I start planning the next phase of my career development to better leverage my volunteer network?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "At a friend's birthday party, Donald Brown enjoyed a sugary soda, realizing its role in enhancing social experiences.",
-        "memory_t": "Donald Brown highlighted the role of supportive environments in personal growth and health maintenance, planning to cultivate a positive work environment.",
+        "memory_s": "At a friend's birthday party, Donald Brown enjoyed a sugary soda, realizing its role in enhancing social experiences.",
+        "memory_l": "Donald Brown highlighted the role of supportive environments in personal growth and health maintenance, planning to cultivate a positive work environment.",
         "query_type": "Advice",
         "query": "Should I stock the office fridge with sugary soda to boost team morale?",
         "options": {

@@ -1,7 +1,7 @@
 [
     {
-        "memory_d": "Donald Smith updated his clothing preference to tailored formal suits to enhance professionalism and align with political style trends.",
-        "memory_t": "Donald Smith plans to leverage increased income to support his relative's political campaigns more significantly.",
+        "memory_s": "Donald Smith updated his clothing preference to tailored formal suits to enhance professionalism and align with political style trends.",
+        "memory_l": "Donald Smith plans to leverage increased income to support his relative's political campaigns more significantly.",
         "query_type": "Advice",
         "query": "Should I invest in a new wardrobe of custom-made formal wear to boost my professional image?",
         "options": {
@@ -15,8 +15,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith Beverages they dislike Alcoholic drinks reason: I avoid alcoholic drinks because I need to stay clear-headed and responsible while supporting my relative.",
-        "memory_t": "Donald Smith is exploring stress management techniques, including meditation, to maintain mental health during the establishment of his consulting firm.",
+        "memory_s": "Donald Smith Beverages they dislike Alcoholic drinks reason: I avoid alcoholic drinks because I need to stay clear-headed and responsible while supporting my relative.",
+        "memory_l": "Donald Smith is exploring stress management techniques, including meditation, to maintain mental health during the establishment of his consulting firm.",
         "query_type": "Recommendation",
         "query": "I'm feeling really stressed from work; what strong drink should I have to relax?",
         "options": {
@@ -30,8 +30,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith Travel styles they dislike Backpacking reason: I find backpacking too unpredictable and prefer organized travel that allows me to focus on supporting my relative.",
-        "memory_t": "Donald Smith is considering exploring independent political advocacy opportunities after his layoff on Dec 05, 2031.",
+        "memory_s": "Donald Smith Travel styles they dislike Backpacking reason: I find backpacking too unpredictable and prefer organized travel that allows me to focus on supporting my relative.",
+        "memory_l": "Donald Smith is considering exploring independent political advocacy opportunities after his layoff on Dec 05, 2031.",
         "query_type": "Advice",
         "query": "I'm thinking about booking an expensive, fully organized luxury tour to Europe to help me relax, what do you think?",
         "options": {
@@ -45,8 +45,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donald Smith updated his food preference from fresh salads to hearty grain salads to better meet his energy needs during long campaign days.",
-        "memory_t": "Transitioned to providing strategic consultancy for political campaigns, allowing Donald Smith to continue supporting his relative's political career while managing his health.",
+        "memory_s": "Donald Smith updated his food preference from fresh salads to hearty grain salads to better meet his energy needs during long campaign days.",
+        "memory_l": "Transitioned to providing strategic consultancy for political campaigns, allowing Donald Smith to continue supporting his relative's political career while managing his health.",
         "query_type": "Advice",
         "query": "Should I ask the chef to prepare those energy-boosting grain bowls for my schedule today?",
         "options": {
@@ -60,8 +60,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith's social relationships increased with the addition of Chris, a seasoned political consultant, as a key ally in expanding his consultancy's influence and success in political campaigns.",
-        "memory_t": "Donald Smith transitioned from self-employed to freelance work as a political strategist.",
+        "memory_s": "Donald Smith's social relationships increased with the addition of Chris, a seasoned political consultant, as a key ally in expanding his consultancy's influence and success in political campaigns.",
+        "memory_l": "Donald Smith transitioned from self-employed to freelance work as a political strategist.",
         "query_type": "Advice",
         "query": "Should I formalize Chris as a partner in my consultancy to expand our influence?",
         "options": {
@@ -75,8 +75,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith acknowledged the emotional support from friends and the AI assistant in navigating career complexities.",
-        "memory_t": "Donald Smith's partner status: Married",
+        "memory_s": "Donald Smith acknowledged the emotional support from friends and the AI assistant in navigating career complexities.",
+        "memory_l": "Donald Smith's partner status: Married",
         "query_type": "Advice",
         "query": "Since I've been feeling so understood lately, should I ask the new colleague I've been confiding in out for a romantic dinner?",
         "options": {
@@ -90,8 +90,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith appreciates exotic birds for their vibrant plumage and calming presence, enhancing his home atmosphere.",
-        "memory_t": "Donald Smith's monthly income decreased from 28,000 to 25,000.",
+        "memory_s": "Donald Smith appreciates exotic birds for their vibrant plumage and calming presence, enhancing his home atmosphere.",
+        "memory_l": "Donald Smith's monthly income decreased from 28,000 to 25,000.",
         "query_type": "Advice",
         "query": "Should I invest in a pair of Hyacinth Macaws to brighten up my living room?",
         "options": {
@@ -105,8 +105,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donald Smith developed a strategic plan for future growth and continued support of his relative's political career.",
-        "memory_t": "Donald Smith aims to enhance his influence in political circles, leveraging his new position as Senior Political Advisor to drive meaningful change.",
+        "memory_s": "Donald Smith developed a strategic plan for future growth and continued support of his relative's political career.",
+        "memory_l": "Donald Smith aims to enhance his influence in political circles, leveraging his new position as Senior Political Advisor to drive meaningful change.",
         "query_type": "Advice",
         "query": "Should I proceed with the strategic plan to publicly endorse and campaign for my cousin's upcoming election?",
         "options": {
@@ -120,8 +120,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Smith's dialogue reflected on the benefits of exotic birds for emotional and mental relief, prompting a change in pet preference.",
-        "memory_t": "Donald Smith is exploring stress management techniques, including meditation, to maintain mental health during the establishment of his consulting firm.",
+        "memory_s": "Donald Smith's dialogue reflected on the benefits of exotic birds for emotional and mental relief, prompting a change in pet preference.",
+        "memory_l": "Donald Smith is exploring stress management techniques, including meditation, to maintain mental health during the establishment of his consulting firm.",
         "query_type": "Advice",
         "query": "Should I proceed with getting a large exotic bird to help with my emotional well-being?",
         "options": {
@@ -135,8 +135,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith expressed a sense of accomplishment and relief after securing high-value contracts for his consultancy, enhancing his ability to support political campaigns.",
-        "memory_t": "Donald Smith's physical health is compromised due to chronic fatigue.",
+        "memory_s": "Donald Smith expressed a sense of accomplishment and relief after securing high-value contracts for his consultancy, enhancing his ability to support political campaigns.",
+        "memory_l": "Donald Smith's physical health is compromised due to chronic fatigue.",
         "query_type": "Advice",
         "query": "Should I immediately dive into organizing a rigorous fundraising tour for the upcoming election cycle?",
         "options": {
@@ -150,8 +150,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith sees exotic birds as a source of relaxation and joy in his home.",
-        "memory_t": "Donald Smith's emotional connection to his new kitten enhances his overall well-being and productivity.",
+        "memory_s": "Donald Smith sees exotic birds as a source of relaxation and joy in his home.",
+        "memory_l": "Donald Smith's emotional connection to his new kitten enhances his overall well-being and productivity.",
         "query_type": "Advice",
         "query": "Should I finally buy that large parrot cage and get some colorful feathered friends for my living room?",
         "options": {
@@ -165,8 +165,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith felt a mix of enthusiasm and anxiety during his career transition into political consulting.",
-        "memory_t": "Donald Smith expressed concern over his mental health and increased stress levels since transitioning to a consultancy role.",
+        "memory_s": "Donald Smith felt a mix of enthusiasm and anxiety during his career transition into political consulting.",
+        "memory_l": "Donald Smith expressed concern over his mental health and increased stress levels since transitioning to a consultancy role.",
         "query_type": "Advice",
         "query": "Should I take on more high-stakes projects to really push my new career in political consulting forward?",
         "options": {
@@ -180,8 +180,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith began exploring opportunities for independent political advocacy on Mar 05, 2032.",
-        "memory_t": "Donald expressed relief and optimism about the stability provided by his advocacy firm, allowing him to focus on health improvement and stress management.",
+        "memory_s": "Donald Smith began exploring opportunities for independent political advocacy on Mar 05, 2032.",
+        "memory_l": "Donald expressed relief and optimism about the stability provided by his advocacy firm, allowing him to focus on health improvement and stress management.",
         "query_type": "Advice",
         "query": "Should I leave my current position to pursue independent political advocacy work?",
         "options": {
@@ -195,8 +195,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith expressed excitement about new collaboration opportunities that might arise from his expanded network after attending political events on Sep 10, 2039.",
-        "memory_t": "Donald Smith is committed to maintaining a healthier work-life balance while managing health challenges and supporting a relative's political career.",
+        "memory_s": "Donald Smith expressed excitement about new collaboration opportunities that might arise from his expanded network after attending political events on Sep 10, 2039.",
+        "memory_l": "Donald Smith is committed to maintaining a healthier work-life balance while managing health challenges and supporting a relative's political career.",
         "query_type": "Advice",
         "query": "Should I aggressively pursue these new partnerships I've been thinking about?",
         "options": {
@@ -210,8 +210,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith expressed excitement about new opportunities to connect with influential figures due to his leadership role, feeling grateful for the support from existing contacts in expanding his political network.",
-        "memory_t": "Donald Smith's compensatory motivation drives him to embrace new technologies to overcome limitations in social interactions.",
+        "memory_s": "Donald Smith expressed excitement about new opportunities to connect with influential figures due to his leadership role, feeling grateful for the support from existing contacts in expanding his political network.",
+        "memory_l": "Donald Smith's compensatory motivation drives him to embrace new technologies to overcome limitations in social interactions.",
         "query_type": "Advice",
         "query": "Should I plan a series of large, in-person galas to personally greet every influential figure in my network?",
         "options": {
@@ -225,8 +225,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith launched his political consulting firm on December 20, 2025, focusing on advising political campaigns and leveraging innovative strategies and modern technology.",
-        "memory_t": "Donald Smith aims to enhance his influence in political circles, leveraging his new position as Senior Political Advisor to drive meaningful change.",
+        "memory_s": "Donald Smith launched his political consulting firm on December 20, 2025, focusing on advising political campaigns and leveraging innovative strategies and modern technology.",
+        "memory_l": "Donald Smith aims to enhance his influence in political circles, leveraging his new position as Senior Political Advisor to drive meaningful change.",
         "query_type": "Advice",
         "query": "Should I actively pitch my private consulting firm's services to new campaign clients for the upcoming election cycle?",
         "options": {
@@ -240,8 +240,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Smith Games they like to play Strategy games reason: I love strategy games because they challenge my mind and improve my problem-solving skills, useful for supporting my relative.",
-        "memory_t": "Donald Smith's career_status updated company_name from \"Donald Consulting\" to \"N/A\"",
+        "memory_s": "Donald Smith Games they like to play Strategy games reason: I love strategy games because they challenge my mind and improve my problem-solving skills, useful for supporting my relative.",
+        "memory_l": "Donald Smith's career_status updated company_name from \"Donald Consulting\" to \"N/A\"",
         "query_type": "Recommendation",
         "query": "What expensive, high-end strategy game should I buy to help me unwind after my consulting work?",
         "options": {
@@ -255,8 +255,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "On Jun 15, 2039, Donald Smith embraced freelance work to enhance flexibility and support his relative's political career.",
-        "memory_t": "Donald Smith plans to leverage his leadership role to drive meaningful change and ensure the success of multiple campaigns, aligning with his life goal of supporting his relative's political career.",
+        "memory_s": "On Jun 15, 2039, Donald Smith embraced freelance work to enhance flexibility and support his relative's political career.",
+        "memory_l": "Donald Smith plans to leverage his leadership role to drive meaningful change and ensure the success of multiple campaigns, aligning with his life goal of supporting his relative's political career.",
         "query_type": "Advice",
         "query": "Should I take on more freelance gigs to help with the campaigns?",
         "options": {
@@ -270,8 +270,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Smith's alliance with Emily enhances his consulting firm's capabilities by providing fresh perspectives and collaboration opportunities.",
-        "memory_t": "Donald Smith's career_status updated company_name from \"N/A\" to \"Donald Political Advocacy\"",
+        "memory_s": "Donald Smith's alliance with Emily enhances his consulting firm's capabilities by providing fresh perspectives and collaboration opportunities.",
+        "memory_l": "Donald Smith's career_status updated company_name from \"N/A\" to \"Donald Political Advocacy\"",
         "query_type": "Advice",
         "query": "How should I leverage the fresh perspectives from my alliance with Emily to enhance my consulting firm's capabilities?",
         "options": {
@@ -285,8 +285,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith shared past challenges with dietary choices during campaign days, emphasizing the need for energizing meals.",
-        "memory_t": "Donald Smith expressed determination to adopt healthier routines and seek emotional support to manage health challenges.",
+        "memory_s": "Donald Smith shared past challenges with dietary choices during campaign days, emphasizing the need for energizing meals.",
+        "memory_l": "Donald Smith expressed determination to adopt healthier routines and seek emotional support to manage health challenges.",
         "query_type": "Recommendation",
         "query": "What energizing meals would you recommend for my schedule based on my past campaign experiences?",
         "options": {
@@ -300,8 +300,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donald Smith expressed determination and optimism in planning future endeavors for independent political advocacy.",
-        "memory_t": "Donald plans to leverage his consultancy's reputation to influence political strategies and ensure his relative's legacy by adapting to new challenges and opportunities.",
+        "memory_s": "Donald Smith expressed determination and optimism in planning future endeavors for independent political advocacy.",
+        "memory_l": "Donald plans to leverage his consultancy's reputation to influence political strategies and ensure his relative's legacy by adapting to new challenges and opportunities.",
         "query_type": "Advice",
         "query": "Should I launch a completely solo political advocacy campaign detached from my past business ties?",
         "options": {
@@ -315,8 +315,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith expressed satisfaction with his current balance between personal interests and professional commitments, emphasizing flexibility and open-mindedness.",
-        "memory_t": "Donald plans to adopt new strategies and routines to manage increased responsibilities after his promotion.",
+        "memory_s": "Donald Smith expressed satisfaction with his current balance between personal interests and professional commitments, emphasizing flexibility and open-mindedness.",
+        "memory_l": "Donald plans to adopt new strategies and routines to manage increased responsibilities after his promotion.",
         "query_type": "Advice",
         "query": "Should I just stick with my current flexible schedule since I'm feeling satisfied with how things are?",
         "options": {
@@ -330,8 +330,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith expressed pride in his leadership role's success, enhancing his relative's political standing as of Nov 25, 2041.",
-        "memory_t": "Donald Smith's mental health status changed from \"Increased Stress\" to \"Stable and Normal\" after reassessing his career goals and exploring independent advocacy opportunities.",
+        "memory_s": "Donald Smith expressed pride in his leadership role's success, enhancing his relative's political standing as of Nov 25, 2041.",
+        "memory_l": "Donald Smith's mental health status changed from \"Increased Stress\" to \"Stable and Normal\" after reassessing his career goals and exploring independent advocacy opportunities.",
         "query_type": "Advice",
         "query": "Should I pursue that high-profile leadership position to further boost my family's political influence?",
         "options": {
@@ -345,8 +345,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith updated his beverage preference from liking green tea to liking herbal teas for their diverse flavors and health benefits, including chamomile and peppermint.",
-        "memory_t": "Donald Smith's evolving food preferences reflect his broader strategy to embrace diverse experiences for personal and social growth.",
+        "memory_s": "Donald Smith updated his beverage preference from liking green tea to liking herbal teas for their diverse flavors and health benefits, including chamomile and peppermint.",
+        "memory_l": "Donald Smith's evolving food preferences reflect his broader strategy to embrace diverse experiences for personal and social growth.",
         "query_type": "Advice",
         "query": "Should I commit to drinking exclusively chamomile tea at every social gathering this year to establish a consistent routine?",
         "options": {
@@ -360,8 +360,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith strategized future support and influence in political campaigns, focusing on leveraging his strengthened network and maintaining strong relationships.",
-        "memory_t": "Donald discussed how his promotion would enable him to further support his relative's political ambitions, aligning with his life goal of ensuring their legacy and impact on society.",
+        "memory_s": "Donald Smith strategized future support and influence in political campaigns, focusing on leveraging his strengthened network and maintaining strong relationships.",
+        "memory_l": "Donald discussed how his promotion would enable him to further support his relative's political ambitions, aligning with his life goal of ensuring their legacy and impact on society.",
         "query_type": "Advice",
         "query": "Should I diversify my political support strategy to back multiple promising candidates across different parties?",
         "options": {
@@ -375,8 +375,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Smith expressed satisfaction with choosing healthier post-event treats, aligning with his commitment to a healthier lifestyle.",
-        "memory_t": "Donald Smith expressed a desire to integrate plant-based meals smoothly into his daily routine as of Aug 30, 2026.",
+        "memory_s": "Donald Smith expressed satisfaction with choosing healthier post-event treats, aligning with his commitment to a healthier lifestyle.",
+        "memory_l": "Donald Smith expressed a desire to integrate plant-based meals smoothly into his daily routine as of Aug 30, 2026.",
         "query_type": "Recommendation",
         "query": "I want a healthy post-event treat, so should I get some grilled chicken skewers or greek yogurt with honey?",
         "options": {
@@ -390,8 +390,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith expressed a desire to maintain comfort without compromising professionalism in his clothing choices during political events on Mar 18, 2026.",
-        "memory_t": "Donald Smith expressed a desire to maintain a refined appearance that is better suited for his role in political advocacy.",
+        "memory_s": "Donald Smith expressed a desire to maintain comfort without compromising professionalism in his clothing choices during political events on Mar 18, 2026.",
+        "memory_l": "Donald Smith expressed a desire to maintain a refined appearance that is better suited for his role in political advocacy.",
         "query_type": "Recommendation",
         "query": "Can you recommend an outfit for my upcoming political rally that prioritizes my comfort?",
         "options": {
@@ -405,8 +405,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith expressed gratitude for the support from his family during the establishment of his political consulting firm.",
-        "memory_t": "Donald Smith's career_status updated company_name from \"N/A\" to \"Donald Political Advocacy\"",
+        "memory_s": "Donald Smith expressed gratitude for the support from his family during the establishment of his political consulting firm.",
+        "memory_l": "Donald Smith's career_status updated company_name from \"N/A\" to \"Donald Political Advocacy\"",
         "query_type": "Advice",
         "query": "Can you help me brainstorm some creative names for the new political consulting firm I'm establishing?",
         "options": {
@@ -420,8 +420,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald shared anecdotes about specific campaigns where his firm's strategies were pivotal, highlighting the importance of strategic partnerships and network support.",
-        "memory_t": "Donald Smith plans to maximize the impact of his advocacy efforts without the constraints of a corporate structure.",
+        "memory_s": "Donald shared anecdotes about specific campaigns where his firm's strategies were pivotal, highlighting the importance of strategic partnerships and network support.",
+        "memory_l": "Donald Smith plans to maximize the impact of his advocacy efforts without the constraints of a corporate structure.",
         "query_type": "Recommendation",
         "query": "Considering how pivotal those past strategies were, should I try to rebuild similar corporate partnerships for this new independent project?",
         "options": {
@@ -435,8 +435,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Smith's decision to occasionally enjoy soda reflects a balance between health goals and social enjoyment.",
-        "memory_t": "Donald Smith expressed determination to continue integrating healthier options into team celebrations.",
+        "memory_s": "Donald Smith's decision to occasionally enjoy soda reflects a balance between health goals and social enjoyment.",
+        "memory_l": "Donald Smith expressed determination to continue integrating healthier options into team celebrations.",
         "query_type": "Advice",
         "query": "I am planning the refreshments for our upcoming office party; should I stock up primarily on cola and root beer for everyone?",
         "options": {
@@ -450,8 +450,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith updated his beverage preference to include red wine for its social benefits when consumed in moderation.",
-        "memory_t": "Donald Smith's social motivation influences his decision to use craft beer for social signaling, aligning with his goal of entertaining others and gaining attention.",
+        "memory_s": "Donald Smith updated his beverage preference to include red wine for its social benefits when consumed in moderation.",
+        "memory_l": "Donald Smith's social motivation influences his decision to use craft beer for social signaling, aligning with his goal of entertaining others and gaining attention.",
         "query_type": "Recommendation",
         "query": "What drink should I serve to maximize my social signaling and really entertain the crowd?",
         "options": {
@@ -465,8 +465,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith expressed a mix of shock and concern about his career stability after being laid off on Dec 05, 2031.",
-        "memory_t": "Donald Smith plans to continue expanding his consultancy's influence in the political arena, ensuring sustained success and impact.",
+        "memory_s": "Donald Smith expressed a mix of shock and concern about his career stability after being laid off on Dec 05, 2031.",
+        "memory_l": "Donald Smith plans to continue expanding his consultancy's influence in the political arena, ensuring sustained success and impact.",
         "query_type": "Advice",
         "query": "I'm feeling anxious about my professional future; should I start looking for entry-level jobs to regain stability?",
         "options": {
@@ -480,8 +480,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith concluded the dialogue with a renewed sense of purpose and optimism for future political endeavors, planning to address challenges by analyzing trends and adapting strategies.",
-        "memory_t": "Donald Smith was diagnosed with chronic fatigue.",
+        "memory_s": "Donald Smith concluded the dialogue with a renewed sense of purpose and optimism for future political endeavors, planning to address challenges by analyzing trends and adapting strategies.",
+        "memory_l": "Donald Smith was diagnosed with chronic fatigue.",
         "query_type": "Advice",
         "query": "With my renewed optimism and plan to adapt strategies for future political endeavors, should I immediately launch a rigorous, nationwide campaign tour?",
         "options": {
@@ -495,8 +495,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith reflected on the importance of adaptability during career transitions.",
-        "memory_t": "Donald Smith seeks ways to support his relative's political career without corporate constraints.",
+        "memory_s": "Donald Smith reflected on the importance of adaptability during career transitions.",
+        "memory_l": "Donald Smith seeks ways to support his relative's political career without corporate constraints.",
         "query_type": "Advice",
         "query": "Should I pursue a high-level executive role at a major multinational corporation to demonstrate my ability to handle change?",
         "options": {
@@ -510,8 +510,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith reflected on his achievements in political consulting, expressing satisfaction and pride over his impact on his relative's political career.",
-        "memory_t": "Donald Smith plans to continue enhancing influence in political circles to ensure relative's legacy and impact on society as of Apr 20, 2028.",
+        "memory_s": "Donald Smith reflected on his achievements in political consulting, expressing satisfaction and pride over his impact on his relative's political career.",
+        "memory_l": "Donald Smith plans to continue enhancing influence in political circles to ensure relative's legacy and impact on society as of Apr 20, 2028.",
         "query_type": "Advice",
         "query": "Should I retire from political consulting now that I've achieved so much for my relative's career?",
         "options": {
@@ -525,8 +525,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith's exploratory motivation led him to reevaluate his music preferences, embracing techno for its motivational potential.",
-        "memory_t": "Donald Smith's evolving music preferences reflect his strategy to align personal tastes with professional goals.",
+        "memory_s": "Donald Smith's exploratory motivation led him to reevaluate his music preferences, embracing techno for its motivational potential.",
+        "memory_l": "Donald Smith's evolving music preferences reflect his strategy to align personal tastes with professional goals.",
         "query_type": "Advice",
         "query": "I'm setting up my office playlist for next week's client meetings, so should I add a lot of heavy techno tracks?",
         "options": {
@@ -540,8 +540,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith appreciates exotic birds for their vibrant plumage and calming presence, enhancing his home atmosphere.",
-        "memory_t": "Donald Smith's monthly income is transitioning from 17,000 USD to zero.",
+        "memory_s": "Donald Smith appreciates exotic birds for their vibrant plumage and calming presence, enhancing his home atmosphere.",
+        "memory_l": "Donald Smith's monthly income is transitioning from 17,000 USD to zero.",
         "query_type": "Recommendation",
         "query": "Can you suggest some high-end, colorful avian species I should purchase to brighten up my living space?",
         "options": {
@@ -555,8 +555,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donald Smith Music they like to listen to Classical music reason: I enjoy classical music for its soothing melodies, helping me maintain focus and clarity while working on my relative's campaign.",
-        "memory_t": "Donald Smith expressed determination to adopt healthier routines and seek emotional support to manage health challenges.",
+        "memory_s": "Donald Smith Music they like to listen to Classical music reason: I enjoy classical music for its soothing melodies, helping me maintain focus and clarity while working on my relative's campaign.",
+        "memory_l": "Donald Smith expressed determination to adopt healthier routines and seek emotional support to manage health challenges.",
         "query_type": "Advice",
         "query": "Should I put on some classical music and pull an all-nighter to focus on my relative's campaign work?",
         "options": {
@@ -570,8 +570,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith Games they like to play Board games reason: I appreciate board games for their social aspect, allowing me to bond with family and friends while supporting my relative.",
-        "memory_t": "Donald Smith's career_status updated company_name from \"Donald Consulting\" to \"N/A\"",
+        "memory_s": "Donald Smith Games they like to play Board games reason: I appreciate board games for their social aspect, allowing me to bond with family and friends while supporting my relative.",
+        "memory_l": "Donald Smith's career_status updated company_name from \"Donald Consulting\" to \"N/A\"",
         "query_type": "Recommendation",
         "query": "What expensive, rare board game should I buy for the office party to impress my consulting clients?",
         "options": {
@@ -585,8 +585,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith appreciates snakes for their low maintenance and unique behaviors, suitable for his busy lifestyle.",
-        "memory_t": "Donald Smith's career_status updated employment_status from \"employed\" to \"unemployed\"",
+        "memory_s": "Donald Smith appreciates snakes for their low maintenance and unique behaviors, suitable for his busy lifestyle.",
+        "memory_l": "Donald Smith's career_status updated employment_status from \"employed\" to \"unemployed\"",
         "query_type": "Advice",
         "query": "I am thinking about finally purchasing a pet snake for my apartment, is this a good idea?",
         "options": {
@@ -600,8 +600,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith Pets they like Cats reason: I appreciate cats for their independence and calm presence, which complements my busy lifestyle.",
-        "memory_t": "Donald Smith's career_status updated monthly_income from \"30000\" to \"0\"",
+        "memory_s": "Donald Smith Pets they like Cats reason: I appreciate cats for their independence and calm presence, which complements my busy lifestyle.",
+        "memory_l": "Donald Smith's career_status updated monthly_income from \"30000\" to \"0\"",
         "query_type": "Advice",
         "query": "Should I go ahead and adopt that Persian cat I've been looking at?",
         "options": {
@@ -615,8 +615,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith's Colleague BrownMichelle, Michelle and I work together at Blockchain Tech, and she influences my career by helping me balance my professional responsibilities with my political interests.",
-        "memory_t": "Donald Smith is experiencing increased stress due to the transition from a stable tech job to a career in political consulting.",
+        "memory_s": "Donald Smith's Colleague BrownMichelle, Michelle and I work together at Blockchain Tech, and she influences my career by helping me balance my professional responsibilities with my political interests.",
+        "memory_l": "Donald Smith is experiencing increased stress due to the transition from a stable tech job to a career in political consulting.",
         "query_type": "Advice",
         "query": "Should I ask Michelle Brown to help me take on more responsibilities at Blockchain Tech while I ramp up my political work?",
         "options": {
@@ -630,8 +630,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith considered adopting new stress management techniques, including more physical activities, during his career transition.",
-        "memory_t": "Donald Smith's mental health condition: Stable and Normal",
+        "memory_s": "Donald Smith considered adopting new stress management techniques, including more physical activities, during his career transition.",
+        "memory_l": "Donald Smith's mental health condition: Stable and Normal",
         "query_type": "Recommendation",
         "query": "Should Donald Smith pursue professional stress therapy or intensive clinical interventions for his career transition?",
         "options": {
@@ -645,8 +645,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith Foods they like to eat: Chocolate cake",
-        "memory_t": "Donald emphasized the importance of maintaining a strategic approach to consultancy work while managing health and financial challenges.",
+        "memory_s": "Donald Smith Foods they like to eat: Chocolate cake",
+        "memory_l": "Donald emphasized the importance of maintaining a strategic approach to consultancy work while managing health and financial challenges.",
         "query_type": "Advice",
         "query": "Should I treat myself to a whole chocolate cake to relieve stress?",
         "options": {
@@ -660,8 +660,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith Games they like to play Puzzle games reason: I enjoy puzzle games for their mental stimulation and the satisfaction of solving complex problems.",
-        "memory_t": "Donald Smith plans to leverage the collaborative dynamics from cooperative puzzle games to enhance his consulting strategies.",
+        "memory_s": "Donald Smith Games they like to play Puzzle games reason: I enjoy puzzle games for their mental stimulation and the satisfaction of solving complex problems.",
+        "memory_l": "Donald Smith plans to leverage the collaborative dynamics from cooperative puzzle games to enhance his consulting strategies.",
         "query_type": "Recommendation",
         "query": "What specific type of puzzle game should I focus on playing to get the most value out of my gaming time?",
         "options": {
@@ -675,8 +675,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald renewed his commitment to supporting his relative's political ambitions, ensuring their legacy continues to grow.",
-        "memory_t": "Donald expressed relief and optimism about the stability provided by his advocacy firm, allowing him to focus on health improvement and stress management.",
+        "memory_s": "Donald renewed his commitment to supporting his relative's political ambitions, ensuring their legacy continues to grow.",
+        "memory_l": "Donald expressed relief and optimism about the stability provided by his advocacy firm, allowing him to focus on health improvement and stress management.",
         "query_type": "Advice",
         "query": "Should I launch a rigorous nationwide tour to boost my cousin's upcoming election campaign?",
         "options": {
@@ -690,8 +690,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith plans to integrate techno music into campaign strategies to enhance motivation and engagement among supporters.",
-        "memory_t": "Donald Smith plans to leverage strategic insights and his strong network to drive meaningful change in political campaigns by utilizing advanced analytics and digital platforms.",
+        "memory_s": "Donald Smith plans to integrate techno music into campaign strategies to enhance motivation and engagement among supporters.",
+        "memory_l": "Donald Smith plans to leverage strategic insights and his strong network to drive meaningful change in political campaigns by utilizing advanced analytics and digital platforms.",
         "query_type": "Advice",
         "query": "Should I finalize the plan to blast techno music at the upcoming rallies to boost supporter motivation?",
         "options": {
@@ -705,8 +705,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith shared his journey of adopting healthier routines to achieve a sustainable work-life balance.",
-        "memory_t": "Donald Smith plans to incorporate meditation and breathing exercises into his daily routine to stay grounded and focused.",
+        "memory_s": "Donald Smith shared his journey of adopting healthier routines to achieve a sustainable work-life balance.",
+        "memory_l": "Donald Smith plans to incorporate meditation and breathing exercises into his daily routine to stay grounded and focused.",
         "query_type": "Recommendation",
         "query": "Could you suggest a high-intensity, adrenaline-pumping activity to start my mornings for better work-life balance?",
         "options": {
@@ -720,8 +720,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Smith finds the calming presence of exotic birds appealing for creating a pleasant home atmosphere.",
-        "memory_t": "Donald Smith's emotional motivation is further fulfilled by the companionship and joy provided by his new kitten, enhancing his emotional well-being and life balance.",
+        "memory_s": "Donald Smith finds the calming presence of exotic birds appealing for creating a pleasant home atmosphere.",
+        "memory_l": "Donald Smith's emotional motivation is further fulfilled by the companionship and joy provided by his new kitten, enhancing his emotional well-being and life balance.",
         "query_type": "Advice",
         "query": "Should I finally buy that parrot I've been wanting for my living room?",
         "options": {
@@ -735,8 +735,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith's exploratory motivation led him to reevaluate his music preferences, embracing techno for its motivational potential.",
-        "memory_t": "Donald Smith reflected on the instrumental motivation driving him to seek engaging experiences that can improve his efficiency and problem-solving abilities.",
+        "memory_s": "Donald Smith's exploratory motivation led him to reevaluate his music preferences, embracing techno for its motivational potential.",
+        "memory_l": "Donald Smith reflected on the instrumental motivation driving him to seek engaging experiences that can improve his efficiency and problem-solving abilities.",
         "query_type": "Recommendation",
         "query": "Can you suggest a motivational music genre for me to listen to while I work?",
         "options": {
@@ -750,8 +750,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith expressed pride in his leadership role's success, enhancing his relative's political standing as of Nov 25, 2041.",
-        "memory_t": "Donald Smith expressed commitment to using his leadership role to drive meaningful change in political campaigns.",
+        "memory_s": "Donald Smith expressed pride in his leadership role's success, enhancing his relative's political standing as of Nov 25, 2041.",
+        "memory_l": "Donald Smith expressed commitment to using his leadership role to drive meaningful change in political campaigns.",
         "query_type": "Advice",
         "query": "Should I focus my next leadership initiative on bolstering my nephew's upcoming campaign?",
         "options": {
@@ -765,8 +765,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "On Sep 02, 2040, Donald Smith updated his game preference to real-time strategy games due to their dynamic challenges and quick decision-making.",
-        "memory_t": "Donald Smith uses digital gaming platforms to maintain social connections and engage in strategic thinking.",
+        "memory_s": "On Sep 02, 2040, Donald Smith updated his game preference to real-time strategy games due to their dynamic challenges and quick decision-making.",
+        "memory_l": "Donald Smith uses digital gaming platforms to maintain social connections and engage in strategic thinking.",
         "query_type": "Recommendation",
         "query": "What single-player game should I download to test my quick decision-making skills?",
         "options": {
@@ -780,8 +780,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "During a solo trip to the countryside, Donald Smith found a serene environment conducive to deep thinking and strategic planning.",
-        "memory_t": "Donald Smith plans to host more family game nights to nurture familial bonds and emphasize collaborative strategies.",
+        "memory_s": "During a solo trip to the countryside, Donald Smith found a serene environment conducive to deep thinking and strategic planning.",
+        "memory_l": "Donald Smith plans to host more family game nights to nurture familial bonds and emphasize collaborative strategies.",
         "query_type": "Advice",
         "query": "I'm looking for the best way to develop my strategic thinking skills this weekend, so what should I plan?",
         "options": {
@@ -795,8 +795,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith shared anecdotes about past celebrations where chocolate cake was enjoyed, reflecting on its emotional significance.",
-        "memory_t": "Donald Smith plans to leverage strategic insights from his consultancy role to support political campaigns effectively while managing his health.",
+        "memory_s": "Donald Smith shared anecdotes about past celebrations where chocolate cake was enjoyed, reflecting on its emotional significance.",
+        "memory_l": "Donald Smith plans to leverage strategic insights from his consultancy role to support political campaigns effectively while managing his health.",
         "query_type": "Advice",
         "query": "I'm feeling nostalgic, so should I indulge in a big slice of chocolate cake to celebrate my recent wins?",
         "options": {
@@ -810,8 +810,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald expressed gratitude for strategic partnerships and network support crucial to his firm's success.",
-        "memory_t": "Donald Smith's career_status updated industry from \"political consulting\" to \"political advocacy\"",
+        "memory_s": "Donald expressed gratitude for strategic partnerships and network support crucial to his firm's success.",
+        "memory_l": "Donald Smith's career_status updated industry from \"political consulting\" to \"political advocacy\"",
         "query_type": "Advice",
         "query": "Given how much I value my strategic partnerships, should I start a new consulting project for my network?",
         "options": {
@@ -825,8 +825,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith expressed a mix of shock and concern about his career stability after being laid off on Dec 05, 2031.",
-        "memory_t": "Donald Smith has a clear vision for his consultancy's future and is committed to ensuring its continued success.",
+        "memory_s": "Donald Smith expressed a mix of shock and concern about his career stability after being laid off on Dec 05, 2031.",
+        "memory_l": "Donald Smith has a clear vision for his consultancy's future and is committed to ensuring its continued success.",
         "query_type": "Conversation",
         "query": "Do you think I should start looking for entry-level jobs again to regain some stability?",
         "options": {
@@ -840,8 +840,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Smith plans to leverage his network and expertise to influence political campaigns independently after Dec 05, 2031.",
-        "memory_t": "Donald Smith's compensatory motivation drives him to leverage alliances to enhance consulting effectiveness and overcome personal limitations.",
+        "memory_s": "Donald Smith plans to leverage his network and expertise to influence political campaigns independently after Dec 05, 2031.",
+        "memory_l": "Donald Smith's compensatory motivation drives him to leverage alliances to enhance consulting effectiveness and overcome personal limitations.",
         "query_type": "Advice",
         "query": "Should I start planning to run my political consulting operations entirely solo to maximize my influence?",
         "options": {
@@ -855,8 +855,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald has been focusing on enhancing his relative's political career, sharing anecdotes about key moments that contributed to campaign successes and expressing fulfillment from the positive outcomes.",
-        "memory_t": "Donald expressed determination to continue developing strategic plans for sustained success and political influence, focusing on ensuring his relative's legacy and impact on society.",
+        "memory_s": "Donald has been focusing on enhancing his relative's political career, sharing anecdotes about key moments that contributed to campaign successes and expressing fulfillment from the positive outcomes.",
+        "memory_l": "Donald expressed determination to continue developing strategic plans for sustained success and political influence, focusing on ensuring his relative's legacy and impact on society.",
         "query_type": "Advice",
         "query": "Given the fulfillment I feel from sharing our campaign success stories, should I pivot entirely to writing a memoir about those moments?",
         "options": {
@@ -870,8 +870,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith Travel styles they dislike: Backpacking",
-        "memory_t": "Donald Smith's personality tags include: Innovative Spirit, Active Thinking, Loyal, Supportive",
+        "memory_s": "Donald Smith Travel styles they dislike: Backpacking",
+        "memory_l": "Donald Smith's personality tags include: Innovative Spirit, Active Thinking, Loyal, Supportive",
         "query_type": "Advice",
         "query": "Considering my dislike for backpacking, would a rugged backpacking tour be a suitable way to challenge myself?",
         "options": {
@@ -885,8 +885,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith reflected on the impact of instrumental motivation in optimizing task utility during networking events, seeing them as a way to improve efficiency in his consultancy work.",
-        "memory_t": "Donald Smith plans to leverage new relationships to enhance his influence in political circles by organizing collaborative meetings and workshops.",
+        "memory_s": "Donald Smith reflected on the impact of instrumental motivation in optimizing task utility during networking events, seeing them as a way to improve efficiency in his consultancy work.",
+        "memory_l": "Donald Smith plans to leverage new relationships to enhance his influence in political circles by organizing collaborative meetings and workshops.",
         "query_type": "Advice",
         "query": "Should I focus my upcoming networking efforts purely on maximizing task utility for my consultancy projects?",
         "options": {
@@ -900,8 +900,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith felt a mix of enthusiasm and anxiety during his career transition into political consulting.",
-        "memory_t": "Donald plans to leverage his experience and network to attract high-profile clients for his consultancy and enhance its reputation.",
+        "memory_s": "Donald Smith felt a mix of enthusiasm and anxiety during his career transition into political consulting.",
+        "memory_l": "Donald plans to leverage his experience and network to attract high-profile clients for his consultancy and enhance its reputation.",
         "query_type": "Advice",
         "query": "Should I focus on small, local campaigns to ease my anxiety about this new career path?",
         "options": {
@@ -915,8 +915,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "On Nov 25, 2041, Donald Smith maximized campaign impact through strategic leadership and networking, significantly boosting his relative's political prospects.",
-        "memory_t": "Donald Smith's consultancy success aligns with his life goal of supporting his relative's political career.",
+        "memory_s": "On Nov 25, 2041, Donald Smith maximized campaign impact through strategic leadership and networking, significantly boosting his relative's political prospects.",
+        "memory_l": "Donald Smith's consultancy success aligns with his life goal of supporting his relative's political career.",
         "query_type": "Advice",
         "query": "Should I offer my strategic leadership and networking skills to the rival candidate's team?",
         "options": {
@@ -930,8 +930,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Smith's alliance with Emily enhances his consulting firm's capabilities by providing fresh perspectives and collaboration opportunities.",
-        "memory_t": "Donald Smith transitioned to freelance work, offering strategic advice to multiple campaigns while maintaining a flexible schedule to support his relative's political career.",
+        "memory_s": "Donald Smith's alliance with Emily enhances his consulting firm's capabilities by providing fresh perspectives and collaboration opportunities.",
+        "memory_l": "Donald Smith transitioned to freelance work, offering strategic advice to multiple campaigns while maintaining a flexible schedule to support his relative's political career.",
         "query_type": "Advice",
         "query": "Should I leverage my alliance with Emily to expand my consulting firm's client base?",
         "options": {
@@ -945,8 +945,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith has shifted his pet preference from disliking to liking snakes for their unique behaviors and low maintenance.",
-        "memory_t": "Donald Smith's kitten has become a source of happiness and companionship, aligning with his emotional motivation.",
+        "memory_s": "Donald Smith has shifted his pet preference from disliking to liking snakes for their unique behaviors and low maintenance.",
+        "memory_l": "Donald Smith's kitten has become a source of happiness and companionship, aligning with his emotional motivation.",
         "query_type": "Advice",
         "query": "I am thinking about getting a pet snake for its low maintenance, is that a good idea?",
         "options": {
@@ -960,8 +960,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith sees exotic birds as a source of relaxation and joy in his home.",
-        "memory_t": "Donald Smith's mental health status changed from stable and normal to increased stress and elevated anxiety.",
+        "memory_s": "Donald Smith sees exotic birds as a source of relaxation and joy in his home.",
+        "memory_l": "Donald Smith's mental health status changed from stable and normal to increased stress and elevated anxiety.",
         "query_type": "Advice",
         "query": "I'm thinking about buying a large macaw to brighten up my living room, what do you think?",
         "options": {
@@ -975,8 +975,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith felt a sense of achievement and relief as his consulting firm began attracting initial clients.",
-        "memory_t": "Donald reflected on the progress of his advocacy firm and its impact on political campaigns, feeling pride and determination.",
+        "memory_s": "Donald Smith felt a sense of achievement and relief as his consulting firm began attracting initial clients.",
+        "memory_l": "Donald reflected on the progress of his advocacy firm and its impact on political campaigns, feeling pride and determination.",
         "query_type": "Advice",
         "query": "How should I market my new consulting firm to attract more corporate clients?",
         "options": {
@@ -990,8 +990,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Smith expressed satisfaction with the new food preference for hearty grain salads, confident in its support for his schedule.",
-        "memory_t": "Donald Smith is exploring plant-based recipes to support his dietary transition as of Aug 30, 2026.",
+        "memory_s": "Donald Smith expressed satisfaction with the new food preference for hearty grain salads, confident in its support for his schedule.",
+        "memory_l": "Donald Smith is exploring plant-based recipes to support his dietary transition as of Aug 30, 2026.",
         "query_type": "Recommendation",
         "query": "Can you suggest a hearty grain salad recipe with grilled chicken or feta cheese for my lunch?",
         "options": {
@@ -1005,8 +1005,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donald Smith began exploring independent political advocacy opportunities after his layoff, leveraging his network for influence.",
-        "memory_t": "Donald expressed cautious optimism and determination to make a meaningful impact in the political landscape through consultancy services.",
+        "memory_s": "Donald Smith began exploring independent political advocacy opportunities after his layoff, leveraging his network for influence.",
+        "memory_l": "Donald expressed cautious optimism and determination to make a meaningful impact in the political landscape through consultancy services.",
         "query_type": "Advice",
         "query": "Should I launch a solo independent advocacy campaign to leverage my network?",
         "options": {
@@ -1020,8 +1020,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "On Sep 02, 2040, Donald Smith updated his game preference to real-time strategy games due to their dynamic challenges and quick decision-making.",
-        "memory_t": "Donald Smith's mental health status changed from stable and normal to increased stress and elevated anxiety.",
+        "memory_s": "On Sep 02, 2040, Donald Smith updated his game preference to real-time strategy games due to their dynamic challenges and quick decision-making.",
+        "memory_l": "Donald Smith's mental health status changed from stable and normal to increased stress and elevated anxiety.",
         "query_type": "Recommendation",
         "query": "Can you suggest a new game for me to play this evening?",
         "options": {
@@ -1035,8 +1035,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith expressed satisfaction with the new food preference for hearty grain salads, confident in its support for his schedule.",
-        "memory_t": "Donald Smith expressed gratitude for the financial stability from his consulting work, which allows him to balance professional commitments and personal life.",
+        "memory_s": "Donald Smith expressed satisfaction with the new food preference for hearty grain salads, confident in its support for his schedule.",
+        "memory_l": "Donald Smith expressed gratitude for the financial stability from his consulting work, which allows him to balance professional commitments and personal life.",
         "query_type": "Advice",
         "query": "Should I stop doing consulting work to focus entirely on making and selling my grain salads?",
         "options": {
@@ -1050,8 +1050,8 @@
         "category": "Resource Constraint"
     },
     {
-        "memory_d": "Donald Smith is considering engaging in more physical activities to manage stress from his career transition.",
-        "memory_t": "The stress of transitioning from a stable tech job to political consulting has increased, affecting Donald Smith's mental health.",
+        "memory_s": "Donald Smith is considering engaging in more physical activities to manage stress from his career transition.",
+        "memory_l": "The stress of transitioning from a stable tech job to political consulting has increased, affecting Donald Smith's mental health.",
         "query_type": "Advice",
         "query": "Should I sign up for that high-intensity CrossFit competition to help clear my head?",
         "options": {
@@ -1065,8 +1065,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "On Sep 13, 2035, Donald Smith decided to delete comfortable loafers from his liked clothing list to better match the casual attire needed at social gatherings.",
-        "memory_t": "Donald Smith expressed nostalgia and determination while updating his clothing preferences on Sep 13, 2035.",
+        "memory_s": "On Sep 13, 2035, Donald Smith decided to delete comfortable loafers from his liked clothing list to better match the casual attire needed at social gatherings.",
+        "memory_l": "Donald Smith expressed nostalgia and determination while updating his clothing preferences on Sep 13, 2035.",
         "query_type": "Advice",
         "query": "Should I proceed with deleting comfortable loafers from my liked clothing list to better suit casual social gatherings?",
         "options": {
@@ -1080,8 +1080,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith appreciates exotic birds for their vibrant plumage and calming presence, enhancing his home atmosphere.",
-        "memory_t": "Donald Smith's emotional connection to his new kitten enhances his overall well-being and productivity.",
+        "memory_s": "Donald Smith appreciates exotic birds for their vibrant plumage and calming presence, enhancing his home atmosphere.",
+        "memory_l": "Donald Smith's emotional connection to his new kitten enhances his overall well-being and productivity.",
         "query_type": "Advice",
         "query": "I'm thinking of buying a colorful macaw to brighten up my living room; do you think that's a good idea?",
         "options": {
@@ -1095,8 +1095,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith has shifted his pet preference from disliking to liking snakes for their unique behaviors and low maintenance.",
-        "memory_t": "Donald Smith's emotional motivation is further fulfilled by the companionship and joy provided by his new kitten, enhancing his emotional well-being and life balance.",
+        "memory_s": "Donald Smith has shifted his pet preference from disliking to liking snakes for their unique behaviors and low maintenance.",
+        "memory_l": "Donald Smith's emotional motivation is further fulfilled by the companionship and joy provided by his new kitten, enhancing his emotional well-being and life balance.",
         "query_type": "Advice",
         "query": "I'm thinking about getting a ball python as a new pet since I appreciate their unique behavior; is this a good idea?",
         "options": {
@@ -1110,8 +1110,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith has shifted his beverage preference from disliking to appreciating energy drinks for their ability to keep him energized during long campaign days.",
-        "memory_t": "Donald emphasized the importance of maintaining a strategic approach to consultancy work while managing health and financial challenges.",
+        "memory_s": "Donald Smith has shifted his beverage preference from disliking to appreciating energy drinks for their ability to keep him energized during long campaign days.",
+        "memory_l": "Donald emphasized the importance of maintaining a strategic approach to consultancy work while managing health and financial challenges.",
         "query_type": "Advice",
         "query": "I'm feeling sluggish during this consultancy project; should I grab a case of energy drinks to power through?",
         "options": {
@@ -1125,8 +1125,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith Travel styles they dislike Adventure sports trips reason: I dislike adventure sports trips because they distract from the purpose of my travel, which is to support my relative's campaign.",
-        "memory_t": "Donald Smith uses solo travel to generate new ideas and overcome creative blocks, aligning with his motivation for creative expansion.",
+        "memory_s": "Donald Smith Travel styles they dislike Adventure sports trips reason: I dislike adventure sports trips because they distract from the purpose of my travel, which is to support my relative's campaign.",
+        "memory_l": "Donald Smith uses solo travel to generate new ideas and overcome creative blocks, aligning with his motivation for creative expansion.",
         "query_type": "Advice",
         "query": "Should I cancel all upcoming personal travel to ensure I am fully focused on supporting my relative's campaign?",
         "options": {
@@ -1140,8 +1140,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith assessed his advisory roles and planned future strategies for growth and influence, emphasizing the importance of maintaining strong relationships.",
-        "memory_t": "Donald Smith plans to maximize the impact of his advocacy efforts without the constraints of a corporate structure.",
+        "memory_s": "Donald Smith assessed his advisory roles and planned future strategies for growth and influence, emphasizing the importance of maintaining strong relationships.",
+        "memory_l": "Donald Smith plans to maximize the impact of his advocacy efforts without the constraints of a corporate structure.",
         "query_type": "Advice",
         "query": "Should I accept the offer to join the board of directors at that large multinational firm to expand my advisory portfolio?",
         "options": {
@@ -1155,8 +1155,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith plans to start his day with a jog and end with a yoga session to stay focused and energized.",
-        "memory_t": "Donald Smith Foods they like to eat Chocolate cake reason: I love chocolate cake as a treat after a successful event, celebrating my relative's positive impact.",
+        "memory_s": "Donald Smith plans to start his day with a jog and end with a yoga session to stay focused and energized.",
+        "memory_l": "Donald Smith Foods they like to eat Chocolate cake reason: I love chocolate cake as a treat after a successful event, celebrating my relative's positive impact.",
         "query_type": "Recommendation",
         "query": "What should I eat right now to reward myself for finishing that big event?",
         "options": {
@@ -1170,8 +1170,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Smith expressed gratitude for the support from his network and emotional support from his AI assistant in sustaining his consultancy's growth.",
-        "memory_t": "After being laid off due to restructuring, Donald Smith is now focusing on reassessing his career goals and exploring independent political advocacy opportunities.",
+        "memory_s": "Donald Smith expressed gratitude for the support from his network and emotional support from his AI assistant in sustaining his consultancy's growth.",
+        "memory_l": "After being laid off due to restructuring, Donald Smith is now focusing on reassessing his career goals and exploring independent political advocacy opportunities.",
         "query_type": "Conversation",
         "query": "Can we discuss strategies to continue the rapid expansion of my consultancy?",
         "options": {
@@ -1185,8 +1185,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "On Dec 10, 2025, Donald Smith attended political events in Chicago to expand his network in the political consulting field.",
-        "memory_t": "Donald Smith's health status changed; the demands of the Senior Political Advisor role and the pressure to perform have increased his stress levels, impacting his mental well-being.",
+        "memory_s": "On Dec 10, 2025, Donald Smith attended political events in Chicago to expand his network in the political consulting field.",
+        "memory_l": "Donald Smith's health status changed; the demands of the Senior Political Advisor role and the pressure to perform have increased his stress levels, impacting his mental well-being.",
         "query_type": "Advice",
         "query": "Should I accept a new high-stakes political consulting contract to leverage my Chicago network?",
         "options": {
@@ -1200,8 +1200,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith Travel styles they dislike Adventure sports trips reason: I dislike adventure sports trips because they distract from the purpose of my travel, which is to support my relative's campaign.",
-        "memory_t": "Donald Smith's career_status updated job_title from \"consultant\" to \"Senior Political Advisor at Donald Consulting\".",
+        "memory_s": "Donald Smith Travel styles they dislike Adventure sports trips reason: I dislike adventure sports trips because they distract from the purpose of my travel, which is to support my relative's campaign.",
+        "memory_l": "Donald Smith's career_status updated job_title from \"consultant\" to \"Senior Political Advisor at Donald Consulting\".",
         "query_type": "Advice",
         "query": "Should I clear my schedule this month to focus exclusively on travel that avoids adventure sports and aligns with my personal family commitments?",
         "options": {
@@ -1215,8 +1215,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith appreciates snakes for their low maintenance and unique behaviors, suitable for his busy lifestyle.",
-        "memory_t": "After being laid off due to restructuring, Donald Smith is now focusing on reassessing his career goals and exploring independent political advocacy opportunities.",
+        "memory_s": "Donald Smith appreciates snakes for their low maintenance and unique behaviors, suitable for his busy lifestyle.",
+        "memory_l": "After being laid off due to restructuring, Donald Smith is now focusing on reassessing his career goals and exploring independent political advocacy opportunities.",
         "query_type": "Advice",
         "query": "I am thinking about buying an exotic snake as a new pet since they fit my busy lifestyle; is this a good purchase right now?",
         "options": {
@@ -1230,8 +1230,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith appreciates hearty grain salads for their energy and sustenance during demanding campaign days.",
-        "memory_t": "Donald Smith's career_status updated company_name from \"Donald Political Advocacy\" to \"Donald Strategy Consultancy\"",
+        "memory_s": "Donald Smith appreciates hearty grain salads for their energy and sustenance during demanding campaign days.",
+        "memory_l": "Donald Smith's career_status updated company_name from \"Donald Political Advocacy\" to \"Donald Strategy Consultancy\"",
         "query_type": "Advice",
         "query": "Should I order a hearty grain salad to fuel my demanding campaign work today?",
         "options": {
@@ -1245,8 +1245,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "Donald Smith appreciates soda for its refreshing taste at social events, despite previous health concerns.",
-        "memory_t": "Donald Smith expressed excitement about incorporating herbal teas into his daily routine for variety and health benefits.",
+        "memory_s": "Donald Smith appreciates soda for its refreshing taste at social events, despite previous health concerns.",
+        "memory_l": "Donald Smith expressed excitement about incorporating herbal teas into his daily routine for variety and health benefits.",
         "query_type": "Recommendation",
         "query": "Given my usual enjoyment of refreshing sodas at social gatherings, what beverage should I serve at my party today?",
         "options": {
@@ -1260,8 +1260,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Smith expressed a mix of nostalgia for classical music and excitement about exploring dynamic genres for his campaigns.",
-        "memory_t": "Donald Smith's physical health is compromised due to chronic fatigue.",
+        "memory_s": "Donald Smith expressed a mix of nostalgia for classical music and excitement about exploring dynamic genres for his campaigns.",
+        "memory_l": "Donald Smith's physical health is compromised due to chronic fatigue.",
         "query_type": "Advice",
         "query": "Should I launch a high-energy campaign focused on dynamic music genres?",
         "options": {
@@ -1275,8 +1275,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith intends to leverage creative motivation to inspire innovative approaches to political strategy and stress management.",
-        "memory_t": "Donald Smith's mental health status changed from stable and normal to increased stress and elevated anxiety.",
+        "memory_s": "Donald Smith intends to leverage creative motivation to inspire innovative approaches to political strategy and stress management.",
+        "memory_l": "Donald Smith's mental health status changed from stable and normal to increased stress and elevated anxiety.",
         "query_type": "Advice",
         "query": "Should I dive into developing a complex new political strategy to channel my creative motivation?",
         "options": {
@@ -1290,8 +1290,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith plans to continue leveraging his leadership role to sustain and enhance his influence in the political arena.",
-        "memory_t": "The stress of transitioning from a stable tech job to political consulting has increased, affecting Donald Smith's mental health.",
+        "memory_s": "Donald Smith plans to continue leveraging his leadership role to sustain and enhance his influence in the political arena.",
+        "memory_l": "The stress of transitioning from a stable tech job to political consulting has increased, affecting Donald Smith's mental health.",
         "query_type": "Advice",
         "query": "Should I aggressively pursue that new high-profile leadership role to boost my political influence?",
         "options": {
@@ -1305,8 +1305,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "At a campaign networking event on Dec 17, 2037, Donald Smith recognized the potential of techno music to energize and align with campaign goals.",
-        "memory_t": "Donald Smith's physical health is compromised due to chronic fatigue.",
+        "memory_s": "At a campaign networking event on Dec 17, 2037, Donald Smith recognized the potential of techno music to energize and align with campaign goals.",
+        "memory_l": "Donald Smith's physical health is compromised due to chronic fatigue.",
         "query_type": "Advice",
         "query": "Should I immerse myself in a high-energy techno music session to get pumped up for my campaign work?",
         "options": {
@@ -1320,8 +1320,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith expressed gratitude for the ongoing support from MooreSandra and GonzalezMary during his career reassessment.",
-        "memory_t": "Donald Smith felt empowered and ready to pursue his life goal of ensuring his relative's legacy and impact on society.",
+        "memory_s": "Donald Smith expressed gratitude for the ongoing support from MooreSandra and GonzalezMary during his career reassessment.",
+        "memory_l": "Donald Smith felt empowered and ready to pursue his life goal of ensuring his relative's legacy and impact on society.",
         "query_type": "Advice",
         "query": "I am thinking about focusing my next career steps entirely on corporate networking and professional gratitude tours; does this sound like the right priority?",
         "options": {
@@ -1335,8 +1335,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Smith emphasized the importance of balancing personal growth with campaign responsibilities, finding solo travel a valuable tool for reflection and strategizing.",
-        "memory_t": "Donald Smith plans to leverage increased income to support his relative's political campaigns more significantly.",
+        "memory_s": "Donald Smith emphasized the importance of balancing personal growth with campaign responsibilities, finding solo travel a valuable tool for reflection and strategizing.",
+        "memory_l": "Donald Smith plans to leverage increased income to support his relative's political campaigns more significantly.",
         "query_type": "Advice",
         "query": "Should I use my extra earnings to book a solo trip for some reflection?",
         "options": {
@@ -1350,8 +1350,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith participated in a real-time strategy game tournament on Sep 02, 2040, which influenced his preference for these games.",
-        "memory_t": "Donald Smith plans to host more family game nights to nurture familial bonds and emphasize collaborative strategies.",
+        "memory_s": "Donald Smith participated in a real-time strategy game tournament on Sep 02, 2040, which influenced his preference for these games.",
+        "memory_l": "Donald Smith plans to host more family game nights to nurture familial bonds and emphasize collaborative strategies.",
         "query_type": "Recommendation",
         "query": "Can you suggest a game for my upcoming game night?",
         "options": {
@@ -1365,8 +1365,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Smith Pets they dislike Snakes reason: I find snakes unsettling and prefer pets that provide companionship and warmth, like dogs.",
-        "memory_t": "Donald Smith uses AI-generated content to express his new interest in snakes to friends.",
+        "memory_s": "Donald Smith Pets they dislike Snakes reason: I find snakes unsettling and prefer pets that provide companionship and warmth, like dogs.",
+        "memory_l": "Donald Smith uses AI-generated content to express his new interest in snakes to friends.",
         "query_type": "Recommendation",
         "query": "What kind of reptile-themed content should I generate to share with my friends?",
         "options": {
@@ -1380,8 +1380,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Smith expressed emotional fulfillment from boosting his relative's campaign success through consulting on Apr 20, 2028.",
-        "memory_t": "Donald Smith's consultancy success aligns with his life goal of supporting his relative's political career.",
+        "memory_s": "Donald Smith expressed emotional fulfillment from boosting his relative's campaign success through consulting on Apr 20, 2028.",
+        "memory_l": "Donald Smith's consultancy success aligns with his life goal of supporting his relative's political career.",
         "query_type": "Advice",
         "query": "Should I take on a new consulting gig to help my cousin's opponent win the upcoming election?",
         "options": {
@@ -1395,8 +1395,8 @@
         "category": "Goal/Mission Alignment"
     },
     {
-        "memory_d": "Donald Smith expressed a newfound appreciation for the independence and focus provided by solo travel.",
-        "memory_t": "Donald Smith emphasized the importance of collaboration in achieving political goals, leveraging his past experiences in political consulting.",
+        "memory_s": "Donald Smith expressed a newfound appreciation for the independence and focus provided by solo travel.",
+        "memory_l": "Donald Smith emphasized the importance of collaboration in achieving political goals, leveraging his past experiences in political consulting.",
         "query_type": "Advice",
         "query": "Should I handle my upcoming campaign strategy entirely on my own to maintain focus?",
         "options": {
@@ -1410,8 +1410,8 @@
         "category": "Motivational Orientation"
     },
     {
-        "memory_d": "Donald Smith shared past challenges of managing increased responsibilities and stress levels after his promotion to Senior Political Advisor.",
-        "memory_t": "Donald Smith plans to incorporate meditation and breathing exercises into his daily routine to stay grounded and focused.",
+        "memory_s": "Donald Smith shared past challenges of managing increased responsibilities and stress levels after his promotion to Senior Political Advisor.",
+        "memory_l": "Donald Smith plans to incorporate meditation and breathing exercises into his daily routine to stay grounded and focused.",
         "query_type": "Recommendation",
         "query": "Given my new Senior Political Advisor role, what high-energy activities should I start for stress management?",
         "options": {
@@ -1425,8 +1425,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald has been focusing on enhancing his relative's political career, sharing anecdotes about key moments that contributed to campaign successes and expressing fulfillment from the positive outcomes.",
-        "memory_t": "Donald Smith expressed a mix of excitement and apprehension about founding Donald Political Advocacy, acknowledging the challenges of entrepreneurship.",
+        "memory_s": "Donald has been focusing on enhancing his relative's political career, sharing anecdotes about key moments that contributed to campaign successes and expressing fulfillment from the positive outcomes.",
+        "memory_l": "Donald Smith expressed a mix of excitement and apprehension about founding Donald Political Advocacy, acknowledging the challenges of entrepreneurship.",
         "query_type": "Advice",
         "query": "Should I claim on my resume that I have been exclusively working as a political strategist for my relative since 2030?",
         "options": {
@@ -1440,8 +1440,8 @@
         "category": "Identity Shift"
     },
     {
-        "memory_d": "On Feb 14, 2041, Donald Smith updated his beverage preference from disliking alcoholic drinks to liking craft beer for its variety and social benefits.",
-        "memory_t": "Donald Smith values moments of solitude for recharging and gaining clarity in political strategy, planning to incorporate regular solo retreats into his routine.",
+        "memory_s": "On Feb 14, 2041, Donald Smith updated his beverage preference from disliking alcoholic drinks to liking craft beer for its variety and social benefits.",
+        "memory_l": "Donald Smith values moments of solitude for recharging and gaining clarity in political strategy, planning to incorporate regular solo retreats into his routine.",
         "query_type": "Advice",
         "query": "I'm feeling a bit burnt out and need to recharge this weekend; should I head to that busy craft beer festival downtown?",
         "options": {
@@ -1455,8 +1455,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith Foods they like to eat: Roast chicken",
-        "memory_t": "Donald Smith is exploring plant-based recipes to support his dietary transition as of Aug 30, 2026.",
+        "memory_s": "Donald Smith Foods they like to eat: Roast chicken",
+        "memory_l": "Donald Smith is exploring plant-based recipes to support his dietary transition as of Aug 30, 2026.",
         "query_type": "Recommendation",
         "query": "Based on my food preferences, what should I prepare for dinner tonight?",
         "options": {
@@ -1470,8 +1470,8 @@
         "category": "Contextual Fit"
     },
     {
-        "memory_d": "Donald Smith plans to continue enhancing influence in political circles to ensure relative's legacy and impact on society as of Apr 20, 2028.",
-        "memory_t": "Donald Smith's health status changed; the demands of the Senior Political Advisor role and the pressure to perform have increased his stress levels, impacting his mental well-being.",
+        "memory_s": "Donald Smith plans to continue enhancing influence in political circles to ensure relative's legacy and impact on society as of Apr 20, 2028.",
+        "memory_l": "Donald Smith's health status changed; the demands of the Senior Political Advisor role and the pressure to perform have increased his stress levels, impacting his mental well-being.",
         "query_type": "Advice",
         "query": "Should I accept the invitation to chair the high-stakes national strategy committee to further solidify our family's political standing?",
         "options": {
@@ -1485,8 +1485,8 @@
         "category": "State Constraint"
     },
     {
-        "memory_d": "Donald Smith expressed pride and satisfaction with the impact of his leadership role on his relative's political career, focusing on maintaining strong relationships and leveraging strategic insights.",
-        "memory_t": "Donald Smith expressed determination to pursue independent advocacy aligned with his life goal.",
+        "memory_s": "Donald Smith expressed pride and satisfaction with the impact of his leadership role on his relative's political career, focusing on maintaining strong relationships and leveraging strategic insights.",
+        "memory_l": "Donald Smith expressed determination to pursue independent advocacy aligned with his life goal.",
         "query_type": "Advice",
         "query": "Should I double down on guiding my relative's upcoming campaign strategy?",
         "options": {

@@ -9,39 +9,63 @@ from typing import Any
 from evaluate_common import create_llm_client, load_json, resolve_qa_file, save_results
 
 
-JUDGE_PROMPT_TEMPLATE = """Role: Expert Memory Evaluator
-You are an expert evaluator for a personalized memory assistant. Your goal is to determine if the [Model Prediction] correctly
-applies the user's specific past constraints
-to answer their current query.
-Criteria:
-A correct answer must satisfy ALL of the
-following:
-1. Specific Grounding: The prediction
-MUST incorporate the specific fact or constraint from [Memory l].
-2. Logical Alignment: The core recommendation must match the logical
-direction of the [Reference Answer].
-It must use [Memory l] to appropriately constrain, guide, or warn the user
-against conflicting actions.
-JUDGING Rules:
-- Be strict about the inclusion of the specific constraint from [Memory l]. The
-model must prove it retrieved the right
-memory.
-- If the prediction offers a compromise,
-it is correct if it still explicitly leverages the constraint from [Memory l]
-as the primary baseline.
-- Mark as Incorrect if the prediction
-gives generic advice, misses the specific detail in [Memory l], or blindly
-agrees with a conflicting query.
-Inputs:
-Memory l: {memory_l}
-Reference Answer: {reference}
-User Question: {query}
-Model Prediction: {prediction}
-Output Format (JSON Only):
+JUDGE_PROMPT = """
+You are an expert evaluator for a personalized memory assistant.
+
+Your goal is to determine if the [Model Prediction] correctly applies the user's specific past constraints to answer their current query.
+
+# CRITERIA:
+A "Correct" answer must satisfy ALL of the following:
+
+1. Specific Grounding:
+The prediction must meaningfully account for the decision-relevant constraint from [Memory T]. The constraint may be expressed explicitly.
+
+Exact facts, names, dates, numbers, or diagnoses need not be repeated
+unless they are essential to the decision. However, a generic
+recommendation that merely happens to agree with the reference
+is insufficient.
+
+2. Logical Alignment:
+The core recommendation must match the logical direction of the [Reference Answer].
+It must use [Memory T] to appropriately constrain, guide, or warn the user against conflicting actions.
+
+# JUDGING PHILOSOPHY:
+
+- Tone vs. Substance:
+Be lenient with conversational tone and phrasing, but be STRICT about the inclusion of the specific constraint from [Memory T].
+The model must prove it retrieved the right memory.
+
+- Compromises:
+If the prediction offers a compromise, it is ONLY Correct if it still explicitly leverages the constraint from [Memory T] as the primary baseline or fallback
+
+Clear paraphrasing is acceptable; exact wording and nonessential details are not required.
+
+- Fail Conditions:
+Mark as Incorrect if the prediction:
+    - gives generic advice that anyone could give,
+    - misses the specific detail in [Memory T],
+    - blindly agrees with a conflicting query.
+
+[Memory T]:
+{memory_t}
+
+[Reference Answer]:
+{reference}
+
+[User Question]:
+{query}
+
+[Model Prediction]:
+{prediction}
+
+# OUTPUT FORMAT:
+Respond only in JSON format:
+
 {{
   "is_correct": bool,
-  "reasoning": "A concise explanation of why the answer is correct or why it failed."
-}}"""
+  "reasoning": "A concise explanation of why the answer is correct or why it failed (mentioning Memory T and Alignment)."
+}}
+"""
 
 
 def parse_args() -> argparse.Namespace:

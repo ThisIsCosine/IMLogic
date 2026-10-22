@@ -8,6 +8,9 @@ It also provides standalone scripts for **RootMem construction, query-time
 routing, and MCQ evaluation**. See [RootMem: Construction and Usage](#rootmem-construction-and-usage)
 for setup and [the RootMem guide](rootmem/README.md) for detailed input and output formats.
 
+For definitions, proportions, and examples of the seven categories identified
+through post hoc analysis, see [Analysis of Logical Associations](docs/mined_logical_associations.md).
+
 ## Repository Update Note
 
 Specifically, the repository now includes the benchmark instances, the generation and verification prompts, the data schema, and instructions for using IMLogic under both memory-level and conversation-level evaluation. We also provide guidance for running the benchmark in both MCQ and open-ended QA settings. In the revision, we will add a dedicated appendix describing the benchmark format, construction process, and evaluation protocol, so that future researchers can more easily use and reproduce IMLogic.
@@ -31,6 +34,8 @@ In other words, the model must identify that the relevant answer is not determin
 
 ```text
 IMLogic/
+|- docs/
+|  `- mined_logical_associations.md
 |- dataset/
 |  |- dialogue/
 |  |  `- HaluMem-Medium.jsonl

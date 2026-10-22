@@ -4,6 +4,10 @@ IMLogic is a benchmark for evaluating whether a personalized assistant can use u
 
 This repository contains the benchmark data, the generation and verification prompts, and reference evaluation scripts for both **memory-level** and **conversation-level** settings. It supports both **multiple-choice QA (MCQ)** and **open-ended QA** evaluation.
 
+It also provides standalone scripts for **RootMem construction, query-time
+routing, and MCQ evaluation**. See [RootMem: Construction and Usage](#rootmem-construction-and-usage)
+for setup and [the RootMem guide](rootmem/README.md) for detailed input and output formats.
+
 ## Repository Update Note
 
 Specifically, the repository now includes the benchmark instances, the generation and verification prompts, the data schema, and instructions for using IMLogic under both memory-level and conversation-level evaluation. We also provide guidance for running the benchmark in both MCQ and open-ended QA settings. In the revision, we will add a dedicated appendix describing the benchmark format, construction process, and evaluation protocol, so that future researchers can more easily use and reproduce IMLogic.
@@ -41,9 +45,12 @@ IMLogic/
 |- eval/
 |  |- evaluate_common.py
 |  |- evaluate_on_memory.py
-|  |- evaluate_on_dialogue.py
-|  |- evaluate_qa.py
+|  |- evaluate_on_conversation.py
 |  `- judge_openended.py
+|- rootmem/
+|  |- build_rootmem.py
+|  |- use_rootmem.py
+|  `- README.md
 `- README.md
 ```
 
@@ -220,13 +227,18 @@ This setting assumes a memory bank already exists. The evaluation pipeline is:
 2. retrieve relevant memories for the current query
 3. answer the QA using an LLM
 
-The script currently exposes a retrieval interface that users should implement:
+The script provides a **user integration point** for the retriever or memory
+system being evaluated. Connect your method through the following function:
 
 ```python
 def retrieve_memories(query, memory_bank, qa_item, top_k):
-    # TODO: implement memory retrieval from memory_bank.
+    # User integration point: connect the retriever or memory system under evaluation.
+    # Return up to top_k memory dictionaries with a memory_content field.
     return []
 ```
+
+The default returns an empty list and supplies no retrieved memories to the
+answer model. Replace this behavior with your method to evaluate retrieval.
 
 ### 2. Conversation-Level Evaluation
 
@@ -238,17 +250,26 @@ This setting starts from raw dialogue instead of a ready-made memory bank. The p
 2. retrieve relevant extracted memories
 3. answer the QA using an LLM
 
-The script currently exposes two interfaces that users should implement:
+The script provides two **user integration points** for connecting a memory
+system's dialogue ingestion/extraction and query-time retrieval:
 
 ```python
 def extract_memories_from_dialogue(dialogue_item):
-    # TODO: implement memory extraction from dialogue turns.
+    # User integration point: connect your memory system's dialogue ingestion/extraction.
+    # Return memory dictionaries with a memory_content field.
     return []
 
 def retrieve_memories(query, memory_bank, qa_item, top_k):
-    # TODO: implement memory retrieval from extracted dialogue memories.
+    # User integration point: connect your memory system's query-time retrieval.
+    # Return up to top_k memory dictionaries with a memory_content field.
     return []
 ```
+
+Both functions return empty lists by default. Connect both stages to evaluate
+your memory system; otherwise, the answer model receives no retrieved memories.
+Additional memory metadata, such as timestamps, may be included in the returned
+dictionaries. These integration points let different methods share the same
+benchmark answering and scoring protocol.
 
 ## QA Modes
 
@@ -261,7 +282,7 @@ In MCQ mode, the model is given the query, retrieved context, and four candidate
 Implementation:
 
 - prompt template: `eval/evaluate_common.py`
-- runner: `eval/evaluate_on_memory.py` or `eval/evaluate_on_dialogue.py`
+- runner: `eval/evaluate_on_memory.py` or `eval/evaluate_on_conversation.py`
 - CLI flag: `--answer-mode multiple_choice`
 
 ### Open-Ended Mode
@@ -271,7 +292,7 @@ In open-ended mode, the model is given the query and retrieved context and must 
 Implementation:
 
 - prompt template: `eval/evaluate_common.py`
-- runner: `eval/evaluate_on_memory.py` or `eval/evaluate_on_dialogue.py`
+- runner: `eval/evaluate_on_memory.py` or `eval/evaluate_on_conversation.py`
 - CLI flag: `--answer-mode open_ended`
 
 ## LLM Answering Prompts
@@ -332,6 +353,11 @@ The saved result file includes:
 
 ## How to Run the Benchmark
 
+Run the commands below from the `IMLogic` directory. Replace all angle-bracket
+placeholders with your own model names and paths. Configure the API credentials
+and endpoint for your service. Connect the evaluation integration points
+described above before evaluating your retrieval method or memory system.
+
 ### Prerequisites
 
 The evaluation scripts assume:
@@ -343,17 +369,17 @@ The evaluation scripts assume:
 Typical environment variables:
 
 ```bash
-export OPENAI_API_KEY=...
-export OPENAI_BASE_URL=...
-export OPENAI_MODEL=...
+export OPENAI_API_KEY="<your-api-key>"
+export OPENAI_BASE_URL="<your-api-base-url>"
+export OPENAI_MODEL="<your-model-name>"
 ```
 
 On Windows PowerShell:
 
 ```powershell
-$env:OPENAI_API_KEY="..."
-$env:OPENAI_BASE_URL="..."
-$env:OPENAI_MODEL="..."
+$env:OPENAI_API_KEY="<your-api-key>"
+$env:OPENAI_BASE_URL="<your-api-base-url>"
+$env:OPENAI_MODEL="<your-model-name>"
 ```
 
 ### 1. Memory-Level MCQ Evaluation
@@ -361,7 +387,10 @@ $env:OPENAI_MODEL="..."
 ```bash
 python eval/evaluate_on_memory.py \
   --answer-mode multiple_choice \
-  --model gemini-3-pro-preview
+  --dialogue-file "<path-to-dialogue-jsonl>" \
+  --qa-dir "<path-to-qa-directory>" \
+  --output "<path-to-mcq-results-json>" \
+  --model "<your-answer-model>"
 ```
 
 ### 2. Memory-Level Open-Ended Evaluation
@@ -369,31 +398,42 @@ python eval/evaluate_on_memory.py \
 ```bash
 python eval/evaluate_on_memory.py \
   --answer-mode open_ended \
-  --model gemini-3-pro-preview
+  --dialogue-file "<path-to-dialogue-jsonl>" \
+  --qa-dir "<path-to-qa-directory>" \
+  --output "<path-to-open-ended-results-json>" \
+  --model "<your-answer-model>"
 ```
 
 ### 3. Conversation-Level MCQ Evaluation
 
 ```bash
-python eval/evaluate_on_dialogue.py \
+python eval/evaluate_on_conversation.py \
   --answer-mode multiple_choice \
-  --model gemini-3-pro-preview
+  --dialogue-file "<path-to-dialogue-jsonl>" \
+  --qa-dir "<path-to-qa-directory>" \
+  --output "<path-to-mcq-results-json>" \
+  --model "<your-answer-model>"
 ```
 
 ### 4. Conversation-Level Open-Ended Evaluation
 
 ```bash
-python eval/evaluate_on_dialogue.py \
+python eval/evaluate_on_conversation.py \
   --answer-mode open_ended \
-  --model gemini-3-pro-preview
+  --dialogue-file "<path-to-dialogue-jsonl>" \
+  --qa-dir "<path-to-qa-directory>" \
+  --output "<path-to-open-ended-results-json>" \
+  --model "<your-answer-model>"
 ```
 
 ### 5. Judge Open-Ended Predictions
 
 ```bash
 python eval/judge_openended.py \
-  --predictions-file eval/evaluate_on_memory_results.json \
-  --model gemini-3-pro-preview
+  --predictions-file "<path-to-open-ended-results-json>" \
+  --qa-dir "<path-to-qa-directory>" \
+  --output "<path-to-judge-results-json>" \
+  --model "<your-judge-model>"
 ```
 
 ### Useful Optional Flags
@@ -403,6 +443,120 @@ python eval/judge_openended.py \
 - `--top-k`: maximum number of retrieved memories passed to the answer model
 - `--global-state-file`: override the automatically constructed global state block
 - `--output`: set a custom result file path
+
+## RootMem: Construction and Usage
+
+RootMem construction and usage are separate stages:
+
+1. Prepare per-user memory JSON files using your memory system.
+2. Run `rootmem/build_rootmem.py` to incrementally construct RootMem for each user.
+3. Run `rootmem/use_rootmem.py` to route the constructed RootMem for a query,
+   combine activated skills with retrieved memories, and answer MCQs.
+
+These scripts are standalone. The `eval/` runners retain their user integration
+points and do not automatically load or invoke RootMem. Open-ended evaluation
+is available through `eval/`; the standalone RootMem usage script currently
+implements MCQ evaluation only.
+
+### Setup
+
+Use Python 3.10+ and install:
+
+```bash
+pip install openai requests
+```
+
+**Fill the global configuration block at the beginning of each RootMem script
+before running it.** Paths, API keys, API endpoints, model identifiers, and
+required numeric settings are intentionally unfilled. Choose the construction,
+routing, and answering models yourself. These scripts read their configuration
+from those global variables; the `OPENAI_*` environment variables shown for the
+benchmark runners are not automatically loaded by the RootMem scripts.
+
+### 1. Construct RootMem
+
+Configure [rootmem/build_rootmem.py](rootmem/build_rootmem.py):
+
+| Configuration | What to fill |
+| --- | --- |
+| `INPUT_DIR` | Directory of memory JSON files, one user per file |
+| `INPUT_PATTERN` | Input filename pattern, such as `*.json` |
+| `OUTPUT_DIR` | Separate directory for constructed RootMem JSON files |
+| `LOG_DIR` | Separate directory for per-user construction logs |
+| `LLM_API_KEY`, `LLM_BASE_URL`, `LLM_MODEL_NAME` | Your construction model credentials, endpoint, and identifier |
+| `BATCH_SIZE`, `MAX_WORKERS` | Positive integers for memories per batch and concurrent users |
+| `TEMPERATURE` | Sampling temperature supported by your model |
+| `SAVE_EVERY` | Positive integer for the numbered snapshot interval |
+| `TEST_LIMIT` | Optional memory limit per user; leave `None` to process all memories |
+
+Each input file contains a list of memory points or an object with
+`memory_points`. The supported nested `personas` layout and a JSON example are
+documented in [the RootMem guide](rootmem/README.md). Memory points contain
+`memory_content` and a `timestamp` or `time_t`. The raw benchmark dialogue JSONL
+must first be converted into per-user memory files; it is not a direct input.
+
+```bash
+python rootmem/build_rootmem.py
+```
+
+The constructor processes batches sequentially for each user, updating the
+previous RootMem with new memories. It uses no evaluation queries or reference
+answers. Each output retains the input filename and contains an `agent_skills`
+array with `Skill_Domain`, `Execution_Rules`, and `Logic_Aware_Decision_Region`.
+Use a fresh output directory for each run. A failed construction may leave a
+partial checkpoint; use completed results for the next stage.
+
+### 2. Route RootMem and Answer Queries
+
+Configure [rootmem/use_rootmem.py](rootmem/use_rootmem.py):
+
+| Configuration | What to fill |
+| --- | --- |
+| `QA_FILE` | One user's QA JSON file containing queries and MCQ options |
+| `ROOTMEM_FILE` | That user's completed JSON output from the construction stage |
+| `OUTPUT_FILE` | New output path for evaluation results |
+| `FIXED_USER_ID` | The same user's identifier in your retrieval service |
+| `ROUTER_API_KEY`, `ROUTER_BASE_URL`, `ROUTER_MODEL_NAME`, `ROUTER_TEMPERATURE` | Your routing model configuration |
+| `ANSWER_API_KEY`, `ANSWER_BASE_URL`, `ANSWER_MODEL_NAME`, `ANSWER_TEMPERATURE` | Your answering model configuration |
+| `RETRIEVAL_URL`, `RETRIEVAL_API_KEY`, `RETRIEVAL_AUTH_SCHEME` | Complete search endpoint, credentials, and authorization scheme for your memory service |
+| `TOP_K`, `PREF_TOP_K` | Maximum facts and preferences requested from the retrieval service |
+| `MAX_TOTAL_ITEMS` | Combined budget for RootMem skills and retrieved memories |
+| `MAX_WORKERS`, `REQUEST_TIMEOUT` | Concurrent questions and request timeout in seconds |
+| `MODES` | A nonempty list of evaluation modes from the table below |
+| `SHUFFLE_SEED` | Optional integer for reproducible MCQ option shuffling |
+
+`QA_FILE`, `ROOTMEM_FILE`, and `FIXED_USER_ID` must refer to the same user.
+The script runs one user's QA file at a time. The retrieval adapter follows the
+MemOS search API contract described in [the RootMem guide](rootmem/README.md).
+For that adapter, memories must already exist in the service. To connect a
+different memory system, replace `retrieve_memories()` with an adapter that
+returns a ranked list of memory strings.
+
+| Mode | RootMem context | Retrieval budget |
+| --- | --- | --- |
+| `EMPTY` | None | None |
+| `RAG` | None | `MAX_TOTAL_ITEMS` |
+| `MATRIX_RAG` | All skills | `MAX_TOTAL_ITEMS` minus the number of skills |
+| `DYNAMIC_MATRIX_RAG` | Query-activated skills | `MAX_TOTAL_ITEMS` minus the number of activated skills |
+
+Select modes by filling `MODES`, for example `["DYNAMIC_MATRIX_RAG"]` to use
+query-time routing. The budget counts items, not tokens. `EMPTY` alone does not
+require RootMem, router, or retrieval-service configuration.
+
+```bash
+python rootmem/use_rootmem.py
+```
+
+Routing receives the query and each skill's domain and execution rules. It
+does not receive MCQ options or reference answers. The answer model receives
+the activated skills, retrieved memories, query, and shuffled options. Router
+failures fall back to all skills and are recorded explicitly. Retrieval and
+answering errors are also recorded.
+
+The output contains `config`, `summary`, and `results`, including per-mode MCQ
+accuracy, errors, retrieved memories, activated domains, and option mappings.
+Failed questions remain in the denominator. Resolve any reported evaluation
+errors before using the results in an experiment report.
 
 ## Result Files
 
@@ -442,8 +596,12 @@ At the moment, the repository provides:
 - verification prompts
 - evaluation scripts
 - LLM-as-judge support for open-ended QA
+- standalone RootMem construction, routing, and MCQ evaluation scripts
 
-The repository intentionally leaves the **memory extraction** and **memory retrieval** interfaces open, so different memory systems can be plugged into the same benchmark protocol.
+The **memory extraction** and **memory retrieval** functions are intentional
+user integration points for the method being evaluated. Their default empty
+outputs do not run an extractor or retriever. Users should connect their own
+implementations before reporting results for a retrieval method or memory system.
 
 ## Planned Appendix
 

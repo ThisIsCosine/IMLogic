@@ -30,7 +30,9 @@ def flatten_dialogue_turns(dialogue_item: dict[str, Any]) -> list[dict[str, Any]
 
 
 def extract_memories_from_dialogue(dialogue_item: dict[str, Any]) -> list[dict[str, Any]]:
-    # TODO: implement memory extraction from dialogue turns.
+    # User integration point: connect your memory system's dialogue ingestion/extraction.
+    # Return memory dictionaries with a memory_content field for the retrieval step.
+    # The default extracts no memories; replace it to evaluate your memory system.
     dialogue_turns = flatten_dialogue_turns(dialogue_item)
     _ = dialogue_turns
     return []
@@ -42,7 +44,9 @@ def retrieve_memories(
     qa_item: dict[str, Any],
     top_k: int,
 ) -> list[dict[str, Any]]:
-    # TODO: implement memory retrieval from extracted dialogue memories.
+    # User integration point: connect your memory system's query-time retrieval.
+    # Return up to top_k memory dictionaries with a memory_content field.
+    # The default returns no retrieved memories; replace it to evaluate retrieval.
     _ = (query, memory_bank, qa_item, top_k)
     return []
 

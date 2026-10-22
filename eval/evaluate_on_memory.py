@@ -34,7 +34,9 @@ def retrieve_memories(
     qa_item: dict[str, Any],
     top_k: int,
 ) -> list[dict[str, Any]]:
-    # TODO: implement memory retrieval from memory_bank.
+    # User integration point: connect the retriever or memory system under evaluation.
+    # Return up to top_k memory dictionaries with a memory_content field.
+    # The default returns no retrieved memories; replace it to evaluate retrieval.
     _ = (query, memory_bank, qa_item, top_k)
     return []
 

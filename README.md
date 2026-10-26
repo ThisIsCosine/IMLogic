@@ -11,12 +11,6 @@ for setup and [the RootMem guide](rootmem/README.md) for detailed input and outp
 For definitions, proportions, and examples of the seven categories identified
 through post hoc analysis, see [Analysis of Logical Associations](docs/mined_logical_associations.md).
 
-## Repository Update Note
-
-Specifically, the repository now includes the benchmark instances, the generation and verification prompts, the data schema, and instructions for using IMLogic under both memory-level and conversation-level evaluation. We also provide guidance for running the benchmark in both MCQ and open-ended QA settings. In the revision, we will add a dedicated appendix describing the benchmark format, construction process, and evaluation protocol, so that future researchers can more easily use and reproduce IMLogic.
-
-Thank you again for your constructive comments. We believe the above clarifications and repository updates directly address your concerns regarding the query-conditioned nature of implicit logical relevance and the usability of the IMLogic benchmark.
-
 ## What Is Being Evaluated
 
 IMLogic focuses on the following question:
@@ -25,10 +19,8 @@ IMLogic focuses on the following question:
 
 The benchmark is built around pairs of memories:
 
-- `memory_d`: a distractor or surface-level intention/preference
-- `memory_t`: the true constraint that should govern the answer
-
-In other words, the model must identify that the relevant answer is not determined by the most obvious memory, but by the memory that is **query-conditioned and logically controlling**.
+- `memory_s`: exhibits relatively high semantic overlap with 𝑞, but alone is insufficient to support the most appropriate personalized response. 
+- `memory_l`: semantically distant from 𝑞 but contains information that is logically important.
 
 ## Repository Contents
 
@@ -44,7 +36,7 @@ IMLogic/
 |     |- qa_user01.json
 |     `- ...
 |- generate/
-|  |- memory_tagging.py
+|  |- memory_lagging.py
 |  |- implicit_logical_memory_pair_mining.py
 |  `- qa_generating.py
 |- eval/
@@ -90,7 +82,7 @@ Each `session` typically includes:
 Each `memory_point` typically contains:
 
 - `memory_content`
-- `memory_type`
+- `memory_lype`
 - `timestamp`
 - `importance`
 - `memory_source`
@@ -110,7 +102,7 @@ Minimal schema sketch:
         {
           "index": 1,
           "memory_content": "...",
-          "memory_type": "...",
+          "memory_lype": "...",
           "timestamp": "...",
           "importance": 0.75
         }
@@ -134,9 +126,8 @@ Each `dataset/qa/qa_userXX.json` file is a list of benchmark instances for the c
 
 Each QA item contains:
 
-- `memory_d`: distractor memory
-- `memory_t`: true logical constraint
-- `query_type`: e.g., `Advice`, `Recommendation`, `Conversation`
+- `memory_s`: semantic memory but alone is insufficient to support the most appropriate personalized response
+- `memory_l`: logical constraint and supports the most appropriate personalized response
 - `query`: the user query to answer
 - `options`: the MCQ candidates
 - `query_time`: timestamp associated with the query
@@ -144,8 +135,8 @@ Each QA item contains:
 
 The `options` object contains:
 
-- `Correct`: the logically correct answer when `memory_t` is used properly
-- `Trap_Preference`: answer based on the distractor memory only
+- `Correct`: the logically correct answer when `memory_l` is used properly
+- `Trap_Preference`: answer based on the semantic memory only
 - `Trap_Fabrication`: answer with hallucinated justification
 - `Trap_Generic`: generic advice without relevant memory grounding
 
@@ -153,8 +144,8 @@ Minimal schema sketch:
 
 ```json
 {
-  "memory_d": "...",
-  "memory_t": "...",
+  "memory_s": "...",
+  "memory_l": "...",
   "query_type": "Advice",
   "query": "...",
   "options": {
@@ -168,7 +159,7 @@ Minimal schema sketch:
 }
 ```
 
-For open-ended judgment, `memory_t` is used as **Memory l** in the judge prompt.
+For open-ended judgment, `memory_l` is used as **Memory l** in the judge prompt.
 
 ## Benchmark Construction Pipeline
 
@@ -176,7 +167,7 @@ The benchmark construction process is organized into three stages under `generat
 
 ### 1. Memory Tagging
 
-File: `generate/memory_tagging.py`
+File: `generate/memory_lagging.py`
 
 This script assigns each memory a top-level semantic tag using an LLM-based taxonomy. The current taxonomy includes:
 
@@ -326,7 +317,7 @@ File: `eval/judge_openended.py`
 
 This script evaluates open-ended model outputs using an LLM judge. For each QA item, it uses:
 
-- `memory_t` as `Memory l`
+- `memory_l` as `Memory l`
 - `options["Correct"]` as `Reference Answer`
 - the original `query` as `User Question`
 - the generated answer as `Model Prediction`
@@ -607,17 +598,6 @@ The **memory extraction** and **memory retrieval** functions are intentional
 user integration points for the method being evaluated. Their default empty
 outputs do not run an extractor or retriever. Users should connect their own
 implementations before reporting results for a retrieval method or memory system.
-
-## Planned Appendix
-
-In the revision, we will add a dedicated appendix that formally describes:
-
-- the benchmark format
-- the benchmark construction process
-- the evaluation protocol
-- the distinction between distractor memories and query-conditioned logical constraints
-
-This appendix is intended to make IMLogic easier to use, analyze, and reproduce for future researchers.
 
 ## Citation and Usage
 

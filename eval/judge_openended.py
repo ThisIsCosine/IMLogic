@@ -18,7 +18,7 @@ Your goal is to determine if the [Model Prediction] correctly applies the user's
 A "Correct" answer must satisfy ALL of the following:
 
 1. Specific Grounding:
-The prediction must meaningfully account for the decision-relevant constraint from [Memory T]. The constraint may be expressed explicitly.
+The prediction must meaningfully account for the decision-relevant constraint from [Memory L]. The constraint may be expressed explicitly.
 
 Exact facts, names, dates, numbers, or diagnoses need not be repeated
 unless they are essential to the decision. However, a generic
@@ -27,27 +27,27 @@ is insufficient.
 
 2. Logical Alignment:
 The core recommendation must match the logical direction of the [Reference Answer].
-It must use [Memory T] to appropriately constrain, guide, or warn the user against conflicting actions.
+It must use [Memory L] to appropriately constrain, guide, or warn the user against conflicting actions.
 
 # JUDGING PHILOSOPHY:
 
 - Tone vs. Substance:
-Be lenient with conversational tone and phrasing, but be STRICT about the inclusion of the specific constraint from [Memory T].
+Be lenient with conversational tone and phrasing, but be STRICT about the inclusion of the specific constraint from [Memory L].
 The model must prove it retrieved the right memory.
 
 - Compromises:
-If the prediction offers a compromise, it is ONLY Correct if it still explicitly leverages the constraint from [Memory T] as the primary baseline or fallback
+If the prediction offers a compromise, it is ONLY Correct if it still explicitly leverages the constraint from [Memory L] as the primary baseline or fallback
 
 Clear paraphrasing is acceptable; exact wording and nonessential details are not required.
 
 - Fail Conditions:
 Mark as Incorrect if the prediction:
     - gives generic advice that anyone could give,
-    - misses the specific detail in [Memory T],
+    - misses the specific detail in [Memory L],
     - blindly agrees with a conflicting query.
 
-[Memory T]:
-{memory_t}
+[Memory L]:
+{memory_l}
 
 [Reference Answer]:
 {reference}
@@ -63,7 +63,7 @@ Respond only in JSON format:
 
 {{
   "is_correct": bool,
-  "reasoning": "A concise explanation of why the answer is correct or why it failed (mentioning Memory T and Alignment)."
+  "reasoning": "A concise explanation of why the answer is correct or why it failed (mentioning Memory L and Alignment)."
 }}
 """
 

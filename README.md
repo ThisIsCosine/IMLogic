@@ -1,5 +1,8 @@
 # IMLogic
 
+[![Hugging Face Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-FFD21E?logo=huggingface)](https://huggingface.co/datasets/Cosineyx/IMLogic)
+[![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?logo=arxiv)](https://arxiv.org/abs/2606.23283)
+
 IMLogic is a benchmark for evaluating whether a personalized assistant can use user-specific memories to resolve **implicit logical relevance** in query answering. The benchmark is designed around cases where a user query appears reasonable on the surface, but a different, previously stored memory should constrain or redirect the final answer.
 
 This repository contains the benchmark data, the generation and verification prompts, and reference evaluation scripts for both **memory-level** and **conversation-level** settings. It supports both **multiple-choice QA (MCQ)** and **open-ended QA** evaluation.
